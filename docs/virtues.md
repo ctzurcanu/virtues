@@ -28,7 +28,7 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
 
 ## Dependencies
 
-![Virtue Dependency Graph](images/ChristianVirtues2.png)
+![Virtue Dependency Graph](images/Virtues2.png)
 
 ## Relation to Needs
 
@@ -47,13 +47,13 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
     1. Justice
 1. Ihsan (Benevolence/Excellence): This virtue means to do things with perfection, beauty, and excellence, and to act benevolently. It also involves being conscious of God at all times.
     1. Charity
-    1. Faith, Clarity
+    1. Hope
 1. Sabr (Patience): Highly valued, patience in the face of hardship, and perseverance in adhering to righteous behavior are considered essential.
     1. Fortitude
 1. Shukr (Gratitude): Being grateful to Allah for His blessings is a key virtue. Gratitude is expressed through prayer, praise, and conduct.
     1. Hope
 1. Rahmah (Mercy and Compassion): Mercy, as exemplified by the Prophet Muhammad, is a central virtue. Muslims are encouraged to show compassion and kindness to all of God's creations.
-    1. 
+    1. Charity
 1. Sadaqah (Charitable Giving): Beyond obligatory almsgiving (Zakat), voluntary charity is highly commended, reflecting compassion and generosity.
     1. Charity
 1. Tawbah (Repentance): Continually seeking forgiveness from Allah and turning away from sin are fundamental aspects of Islamic virtue.
@@ -102,6 +102,8 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
 1. Sīla: virtue, morality, proper conduct
     1. Prudence
 1. Nekkhamma: renunciation
+    1. Fortitude
+    1. Prudence
 1. Paññā: wisdom, discernment
     1. Justice
 1. Viriya: energy, diligence, vigour, effort
