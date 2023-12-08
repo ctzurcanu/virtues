@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.56212823"
-     inkscape:cx="99.621398"
+     inkscape:cx="-199.2428"
      inkscape:cy="563.03879"
      inkscape:current-layer="layer3" />
   <defs
@@ -407,12 +407,12 @@
        x="0.52916503"
        y="0.52916503" />
     <rect
-       style="display:inline;opacity:0.695122;fill:#ffffff;stroke:#000000;stroke-width:1.05007;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.472393"
+       style="display:inline;opacity:0.695122;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.472393"
        id="rect663-2"
-       width="209.0291"
-       height="296.07703"
-       x="0.52503377"
-       y="0.52503377" />
+       width="210.07916"
+       height="297.12708"
+       x="5e-07"
+       y="5e-07" />
   </g>
   <g
      inkscape:groupmode="layer"
