@@ -28,8 +28,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.61621094"
-     inkscape:cx="484.41204"
-     inkscape:cy="512"
+     inkscape:cx="212.58954"
+     inkscape:cy="513.62282"
      inkscape:current-layer="layer4" />
   <defs
      id="defs2">
@@ -894,12 +894,12 @@
      id="layer4"
      inkscape:label="Layer 2">
     <rect
-       style="opacity:0.695122;fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.472393"
+       style="opacity:0.695122;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.472393"
        id="rect2150"
        width="270.93332"
        height="270.93332"
        x="0"
-       y="0.42937139" />
+       y="5e-07" />
   </g>
   <g
      inkscape:label="Layer 1"

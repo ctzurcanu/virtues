@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="793.70099"
+   height="1122.5197"
+   viewBox="0 0 210.00005 296.99999"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
@@ -25,11 +25,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.56212823"
-     inkscape:cx="397.59612"
-     inkscape:cy="561.25984"
+     inkscape:cx="99.621398"
+     inkscape:cy="563.03879"
      inkscape:current-layer="layer3" />
   <defs
      id="defs2">
@@ -400,12 +400,19 @@
      id="layer3"
      inkscape:label="Layer 3">
     <rect
-       style="display:inline;opacity:0.695122;fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.472393"
+       style="display:inline;opacity:0.695122;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.472393;stroke-dasharray:none"
        id="rect663"
        width="211.33597"
        height="297.47067"
        x="0.52916503"
        y="0.52916503" />
+    <rect
+       style="display:inline;opacity:0.695122;fill:#ffffff;stroke:#000000;stroke-width:1.05007;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.472393"
+       id="rect663-2"
+       width="209.0291"
+       height="296.07703"
+       x="0.52503377"
+       y="0.52503377" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -925,7 +932,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:0.99;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#RoundedArrow-6)"
-       d="m 104.82427,194.91448 0,57.42313"
+       d="m 104.82427,194.91448 v 57.42313"
        id="path2804-1"
        sodipodi:nodetypes="cc" />
     <path
@@ -995,7 +1002,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:0.99;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#RoundedArrow-6);marker-end:url(#RoundedArrow-6-46-9)"
-       d="m 74.065839,131.78503 60.247231,0"
+       d="M 74.065839,131.78503 H 134.31307"
        id="path2804-1-32-2"
        sodipodi:nodetypes="cc" />
     <path

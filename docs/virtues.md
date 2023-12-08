@@ -38,6 +38,63 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
 
 ![Virtue Needs Graph](images/worlds2.png)
 
+
+## Islam
+
+1. Tawheed (Belief in the Oneness of God): The most fundamental Islamic virtue, it encompasses complete faith in the oneness and sovereignty of Allah.
+    1. Faith, Clarity
+1. Adl (Justice): Acting justly and ensuring fairness and equity is a central tenet in Islam. It is not just a moral virtue but also an obligation in all aspects of life.
+    1. Justice
+1. Ihsan (Benevolence/Excellence): This virtue means to do things with perfection, beauty, and excellence, and to act benevolently. It also involves being conscious of God at all times.
+    1. Charity
+    1. Faith, Clarity
+1. Sabr (Patience): Highly valued, patience in the face of hardship, and perseverance in adhering to righteous behavior are considered essential.
+    1. Fortitude
+1. Shukr (Gratitude): Being grateful to Allah for His blessings is a key virtue. Gratitude is expressed through prayer, praise, and conduct.
+    1. Hope
+1. Rahmah (Mercy and Compassion): Mercy, as exemplified by the Prophet Muhammad, is a central virtue. Muslims are encouraged to show compassion and kindness to all of God's creations.
+    1. 
+1. Sadaqah (Charitable Giving): Beyond obligatory almsgiving (Zakat), voluntary charity is highly commended, reflecting compassion and generosity.
+    1. Charity
+1. Tawbah (Repentance): Continually seeking forgiveness from Allah and turning away from sin are fundamental aspects of Islamic virtue.
+    1. Hope
+1. Taqwa (God-consciousness/Piety): This encompasses being aware of God in all aspects of one’s life, obeying His commands, and avoiding His prohibitions.
+    1. Faith
+1. Haya (Modesty and Humility): It involves modesty not just in dress and behavior but also in attitude, promoting humility and decency.
+    1. Prudence
+1. Amanah (Trustworthiness): Being reliable and trustworthy in all affairs, including both personal and communal matters.
+    1. Justice
+1. Ilm (Knowledge and Wisdom): Seeking knowledge is considered an act of worship in Islam. Wisdom in using this knowledge is also highly valued.
+    1. Justice
+1. Akhlaq (Good Character and Manners): The Prophet Muhammad placed great emphasis on good character, kindness, forgiveness, and courtesy in interactions.
+    1. Temperance
+
+## Judaism
+
+1. Tzedakah (Righteousness/Charity): Often translated as charity, tzedakah is more broadly the concept of justice and righteousness achieved through acts of kindness and giving.
+    1. Charity
+    1. Justice
+1. Chesed (Loving-kindness): This virtue is fundamental in Jewish ethics, emphasizing compassion and love for others, and is considered a central attribute of God.
+    1. Charity
+1. Emunah (Faith or Trust in God): This entails a deep and abiding faith in God, often seen as faithfulness to God's covenant.
+    1. Hope
+1. Shalom (Peace): Shalom goes beyond the absence of conflict and encompasses completeness, welfare, and harmony in all aspects of life.
+    1. Temperance
+1. Teshuvah (Repentance): This is a process of acknowledging one's sins before God, seeking forgiveness, and committing to change one's behavior.
+    1. Justice
+1. Kavod (Honor/Respect): Showing respect for the inherent dignity of all people is a key virtue in Judaism.
+    1. Temperance
+1. Ahavat Torah (Love of the Law/Torah): This refers to the love and study of the Torah and its teachings.
+    1. Faith, Clarity of Implication
+1. Savlanut (Patience): Bearing adversity and insult without bitterness or complaint is considered a virtue in Jewish thought.
+    1. Prudence
+1. Anavah (Humility): Humility is seen as recognizing one's place in the world relative to God and others.
+    1. Justice
+1. Emet (Truthfulness): Honesty and integrity in one's words and actions are highly valued.
+    1. Faith
+1. Kedushah (Holiness): Striving for a life of holiness, often through following the commandments (mitzvot) and engaging in acts that draw one closer to God.
+    1. Fortitude
+
 ## Correspondence with Buddhist Pāramitā
 
 1. Dāna (pāramī): generosity, giving of oneself
@@ -110,32 +167,3 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
 1. Xenia (Hospitality): Highly praised and embedded in Greek custom, xenia is the generosity and courtesy shown to those who are far from home.
     1. Charity
 
-## Islam
-
-1. Tawheed (Belief in the Oneness of God): The most fundamental Islamic virtue, it encompasses complete faith in the oneness and sovereignty of Allah.
-    1. Faith
-1. Adl (Justice): Acting justly and ensuring fairness and equity is a central tenet in Islam. It is not just a moral virtue but also an obligation in all aspects of life.
-    1. Justice
-1. Ihsan (Benevolence/Excellence): This virtue means to do things with perfection, beauty, and excellence, and to act benevolently. It also involves being conscious of God at all times.
-    1. Charity
-    1. Faith, Clarity
-1. Sabr (Patience): Highly valued, patience in the face of hardship, and perseverance in adhering to righteous behavior are considered essential.
-    1. Fortitude
-1. Shukr (Gratitude): Being grateful to Allah for His blessings is a key virtue. Gratitude is expressed through prayer, praise, and conduct.
-    1. Hope
-1. Rahmah (Mercy and Compassion): Mercy, as exemplified by the Prophet Muhammad, is a central virtue. Muslims are encouraged to show compassion and kindness to all of God's creations.
-    1. 
-1. Sadaqah (Charitable Giving): Beyond obligatory almsgiving (Zakat), voluntary charity is highly commended, reflecting compassion and generosity.
-    1. Charity
-1. Tawbah (Repentance): Continually seeking forgiveness from Allah and turning away from sin are fundamental aspects of Islamic virtue.
-    1. Hope
-1. Taqwa (God-consciousness/Piety): This encompasses being aware of God in all aspects of one’s life, obeying His commands, and avoiding His prohibitions.
-    1. Faith
-1. Haya (Modesty and Humility): It involves modesty not just in dress and behavior but also in attitude, promoting humility and decency.
-    1. Prudence
-1. Amanah (Trustworthiness): Being reliable and trustworthy in all affairs, including both personal and communal matters.
-    1. Justice
-1. Ilm (Knowledge and Wisdom): Seeking knowledge is considered an act of worship in Islam. Wisdom in using this knowledge is also highly valued.
-    1. Justice
-1. Akhlaq (Good Character and Manners): The Prophet Muhammad placed great emphasis on good character, kindness, forgiveness, and courtesy in interactions.
-    1. Temperance
