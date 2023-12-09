@@ -34,9 +34,15 @@ layout: default
     - Ishvarapranidhana (ईश्वरप्रणिधान): contemplation of the Ishvara
 - Islam
     - Tawheed (Belief in the Oneness of God)
+- Christianity
+    - Faith
+    - Humility
+    - Prudence (Wisdom)
 - Judaism
     - Ahavat Torah (Love of the Law/Torah)
     - Emet (Truthfulness)
 - Buddhism
     - Sacca: truthfulness, honesty
+    - Upekkhā: equanimity, serenity
+
 

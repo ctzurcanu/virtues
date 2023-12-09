@@ -69,6 +69,40 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
 1. Akhlaq (Good Character and Manners): The Prophet Muhammad placed great emphasis on good character, kindness, forgiveness, and courtesy in interactions.
     1. Temperance
 
+## Christianity
+
+1. Theological Virtues
+    1. Faith: Complete trust in God and acceptance of God's will.
+        1. Faith
+    1. Hope: Expectation of and longing for the fulfillment of God's promises.
+        1. Hope
+    1. Love (Agape): Unconditional love that emulates the love of Christ for humanity.
+        1. Charity
+1. Cardinal Virtues
+    1. Prudence (Wisdom): Insight and wisdom in dealing with complex issues, discernment.
+        1. Prudence
+        1. Faith, Clarity of Implication
+    1. Justice: Fairness and righteousness in one's actions.
+        1. Justice
+    1. Fortitude (Courage): Strength and courage to face trials and challenges.
+        1. Fortitude
+    1. Temperance: Self-control and moderation in all things.
+        1. Temperance
+1. Christian-specific:
+    1. Humility: Often considered the greatest virtue in Orthodoxy, humility is the foundation of a true Christian life.
+        1. Faith
+        1. Temperance
+    1. Repentance: A continuous process of self-examination and turning towards God.
+        1. Justice
+        1. Hope
+    1. Asceticism: Practicing self-denial to focus more fully on the spiritual life, often expressed through fasting, prayer, and almsgiving.
+        1. Fortitude
+        1. Hope
+    1. Hospitality: Emphasis on caring for others, especially strangers and those in need.
+        1. Charity
+    1. Obedience: Especially in monastic contexts, obedience to spiritual elders is seen as a path to humility and spiritual growth.
+        1. Faith
+
 ## Judaism
 
 1. Tzedakah (Righteousness/Charity): Often translated as charity, tzedakah is more broadly the concept of justice and righteousness achieved through acts of kindness and giving.
@@ -118,6 +152,7 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
 1. Mettā: goodwill, friendliness, loving-kindness
     1. Hope
 1. Upekkhā: equanimity, serenity
+    1. Faith, Clarity
     1. Temperance
 
 ## Correspondence with Hindu Yamas and Niyamas

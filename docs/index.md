@@ -8,9 +8,9 @@ layout: default
 
 1. [Virtues](virtues.html)
     1. Supreme Virtues
-        1. [Faith](faith.html)
-        1. Charity
-        1. Hope
+        1. [Faith, Clarity of Implication](faith.html)
+        1. Charity, Volunteering
+        1. [Hope, Potential, Invention, Integration](hope.html)
     1. Cardinal
         1. Temperance
         1. Prudence
