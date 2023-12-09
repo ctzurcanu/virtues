@@ -11,9 +11,14 @@ Virtues are not only qualitative concepts, they are quantitative. Because a perf
 
 We will name the lacking or the excess in each quality as Vices, and the mean as Virtues.
 
+Quantitatively, we accept 3 exact definitions of virtue:
+1. A range of values that are more beneficial than ranges smaller or greater.
+2. A point in that range that maximizes the benefit according to the dimension of that virtue
+2. A point in that range that maximizes the benefit according to all virtues
 
 
-| Dimension\Ranges | Lacking | Mean | Excess |
+
+| Dimensions\Ranges | Lacking | Mean | Excess |
 |------------------|---------|------|--------|
 | Truth Acceptance |Cinicism| Faith, Clarity of Implication | Credulity |
 | Effort Making | Beggar | Charity | Extravagance of Generosity |
@@ -204,3 +209,37 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
 1. Xenia (Hospitality): Highly praised and embedded in Greek custom, xenia is the generosity and courtesy shown to those who are far from home.
     1. Charity
 
+## Taoist Practices or Virtues (jiǔxíng 九行)
+
+1. Nonaction (wúwéi 無為)
+1. Softness and weakness (róuruò 柔弱)
+1. Guarding the feminine (shǒucí 行守)
+1. Being nameless (wúmíng 無名)
+1. Clarity and stillness (qīngjìng 清靜)
+1. Being adept (zhūshàn 諸善)
+1. Being desireless (wúyù 無欲)
+1. Knowing how to stop and be content (zhī zhǐzú 知止足)
+1. Yielding and withdrawing (tuīràng 推讓)
+
+## Confucianism
+
+1. Major Virtues
+    1. Ren (benevolence, humaneness)
+    1. Yi (righteousness, justice)
+    1. Li (propriety, rites)
+    1. Zhi (智; zhì: wisdom, knowledge)
+    1. Xin (sincerity, faithfulness)
+    1. Loyalty (忠; zhōng)
+    1. Filial piety (孝; xiào)
+    1. Continence (节; 節; jié)
+1. Minor:
+    1. honesty (诚; chéng)
+    1. bravery (勇; yǒng)
+    1. incorruptibility (廉; lián)
+    1. kindness, forgiveness (恕; shù)
+    1. sense of right and wrong (耻; chǐ)
+    1. gentleness (温; wēn)
+    1. kindheartenedness (良; liáng)
+    1. respect (恭; gōng)
+    1. frugality (俭; jiǎn)
+    1. modesty (让; ràng)

@@ -20,5 +20,7 @@ layout: default
         1. Measurability/Competition
         1. Abundance/Wealth
         1. Survival/Life
+    1. Undefined
+        1. [The "Undefined" Virtue](undefined.html)
 
 1. Making Virtues Computable
