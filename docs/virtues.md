@@ -11,10 +11,10 @@ Virtues are not only qualitative concepts, they are quantitative. Because a perf
 
 We will name the lacking or the excess in each quality as Vices, and the mean as Virtues.
 
-Quantitatively, we accept 3 exact definitions of virtue:
+Quantitatively, we accept these definitions of virtue:
 1. A range of values that are more beneficial than ranges smaller or greater.
-2. A point in that range that maximizes the benefit according to the dimension of that virtue
-2. A point in that range that maximizes the benefit according to all virtues
+1. A point in that range that maximizes the benefit according to the dimension of that virtue
+1. A point in that range that maximizes the benefit according to all virtues
 
 
 
@@ -99,7 +99,7 @@ Quantitatively, we accept 3 exact definitions of virtue:
         1. Temperance
     1. Repentance: A continuous process of self-examination and turning towards God.
         1. Justice
-        1. Hope
+        1. Fortitude
     1. Asceticism: Practicing self-denial to focus more fully on the spiritual life, often expressed through fasting, prayer, and almsgiving.
         1. Fortitude
         1. Hope
@@ -194,8 +194,8 @@ Quantitatively, we accept 3 exact definitions of virtue:
     1. Fortitude
     1. Hope (fulfilled)
 1. Sophia (Wisdom): Valued highly by philosophers like Socrates, Plato, and Aristotle, wisdom is the ability to think and act using knowledge, experience, understanding, common sense, and insight.
-    1. Faith
-    2. Justice
+    1. Justice
+    2. Prudence
 1. Dikaiosyne (Justice): More than just legal justice, this virtue was about behaving in a way that is morally right and fair towards others.
     1. Justice
 1. Andreia (Courage): Not just physical bravery, but also the inner strength to stand up for what is right and to face challenges, fears, and difficulties.
@@ -209,37 +209,64 @@ Quantitatively, we accept 3 exact definitions of virtue:
 1. Xenia (Hospitality): Highly praised and embedded in Greek custom, xenia is the generosity and courtesy shown to those who are far from home.
     1. Charity
 
-## Taoist Practices or Virtues (jiǔxíng 九行)
+## Taoist Virtues
 
-1. Nonaction (wúwéi 無為)
-1. Softness and weakness (róuruò 柔弱)
-1. Guarding the feminine (shǒucí 行守)
-1. Being nameless (wúmíng 無名)
-1. Clarity and stillness (qīngjìng 清靜)
-1. Being adept (zhūshàn 諸善)
-1. Being desireless (wúyù 無欲)
-1. Knowing how to stop and be content (zhī zhǐzú 知止足)
-1. Yielding and withdrawing (tuīràng 推讓)
+1. Wú-wéi (無為, Effortless Action or Non-Action): This is the concept of taking action that is in harmony with the flow of the Tao, characterized by naturalness and spontaneity. It means not forcing or struggling against the natural order of things.
+    1. Justice
+1. Ziran (自然, Naturalness or Spontaneity): Ziran refers to being natural, spontaneous, and authentic, acting in accordance with one's true nature and the nature of the world, without artificiality or compulsion.
+    1. Fortitude
+1. Simplicity (樸, Pu): Valued highly in Taoism, simplicity means leading a life that is plain and unadorned, free from unnecessary complications and desires. It involves being content with little and finding joy in simple things.
+    1. Prudence
+1. Humility (謙, Qian): Recognizing one's small place in the vastness of the universe and approaching life with modesty and humility.
+    1. Faith
+1. Compassion (慈, Ci): Showing kindness and consideration towards all beings, understanding that all life is interconnected.
+    1. Charity
+1. Moderation (中庸, Zhong Yong): Advocating for a balanced, moderate approach to life, avoiding extremes, and maintaining equilibrium.
+    1. Temperance
+1. Harmony (和, He): Living in harmony with oneself, with others, and with the natural world. This involves understanding and adapting to the rhythms and patterns of nature.
+    1. Hope
+1. Patience (忍, Ren): Understanding and accepting the natural course of things, which involves enduring hardships and setbacks with a calm and peaceful mind.
+    1. Faith
 
 ## Confucianism
 
-1. Major Virtues
-    1. Ren (benevolence, humaneness)
-    1. Yi (righteousness, justice)
-    1. Li (propriety, rites)
-    1. Zhi (智; zhì: wisdom, knowledge)
-    1. Xin (sincerity, faithfulness)
-    1. Loyalty (忠; zhōng)
-    1. Filial piety (孝; xiào)
-    1. Continence (节; 節; jié)
+1. Primary:
+    1. Ren (仁, Benevolence or Humaneness): Often considered the supreme virtue in Confucianism, ren is the quality of compassion, kindness, and empathy towards others. It's about caring for people and is central to Confucian ethics.
+        1. Charity
+    1. Yi (義, Righteousness or Justice): Yi is the moral disposition to do good, and the ability to recognize what is right and just. It involves putting moral principles into practice.
+        1. Justice
+    1. Li (禮, Proper Ritual or Etiquette): This virtue refers to a set of rituals, customs, and standards of politeness that govern proper behavior and maintain social order. It's about showing respect through appropriate conduct.
+        1. Faith, Clarity
+    1. Zhi (智, Wisdom): Zhi is the ability to judge and act wisely. It involves a deep understanding of people and situations, and the application of knowledge in a practical and ethical manner.
+        1. Prudence
+1. Major:
+    1. Jié (节; 節, Continence): self-control, especially in the context of desires and impulses
+        1. Temperance
+    1. Xin (信, Integrity or Trustworthiness): Xin emphasizes honesty, reliability, and faithfulness. It's about being true to one's word and maintaining trust in relationships.
+        1. Charity
+    1. Xiao (孝, Filial Piety): This virtue represents respect, obedience, and care for one's parents and ancestors. It's a key aspect of family values in Confucianism.
+        1. Undefined
+    1. Zhong (忠, Loyalty): Loyalty in Confucianism involves being faithful to one’s superiors, friends, and the principles of ren and yi.
+        1. Undefined
+    1. Shù (恕, Reciprocity or Empathy): Often described as the "Golden Rule" of Confucianism, shu involves treating others as one would wish to be treated.
+        1. Undefined
+    1. Wēn (文, Cultural Refinement): Wen refers to the appreciation and cultivation of arts, literature, and culture, which are seen as important for personal development and social refinement.
+        1. Hope
 1. Minor:
     1. honesty (诚; chéng)
+        1. Faith
     1. bravery (勇; yǒng)
+        1. Fortitude
     1. incorruptibility (廉; lián)
-    1. kindness, forgiveness (恕; shù)
+        1. Faith
     1. sense of right and wrong (耻; chǐ)
-    1. gentleness (温; wēn)
+        1. Justice
     1. kindheartenedness (良; liáng)
+        1. Hope
     1. respect (恭; gōng)
+        1. Faith
     1. frugality (俭; jiǎn)
+        1. Temperance
+        1. Fortitude
     1. modesty (让; ràng)
+        1. Prudence
