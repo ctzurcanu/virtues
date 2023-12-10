@@ -245,11 +245,11 @@ Quantitatively, we accept these definitions of virtue:
     1. Xin (信, Integrity or Trustworthiness): Xin emphasizes honesty, reliability, and faithfulness. It's about being true to one's word and maintaining trust in relationships.
         1. Charity
     1. Xiao (孝, Filial Piety): This virtue represents respect, obedience, and care for one's parents and ancestors. It's a key aspect of family values in Confucianism.
-        1. Undefined
+        1. Composed
     1. Zhong (忠, Loyalty): Loyalty in Confucianism involves being faithful to one’s superiors, friends, and the principles of ren and yi.
-        1. Undefined
+        1. Composed
     1. Shù (恕, Reciprocity or Empathy): Often described as the "Golden Rule" of Confucianism, shu involves treating others as one would wish to be treated.
-        1. Undefined
+        1. Composed
     1. Wēn (文, Cultural Refinement): Wen refers to the appreciation and cultivation of arts, literature, and culture, which are seen as important for personal development and social refinement.
         1. Hope
 1. Minor:
