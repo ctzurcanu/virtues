@@ -13,13 +13,39 @@ layout: default
     - under Time: of life of the individual, of life of the species, of an emotion, of an idea
     - Timeless (Continuity of Eternities, of Causal relations): of institutions, of laws, of Concepts, Gods
 
-# Application of Rule of Law
+## Application of Rule of Law
 
 Rule of Law applied to:
 - Empathy -> (social) Duties
 - Governance -> (social) Rights
 - Continuity -> (social) Contract
 
+## Mentions
+
+### In Judaism
+
+‘What is hateful to thee, do not do until thy fellow man; this is the whole Law. The rest is commentary’ – Hillel the Elder, ca. 30 BCE – 10 CE
+
+### In Christianity
+
+Matthew 22:36-42:
+```
+36 “Teacher, which is the greatest commandment in the Law?”
+37 Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’
+38 This is the first and greatest commandment.
+39 And the second is like it: ‘Love your neighbor as yourself.’
+40 All the Law and the Prophets hang on these two commandments.”
+```
+
+### In Principle
+
+Relations:
+- doing to others: Governance
+- useful or pleasurable or virtuous to me -> therefore to others: Empathy
+- Empathy can be: 
+  - towards your future self
+  - towards Eternities (such as God)
+  - towards others
 
 ## Dependencies of Virtues
 
