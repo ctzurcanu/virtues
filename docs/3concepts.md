@@ -9,8 +9,16 @@ layout: default
 
 - Empathy
 - Governance
-- Continuity
+- Continuity: 
+    - under Time: of life of the individual, of life of the species, of an emotion, of an idea
+    - Timeless (Continuity of Eternities, of Causal relations): of institutions, of laws, of Concepts, Gods
 
+# Application of Rule of Law
+
+Rule of Law applied to:
+- Empathy -> (social) Duties
+- Governance -> (social) Rights
+- Continuity -> (social) Contract
 
 
 ## Dependencies of Virtues
