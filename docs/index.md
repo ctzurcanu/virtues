@@ -25,4 +25,5 @@ layout: default
         1. [The Composed Virtues](composed.html)
         1. The Errors of Identification of Virtues
 1. The Relations between [Principles and Virtues](principles.md)
+1. [Reduction to 3 Concepts](3concepts.md)
 1. Making Virtues Computable
