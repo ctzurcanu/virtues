@@ -11,9 +11,16 @@ layout: default
 - moderation or voluntary self-restraint
 - perfected: not having vicious desires
 - attributes:
+    -sustainable
 
-## Sub-virtues
+### Sustainability of Temperance
 
+- autonomy
+- cycle of Temperance
+
+### Sub-virtues
+
+- autonomy
 - chastity
 - modesty
 - humility
