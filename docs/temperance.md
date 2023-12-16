@@ -58,6 +58,7 @@ layout: default
     - Upekkhā: equanimity, serenity
 - Hinduism
     - Asteya (अस्तेय): Not stealing
+    - Satya (सत्य): Truthfulness (Not lying)
     - Ahiṃsā (अहिंसा): Nonviolence
     - Brahmacharya (ब्रह्मचर्य): Chastity, marital fidelity, sexual restraint
     - Santosha (सन्तोष): contentment, acceptance of others and one's circumstances as they are, optimism for self

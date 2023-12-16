@@ -17,7 +17,7 @@ layout: default
         1. Justice
         1. Fortitude
     1. Natural
-        1. Measurability, Competition
+        1. [Measurability, Competition, Selection](measurability.html)
         1. [Abundance, Wealth, Welfare](abundance.html)
         1. Survival, Life, Existence
     1. Maybe

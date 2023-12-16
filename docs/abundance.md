@@ -3,7 +3,7 @@ layout: default
 ---
 [back](./)
 
-# Abundance, Wealth, Productivity
+# Abundance, Wealth, Energy, Vital Energy, Productivity
 
 ## Definition
 

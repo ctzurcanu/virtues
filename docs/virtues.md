@@ -167,6 +167,7 @@ Quantitatively, we accept these definitions of virtue:
         1. Temperance
     1. Satya (सत्य): Truthfulness (Not lying)
         1. Faith, Clarity
+        1. Temperance
     1. Asteya (अस्तेय): Not stealing
         1. Temperance
         1. Abundance
