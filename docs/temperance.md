@@ -7,7 +7,7 @@ layout: default
 
 ## Definition
 
-- temperance (sōphrosunē) is the mean of pleasure (hēdonē) and pain (lupē): between licentiousness, intemperance, profligacy, dissipation, etc. (akolasia) and 	insensibility (anaisthētos)
+- temperance (sōphrosunē) is the mean of pleasure (hēdonē) and pain (lupē): between licentiousness, intemperance, profligacy, dissipation, etc. (akolasia) and  insensibility (anaisthētos)
 - moderation or voluntary self-restraint
 - perfected: not having vicious desires
 - attributes:
@@ -24,12 +24,12 @@ layout: default
 - continence
 - forgiveness
 
-## Dendencies
+## Dependencies
 
 - Major
     - Abundance: encourages and makes Temperance sustainable
     - Charity: the joy of giving may bring about additional Temperance. The willpower of self-restraint can encourage Voluntarism (Charity)
-    - Justice: the arguments comming from Justice may justify Temperance. Justice is discovered easier by the temperate.
+    - Justice: the arguments coming from Justice may justify Temperance. Justice is discovered easier by the temperate.
 
 
 ## Correspondences
@@ -50,9 +50,9 @@ layout: default
     - Asteya (अस्तेय): Not stealing
     - Ahiṃsā (अहिंसा): Nonviolence
     - Brahmacharya (ब्रह्मचर्य): Chastity, marital fidelity, sexual restraint
-    - Santosha (सन्तोष): contentment, acceptance of others and of one's circumstances as they are, optimism for self
+    - Santosha (सन्तोष): contentment, acceptance of others and one's circumstances as they are, optimism for self
 - Classical Greek
-    - Sophrosyne (Temperance/Moderation): This virtue represents self-control, moderation, and the balanced life. It was considered essential for achieving harmony and avoiding excess.
+    - Sophrosyne (Temperance/Moderation): This virtue represents self-control, moderation, and a balanced life. It was considered essential for achieving harmony and avoiding excess.
     - Xenia (Hospitality): Highly praised and embedded in Greek custom, xenia is the generosity and courtesy shown to those who are far from home.
 - Taoism
     - Moderation (中庸, Zhong Yong): Advocating for a balanced, moderate approach to life, avoiding extremes, and maintaining equilibrium.

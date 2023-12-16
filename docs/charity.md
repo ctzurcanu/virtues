@@ -52,7 +52,7 @@ layout: default
 - benefiting those who do not deserve before those who do
 - giving with other strings attached other than Virtues alone
 
-## Dendencies
+## Dependencies
 
 - Major
     - Hope: by means of hope in a cause or a person we become Charitable
