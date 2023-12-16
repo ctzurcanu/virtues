@@ -12,7 +12,7 @@ layout: default
         1. [Charity, Volunteering](charity.html)
         1. [Hope, Potential, Invention, Integration](hope.html)
     1. Cardinal
-        1. Temperance
+        1. [Temperance](temperance.html)
         1. Prudence, Wisdom
         1. Justice
         1. Fortitude
