@@ -18,7 +18,7 @@ layout: default
         1. Fortitude
     1. Natural
         1. Measurability, Competition
-        1. Abundance, Wealth, Welfare
+        1. [Abundance, Wealth, Welfare](abundance.html)
         1. Survival, Life, Existence
     1. Maybe
         1. [The "Undefined Yet" Virtue](undefined.html)

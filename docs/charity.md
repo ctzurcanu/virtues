@@ -62,11 +62,6 @@ layout: default
 
 ## Correspondences
 
-- Classical Greek
-    - Eunoia (Goodwill towards others): It encompasses the idea of trustworthiness and kindness in dealings with other people.
-    - Xenia (Hospitality): Highly praised and embedded in Greek custom, xenia is the generosity and courtesy shown to those who are far from home.
-- Hinduism
-    - Aparigraha (अपरिग्रहः): Non-avarice, non-possessiveness
 - Islam
     - Sadaqah (Charitable Giving): Beyond obligatory almsgiving (Zakat), voluntary charity is highly commended, reflecting compassion and generosity.
     - Ihsan (Benevolence/Excellence): This virtue means to do things with perfection, beauty, and excellence, and to act benevolently. It also involves being conscious of God at all times.
@@ -79,6 +74,11 @@ layout: default
     - Chesed (Loving-kindness): This virtue is fundamental in Jewish ethics, emphasizing compassion and love for others, and is considered a central attribute of God.
 - Buddhism
     - Dāna (pāramī): generosity, giving of oneself
+- Hinduism
+    - Aparigraha (अपरिग्रहः): Non-avarice, non-possessiveness
+- Classical Greek
+    - Eunoia (Goodwill towards others): It encompasses the idea of trustworthiness and kindness in dealings with other people.
+    - Xenia (Hospitality): Highly praised and embedded in Greek custom, xenia is the generosity and courtesy shown to those who are far from home.
 - Taoism
     - Compassion (慈, Ci): Showing kindness and consideration towards all beings, understanding that all life is interconnected.
 - Confucianism
