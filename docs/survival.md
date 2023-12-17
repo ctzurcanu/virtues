@@ -3,7 +3,7 @@ layout: default
 ---
 [back](./)
 
-# Survival, Life, Existence
+# Survival, Life, Existence, Replicability
 
 ## Definition
 
@@ -23,13 +23,19 @@ layout: default
 ### Existence
 
 - inhabitation a type
-- instance of a class
+- instantiation of a class
 - type TRUE
 - data availability
 
+### Replicability
+
+- the inter-dependency between the survival of individuals and the survival of species
+- programmability
+- transmission of information, DNA
+
 ## Anti-Life
 
-- waste of seeds, sperm, oocites, stem cells
+- waste of seeds, sperm, oocytes, stem cells
 - abortion
 - making species go extinct
 - genocides
@@ -39,6 +45,6 @@ layout: default
 
 - Major
     - Measurability, Sexual Competition: with 0 attendance to the competition Life would cease to exist
-    - Abundance: Survival creates the most important ingredients for accumulation of vital energy and resources
+    - Abundance: Survival creates the most important ingredients for the accumulation of vital energy and resources
 - Minor
     - Fortitude: one of the facets of Fortitude is the will to Survive
