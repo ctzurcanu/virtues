@@ -11,6 +11,7 @@ layout: default
 
 - subtypes:
     - transparency
+    - parsability
     - searchability
 - attributes:
 
@@ -19,6 +20,8 @@ layout: default
 - attendance
 - level playing field
 - if presided by jury: jury members won the same contest type
+- data verifiability
+- claim/challenge acceptance
 
 ### Selection
 

@@ -15,6 +15,8 @@ layout: default
     - capital
     - abundance of classes, species, or types
     - complexity
+    - data collectability
+    - data traceability
 - attributes:
     - sustainable
     - flexible
