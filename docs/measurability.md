@@ -3,7 +3,7 @@ layout: default
 ---
 [back](./)
 
-# Measurability, Competition, Selection
+# Measurability, Competition, Selection, Reflex
 
 ## Definition
 
@@ -13,6 +13,7 @@ layout: default
     - transparency
     - parsability
     - searchability
+    - reflex
 - attributes:
 
 ### Competition
@@ -28,6 +29,14 @@ layout: default
 - natural selection
 - natural evolution
 - gene and phenotype selection
+
+### Reflex
+
+- selection/judgement by reflex
+- automated reaction
+- subliminal mechanisms
+- inherited abilities
+- innate talent (in general)
 
 ### Corruptions
 

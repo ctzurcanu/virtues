@@ -33,6 +33,7 @@ layout: default
 
 - Islam
     - Haya (Modesty and Humility): It involves modesty not just in dress and behavior but also in attitude, promoting humility and decency.
+    - Ilm (Knowledge and Wisdom): Seeking knowledge is considered an act of worship in Islam. Wisdom in using this knowledge is also highly valued.
 - Christianity
     - Prudence (Wisdom): Insight and wisdom in dealing with complex issues, discernment.
 - Judaism

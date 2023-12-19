@@ -70,7 +70,7 @@ Quantitatively, we accept these definitions of virtue:
 1. Amanah (Trustworthiness): Being reliable and trustworthy in all affairs, including both personal and communal matters.
     1. Justice
 1. Ilm (Knowledge and Wisdom): Seeking knowledge is considered an act of worship in Islam. Wisdom in using this knowledge is also highly valued.
-    1. Justice
+    1. Prudence
 1. Akhlaq (Good Character and Manners): The Prophet Muhammad placed great emphasis on good character, kindness, forgiveness, and courtesy in interactions.
     1. Temperance
 

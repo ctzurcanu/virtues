@@ -14,8 +14,8 @@ layout: default
     1. Cardinal
         1. [Temperance](temperance.html)
         1. [Prudence, Wisdom](prudence.html)
-        1. Justice
-        1. Fortitude
+        1. [Justice](justice.html)
+        1. [Fortitude](fortitude.html)
     1. Natural
         1. [Measurability, Competition, Selection](measurability.html)
         1. [Abundance, Wealth, Welfare](abundance.html)
