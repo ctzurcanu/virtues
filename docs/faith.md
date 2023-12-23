@@ -3,7 +3,7 @@ layout: default
 ---
 [back](./)
 
-# Faith, Clarity of Implication
+# Faith, Clarity of Implication, Reason
 
 ## Definition
 
@@ -14,6 +14,10 @@ layout: default
 - belief in the existence of rational demonstrations (proofs)
 - belief in the truth of axioms that are most implication-productive.
 - belief in the existence of intelligent consensus. Intelligent consensus is eternal and is the substance of any perfection (is equivalent to God, in substance).
+- the inter-dependence between Faith and Reason
+        - Reason uses Faith as foundation
+        - Faith uses Reason to gain importance
+        - Faith can exist without Reason. Reason cannot exist without Faith (in the axioms)
 
 
 ## Dendencies

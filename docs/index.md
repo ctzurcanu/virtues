@@ -12,9 +12,9 @@ layout: default
         1. [Charity, Volunteering](charity.html)
         1. [Hope, Potential, Invention, Integration](hope.html)
     1. Cardinal
-        1. [Temperance](temperance.html)
         1. [Prudence, Wisdom](prudence.html)
         1. [Justice](justice.html)
+        1. [Temperance](temperance.html)
         1. [Fortitude](fortitude.html)
     1. Natural
         1. [Measurability, Competition, Selection](measurability.html)
@@ -25,5 +25,6 @@ layout: default
         1. [The Composed Virtues](composed.html)
         1. The Errors of Identification of Virtues
 1. The Relations between [Principles and Virtues](principles.md)
+1. [Hierarchies](hierarchies.html)
 1. [Reduction to 3 Concepts](3concepts.md)
 1. Making Virtues Computable

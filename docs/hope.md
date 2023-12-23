@@ -3,7 +3,7 @@ layout: default
 ---
 [back](./)
 
-# Hope, Potential, Invention, Integration
+# Hope, Idealism, Potential, Invention, Integration
 
 ## Definition
 
