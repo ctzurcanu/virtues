@@ -27,4 +27,5 @@ layout: default
 1. The Relations between [Principles and Virtues](principles.md)
 1. [Hierarchies](hierarchies.html)
 1. [Reduction to 3 Concepts](3concepts.md)
+1. [Friendship](friendship.html)
 1. Making Virtues Computable
