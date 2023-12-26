@@ -17,7 +17,7 @@ layout: default
 
 ## Types
 
-- self-friendship: you are your own friend while you observe, evaluate, and act to improve self concerning Virtues. If done often: it is the most powerful friendship.
+- self-friendship: you are your own friend while you observe, evaluate, and act to improve yourself concerning Virtues. If done often: it is the most powerful friendship.
 - active friendship: offering to act as a friend. A provable volunteer makes such an offering to the whole world every time an output is published
 - passive friendship: acting as a friend when the other party is in an obvious need
 - "maybe friendship": it is a friendship that exists only in the imagination of one or both parties. It may become friendship if tested. Its existence is not beneficial to the concept of true friendship.
@@ -33,3 +33,4 @@ layout: default
 - is dependent on output
 - exists towards institutions too
 - cannot be created or sustained by those who are unable to have ideal friendships with institutions or concepts that are defined without (not an inner/subjective definition)
+- The institution above does not have to be common between friends, but each (of the 2) has to be known mutually
