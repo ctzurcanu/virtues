@@ -282,3 +282,8 @@ layout: default
         - Sustainable development – the process of meeting human development goals while sustaining the ability of natural systems to continue to provide the natural resources and natural system services upon which the economy of human society depends.
             - Sustainable agriculture – farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment.
         - Sustainability studies – focuses on the interdisciplinary perspective of the sustainability concept. Programs include instruction in sustainable development, geography, environmental policies, ethics, ecology, landscape architecture, city and regional planning, economics, natural resources, sociology, and anthropology, many of which are considered social sciences in their own right.
+- Concepts
+    - Legitimacy: right to execute governance derived from Faith (clarity of implication, reprezentation), Prudence (optimization), and Justice
+    - Duty: will and actions derived from Charity and Prudence that enable the existence of cardinal and supreme virtues. Pure Duty is not a necessity.
+    - Freedom: the outcome of a virtuecracy. A virtuecracy is built on the efforts of Duty.
+    - Tolerance: the vituous side of Tolerance pertains to Prudence and the recognition of the fact that maximal optimization for eternity has not been achieved and anything that does not gravely impede virtues may be helpful to discover upgrades.
