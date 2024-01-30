@@ -48,7 +48,7 @@ layout: default
 ## Quality of Heroism
 
 - Martyrs: those who sacrificed their lives in heroic action
-- Heroes: those who have sacrificed some of their own on-renewable resources (great sums of money, one or more organs or functional parts of the body, important positions of dignity) to help others
+- Heroes: those who have sacrificed some of their own non-renewable resources (great sums of money, one or more organs or functional parts of the body, important positions of dignity) to help others
 - Volunteers: those who are helpful (donate their time and effort) but unpaid for their effort
 - The Charitable: those who donate their hard-earned financial or renewable resources
 - Mercenaries: those who are paid to act like a hero does and they perform the job: military, medical, civil servants, political representants
