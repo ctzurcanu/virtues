@@ -5,6 +5,10 @@ layout: default
 
 # Friendship
 
+## Requirements
+
+- [being human in society](human.html)
+
 ## Definitions
 
 - the act of doing virtuous evaluation and communication of the results to somebody else
