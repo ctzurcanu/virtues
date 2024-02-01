@@ -44,9 +44,14 @@ layout: default
 
 10. **Innovators and Pioneers**: Scientists, inventors, and entrepreneurs who volunteer groundbreaking discoveries, develop new technologies, and drive progress in various fields.
 
+## Quality of Concept
 
-## Quality of Heroism
+A hero is a defender of an idea. The idea may be more virtuous or more generally-moral than other ideas. Some heroes perform thier heroic deeds for mutually-exclusive ideas. For example they may be volunteers who fight for two countries who compete over ownership of a piece of land.
+For establishin the hierarchy of concepts, we use the [hierarchy of virtues](hierarchies.html).
 
+## Quantity of Sacrifice
+
+- Repeated Martyrs/[Bodhisattvas](https://en.wikipedia.org/wiki/Bodhisattva): those who, after being maryred once, return again and again to help others with their message
 - Martyrs: those who sacrificed their lives in heroic action
 - Heroes: those who have sacrificed some of their own non-renewable resources (great sums of money, one or more organs or functional parts of the body, important positions of dignity) to help others
 - Volunteers: those who are helpful (donate their time and effort) but unpaid for their effort
@@ -54,3 +59,6 @@ layout: default
 - Mercenaries: those who are paid to act like a hero does and they perform the job: military, medical, civil servants, political representants
 - The Money Launderers: those who donate to charities but have not earned the resources justly. Moral charities must research the money provenance and refuse immoral sources.
 - Anti-Heroes: those who are paid to help others but do not perform their job or prevent heroes from performing their acts
+- Denigators of Heroes
+- Impersonators of Heroes: those who pretend to be the authors of a heroic act without being so while robbing the true heros of their due recognition
+
