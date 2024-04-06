@@ -9,14 +9,23 @@ layout: default
 
 1. Faith, Clarity of Implication, Reason
 1. Charity, Volunteering
+    - Proving virtues -> Faith
 1. Hope, Potential, Invention, Integration
+    - Proving goodness -> Charity
 1. Prudence, Wisdom
+    - Acceptance of hierarchy -> Faith
 1. Justice
+    - Forgiveness -> Hope
 1. Temperance
+    - Empathy -> Justice
 1. Fortitude
+    - Fairness -> Temperance
 1. Measurability, Competition, Selection
+    - Competition -> Fortitude
 1. Abundance, Wealth, Welfare
-1. Survival, Life, Existence,
+    - Market -> Competition
+1. Survival, Life, Existence
+    - Industry -> Abundance
 
 ## Categories
 
