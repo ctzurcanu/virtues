@@ -7,25 +7,19 @@ layout: default
 
 ## The Default Hierarchy
 
-1. Faith, Clarity of Implication, Reason
-1. Charity, Volunteering
-    - Proving virtues -> Faith
-1. Hope, Potential, Invention, Integration
-    - Proving goodness -> Charity
-1. Prudence, Wisdom
-    - Acceptance of hierarchy -> Faith
-1. Justice
-    - Forgiveness -> Hope
-1. Temperance
-    - Empathy -> Justice
-1. Fortitude
-    - Fairness -> Temperance
-1. Measurability, Competition, Selection
-    - Competition -> Fortitude
-1. Abundance, Wealth, Welfare
-    - Market -> Competition
-1. Survival, Life, Existence
-    - Industry -> Abundance
+![Hierarchy](images/virtues-hier.png)
+
+The linking concepts are:
+
+1. Provable Hierarchy
+1. Provable Goodness
+1. Empathy, Generosity
+1. Forgiveness
+1. Governance
+1. Fairness
+1. Competition
+1. Market
+1. Industriousness
 
 ## Categories
 
