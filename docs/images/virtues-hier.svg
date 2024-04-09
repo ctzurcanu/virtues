@@ -28,9 +28,9 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.333"
-     inkscape:cx="-316.81682"
+     inkscape:cx="196.6967"
      inkscape:cy="1000"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="g3607" />
   <defs
      id="defs2">
     <marker
@@ -408,36 +408,26 @@
              x="132.67369"
              y="182.23166">Abundance</tspan></text>
       </g>
-      <g
-         id="g2743-7"
-         transform="translate(-67.057024,216.06078)">
-        <g
-           id="g6757">
-          <g
-             id="g6772">
-            <rect
-               style="opacity:0.99;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.464705;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-               id="rect236-9-0"
-               width="42.161209"
-               height="18.58824"
-               x="112.12225"
-               y="170.5062"
-               ry="9.2941198"
-               rx="9.2941198" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.99;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-               x="132.67369"
-               y="182.23166"
-               id="text1003-5-40"><tspan
-                 sodipodi:role="line"
-                 id="tspan1001-9-65"
-                 style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
-                 x="132.67369"
-                 y="182.23166">Measurability</tspan></text>
-          </g>
-        </g>
-      </g>
+      <rect
+         style="opacity:0.99;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.464705;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect236-9-0"
+         width="52.916668"
+         height="18.58824"
+         x="39.6875"
+         y="386.56699"
+         ry="9.2941198"
+         rx="9.2941198" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.99;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="65.616669"
+         y="398.29245"
+         id="text1003-5-40"><tspan
+           sodipodi:role="line"
+           id="tspan1001-9-65"
+           style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
+           x="65.616669"
+           y="398.29245">Measurability</tspan></text>
       <g
          id="g2748"
          transform="translate(-12.457971,7.9718995)">
@@ -580,30 +570,26 @@
                y="57.010941">Empathy</tspan></text>
         </g>
       </g>
-      <g
-         id="g3210"
-         transform="translate(-50.850855,-303.51602)">
-        <rect
-           style="opacity:0.495;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.59421;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           id="rect236-1-0-5"
-           width="69.418503"
-           height="18.458733"
-           x="189.55095"
-           y="336.39752"
-           ry="9.2293663"
-           rx="8.9958334" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.495;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           x="224.14841"
-           y="348.05823"
-           id="text1003-3-3-9"><tspan
-             sodipodi:role="line"
-             id="tspan1001-26-98-4"
-             style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
-             x="224.14841"
-             y="348.05823">Provable Hierarcy</tspan></text>
-      </g>
+      <rect
+         style="opacity:0.495;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.59421;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect236-1-0-5"
+         width="69.418503"
+         height="18.458733"
+         x="138.70009"
+         y="32.8815"
+         ry="9.2293663"
+         rx="8.9958334" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.495;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="173.29755"
+         y="44.542206"
+         id="text1003-3-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan1001-26-98-4"
+           style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
+           x="173.29755"
+           y="44.542206">Provable Hierarchy</tspan></text>
       <g
          id="g3205"
          transform="translate(107.46215,-168.64208)">
