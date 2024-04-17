@@ -27,10 +27,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.333"
-     inkscape:cx="196.6967"
-     inkscape:cy="1000"
-     inkscape:current-layer="g3607" />
+     inkscape:zoom="4.6801539"
+     inkscape:cx="249.99178"
+     inkscape:cy="588.01486"
+     inkscape:current-layer="g3251" />
   <defs
      id="defs2">
     <marker
@@ -542,33 +542,27 @@
        transform="translate(-107.26351,5.8208337)"
        style="display:inline">
       <g
-         id="g1960-5"
-         transform="translate(141.83566,58.949582)">
-        <g
-           id="g11757"
-           style="opacity:0.5"
-           transform="translate(-70.564184,36.24247)">
-          <rect
-             style="opacity:0.99;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.464705;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-             id="rect236-1"
-             width="42.161209"
-             height="18.58824"
-             x="81.057266"
-             y="45.28548"
-             ry="9.2941198"
-             rx="9.2941198" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.99;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-             x="101.60871"
-             y="57.010941"
-             id="text1003-3"><tspan
-               sodipodi:role="line"
-               id="tspan1001-26"
-               style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
-               x="101.60871"
-               y="57.010941">Empathy</tspan></text>
-        </g>
+         id="g626">
+        <rect
+           style="opacity:0.495;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.464705;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect236-1"
+           width="42.161209"
+           height="18.58824"
+           x="152.32874"
+           y="140.47754"
+           ry="9.2941198"
+           rx="9.2941198" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.495;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           x="172.88019"
+           y="152.20299"
+           id="text1003-3"><tspan
+             sodipodi:role="line"
+             id="tspan1001-26"
+             style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
+             x="172.88019"
+             y="152.20299">Harmony</tspan></text>
       </g>
       <rect
          style="opacity:0.495;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.59421;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -622,20 +616,20 @@
            id="rect236-1-0-5-5"
            width="56.761864"
            height="18.514811"
-           x="109.86982"
+           x="109.86981"
            y="394.37122"
            ry="9.2574053"
            rx="8.9958334" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.495;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           x="139.96628"
+           x="138.12379"
            y="406.05997"
            id="text1003-3-3-9-6"><tspan
              sodipodi:role="line"
              id="tspan1001-26-98-4-79"
              style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
-             x="139.96628"
+             x="138.12379"
              y="406.05997">Industriousness</tspan></text>
       </g>
       <g

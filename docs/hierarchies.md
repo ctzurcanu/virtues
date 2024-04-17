@@ -13,7 +13,7 @@ The linking concepts are:
 
 1. Provable Hierarchy
 1. Provable Goodness
-1. Empathy, Generosity
+1. Harmony, Generosity
 1. Forgiveness
 1. Governance
 1. Fairness
