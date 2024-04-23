@@ -21,6 +21,44 @@ The linking concepts are:
 1. Market
 1. Industriousness
 
+## Concerning Law
+
+![Law Hierarchy](images/law.png)
+
+1. Omni Law
+    - Faith
+    - Provable Hierarchy
+    - Charity
+    - Provable Goodness
+
+    the individual is the whole life
+1. Contractual Law (not business contract law)
+    - Hope
+    - Harmony
+    - Prudence
+    - Forgiveness
+
+    the individual uses the community for general goodness
+1. Civil Law
+    - Justice
+    - Governance
+    - Temperance
+    - Fairness
+
+    the individual uses the community for community profit
+1. Criminal Law
+    - Fortitude
+    - Competition
+    - Market
+
+    the individual uses the community for self profit
+1. Natural Law
+    - Abundance
+    - Industriousness
+    - Survival
+
+    the individual (or nuclear family) lives alone: no community
+
 ## Categories
 
 - Science, in general: Faith, Reason
