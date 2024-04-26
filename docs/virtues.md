@@ -31,6 +31,18 @@ Quantitatively, we accept these definitions of virtue:
 | Wealth, Vitality | Poverty/Lazyness | Abundance | Abundance without reason |
 | Life | Non-existence | Survival | Canibalism/Stealing |
 
+The ordered list:
+1. Faith
+1. Charity
+1. Hope
+1. Prudence
+1. Justice
+1. Temperance
+1. Fortitude
+1. Measurability
+1. Abundance
+1. Survival
+
 ## Dependencies
 
 ![Virtue Dependency Graph](images/Virtues2.png)
