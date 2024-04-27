@@ -148,5 +148,34 @@ The default hierarchy is:
 
     the individual (or nuclear family) lives alone: no community
 
+## Chakras
 
+![Chakras](images/chakras.png)
 
+1. [Sahasrara](https://en.wikipedia.org/wiki/Sahasrara)
+    - (beyond concepts)
+1. [Ajna](https://en.wikipedia.org/wiki/Ajna)
+    - Faith, Reason
+    - Provable Hierarchy
+1. [Vishuddha](https://en.wikipedia.org/wiki/Vishuddha)
+    - Charity
+    - Provable Goodness
+    - Hope
+    - Harmony, Generosity
+    - Prudence
+    - Forgiveness
+1. [Anahata](https://en.wikipedia.org/wiki/Anahata)
+    - Justice
+    - Governance
+    - Temperance
+    - Fairness
+1. [Manipura](https://en.wikipedia.org/wiki/Manipura)
+    - Fortitude
+    - Competition
+    - Measurability
+1. [Svadhishthana](https://en.wikipedia.org/wiki/Svadhisthana)
+    - Market
+    - Abundance
+1. [Muladhara](https://en.wikipedia.org/wiki/Muladhara)
+    - Industriousness
+    - Survival
