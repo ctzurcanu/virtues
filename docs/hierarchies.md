@@ -14,7 +14,10 @@ The linking concepts are:
 1. Provable Hierarchy
 1. Provable Goodness
 1. Harmony, Generosity
-1. Forgiveness
+1. Forgiveness/Repentance
+    - takes place only after Justice has been imparted
+    - Forgiveness is dependent upon signs of Repentance from the guilty party
+    - this action is the essence of Orthodox Christianity: one cannot spiritually digest the Eucharist without Repentance for all wrong doings and/or solving all injustices you are aware of
 1. Governance
 1. Fairness
 1. Competition
