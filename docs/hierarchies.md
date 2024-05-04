@@ -13,10 +13,14 @@ The linking concepts are:
 
 1. Provable Hierarchy
 1. Provable Goodness
-1. Harmony, Generosity, Humility, Recognition, Greatness, "noblesse oblige"
+1. Harmony, Generosity, Humility, Recognition, Greatness, Noblity
     - humility means recognition of the virtue of others
     - greatness is virtue, recognized by others
-    - rejection of others' recognition of one's virtues (when the virtues are factual) is false humility
+    - "noblesse oblige" means the duty to recognize the virtue of others when your virtues are recognized
+    - false humility is of 3 types:
+        - rejection of others' recognition of one's virtues (when the virtues are factual) is false
+        - being humble without being recognized
+        - assigning a different value to the concept of "humility" in the hierarchy than its earned value
 1. Forgiveness/Repentance
     - takes place only after Justice has been imparted
     - Forgiveness is dependent upon signs of Repentance from the guilty party
