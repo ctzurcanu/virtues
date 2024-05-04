@@ -13,11 +13,14 @@ The linking concepts are:
 
 1. Provable Hierarchy
 1. Provable Goodness
-1. Harmony, Generosity
+1. Harmony, Generosity, Humility,Recognition, Greatness
+    - humility means recognition of the virtue of others
+    - greatness is virtue, recognized by others
+    - rejection of others' recognition of one's virtues (when the virtues are factual) is false humility
 1. Forgiveness/Repentance
     - takes place only after Justice has been imparted
     - Forgiveness is dependent upon signs of Repentance from the guilty party
-    - this action is the essence of Orthodox Christianity: one cannot spiritually digest the Eucharist without Repentance for all wrong doings and/or solving all injustices you are aware of
+    - this action is the essence of Orthodox Christianity: one cannot spiritually digest the Eucharist without Repentance for all wrongdoings and/or solving all injustices one is aware of
 1. Governance
 1. Fairness
 1. Competition
