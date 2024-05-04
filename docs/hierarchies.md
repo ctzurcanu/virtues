@@ -13,7 +13,7 @@ The linking concepts are:
 
 1. Provable Hierarchy
 1. Provable Goodness
-1. Harmony, Generosity, Humility,Recognition, Greatness
+1. Harmony, Generosity, Humility, Recognition, Greatness, "noblesse oblige"
     - humility means recognition of the virtue of others
     - greatness is virtue, recognized by others
     - rejection of others' recognition of one's virtues (when the virtues are factual) is false humility
