@@ -13,7 +13,7 @@ The linking concepts are:
 
 1. Provable Hierarchy
 1. Provable Goodness
-1. Harmony, Generosity, Humility, Recognition, Greatness, Nobility
+1. Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility
     - humility means recognition of the virtue of others
     - humility means: upon public recognition of one's virtues, accepting the minimum that is merited
     - greatness is virtue, recognized by others
