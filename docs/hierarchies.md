@@ -15,6 +15,7 @@ The linking concepts are:
 1. Provable Goodness
 1. Harmony, Generosity, Humility, Recognition, Greatness, Nobility
     - humility means recognition of the virtue of others
+    - humility means: upon public recognition of one's virtues, accepting the minimum that is merited
     - greatness is virtue, recognized by others
     - "noblesse oblige" means the duty to recognize the virtue of others when your virtues are recognized
     - false humility is of 3 types:
@@ -63,10 +64,11 @@ The default hierarchy is:
 1. Charity
 1. Provable Goodness
 1. Hope
-    - Education
+    - Education about Virtues
     - Ecology
 1. Harmony, Generosity
 1. Prudence
+    - Education
 1. Forgiveness
 1. Justice
     - Jurisprudence
