@@ -7,9 +7,18 @@ layout: default
 
 ## Definition
 
-- strength and courage to face trials and challenges
-- endurance
-- ascetism
+- subtypes:
+    - Fortitude for the sake of personal Survival, Abundance, Recognition
+    - Manipulation of personal gratification:
+        - delay gratification
+        - change nature of gratification
+        - pay in advance
+    - Fortitude for the sake of others: Loyality
+
+- attributes:
+    - strength and courage to face trials and challenges
+    - endurance
+    - ascetism
 
 ## Dependencies
 
