@@ -61,8 +61,8 @@ Rule of Law applied to:
 
 
 [1 Corinthians 13](https://www.biblegateway.com/passage/?search=1+Corinthians+13&version=NIV):
-```
-1. If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. 
+
+1. "If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. 
 1. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. 
 1. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing.
 
@@ -77,8 +77,7 @@ Rule of Law applied to:
 1. When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me. 
 1. For now we see only a reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known.
 
-1. And now these three remain: faith, hope and love. But the greatest of these is love.
-```
+1. And now these three remain: faith, hope and love. But the greatest of these is love."
 
 - ἀγάπη agapē is translated as Love. It is possible to translate it more precisely as Empathy
 
