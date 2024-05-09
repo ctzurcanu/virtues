@@ -19,9 +19,9 @@ The linking concepts are:
     - greatness is virtue, recognized by others
     - "noblesse oblige" means the duty to recognize the virtue of others when your virtues are recognized
     - false humility is of 3 types:
-        - rejection of others' recognition of one's virtues (when the virtues are factual) is false
-        - being humble without being recognized
-        - assigning a different value to the concept of "humility" in the hierarchy than its earned value
+        - rejection of others' recognition of one's virtues (when the virtues are factual)
+        - signaling humility about a virtue without being recognized for that virtue first
+        - assigning a different value to the concept of "humility" in the hierarchy of virtues than its earned value
 1. Forgiveness/Repentance
     - takes place only after Justice has been imparted
     - Forgiveness is dependent upon signs of Repentance from the guilty party
