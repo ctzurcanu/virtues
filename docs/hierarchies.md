@@ -54,6 +54,8 @@ The default hierarchy is:
 1. Industriousness
 1. Survival
 
+The evolution can be [narrated](narratives.html).
+
 ## Links with Knowledge Domains
 
 1. Faith, Reason
