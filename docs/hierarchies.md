@@ -56,6 +56,39 @@ The default hierarchy is:
 
 The evolution can be [narrated](narratives.html).
 
+## Types of Resources
+
+### Proof
+
+1. Faith, Reason
+1. Provable Hierarchy
+1. Charity
+1. Provable Goodness
+1. Hope
+
+### Effort and Intent
+
+5. Hope
+1. Harmony, Generosity
+1. Prudence
+1. Forgiveness
+1. Justice
+1. Governance
+1. Temperance
+1. Fairness
+1. Fortitude
+
+### Material/Money
+
+13. Fortitude
+1. Competition
+1. Measurability
+1. Market
+1. Abundance
+1. Industriousness
+1. Survival
+
+
 ## Links with Knowledge Domains
 
 1. Faith, Reason
