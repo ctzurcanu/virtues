@@ -14,11 +14,13 @@ layout: default
         - change nature of gratification
         - pay in advance
     - Fortitude for the sake of others: Loyality
+    - Fortitude for the sake of others: Common Sense
 
 - attributes:
     - strength and courage to face trials and challenges
     - endurance
     - ascetism
+    - well-advised
 
 ## Dependencies
 

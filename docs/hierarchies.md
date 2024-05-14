@@ -131,6 +131,7 @@ The evolution can be [narrated](narratives.html).
     - Sports
     - Military
     - Martial Arts
+    - Common sense
 1. Competition
     - Searchability
     - Open Science Journals

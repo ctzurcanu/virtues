@@ -10,3 +10,4 @@
     1. Fairness
     1. Fortitude
     1. Competition
+- Common Sense: increases the fitting of the community in the environment, it is part of Fortitude

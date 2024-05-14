@@ -7,19 +7,18 @@ layout: default
 
 ## Definition
 
-- ability to think and act using knowledge, experience, understanding, common sense, and insight
-- ability to act based on that wisdom
-- making the right decisions in practical matters
+- ability to think using new knowledge, re-evaluate experience, understanding and insight in opposition to common sense
+- ability to act based on that understanding
+- achieveing better results than using common sense solutions
 
 - types
-    - prudence, wisdom in the interest of self
-    - prudence, wisdom in the interest of others
+    - in the interest of self
+    - in the interest of others
 
 - subtypes
-    - modesty
-    - humility
-    - hygiene
-    - patience
+    - discovery of eternities
+    - justice in eternity
+    - provable integrity
 
 ## Dependencies
 
