@@ -21,7 +21,7 @@ layout: default
     - prophecy
     - provable integrity of:
         - set
-        - generality
+        - relationships
         - timelessness
 
 ## Dependencies
