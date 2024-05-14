@@ -20,9 +20,9 @@ layout: default
     - justice in eternity
     - prophecy
     - provable integrity of:
-        - set
-        - relationships
-        - timelessness
+        - set/selection/definition
+        - relationships (of the set)
+        - timelessness/lifetime (of the set)
 
 ## Dependencies
 
