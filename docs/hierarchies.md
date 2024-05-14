@@ -111,6 +111,8 @@ The evolution can be [narrated](narratives.html).
 1. Harmony, Generosity
 1. Prudence
     - Education
+    - Research
+    - Prophecy
 1. Forgiveness
 1. Justice
     - Jurisprudence

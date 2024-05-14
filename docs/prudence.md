@@ -18,7 +18,11 @@ layout: default
 - subtypes
     - discovery of eternities
     - justice in eternity
-    - provable integrity
+    - prophecy
+    - provable integrity of:
+        - set
+        - generality
+        - timelessness
 
 ## Dependencies
 
