@@ -4,130 +4,507 @@ Allah (سُبْحَٰنَهُۥ وَتَعَٰلَىٰ) names and attributes can
 
 ## Virtues -> Names, Attributes
 
-1. The Destroyer
-1. Faith, Reason
-1. Provable Hierarchy
-1. Charity
-1. Provable Goodness
-1. Hope
-1. Harmony, Generosity
-1. Prudence
-1. Forgiveness
-1. Justice
-1. Governance
-1. Temperance
-1. Fairness
-1. Fortitude
-1. Competition
-1. Measurability
-1. Market
-1. Abundance
-1. Industriousness
-1. Survival
-1. The Creator
-1. The Transcendent
+### 1. God, The Destroyer
+- 61. Al-Mumeet (ٱلْمُمِيتُ) The Bringer of Death, the Destroyer
+- 15. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
+- 10. Al-Mutakabbir (ٱلْمُتَكَبِّرُ) The Supreme, The Majestic
+- 9. Al-Jabbar (ٱلْجَبَّارُ) The Compeller, The Restorer
+- 81. Al-Muntaqim (ٱلْمُنْتَقِمُ) The Avenger
+- 91. Ad-Dharr (ٱلْضَّارُ) The Distresser
+
+### 2. Faith, Reason
+- 6. Al-Mu’Min (ٱلْمُؤْمِنُ) The One Who gives Emaan and Security
+- 19. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
+- 46. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
+- 49. Al-Ba’Ith (ٱلْبَاعِثُ) The Resurrector, The Raiser of the Dead
+- 44. Al-Mujeeb (ٱلْمُجِيبُ) The Responsive One
+- 43. Ar-Raqeeb (ٱلْرَّقِيبُ) The Watchful
+- 50. Ash-Shaheed (ٱلْشَّهِيدُ) The All- and Ever Witnessing
+
+### 3. Provable Hierarchy
+- 3. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
+- 8. Al-Azeez (ٱلْعَزِيزُ) The All Mighty
+- 41. Al-Jaleel (ٱلْجَلِيلُ) The Majestic
+- 48. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
+- 84. Maalik-Ul-Mulk (مَالِكُ ٱلْمُلْكُ) Master of the Kingdom, Owner of the Dominion
+- 10. Al-Mutakabbir (ٱلْمُتَكَبِّرُ) The Supreme, The Majestic
+- 39. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
+- 69. Al-Qadir (ٱلْقَادِرُ) The Capable, The Powerful
+- 70. Al-Muqtadir (ٱلْمُقْتَدِرُ) The Omnipotent
+
+### 4. Charity
+- 16. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
+- 17. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
+- 42. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
+- 83. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
+- 79. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
+- 88. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
+- 89. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
+
+### 5. Provable Goodness
+- 79. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
+- 51. Al-Haqq (ٱلْحَقُّ) The Absolute Truth
+- 30. Al-Lateef (ٱلْلَّطِيفُ) The Subtle One, The Most Gentle
+- 47. Al-Wadood (ٱلْوَدُودُ) The Most Loving
+- 45. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
+- 86. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
+
+### 6. Hope
+- 14. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
+- 34. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
+- 80. At-Tawwab (ٱلْتَّوَّابُ) The Ever-Pardoning, The Relenting
+- 32. Al-Haleem (ٱلْحَلِيمُ) The Most Forbearing
+- 39. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
+- 52. Al-Wakeel (ٱلْوَكِيلُ) The Trustee, The Disposer of Affairs
+- 39. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
+
+### 7. Harmony, Generosity
+- 7. Al-Muhaymin (ٱلْمُهَيْمِنُ) The Guardian, The Witness, The Overseer
+- 5. As-Salam (ٱلْسَّلَامُ) The Perfection and Giver of Peace
+- 42. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
+- 56. Al-Hameed (ٱلْحَمِيدُ) The Praiseworthy
+- 83. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
+- 48. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
+
+### 8. Prudence
+- 46. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
+- 31. Al-Khabeer (ٱلْخَبِيرُ) The Acquainted, the All-Aware
+- 19. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
+- 40. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
+- 57. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
+
+### 9. Forgiveness
+- 14. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
+- 34. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
+- 82. Al-‘Afuww (ٱلْعَفُوُّ) The Pardoner
+
+### 10. Justice
+- 28. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
+- 29. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
+- 86. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
+
+### 11. Governance
+- 3. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
+- 77. Al-Waali (ٱلْوَالِي) The Governor, The Patron
+- 55. Al-Waliyy (ٱلْوَلِيُّ) The Protecting Associate
+
+### 12. Temperance
+- 92. An-Nafi’ (ٱلْنَّافِعُ) The Propitious, the Benefactor
+- 22. Al-Khaafidh (ٱلْخَافِضُ) The Reducer, The Abaser
+- 71. Al-Muqaddim (ٱلْمُقَدِّمُ) The Expediter, The Promoter
+- 72. Al-Mu’Akhkhir (ٱلْمُؤَخِّرُ) The Delayer, the Retarder
+
+### 13. Fairness
+- 86. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
+- 29. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
+- 28. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
+
+### 14. Fortitude
+- 54. Al-Mateen (ٱلْمَتِينُ) The Firm, The Steadfast
+- 15. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
+- 53. Al-Qawiyy (ٱلْقَوِيُّ) The All-Strong
+
+### 15. Competition
+- 25. Al-Muzil (ٱلْمُذِلُّ) The Dishonourer, The Humiliator
+- 24. Al-Mu’Izz (ٱلْمُعِزُّ) The Honourer, The Bestower
+- 23. Ar-Raafi’ (ٱلْرَّافِعُ) The Exalter, The Elevator
+
+### 16. Measurability
+- 57. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
+- 40. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
+- 87. Al-Jaami’ (ٱلْجَامِعُ) The Gatherer, the Uniter
+
+### 17. Market
+- 88. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
+- 89. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
+- 17. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
+
+### 18. Abundance
+- 45. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
+- 16. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
+- 17. Ar-Razzaaq (ٱlْرَّزَّاقُ) The Provider
+
+### 19. Industriousness
+- 58. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
+- 12. Al-Baari’ (ٱلْبَارِئُ) The Originator
+- 11. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
+
+### 20. Survival
+- 60. Al-Muhyee (ٱلْمُحْيِى) The Giver of Life
+- 96. Al-Baaqi (ٱلْبَاقِي) The Ever-Surviving, The Everlasting
+- 97. Al-Waarith (ٱلْوَارِثُ) The Inheritor, The Heir
+
+### 21. God, The Creator
+- 11. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
+- 12. Al-Baari’ (ٱلْبَارِئُ) The Originator
+- 13. Al-Musawwir (ٱلْمُصَوِّرُ) The Fashioner
+- 58. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
+
+### 22. God, The Transcendent
+- 74. Al-Aakhir (ٱلْآخِرُ) The Last
+- 73. Al-Awwal (ٱلأَوَّلُ) The First
+- 75. Az-Dhaahir (ٱلْظَّاهِرُ) The Manifest
+- 76. Al-Baatin (ٱلْبَاطِنُ) The Hidden One, Knower of the Hidden
+- 66. Al-Waahid (ٱلْوَاحِدُ) The One
+- 67. Al-Ahad (ٱلْأَحَد) The Unique, The Only One
+- 68. As-Samad (ٱلْصَّمَدُ) The Eternal, Satisfier of Needs
 
 ## Names, Attributes -> Virtues
 
-1. Ar-Rahmaan (ٱلْرَّحْمَـانُ) The Most or Entirely Merciful
-1. Ar-Raheem (ٱلْرَّحِيْمُ) The Bestower of Mercy
-1. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
-1. Al-Quddus (ٱلْقُدُّوسُ) The Absolutely Pure
-1. As-Salam (ٱلْسَّلَامُ) The Perfection and Giver of Peace
-1. Al-Mu’Min (ٱلْمُؤْمِنُ) The One Who gives Emaan and Security
-1. Al-Muhaymin (ٱلْمُهَيْمِنُ) The Guardian, The Witness, The Overseer
-1. Al-Azeez (ٱلْعَزِيزُ) The All Mighty
-1. Al-Jabbar (ٱلْجَبَّارُ) The Compeller, The Restorer
-1. Al-Mutakabbir (ٱلْمُتَكَبِّرُ) The Supreme, The Majestic
-1. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
-1. Al-Baari’ (ٱلْبَارِئُ) The Originator
-1. Al-Musawwir (ٱلْمُصَوِّرُ) The Fashioner
-1. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
-1. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
-1. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
-1. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
-1. Al-Fattaah (ٱلْفَتَّاحُ) The Opener, The Judge
-1. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
-1. Al-Qaabid (ٱلْقَابِضُ) The Withholder
-1. Al-Baasit (ٱلْبَاسِطُ) The Extender
-1. Al-Khaafidh (ٱلْخَافِضُ) The Reducer, The Abaser
-1. Ar-Raafi’ (ٱلْرَّافِعُ) The Exalter, The Elevator
-1. Al-Mu’Izz (ٱلْمُعِزُّ) The Honourer, The Bestower
-1. Al-Muzil (ٱلْمُذِلُّ) The Dishonourer, The Humiliator
-1. As-Samee’ (ٱلْسَّمِيعُ) The All-Hearing
-1. Al-Baseer (ٱلْبَصِيرُ) The All-Seeing
-1. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
-1. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
-1. Al-Lateef (ٱلْلَّطِيفُ) The Subtle One, The Most Gentle
-1. Al-Khabeer (ٱلْخَبِيرُ) The Acquainted, the All-Aware
-1. Al-Haleem (ٱلْحَلِيمُ) The Most Forbearing
-1. Al-‘Atheem (ٱلْعَظِيمُ) The Magnificent, The Supreme
-1. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
-1. Ash-Shakoor (ٱلْشَّكُورُ) The Most Appreciative
-1. Al-‘Alee (ٱلْعَلِيُّ) The Most High, The Exalted
-1. Al-Kabeer (ٱلْكَبِيرُ) The Greatest, The Most Grand
-1. Al-Hafeedh (ٱلْحَفِيظُ) The Preserver, The All-Heedful and All-Protecting
-1. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
-1. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
-1. Al-Jaleel (ٱلْجَلِيلُ) The Majestic
-1. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
-1. Ar-Raqeeb (ٱلْرَّقِيبُ) The Watchful
-1. Al-Mujeeb (ٱلْمُجِيبُ) The Responsive One
-1. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
-1. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
-1. Al-Wadood (ٱلْوَدُودُ) The Most Loving
-1. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
-1. Al-Ba’Ith (ٱلْبَاعِثُ) The Resurrector, The Raiser of the Dead
-1. Ash-Shaheed (ٱلْشَّهِيدُ) The All- and Ever Witnessing
-1. Al-Haqq (ٱلْحَقُّ) The Absolute Truth
-1. Al-Wakeel (ٱلْوَكِيلُ) The Trustee, The Disposer of Affairs
-1. Al-Qawiyy (ٱلْقَوِيُّ) The All-Strong
-1. Al-Mateen (ٱلْمَتِينُ) The Firm, The Steadfast
-1. Al-Waliyy (ٱلْوَلِيُّ) The Protecting Associate
-1. Al-Hameed (ٱلْحَمِيدُ) The Praiseworthy
-1. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
-1. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
-1. Al-Mu’Id (ٱلْمُعِيدُ) The Restorer, The Reinstater
-1. Al-Muhyee (ٱلْمُحْيِى) The Giver of Life
-1. Al-Mumeet (ٱلْمُمِيتُ) The Bringer of Death, the Destroyer
-1. Al-Hayy (ٱلْحَىُّ) The Ever-Living
-1. Al-Qayyoom (ٱلْقَيُّومُ) The Sustainer, The Self-Subsisting
-1. Al-Waajid (ٱلْوَاجِدُ) The Perceiver
-1. Al-Maajid (ٱلْمَاجِدُ) The Illustrious, the Magnificent
-1. Al-Waahid (ٱلْوَاحِدُ) The One
-1. Al-Ahad (ٱلْأَحَد) The Unique, The Only One
-1. As-Samad (ٱلْصَّمَدُ) The Eternal, Satisfier of Needs
-1. Al-Qadir (ٱلْقَادِرُ) The Capable, The Powerful
-1. Al-Muqtadir (ٱلْمُقْتَدِرُ) The Omnipotent
-1. Al-Muqaddim (ٱلْمُقَدِّمُ) The Expediter, The Promoter
-1. Al-Mu’Akhkhir (ٱلْمُؤَخِّرُ) The Delayer, the Retarder
-1. Al-Awwal (ٱلأَوَّلُ) The First
-1. Al-Aakhir (ٱلْآخِرُ) The Last
-1. Az-Dhaahir (ٱلْظَّاهِرُ) The Manifest
-1. Al-Baatin (ٱلْبَاطِنُ) The Hidden One, Knower of the Hidden
-1. Al-Waali (ٱلْوَالِي) The Governor, The Patron
-1. Al-Muta’Ali (ٱلْمُتَعَالِي) The Self Exalted
-1. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
-1. At-Tawwab (ٱلْتَّوَّابُ) The Ever-Pardoning, The Relenting
-1. Al-Muntaqim (ٱلْمُنْتَقِمُ) The Avenger
-1. Al-‘Afuww (ٱلْعَفُوُّ) The Pardoner
-1. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
-1. Maalik-Ul-Mulk (مَالِكُ ٱلْمُلْكُ) Master of the Kingdom, Owner of the Dominion
-1. Dhul-Jalaali Wal-Ikraam (ذُو ٱلْجَلَالِ وَٱلْإِكْرَامُ) Possessor of Glory and Honour, Lord of Majesty and Generosity
-1. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
-1. Al-Jaami’ (ٱلْجَامِعُ) The Gatherer, the Uniter
-1. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
-1. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
-1. Al-Mani’ (ٱلْمَانِعُ) The Withholder
-1. Ad-Dharr (ٱلْضَّارُ) The Distresser
-1. An-Nafi’ (ٱلْنَّافِعُ) The Propitious, the Benefactor
-1. An-Nur (ٱلْنُّورُ) The Light, The Illuminator
-1. Al-Haadi (ٱلْهَادِي) The Guide
-1. Al-Badee’ (ٱلْبَدِيعُ) The Incomparable Originator
-1. Al-Baaqi (ٱلْبَاقِي) The Ever-Surviving, The Everlasting
-1. Al-Waarith (ٱلْوَارِثُ) The Inheritor, The Heir
-1. Ar-Rasheed (ٱلْرَّشِيدُ) The Guide, Infallible Teacher
-1. As-Saboor (ٱلْصَّبُورُ) The Forbearing, The Patient
+### 1. Al-Mumeet (ٱلْمُمِيتُ) The Bringer of Death, the Destroyer
+- 1. God, The Destroyer
+
+### 2. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
+- 1. God, The Destroyer
+- 14. Fortitude
+
+### 3. Al-Mutakabbir (ٱلْمُتَكَبِّرُ) The Supreme, The Majestic
+- 1. God, The Destroyer
+- 3. Provable Hierarchy
+
+### 4. Al-Jabbar (ٱلْجَبَّارُ) The Compeller, The Restorer
+- 1. God, The Destroyer
+
+### 5. Al-Muntaqim (ٱلْمُنْتَقِمُ) The Avenger
+- 1. God, The Destroyer
+
+### 6. Ad-Dharr (ٱلْضَّارُ) The Distresser
+- 1. God, The Destroyer
+
+### 7. Al-Mu’Min (ٱلْمُؤْمِنُ) The One Who gives Emaan and Security
+- 2. Faith, Reason
+
+### 8. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
+- 2. Faith, Reason
+- 8. Prudence
+
+### 9. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
+- 2. Faith, Reason
+- 8. Prudence
+
+### 10. Al-Ba’Ith (ٱلْبَاعِثُ) The Resurrector, The Raiser of the Dead
+- 2. Faith, Reason
+
+### 11. Al-Mujeeb (ٱلْمُجِيبُ) The Responsive One
+- 2. Faith, Reason
+
+### 12. Ar-Raqeeb (ٱلْرَّقِيبُ) The Watchful
+- 2. Faith, Reason
+
+### 13. Ash-Shaheed (ٱلْشَّهِيدُ) The All- and Ever Witnessing
+- 2. Faith, Reason
+
+### 14. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
+- 3. Provable Hierarchy
+- 11. Governance
+
+### 15. Al-Azeez (ٱلْعَزِيزُ) The All Mighty
+- 3. Provable Hierarchy
+
+### 16. Al-Jaleel (ٱلْجَلِيلُ) The Majestic
+- 3. Provable Hierarchy
+
+### 17. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
+- 3. Provable Hierarchy
+- 7. Harmony, Generosity
+
+### 18. Maalik-Ul-Mulk (مَالِكُ ٱلْمُلْكُ) Master of the Kingdom, Owner of the Dominion
+- 3. Provable Hierarchy
+
+### 19. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
+- 3. Provable Hierarchy
+- 6. Hope
+- 7. Harmony, Generosity
+
+### 20. Al-Qadir (ٱلْقَادِرُ) The Capable, The Powerful
+- 3. Provable Hierarchy
+
+### 21. Al-Muqtadir (ٱلْمُقْتَدِرُ) The Omnipotent
+- 3. Provable Hierarchy
+
+### 22. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
+- 4. Charity
+- 18. Abundance
+
+### 23. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
+- 4. Charity
+- 17. Market
+- 18. Abundance
+
+### 24. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
+- 4. Charity
+- 7. Harmony, Generosity
+
+### 25. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
+- 4. Charity
+- 7. Harmony, Generosity
+
+### 26. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
+- 4. Charity
+- 5. Provable Goodness
+
+### 27. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
+- 4. Charity
+- 17. Market
+
+### 28. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
+- 4. Charity
+- 17. Market
+
+### 29. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
+- 5. Provable Goodness
+- 4. Charity
+
+### 30. Al-Haqq (ٱلْحَقُّ) The Absolute Truth
+- 5. Provable Goodness
+
+### 31. Al-Lateef (ٱلْلَّطِيفُ) The Subtle One, The Most Gentle
+- 5. Provable Goodness
+
+### 32. Al-Wadood (ٱلْوَدُودُ) The Most Loving
+- 5. Provable Goodness
+
+### 33. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
+- 5. Provable Goodness
+- 18. Abundance
+
+### 34. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
+- 5. Provable Goodness
+- 10. Justice
+- 13. Fairness
+
+### 35. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
+- 6. Hope
+- 9. Forgiveness
+
+### 36. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
+- 6. Hope
+- 9. Forgiveness
+
+### 37. At-Tawwab (ٱلْتَّوَّابُ) The Ever-Pardoning, The Relenting
+- 6. Hope
+
+### 38. Al-Haleem (ٱلْحَلِيمُ) The Most Forbearing
+- 6. Hope
+
+### 39. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
+- 6. Hope
+- 3. Provable Hierarchy
+- 7. Harmony, Generosity
+
+### 40. Al-Wakeel (ٱلْوَكِيلُ) The Trustee, The Disposer of Affairs
+- 6. Hope
+
+### 41. Al-Muhaymin (ٱلْمُهَيْمِنُ) The Guardian, The Witness, The Overseer
+- 7. Harmony, Generosity
+
+### 42. As-Salam (ٱلْسَّلَامُ) The Perfection and Giver of Peace
+- 7. Harmony, Generosity
+
+### 43. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
+- 7. Harmony, Generosity
+- 4. Charity
+
+### 44. Al-Hameed (ٱلْحَمِيدُ) The Praiseworthy
+- 7. Harmony, Generosity
+
+### 45. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
+- 7. Harmony, Generosity
+- 4. Charity
+
+### 46. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
+- 7. Harmony, Generosity
+- 3. Provable Hierarchy
+
+### 47. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
+- 8. Prudence
+- 2. Faith, Reason
+
+### 48. Al-Khabeer (ٱلْخَبِيرُ) The Acquainted, the All-Aware
+- 8. Prudence
+
+### 49. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
+- 8. Prudence
+- 2. Faith, Reason
+
+### 50. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
+- 8. Prudence
+- 16. Measurability
+
+### 51. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
+- 8. Prudence
+- 16. Measurability
+
+### 52. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
+- 9. Forgiveness
+- 6. Hope
+
+### 53. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
+- 9. Forgiveness
+- 6. Hope
+
+### 54. Al-‘Afuww (ٱلْعَفُوُّ) The Pardoner
+- 9. Forgiveness
+
+### 55. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
+- 10. Justice
+- 13. Fairness
+
+### 56. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
+- 10. Justice
+- 13. Fairness
+
+### 57. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
+- 10. Justice
+- 13. Fairness
+- 5. Provable Goodness
+
+### 58. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
+- 11. Governance
+- 3. Provable Hierarchy
+
+### 59. Al-Waali (ٱلْوَالِي) The Governor, The Patron
+- 11. Governance
+
+### 60. Al-Waliyy (ٱلْوَلِيُّ) The Protecting Associate
+- 11. Governance
+
+### 61. An-Nafi’ (ٱلْنَّافِعُ) The Propitious, the Benefactor
+- 12. Temperance
+
+### 62. Al-Khaafidh (ٱلْخَافِضُ) The Reducer, The Abaser
+- 12. Temperance
+
+### 63. Al-Muqaddim (ٱلْمُقَدِّمُ) The Expediter, The Promoter
+- 12. Temperance
+
+### 64. Al-Mu’Akhkhir (ٱلْمُؤَخِّرُ) The Delayer, the Retarder
+- 12. Temperance
+
+### 65. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
+- 13. Fairness
+- 10. Justice
+- 5. Provable Goodness
+
+### 66. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
+- 13. Fairness
+- 10. Justice
+
+### 67. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
+- 13. Fairness
+- 10. Justice
+
+### 68. Al-Mateen (ٱلْمَتِينُ) The Firm, The Steadfast
+- 14. Fortitude
+
+### 69. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
+- 14. Fortitude
+- 1. God, The Destroyer
+
+### 70. Al-Qawiyy (ٱلْقَوِيُّ) The All-Strong
+- 14. Fortitude
+
+### 71. Al-Muzil (ٱلْمُذِلُّ) The Dishonourer, The Humiliator
+- 15. Competition
+
+### 72. Al-Mu’Izz (ٱلْمُعِزُّ) The Honourer, The Bestower
+- 15. Competition
+
+### 73. Ar-Raafi’ (ٱلْرَّافِعُ) The Exalter, The Elevator
+- 15. Competition
+
+### 74. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
+- 16. Measurability
+- 8. Prudence
+
+### 75. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
+- 16. Measurability
+- 8. Prudence
+
+### 76. Al-Jaami’ (ٱلْجَامِعُ) The Gatherer, the Uniter
+- 16. Measurability
+
+### 77. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
+- 17. Market
+- 4. Charity
+
+### 78. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
+- 17. Market
+- 4. Charity
+
+### 79. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
+- 17. Market
+- 4. Charity
+- 18. Abundance
+
+### 80. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
+- 18. Abundance
+- 5. Provable Goodness
+
+### 81. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
+- 18. Abundance
+- 4. Charity
+
+### 82. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
+- 18. Abundance
+- 4. Charity
+- 17. Market
+
+### 83. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
+- 19. Industriousness
+
+### 84. Al-Baari’ (ٱلْبَارِئُ) The Originator
+- 19. Industriousness
+- 21. God, The Creator
+
+### 85. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
+- 19. Industriousness
+- 21. God, The Creator
+
+### 86. Al-Muhyee (ٱلْمُحْيِى) The Giver of Life
+- 20. Survival
+
+### 87. Al-Baaqi (ٱلْبَاقِي) The Ever-Surviving, The Everlasting
+- 20. Survival
+
+### 88. Al-Waarith (ٱلْوَارِثُ) The Inheritor, The Heir
+- 20. Survival
+
+### 89. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
+- 21. God, The Creator
+- 19. Industriousness
+
+### 90. Al-Baari’ (ٱلْبَارِئُ) The Originator
+- 21. God, The Creator
+- 19. Industriousness
+
+### 91. Al-Musawwir (ٱلْمُصَوِّرُ) The Fashioner
+- 21. God, The Creator
+
+### 92. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
+- 21. God, The Creator
+- 19. Industriousness
+
+### 93. Al-Aakhir (ٱلْآخِرُ) The Last
+- 22. God, The Transcendent
+
+### 94. Al-Awwal (ٱلأَوَّلُ) The First
+- 22. God, The Transcendent
+
+### 95. Az-Dhaahir (ٱلْظَّاهِرُ) The Manifest
+- 22. God, The Transcendent
+
+### 96. Al-Baatin (ٱلْبَاطِنُ) The Hidden One, Knower of the Hidden
+- 22. God, The Transcendent
+
+### 97. Al-Waahid (ٱلْوَاحِدُ) The One
+- 22. God, The Transcendent
+
+### 98. Al-Ahad (ٱلْأَحَد) The Unique, The Only One
+- 22. God, The Transcendent
+
+### 99. As-Samad (ٱلْصَّمَدُ) The Eternal, Satisfier of Needs
+- 22. God, The Transcendent
 
 ## Classical Categories
 
