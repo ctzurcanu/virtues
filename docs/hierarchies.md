@@ -33,6 +33,9 @@ The linking concepts are:
     - Mass Media, Secret Services
     - Police
     - Censorship/Canceling
+    - Encryption
+    - Security
+    - Immune system
 
 1. Fairness
 1. Competition

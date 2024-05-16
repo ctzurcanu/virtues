@@ -19,6 +19,8 @@ layout: default
     - discovery of eternities
     - justice in eternity
     - prophecy
+    - reliability
+    - proof capture, proof creation
     - provable integrity of:
         - set/selection/definition
         - relationships (of the set)
