@@ -14,7 +14,8 @@ layout: default
         - change nature of gratification
         - pay in advance
     - Fortitude for the sake of others: Loyality
-    - Fortitude for the sake of others: Common Sense
+    - Fortitude for the sake of others: Common Sense, Politeness, Respect
+    - Fortitude for the sake of ideals: Loyality to ideals, Idealism
 
 - attributes:
     - strength and courage to face trials and challenges
