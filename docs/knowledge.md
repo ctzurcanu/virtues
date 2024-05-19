@@ -1,3 +1,8 @@
+---
+layout: default
+---
+[back](./)
+
 # Domains of Knowledge
 
 - Science, in general: Faith, Reason

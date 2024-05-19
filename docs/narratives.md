@@ -1,3 +1,8 @@
+---
+layout: default
+---
+[back](./)
+
 # Narratives
 
 ## From Survival to Reason

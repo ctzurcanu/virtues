@@ -1,3 +1,8 @@
+---
+layout: default
+---
+[back](./)
+
 # The 99 Names of Allah (Al Asma Ul Husna) as Virtues
 
 Allah (سُبْحَٰنَهُۥ وَتَعَٰلَىٰ) names and attributes can be understood as the perfect implementation of Virtues.
