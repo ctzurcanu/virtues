@@ -128,3 +128,11 @@ Concerning virtues and vices, we can construct a hierarchy of relationships:
 ## Virtue -> Relation
 
 ## Relation -> Virtue
+
+## Proposed Relationship
+
+![relationship](images/relationship2.png)
+
+Inst A is Institution A or Social Contract A. Inst AB is the Contract that can operate transactions between Institution A and Institution B: their higher contractual authority.
+
+If Virtues are encoded in the social contracts explicitly and the encoding is upgradeable, the civilization has improved chances for evolution as a whole.

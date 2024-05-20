@@ -1,3 +1,8 @@
+---
+layout: default
+---
+[back](./)
+
 # Concepts
 
 - Legitimacy: right to execute governance derived from Faith (clarity of implication, representation), Prudence (optimization), and Justice
