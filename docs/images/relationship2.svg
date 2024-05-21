@@ -30,8 +30,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.97895833"
-     inkscape:cx="385.61396"
-     inkscape:cy="364.67334"
+     inkscape:cx="322.28134"
+     inkscape:cy="340.15748"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -216,10 +216,11 @@
          id="path1337-5-6" />
     </g>
     <g
-       id="g535">
+       id="g357"
+       transform="translate(0,-0.52916667)">
       <g
          id="g1417-7-9"
-         transform="matrix(-0.24050178,-0.64456661,0.64456661,-0.24050178,34.722958,201.84612)">
+         transform="matrix(-0.24050178,-0.64456661,0.64456661,-0.24050178,34.722958,202.40066)">
         <path
            style="opacity:0.68;fill:none;stroke:#808080;stroke-width:1.93604;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
            d="M 60.174652,51.383331 H 119.82561 L 109.00909,45.138412"
@@ -256,7 +257,7 @@
     </g>
     <g
        id="g1417-7-3"
-       transform="matrix(-0.67198466,-0.47479683,0.47479683,-0.67198466,118.46039,203.7427)"
+       transform="matrix(-0.67198466,-0.47479683,0.47479683,-0.67198466,119.45119,203.21353)"
        style="opacity:0.6">
       <path
          style="opacity:0.68;fill:none;stroke:#808080;stroke-width:1.93604;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -269,7 +270,7 @@
     </g>
     <g
        id="g1417-8"
-       transform="matrix(0.65933381,-0.49221372,0.49221372,0.65933381,11.039304,134.40927)"
+       transform="matrix(0.66400661,-0.48589159,-0.48589159,-0.66400661,61.85582,203.78851)"
        style="opacity:0.6">
       <path
          style="opacity:0.68;fill:none;stroke:#808080;stroke-width:1.93604;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
