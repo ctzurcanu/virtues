@@ -16,3 +16,7 @@ layout: default
     1. Fortitude
     1. Competition
 - Common Sense: increases the fitting of the community in the environment, it is part of Fortitude
+- Sincerity: 
+    1. Lack of Temperance
+    1. Temperance
+    1. Fortitude

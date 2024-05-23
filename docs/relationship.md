@@ -69,15 +69,16 @@ Between virtues:
 1. Governance
 1. Temperance
 1. Fairness
-1. Fortitude
-    1. Loyalty to ideals/Idealism
-    2. Loyalty to Another
+1. Fortitude (Loyalty: Fortitude for the sake of)
+    1. Loyalty to ideals/Idealism (for the sake of Human or Timeless Virtues)
+    2. Loyalty to out-group
+    3. Loyalty to Another
 
 ### Animal Virtues
 
-1. Fortitude
-    1. Loyalty to Another
-    1. Fortitude for the sake of personal Survival, Abundance, Recognition
+1. Fortitude (Loyalty: Fortitude for the sake of)
+    1. Loyalty to in-group
+    1. Fortitude for the sake of personal Survival, Abundance, Recognition (Animal Virtues)
 1. Competition
 4. Measurability
 5. Market
