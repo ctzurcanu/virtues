@@ -20,7 +20,7 @@ layout: default
         - Faith can exist without Reason. Reason cannot exist without Faith (in the axioms)
 
 
-## Dendencies
+## Dependencies
 
 - Major
     - Charity: when one receives charity in the form of service or goods, it develops one's Faith.
@@ -50,3 +50,38 @@ layout: default
     - Upekkhā: equanimity, serenity
 
 
+## Application
+
+### Theorem 1: Proving the definitions of Virtues is of the highest Virtue
+
+1. Proving the definitions of Virtues is the same as constructing a provable definition of Virtues.
+1. Proving is part of the virtue of Faith, Reason, Clarity of Implication.
+1. Discovering tentative definitions / new definitions are part of the virtue of Hope.
+1. The process of constructing a provable definition consists of iterations of discovering and proving until the resulting proposition is both a definition and a provable construction.
+1. A definition is the shortest description of the essence of an object. 
+1. The objects that we are defining are abstractions. (Virtues are abstractions.)
+1. The definition of an abstraction is integral part of that abstraction.
+1. The definition of a virtue is part of that virtue.
+1. Given virtue A and B, The combined virtue C of A and B (when by constructive interference) is more virtuous than both A and B.
+1. Proving the definition of a virtue is the constructive interference of: Faith, Reason, Hope, and the defined virtue.
+1. The action of constructing a provable definition is atomic.
+1. This action is of the highest Virtue.
+
+### Lemma 1: Constructive Interference of Virtues
+
+Two virtues interfere constructively in a situation when:
+- the virtues arrise independently
+- when one is artificially increased the other one does not decrease
+
+
+### Lemma 2: Atomic Action
+
+An atomic action is the shortest description of the process for a result that is not attained by any other atomic action.
+
+
+### Lemma 3: The Virtue of a Thing contains at least a part of the definition of that Thing
+
+
+### Theorem 2: The complete definition of a Thing has to mention the Virtues of that Thing
+
+1. By including the Virtues in the definition, the definition becomes more virtuous.
