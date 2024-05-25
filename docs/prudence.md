@@ -16,6 +16,7 @@ layout: default
     - in the interest of others
 
 - subtypes
+    - mental hygiene
     - discovery of eternities
     - justice in eternity
     - prophecy
