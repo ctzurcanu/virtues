@@ -67,21 +67,40 @@ layout: default
 1. The action of constructing a provable definition is atomic.
 1. This action is of the highest Virtue.
 
-### Lemma 1: Constructive Interference of Virtues
+### Lemma 1.1: Constructive Interference of Virtues
 
 Two virtues interfere constructively in a situation when:
 - the virtues arrise independently
 - when one is artificially increased the other one does not decrease
 
 
-### Lemma 2: Atomic Action
+### Lemma 1.2: Atomic Action
 
 An atomic action is the shortest description of the process for a result that is not attained by any other atomic action.
 
 
-### Lemma 3: The Virtue of a Thing contains at least a part of the definition of that Thing
+### Lemma 1.3: The Virtue of a Thing contains at least a part of the definition of that Thing
 
 
 ### Theorem 2: The complete definition of a Thing has to mention the Virtues of that Thing
 
-1. By including the Virtues in the definition, the definition becomes more virtuous.
+### Corollary 2.1: By including the Virtues in the definition of any Thing, the definition itself becomes more virtuous.
+
+### Theorem 3: Virtues and their instantiations can be proven
+
+1. From Lemma 3.1: Everything that can be thought, can be thought clearly.
+1. Virtues and their instantiations in reality can be thought, therefore defined (can be thought clearly)
+1. Proving instantiations can be done by timestamped video/audio capture
+1. The existence of virtues is proven by the existence of the words/concepts in the spoken languages and the definitions that are identifying the same concept
+1. The proof for the concept being virtuous is by consensus: we find it included (and applicable) in a set of spiritual traditions
+
+
+### Lemma 3.1: Everything that can be thought, can be thought clearly.
+
+From Wittgenstein's Tractatus [4.116](https://www.wittgensteinproject.org/w/index.php?title=Tractatus_Logico-Philosophicus_(English)#4.116): 
+```
+Everything that can be thought at all can be thought clearly. Everything that can be said can be said clearly.
+```
+### Corollary 3.1: All virtues are reasonable
+
+The proovable definition of each virtue is an integral part of the virtue itself. In other words: the virtue of Faith/Reason is present in the definition of all other virtues.

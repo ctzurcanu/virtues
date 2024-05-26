@@ -88,6 +88,9 @@ Rule of Law applied to:
 ### In Buddhism
 
 "Hurt not others in ways that you yourself would find hurtful" — Udanavarga 5:18
+- [Muditā](https://en.wikipedia.org/wiki/Mudita): Empathy
+- [Karuṇā](https://en.wikipedia.org/wiki/Karu%E1%B9%87%C4%81) for negative Golden Rule
+- [Mettā/Maitrī](https://en.wikipedia.org/wiki/Maitr%C4%AB) for positive Golden Rule
 
 ### In Confucianism
 
