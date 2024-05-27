@@ -7,11 +7,30 @@ layout: default
 
 ## The 3 Moral Concepts
 
-- Empathy
-- Governance
-- Continuity: 
+- Empathy influences:
+    - Faith, Reason
+    - Charity
+    - Hope
+    - Prudence
+    - Temperance
+    - Justice
+    - Governance
+- Governance influences:
+    - Empathy
+    - Prudence
+    - Temperance
+    - Justice
+    - Fortitude
+- Continuity influences: 
     - under Time: of life of the individual, of life of the species, of an emotion, of an idea
+        - Fortitude
+        - Measurability
+        - Abundance
+        - Survival
     - Timeless (Continuity of Eternities, of Causal relations): of institutions, of laws, of Concepts, Gods
+        - Hope
+        - Charity
+        - Faith
 
 ## Application of Rule of Law
 

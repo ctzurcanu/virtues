@@ -245,11 +245,18 @@ The ordered list:
 
 1. Primary:
     1. Ren (仁, Benevolence or Humaneness): Often considered the supreme virtue in Confucianism, ren is the quality of compassion, kindness, and empathy towards others. It's about caring for people and is central to Confucian ethics.
-        1. Charity
+        1. Empathy: 
+            - Faith, Reason
+            - Charity
+            - Hope
+            - Prudence
+            - Temperance
+            - Justice
+            - Governance
     1. Yi (義, Righteousness or Justice): Yi is the moral disposition to do good, and the ability to recognize what is right and just. It involves putting moral principles into practice.
         1. Justice
     1. Li (禮, Proper Ritual or Etiquette): This virtue refers to a set of rituals, customs, and standards of politeness that govern proper behavior and maintain social order. It's about showing respect through appropriate conduct.
-        1. Faith, Clarity
+        1. Fortitude, Fitness
     1. Zhi (智, Wisdom): Zhi is the ability to judge and act wisely. It involves a deep understanding of people and situations, and the application of knowledge in a practical and ethical manner.
         1. Prudence
 1. Major:

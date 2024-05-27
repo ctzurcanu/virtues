@@ -45,7 +45,7 @@ The linking concepts are:
 The default hierarchy is:
 
 1. Faith, Reason
-1. Provable Hierarchy
+1. Provable Order/Hierarchy
 1. Charity
 1. Provable Goodness
 1. Hope
@@ -71,7 +71,7 @@ The evolution can be [narrated](narratives.html).
 ### Proof
 
 1. Faith, Reason
-1. Provable Hierarchy
+1. Provable Order/Hierarchy
 1. Charity
 1. Provable Goodness
 1. Hope
@@ -105,7 +105,7 @@ The evolution can be [narrated](narratives.html).
     - Mathematics
     - Philosophy
     - Physics
-1. Provable Hierarchy
+1. Provable Order/Hierarchy
 1. Charity
 1. Provable Goodness
 1. Hope
@@ -176,7 +176,7 @@ The evolution can be [narrated](narratives.html).
 
 1. Omni Law
     - Faith
-    - Provable Hierarchy
+    - Provable Order/Hierarchy
     - Charity
     - Provable Goodness
 
