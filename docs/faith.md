@@ -19,9 +19,6 @@ layout: default
         - Faith uses Reason to gain importance
         - Faith can exist without Reason. Reason cannot exist without Faith (in the axioms)
 
-subtypes:
-    - Wonder, (θαυμάζω, thaumazó) vitality of mentaly exploring and linking concepts. It is also the highest part of Beauty
-    - Creativity: sharing Wonder
 
 
 ## Dependencies

@@ -33,7 +33,7 @@ layout: default
 - Wonder: θαυμάζω (thaumazó: to marvel, wonder) part of Faith, Reason. It is the vitality of mentaly exploring and linking concepts.
 - Creativity: sharing Wonder
 - Beauty:
-    1. Wonder
+    1. Wonder, Hope
     1. Temperance
     1. Sexual Fitness, Fortitude
 

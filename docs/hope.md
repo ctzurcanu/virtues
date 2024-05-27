@@ -15,6 +15,10 @@ layout: default
 - ability to discover the whole given an incomplete set of parts
 - the ability to transfigurate, and hold a point of view that increases beauty
 
+subtypes:
+    - Wonder, (θαυμάζω, thaumazó) vitality of mentaly exploring and linking concepts. It is also the highest part of Beauty
+    - Creativity: sharing Wonder
+
 
 ## Dendencies
 
