@@ -5,6 +5,23 @@ layout: default
 
 # Faith, Clarity of Implication, Reason
 
+![Faith](images/faith.png)
+
+- Top: True, Truth, ⊤
+- Bottom: False, untrue, Non-Factual, ⊥
+- Intersection of:
+    - Faith and Reason: Logos
+    - Top and Bottom: Contradiction, Paradox, the Axis of Numbers
+    - Top and Faith: Axioms
+    - Top and Reason: Implication ⊢, Logic
+
+Default path of enriching the Logos:
+    - Axioms
+    - Logic
+    - (optional) Logos elements
+    - (optional) Logic
+    - Logos
+
 ## Definition
 
 
