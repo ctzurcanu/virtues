@@ -39,4 +39,5 @@ layout: default
 - Intelligence:
     1. Nous, Faith/Reason (energy of intellect)
     1. Logic Fallacy
-    1. Lack of Governance
+    1. Governance
+    1. Lack of Governance (vicious propaganda, misused cleverness)
