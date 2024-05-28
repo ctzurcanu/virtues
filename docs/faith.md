@@ -7,20 +7,27 @@ layout: default
 
 ![Faith](images/faith.png)
 
-- Top: True, Truth, ⊤
-- Bottom: False, untrue, Non-Factual, ⊥
+- Top: True, Truth, Virtuous, ⊤
+- Bottom: False, untrue, Non-Factual, Vicious, ⊥
 - Intersection of:
     - Faith and Reason: Logos
     - Top and Bottom: Contradiction, Paradox, the Axis of Numbers
     - Top and Faith: Axioms
     - Top and Reason: Implication ⊢, Logic
+    - Bottom and Faith: unfound Superstition
+    - Bottom and Reason: Fallacy
+- Other sets:
+    - Reason \ Faith ⋂ Top = technē: know how (the laws of logic are in this set)
+    - Reason ⋂ Faith ⋂ Top = epistēmē: knowledge
+
 
 Default path of enriching the Logos:
-    - Axioms
-    - Logic
-    - (optional) Logos elements
-    - (optional) Logic
-    - Logos
+- Nous (energy of intellect, intelligence)
+- Axioms or Logos elements: materia prima
+- Logic: tools of implication
+- (optional) other Logos elements
+- (optional) Logic
+- epistēmē: scientific knowledge, logically deducted Logos
 
 ## Definition
 

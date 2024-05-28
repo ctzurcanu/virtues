@@ -36,4 +36,7 @@ layout: default
     1. Wonder, Hope
     1. Temperance
     1. Sexual Fitness, Fortitude
-
+- Intelligence:
+    1. Nous, Faith/Reason (energy of intellect)
+    1. Logic Fallacy
+    1. Lack of Governance
