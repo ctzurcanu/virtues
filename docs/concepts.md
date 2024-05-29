@@ -41,3 +41,7 @@ layout: default
     1. Logic Fallacy
     1. Governance
     1. Lack of Governance (vicious propaganda, misused cleverness)
+- Consistency:
+    1. Justice (across roles)
+    1. Prudence (across time while across roles)
+- Hospitality: Xenia ξενία, Charity

@@ -26,6 +26,7 @@ layout: default
     - indirect volunteering
     - hard to prove (easy to fake)
 
+
 ### Charity and Volunteering
 
 - attributes:
@@ -37,6 +38,8 @@ layout: default
     - efficiency of effort
     - number of beneficiaries and payers
     - amount of benefit
+-subtypes:
+    - Hospitality Xenia ξενία
 
 ### Corruptions
 
