@@ -12,8 +12,12 @@ layout: default
 - subtypes:
     - transparency
     - parsability
-    - searchability
     - reflex
+    - searchability (by reflex)
+    - discrimination (by reflex)
+    - standardization
+    - interfacing
+    - currency / money
 - attributes:
 
 ### Competition
