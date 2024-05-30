@@ -18,6 +18,7 @@ The linking concepts are:
     - humility means: upon public recognition of one's virtues, accepting the minimum that is merited
     - greatness is virtue, recognized by others
     - "noblesse oblige" means the duty to recognize the virtue of others when your virtues are recognized
+    - evocatio: bringing foreign gods for worship
     - false humility is of 3 types:
         - rejection of others' recognition of one's virtues (when the virtues are factual)
         - signaling humility about a virtue without being recognized for that virtue first

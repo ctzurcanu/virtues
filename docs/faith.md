@@ -29,6 +29,8 @@ Default path of enriching the Logos:
 - (optional) Logic
 - epistēmē: scientific knowledge, logically deducted Logos
 
+
+
 ## Definition
 
 
@@ -43,7 +45,9 @@ Default path of enriching the Logos:
         - Faith uses Reason to gain importance
         - Faith can exist without Reason. Reason cannot exist without Faith (in the axioms)
 
+## Meditation
 
+- Contemplation: contemplation, theōría, θεωρία: sensing Truth (by direct experience)
 
 ## Dependencies
 
