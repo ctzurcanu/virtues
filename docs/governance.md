@@ -26,21 +26,6 @@ layout: default
 
 ## Correspondences
 
-- Classical Greek
-    - Sophia (Wisdom)
-- Hinduism
-    - Satya (सत्य): Truthfulness (Not lying)
-    - Ishvarapranidhana (ईश्वरप्रणिधान): contemplation of the Ishvara
-- Islam
-    - Tawheed (Belief in the Oneness of God)
-- Christianity
-    - Faith
-    - Humility
-    - Prudence (Wisdom)
-- Judaism
-    - Ahavat Torah (Love of the Law/Torah)
-    - Emet (Truthfulness)
-- Buddhism
-    - Sacca: truthfulness, honesty
-    - Upekkhā: equanimity, serenity
-
+- Republic
+  - Representatives
+  - Governors
