@@ -27,16 +27,8 @@ The linking concepts are:
     - takes place only after Justice has been imparted
     - Forgiveness is dependent upon signs of Repentance from the guilty party
     - this action is the essence of Orthodox Christianity: one cannot spiritually digest the Eucharist without Repentance for all wrongdoings and/or solving all injustices one is aware of
-1. Governance
-    - Independency/Sovereignty
-    - Manipulation/Propaganda
-    - Voting/Polling
-    - Mass Media, Secret Services
-    - Police
-    - Censorship/Canceling
-    - Encryption
-    - Security
-    - Immune system
+1. [Governance](governance.html)
+
 
 1. Fairness
 1. Competition
