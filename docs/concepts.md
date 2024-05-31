@@ -45,3 +45,7 @@ layout: default
     1. Justice (across roles)
     1. Prudence (across time while across roles)
 - Hospitality: Xenia ξενία, Charity
+- Rigurosity:
+    - Fortitude: Rigurosity with application to the body
+    - Justice: ~ the emotions
+    - Faith, Reason: ~ the mental concepts
