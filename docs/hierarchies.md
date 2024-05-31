@@ -11,25 +11,11 @@ layout: default
 
 The linking concepts are:
 
-1. Provable Hierarchy
+1. Provable Order / Hierarchy
 1. Provable Goodness
-1. Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility
-    - humility means recognition of the virtue of others
-    - humility means: upon public recognition of one's virtues, accepting the minimum that is merited
-    - greatness is virtue, recognized by others
-    - "noblesse oblige" means the duty to recognize the virtue of others when your virtues are recognized
-    - evocatio: bringing foreign gods for worship
-    - false humility is of 3 types:
-        - rejection of others' recognition of one's virtues (when the virtues are factual)
-        - signaling humility about a virtue without being recognized for that virtue first
-        - assigning a different value to the concept of "humility" in the hierarchy of virtues than its earned value
-1. Forgiveness/Repentance
-    - takes place only after Justice has been imparted
-    - Forgiveness is dependent upon signs of Repentance from the guilty party
-    - this action is the essence of Orthodox Christianity: one cannot spiritually digest the Eucharist without Repentance for all wrongdoings and/or solving all injustices one is aware of
+1. [Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility](harmony.html)
+1. [Forgiveness/Repentance](forgiveness.html)
 1. [Governance](governance.html)
-
-
 1. Fairness
 1. Competition
 1. Market

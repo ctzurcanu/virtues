@@ -140,7 +140,7 @@ The ordered list:
 1. Savlanut (Patience): Bearing adversity and insult without bitterness or complaint is considered a virtue in Jewish thought.
     1. Prudence
 1. Anavah (Humility): Humility is seen as recognizing one's place in the world relative to God and others.
-    1. Justice
+    1. Harmony, Humility
 1. Emet (Truthfulness): Honesty and integrity in one's words and actions are highly valued.
     1. Faith
 1. Kedushah (Holiness): Striving for a life of holiness, often through following the commandments (mitzvot) and engaging in acts that draw one closer to God.
@@ -149,7 +149,7 @@ The ordered list:
 ## Correspondence with Buddhist Pāramitā
 
 1. Dāna (pāramī): generosity, giving of oneself
-    1. Charity
+    1. Harmony, Humility
 1. Sīla: virtue, morality, proper conduct
     1. Prudence
 1. Nekkhamma: renunciation
@@ -231,13 +231,13 @@ The ordered list:
 1. Simplicity (樸, Pu): Valued highly in Taoism, simplicity means leading a life that is plain and unadorned, free from unnecessary complications and desires. It involves being content with little and finding joy in simple things.
     1. Prudence
 1. Humility (謙, Qian): Recognizing one's small place in the vastness of the universe and approaching life with modesty and humility.
-    1. Faith
+    1. Harmony, Humility
 1. Compassion (慈, Ci): Showing kindness and consideration towards all beings, understanding that all life is interconnected.
     1. Charity
 1. Moderation (中庸, Zhong Yong): Advocating for a balanced, moderate approach to life, avoiding extremes, and maintaining equilibrium.
     1. Temperance
 1. Harmony (和, He): Living in harmony with oneself, with others, and with the natural world. This involves understanding and adapting to the rhythms and patterns of nature.
-    1. Hope
+    1. Harmony, Humility
 1. Patience (忍, Ren): Understanding and accepting the natural course of things, which involves enduring hardships and setbacks with a calm and peaceful mind.
     1. Faith
 
@@ -267,11 +267,11 @@ The ordered list:
     1. Xiao (孝, Filial Piety): This virtue represents respect, obedience, and care for one's parents and ancestors. It's a key aspect of family values in Confucianism.
         1. Composed
     1. Zhong (忠, Loyalty): Loyalty in Confucianism involves being faithful to one’s superiors, friends, and the principles of ren and yi.
-        1. Composed
+        1. Loyalty, Fortitude
     1. Shù (恕, Reciprocity or Empathy): Often described as the "Golden Rule" of Confucianism, shu involves treating others as one would wish to be treated.
-        1. Composed
+        1. Empathy
     1. Wēn (文, Cultural Refinement): Wen refers to the appreciation and cultivation of arts, literature, and culture, which are seen as important for personal development and social refinement.
-        1. Hope
+        1. Harmony, Nobility
 1. Minor:
     1. honesty (诚; chéng)
         1. Faith
