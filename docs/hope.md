@@ -18,6 +18,7 @@ layout: default
 subtypes:
     - Wonder, (θαυμάζω, thaumazó) vitality of mentaly exploring and linking concepts. It is also the highest part of Beauty
     - Creativity: sharing Wonder
+    - Provable framework for Optimism
 
 
 ## Dendencies

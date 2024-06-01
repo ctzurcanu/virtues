@@ -54,11 +54,12 @@ The evolution can be [narrated](narratives.html).
 1. Charity
 1. Provable Goodness
 1. Hope
+1. Harmony, Generosity
+
 
 ### Effort and Intent
 
-5. Hope
-1. Harmony, Generosity
+6. Harmony, Generosity
 1. Prudence
 1. Forgiveness
 1. Justice

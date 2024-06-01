@@ -7,7 +7,7 @@ layout: default
 
 ## Requirements
 
-- [being human in society](human.html)
+- [being a citizen](citizen.html)
 
 ## Definitions
 

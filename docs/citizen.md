@@ -3,11 +3,11 @@ layout: default
 ---
 [back](./)
 
-# Being Human in Society
+# Being a Citizen
 
 ## Requirements
 
-- being
+- living in the city
 
 ## Definitions
 
@@ -20,5 +20,18 @@ layout: default
 - the act of establishing legitimate consensus if not extant
     - consensus has to pass the filter of categorical imperative
 
-- enacting at least equal or more (in quality and quantiy) moral duties than the local average
+- striving to enact at least equal or more (in quality and quantiy) moral duties than the local average
+
+## Virtues
+
+- [Harmony, Humility](harmony.html)
+- [Loyaly, Fortitude](fortitude.html) to the ideals of Civilization
+
+### To be a Leader
+
+- Hope:
+    - Sacrifice to Timelessness
+    - Share Wonder
+- Governance:
+    - Imitatio Civitate
 

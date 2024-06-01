@@ -49,3 +49,16 @@ layout: default
     - Fortitude: Rigurosity with application to the body
     - Justice: ~ the emotions
     - Faith, Reason: ~ the mental concepts
+- Optimism:
+    - Hope
+    - Lack of Fortitude
+    - Lack of Reason
+- Pesimism:
+    - Realism, Prudence
+    - Lack of Hope
+    - Lack of Reason
+    - Lack of Fortitude
+- Purity:
+    - Loyalty to ideals
+    - Mental Hygiene
+    - Mental Plasticity
