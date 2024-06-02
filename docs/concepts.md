@@ -59,6 +59,6 @@ layout: default
     - Lack of Reason
     - Lack of Fortitude
 - Purity:
-    - Loyalty to ideals
-    - Mental Hygiene
+    - Loyalty to ideals, Idealism, Fortitude
+    - Mental Hygiene, Prudence
     - Mental Plasticity

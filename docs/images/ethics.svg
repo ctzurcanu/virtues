@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180mm"
+   height="180mm"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="ethics.svg"
+   inkscape:export-filename="ethics.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.97895833"
+     inkscape:cx="322.28134"
+     inkscape:cy="340.15748"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid182"
+       units="mm"
+       empspacing="4"
+       spacingx="11.25"
+       spacingy="11.25"
+       visible="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid220"
+       color="#00dc55"
+       opacity="0.33333333"
+       empcolor="#009a47"
+       empopacity="0.30196078"
+       empspacing="4"
+       spacingx="9.5000003"
+       spacingy="9.5000003"
+       originx="-4.7500001"
+       originy="-4.7500001"
+       units="mm" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g974"
+       transform="translate(0,-15.875101)"
+       style="fill:none;stroke:#808080;opacity:0.6">
+      <path
+         sodipodi:type="star"
+         style="opacity:0.8;fill:none;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path948"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="45.945946"
+         sodipodi:cy="69.729729"
+         sodipodi:r1="63.292313"
+         sodipodi:r2="31.646156"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 100.7587,101.37589 -8.866805,101.37588 45.945946,6.4374161 Z"
+         inkscape:transform-center-y="-15.823079"
+         transform="translate(44.054054,36.093343)" />
+      <path
+         sodipodi:type="star"
+         style="opacity:0.8;fill:none;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path948-8"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="45.945946"
+         sodipodi:cy="69.729729"
+         sodipodi:r1="63.292313"
+         sodipodi:r2="31.646156"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 100.7587,101.37589 -8.866805,101.37588 45.945946,6.4374161 Z"
+         inkscape:transform-center-y="15.82308"
+         transform="matrix(1,0,0,-1,44.054054,175.65686)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:none;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="34.324326"
+       y="56.147316"
+       id="text1030"><tspan
+         sodipodi:role="line"
+         id="tspan1028"
+         style="fill:#808080;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="34.324326"
+         y="56.147316">Art</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:none;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="34.711727"
+       y="133.32553"
+       id="text1030-7"><tspan
+         sodipodi:role="line"
+         id="tspan1028-4"
+         style="font-size:11.2889px;fill:#808080;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="34.711727"
+         y="133.32553">Faith</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:none;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="90.198616"
+       y="21.81402"
+       id="text1030-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan1028-4-5"
+         style="font-size:11.2889px;fill:#808080;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="90.198616"
+         y="21.81402">Top</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;fill:#808080;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="90.198616"
+         y="35.925144"
+         id="tspan1289">Ethics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:none;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="144.17119"
+       y="133.32553"
+       id="text1030-8"><tspan
+         sodipodi:role="line"
+         id="tspan1028-0"
+         style="font-size:11.2889px;fill:#808080;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="144.17119"
+         y="133.32553">Reason</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="145.4054"
+       y="56.216217"
+       id="text1186"><tspan
+         sodipodi:role="line"
+         id="tspan1184"
+         style="stroke-width:0"
+         x="145.4054"
+         y="56.216217">Science</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="89.729729"
+       y="167.56757"
+       id="text1190"><tspan
+         sodipodi:role="line"
+         id="tspan1188"
+         style="stroke-width:0"
+         x="89.729729"
+         y="167.56757">Production</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="89.837387"
+       y="55.046844"
+       id="text1194"><tspan
+         sodipodi:role="line"
+         id="tspan1192"
+         style="font-size:11.2889px;stroke-width:0"
+         x="89.837387"
+         y="55.046844">Esthetics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="-31.034718"
+       y="153.64819"
+       id="text1198"
+       transform="rotate(-60)"><tspan
+         sodipodi:role="line"
+         id="tspan1196"
+         style="stroke-width:0"
+         x="-31.034721"
+         y="153.64819">Applied Science</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="-34.162231"
+       y="165.6151"
+       id="text1202"
+       transform="rotate(-60)"><tspan
+         sodipodi:role="line"
+         id="tspan1200"
+         style="stroke-width:0"
+         x="-34.162231"
+         y="165.6151">Academia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="123.03819"
+       y="-2.4182343"
+       id="text1206"
+       transform="rotate(60)"><tspan
+         sodipodi:role="line"
+         id="tspan1204"
+         style="stroke-width:0"
+         x="123.03819"
+         y="-2.4182343">Performing Art</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="117.63279"
+       y="11.906091"
+       id="text1210"
+       transform="rotate(60)"><tspan
+         sodipodi:role="line"
+         id="tspan1208"
+         style="stroke-width:0"
+         x="117.63279"
+         y="11.906091">Artisaning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="88.918915"
+       y="65.945946"
+       id="text1214"><tspan
+         sodipodi:role="line"
+         id="tspan1212"
+         style="font-size:8.46667px;stroke-width:0"
+         x="88.918915"
+         y="65.945946">Empiric Discovery</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="90.171219"
+       y="92.676842"
+       id="text1218"><tspan
+         sodipodi:role="line"
+         id="tspan1216"
+         style="font-size:9.87778px;stroke-width:0"
+         x="90.171219"
+         y="92.676842">Thinking</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.6;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="-90.071655"
+       y="92.893883"
+       id="text1222"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1220"
+         style="font-size:11.2889px;stroke-width:0"
+         x="-90.071655"
+         y="92.893883">Doing</tspan></text>
+  </g>
+  <metadata
+     id="metadata184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -20,16 +20,52 @@ layout: default
     - Reason \ Faith ⋂ Top = technē: know how (the laws of logic are in this set)
     - Reason ⋂ Faith ⋂ Top = epistēmē: knowledge
 
+## Art
 
-Default path of enriching the Logos:
+Artistic path of enriching the Logos:
+- Nous (energy of intellect, intelligence)
+- Guiding Wonder, Hope towards a leap of Faith
+- Finding a solid ground in Faith, Axiom
+- Mapping the new teritory in Logos
+- links:
+    - Art in Science: Empiric Discovery
+    - Science of Art: Esthetics (αἰσθητικός aisthētikós)
+    - Art in Production: Artisaning
+    - Production of Art: Art Performing
+
+## Science
+
+Scientific path of enriching the Logos:
 - Nous (energy of intellect, intelligence)
 - Axioms or Logos elements: materia prima
 - Logic: tools of implication
 - (optional) other Logos elements
 - (optional) Logic
 - epistēmē: scientific knowledge, logically deducted Logos
+- links:
+    - Art in Science: Empiric Discovery
+    - Science of Art: Esthetics (αἰσθητικός aisthētikós)
+    - Production of Science: Academia
+    - Science of Production: Applied Science
 
+## Production
 
+Technical path of enriching the Logos:
+- Nous (energy of intellect, intelligence)
+- Choosing the mapping and set from the Logos
+- Using Technique (τέχνη tékhnē) to instantiate the knowledge or to perform an art
+- Acquire knowledge of doing/implementing
+- links:
+    - Art in Production: Artisaning
+    - Production of Art: Art Performing
+    - Production of Science: Academia
+    - Science of Production: Applied Science
+
+![Ethics](images/ethics.png)
+
+## Ethics
+
+Virtues implemented in Art, Science, and Production
 
 ## Definition
 
