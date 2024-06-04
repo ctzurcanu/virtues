@@ -11,8 +11,8 @@ layout: default
 
 The linking concepts are:
 
-1. Provable Order / Hierarchy
-1. Provable Goodness
+1. [Provable Order / Hierarchy](order.html)
+1. [Provable Goodness](goodness.html)
 1. [Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility](harmony.html)
 1. [Forgiveness/Repentance](forgiveness.html)
 1. [Governance](governance.html)

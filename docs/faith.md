@@ -80,10 +80,13 @@ Virtues implemented in Art, Science, and Production
         - Reason uses Faith as a foundation
         - Faith uses Reason to gain importance
         - Faith can exist without Reason. Reason cannot exist without Faith (in the axioms)
+- subtypes
+    - Contemplation: contemplation, theōría, θεωρία: sensing Truth (by direct experience)
+    - Discrimination: ability to establish the mental boundary for each Concept (Logoi)
+        - Refinement: ability to navigate the Logos with very fine resolution
+    - Rational Demonstration: ability to chain and join a set of previous Demonstrations using Logic
 
-## Meditation
 
-- Contemplation: contemplation, theōría, θεωρία: sensing Truth (by direct experience)
 
 ## Dependencies
 
