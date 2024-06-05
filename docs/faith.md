@@ -61,6 +61,21 @@ Technical path of enriching the Logos:
     - Production of Science: Academia
     - Science of Production: Applied Science
 
+## Consensus
+
+![Consensus](images/consensus.png)
+
+Enriching the Logos by Consensus:
+- Consensus about the definition of Consensus (Meta-Consensus)
+- Provable mechanism of voting
+- Timeless/Continous consensus contract
+- Public availability of the results
+- Ability to continuously challenge the results by verification and/or by re-voting
+
+subtypes:
+- consensus by Faith: when your opinion is rejected by the general consensus or when you do not know with clarity the reasons for your vote
+- consensus by Reason: when your opinion is adopted as general consensus
+
 ![Ethics](images/ethics.png)
 
 ## Ethics
