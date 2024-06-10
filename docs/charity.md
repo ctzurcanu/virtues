@@ -39,7 +39,8 @@ layout: default
     - number of beneficiaries and payers
     - amount of benefit
 -subtypes:
-    - Hospitality Xenia ξενία
+    - Hospitality: Xenia ξενία
+    - Ambassadorship: Proxenia προξενία
 
 ### Corruptions
 
