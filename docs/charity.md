@@ -38,7 +38,7 @@ layout: default
     - efficiency of effort
     - number of beneficiaries and payers
     - amount of benefit
--subtypes:
+- subtypes:
     - Hospitality: Xenia ξενία
     - Ambassadorship: Proxenia προξενία
 
