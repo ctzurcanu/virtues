@@ -29,7 +29,8 @@ Endagering the natural virtues of:
   - Abundance
   - Measurability
   - Fortitude
-in the service of a higher virtue (than the one in contest)
+
+in the service (or gain) of a higher virtue (than the one in contest)
 
 ## Whistleblowing, Virtus, Hope
 
@@ -39,6 +40,7 @@ Endagering the cardinal virtues of:
   - Justice
   - Prudence
   - Hope
+
 in the service of a higher virtue (than the one in contest)
 
 ## Redefining Virtues, Order
@@ -47,4 +49,5 @@ Endagering the supreme virtues of:
   - Hope
   - Charity
   - Faith, Reason
+
 in the service of a higher virtue (than the one in contest)
