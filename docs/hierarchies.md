@@ -12,7 +12,7 @@ layout: default
 The linking concepts are:
 
 1. [Provable Order / Hierarchy](order.html)
-1. Economy
+1. [Economy](economy.html)
 1. [Provable Goodness](goodness.html)
 1. [Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility](harmony.html)
 1. [Forgiveness/Repentance](forgiveness.html)
