@@ -7,7 +7,7 @@ layout: default
 
 ## Definition
 
-### Goodness
+### Goodness Agathós αγαθός
 
 The apparition of the necessary conditions to advance from your position on the virtue dimension to a better position/state (in quality and/or quantity)
 

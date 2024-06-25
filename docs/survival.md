@@ -3,7 +3,7 @@ layout: default
 ---
 [back](./)
 
-# Survival, Life, Existence, Replicability
+# Survival, Life, Existence, Health, Replicability
 
 ## Definition
 
@@ -11,6 +11,7 @@ layout: default
 
 - subtypes:
     - survival of an entity, individual
+    - health
     - survival of a class, type, species
 - attributes:
 
