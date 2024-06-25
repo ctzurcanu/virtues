@@ -12,6 +12,7 @@ layout: default
 The linking concepts are:
 
 1. [Provable Order / Hierarchy](order.html)
+1. Economy
 1. [Provable Goodness](goodness.html)
 1. [Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility](harmony.html)
 1. [Forgiveness/Repentance](forgiveness.html)
@@ -21,10 +22,11 @@ The linking concepts are:
 1. Market
 1. Industriousness
 
-The default hierarchy is:
+### Virtues Order
 
-1. Faith, Reason
 1. Provable Order/Hierarchy
+1. Faith, Reason
+1. Economy
 1. Charity
 1. Provable Goodness
 1. Hope
@@ -49,8 +51,9 @@ The evolution can be [narrated](narratives.html).
 
 ### Proof
 
-1. Faith, Reason
 1. Provable Order/Hierarchy
+1. Faith, Reason
+1. Economy
 1. Charity
 1. Provable Goodness
 1. Hope
@@ -59,7 +62,7 @@ The evolution can be [narrated](narratives.html).
 
 ### Effort and Intent
 
-6. Harmony, Generosity
+7. Harmony, Generosity
 1. Prudence
 1. Forgiveness
 1. Justice
@@ -70,7 +73,7 @@ The evolution can be [narrated](narratives.html).
 
 ### Material/Money
 
-13. Fortitude
+14. Fortitude
 1. Competition
 1. Measurability
 1. Market
@@ -81,11 +84,12 @@ The evolution can be [narrated](narratives.html).
 
 ## Links with Knowledge Domains
 
+1. Provable Order/Hierarchy
 1. Faith, Reason
     - Mathematics
     - Philosophy
     - Physics
-1. Provable Order/Hierarchy
+1. Economy
 1. Charity
 1. Provable Goodness
 1. Hope
@@ -145,7 +149,7 @@ The evolution can be [narrated](narratives.html).
 1. Industriousness
     - Agriculture
     - Animal husbandry
-1. Survival
+1. Survival, Health
     - Medicine
     - Biology
 
@@ -155,8 +159,9 @@ The evolution can be [narrated](narratives.html).
 ![Law Hierarchy](images/law.png)
 
 1. Omni Law
-    - Faith
     - Provable Order/Hierarchy
+    - Faith
+    - Economy
     - Charity
     - Provable Goodness
 
@@ -184,7 +189,7 @@ The evolution can be [narrated](narratives.html).
 1. Natural Law
     - Abundance
     - Industriousness
-    - Survival
+    - Survival, Health
 
     the individual (or nuclear family) lives alone: no community
 
@@ -195,8 +200,9 @@ The evolution can be [narrated](narratives.html).
 1. [Sahasrara](https://en.wikipedia.org/wiki/Sahasrara)
     - (beyond concepts)
 1. [Ajna](https://en.wikipedia.org/wiki/Ajna)
-    - Faith, Reason
     - Provable Hierarchy
+    - Faith, Reason
+    - Economy
 1. [Vishuddha](https://en.wikipedia.org/wiki/Vishuddha)
     - Charity
     - Provable Goodness

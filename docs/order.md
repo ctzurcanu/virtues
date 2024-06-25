@@ -3,13 +3,14 @@ layout: default
 ---
 [back](./)
 
-# Provable Order, Hierarchy
+# Provable Order, Hierarchy of Virtues
 
 
 ## Definition
 
 
 - an ordering of virtues that is provable by reason and/or by provable consensus
+- is a type of [Arete](arete.html)
 
 ## Proof of Existence
 

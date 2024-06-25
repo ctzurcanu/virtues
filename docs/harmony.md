@@ -5,6 +5,7 @@ layout: default
 
 # Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility
 
+Respect, honor (timē τιμή): the respectability an honorable man accrues with accomplishment (cultural, political, martial), per his station in life.
 
 ## Definition
 
@@ -17,7 +18,6 @@ layout: default
     - rejection of others' recognition of one's virtues (when the virtues are factual)
     - signaling humility about a virtue without being recognized for that virtue first
     - assigning a different value to the concept of "humility" in the hierarchy of virtues than its earned value
-
 
 
 ## Correspondences
@@ -37,3 +37,7 @@ layout: default
 - Confucianism
   - Wēn (文, Cultural Refinement): Wen refers to the appreciation and cultivation of arts, literature, and culture, which are seen as important for personal development and social refinement.
   - modesty (让; ràng)
+
+## Applications
+
+- Gratitude has the rare characteristic of building upon itself: you can be grateful for the fact that you are grateful. That makes gratitude a good subject of meditation. Oroboros is a symbol of gratitude.
