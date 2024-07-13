@@ -24,26 +24,26 @@ The linking concepts are:
 
 ### Virtues Order
 
-1. Provable Order/Hierarchy
-1. Faith, Reason
-1. Economy
-1. Charity
-1. Provable Goodness
-1. Hope
-1. Harmony, Generosity
-1. Prudence
-1. Forgiveness
-1. Justice
-1. Governance
-1. Temperance
+1. [Provable Order/Hierarchy](order.html)
+1. [Faith, Reason](faith.html)
+1. [Economy](economy.html)
+1. [Charity](charity.html)
+1. [Provable Goodness](goodness.html)
+1. [Hope](hope.html)
+1. [Harmony, Generosity](harmony.html)
+1. [Prudence](prudence.html)
+1. [Forgiveness](forgiveness.html)
+1. [Justice](justice.html)
+1. [Governance](governance.html)
+1. [Temperance](temperance.html)
 1. Fairness
-1. Fortitude
+1. [Fortitude](fortitude.html)
 1. Competition
-1. Measurability
+1. [Measurability](measurability.html)
 1. Market
-1. Abundance
-1. Industriousness
-1. Survival
+1. [Abundance](abundance.html)
+1. [Industriousness]
+1. [Survival](survival.html)
 
 The evolution can be [narrated](narratives.html).
 
