@@ -28,6 +28,7 @@ layout: default
 1. [Hierarchies](hierarchies.html)
 1. [Narratives](narratives.html)
 1. [Reduction to 3 Concepts](3concepts.md)
+1. [Reduction to 1 Concept](1concept.md)
 1. [Other Concepts](concepts.md)
 1. Names/Attributes of God
     - [The 99 Names of Allah](allah.html)
