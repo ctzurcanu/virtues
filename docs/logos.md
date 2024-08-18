@@ -13,7 +13,7 @@ A set of clearly defined concepts together with their links with the following c
 
 ## Ethos
 
-A Logos that is specific to a person or a group.
+A Logos that is specific to a person or a group. It contains in whole or in its main part definitions about what ought to be rather than what is.
 
 ## Person
 
