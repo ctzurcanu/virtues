@@ -36,13 +36,13 @@ The linking concepts are:
 1. [Justice](justice.html)
 1. [Governance](governance.html)
 1. [Temperance](temperance.html)
-1. Fairness
+1. [Fairness](fairness.html)
 1. [Fortitude](fortitude.html)
-1. Competition
+1. [Competition](competition.html)
 1. [Measurability](measurability.html)
-1. Market
+1. [Market](market.html)
 1. [Abundance](abundance.html)
-1. [Industriousness]
+1. [Industriousness](industriousness.html)
 1. [Survival](survival.html)
 
 The evolution can be [narrated](narratives.html).
