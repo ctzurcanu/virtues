@@ -11,6 +11,8 @@ layout: default
 
 ## Definitions
 
+- allowing others to sustainably judge you conform to their ethos
+
 - the act of doing virtuous evaluation and communication of the results to somebody else
 - the act of creating the best conditions for receiving such evaluation
     - making your main output known in detail
