@@ -7,7 +7,7 @@ layout: default
 
 ## Requirements
 
-- [being a citizen](citizen.html)
+- [defining your ethos](https://github.com/ctzurcanu/ethos)
 
 ## Definitions
 
