@@ -40,3 +40,36 @@ layout: default
 - exists towards institutions too
 - cannot be created or sustained by those who are unable to have ideal friendships with institutions or concepts that are defined without (not an inner/subjective definition)
 - The institution above does not have to be common between friends, but each (of the 2) has to be known mutually
+
+### Evolution of Friendship
+
+#### 0: Common Characteristics
+
+Some characteristics common to all stages of friendship between 2 parties (Alice and Bob):
+- friendship has to be stated (known by both parties)
+- it has to be mutual: if it is not mutual, it may be called admiration or "maybe friendship"
+- it is more virtuous if it is made public (not a secret between parties)
+- friendship is offered and withdrawn voluntarily
+- the relationship of friendship is not a direct or personal relationship: it is with the virtues and having your friend as an intermediary
+- the attachments that are developed are attachments to the virtues to the detriment of attachments to the person
+- the friendship has to be sustainable. To cultivate at least one cycle of transactions in such a way that imbalances are resolved
+- the most important part of the person of the friend is the ethos and it is the fundament for any friendship
+- the ethos includes:
+    - the personal God
+    - [the hierarchy](hierarchy.html) of virtues/values
+    - political reasoning and preferences
+    - other components defined at [the ethos repo](https://github.com/ctzurcanu/ethos)
+
+
+#### 1: Superficial
+
+In this type of friendship, the 2 friends Alice and Bob allow each other the freedom to judge each other's actions according to the ethos of each: Alice is welcomed (even invited) by Bob to judge him according to Bob's own ethos.
+
+#### 2: Moderate
+
+Alice and Bob judge each other's actions according to both ethoses: Alice is welcome to judge Bob according to his own ethos (same as for the previous stage) as well as according to her ethos.
+Another ethos is created: the ethos of the relationship. Judging according to the ethos of the relationship is always preferred.
+
+#### 3: Deep
+
+By the time the friendship becomes deep the friends will have changed each other's ethos so much that it will become one and their individual ethos will disappear into the ethos of the relationship.
