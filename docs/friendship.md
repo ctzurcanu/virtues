@@ -9,15 +9,37 @@ layout: default
 
 - [defining your ethos](https://github.com/ctzurcanu/ethos)
 
-## Definitions
+## Evolution of Relationship
 
-- allowing others to sustainably judge you conform to their ethos
+### Not Identified
+
+When one of the parties cannot identify another.
+
+### Stranger
+
+When all parties do identify each other, but one does not know the ethos of another.
+
+### Acquintance
+
+When all parties know the ethos of each other.
+
+### Debate Partner
+
+When each party is welcoming being judged according to their own ethos.
+
+### Friendship
+
+When each party is allowing others to sustainably judge the party conform to the other's ethos
+
+
+## Definitions
 
 - the act of doing virtuous evaluation and communication of the results to somebody else
 - the act of creating the best conditions for receiving such evaluation
     - making your main output known in detail
     - evaluating virtuous criticism with Temperance
 - the act of improving yourself concerning Virtues as a result of virtuous criticism (from without as well as from within)
+- the act of discovery and maintenance of a vituous (transactional) cycle between the involved parties
 - attributes
     - clarity: a friendship has to be declared at start and finish. If it is not conscious, it is not friendship
 
