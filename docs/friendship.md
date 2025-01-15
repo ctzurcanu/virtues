@@ -82,6 +82,17 @@ Some characteristics common to all stages of friendship between 2 parties (Alice
     - political reasoning and preferences
     - other components defined at [the ethos repo](https://github.com/ctzurcanu/ethos)
 
+##### 0.1 Measurement
+
+A friendship is measured only by distant members of the public (not known by any of the friend in that friendship). Ideally, by other friends (of other friendships).
+
+The qualities measured are the virtues that are produced by the relationship/collaboration (not by the individual friends) for the benetit of all others (the public).
+
+Therefore, an ideal friendship has to be:
+- public
+- with public (visible) output
+- for public's benefit
+- measurable
 
 #### 1: Superficial
 
