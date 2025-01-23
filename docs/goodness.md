@@ -25,11 +25,12 @@ The one that makes uncommonly great sacrifices is called a hero.
 - working for hire: you invest Survival, Health, Vital energy and gain Money, Abundance
 - rasing a child: invest Abundance and gain Governance, Temperance, Charity
 - making justice: invest any lower virtues to gain chance for Repentance and Forgiveness
+- entrepreneurship: invest Abundance and gain much more Abundance
 
 ### Civilization
 
 The totality of types of sacrifice that are encouraged in a society. 
 
-The most accepted and appreciated type gives the level of a civilization.
+The most accepted and appreciated type gives the level of a civilization. For the capitalist societies: entrepreneurship.
 The variety: the breadth of the civilization.
 The lack of acceptance of some types: the failures and the lack of civilization.
