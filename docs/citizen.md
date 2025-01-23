@@ -24,8 +24,8 @@ layout: default
 
 ## Virtues
 
-- [Harmony, Humility](harmony.html)
-- [Loyaly, Fortitude](fortitude.html) to the ideals of Civilization
+- [Harmony, Humility](harmony.md)
+- [Loyaly, Fortitude](fortitude.md) to the ideals of Civilization
 
 ### To be a Leader
 

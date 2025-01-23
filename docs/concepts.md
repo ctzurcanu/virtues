@@ -26,7 +26,7 @@ layout: default
     1. Justice: when you judge a situation
     1. Wisdom: when you discover the eternal mechanisms of a situation
 - Fidelity: Loyalty to your agreements, Trustworthiness
-- Altruism: [Empathy](3concepts.html)
+- Altruism: [Empathy](3concepts.md)
 - Sympathetic Joy ([Mudita](https://en.wikipedia.org/wiki/Mudita)): Empathy
 - Respect for social norms and rituals: Li (禮, Proper Ritual or Etiquette): This virtue refers to a set of rituals, customs, and standards of politeness that govern proper behavior and maintain social order. It’s about showing respect through appropriate conduct. Common sense: Fitness/Fortitude
 - Curiosity: the virtuous part of curiosity is Wonder

@@ -78,7 +78,7 @@ Some characteristics common to all stages of friendship between 2 parties (Alice
 - the most important part of the person of the friend is the ethos and it is the fundament for any friendship
 - the ethos includes:
     - the personal God
-    - [the hierarchy](https://ctzurcanu.github.io/virtues/hierarchies.html) of virtues/values
+    - [the hierarchy](https://ctzurcanu.github.io/virtues/hierarchies.md) of virtues/values
     - political reasoning and preferences
     - other components defined at [the ethos repo](https://github.com/ctzurcanu/ethos)
 

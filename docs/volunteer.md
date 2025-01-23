@@ -7,8 +7,8 @@ layout: default
 
 ## Requirements
 
-- [being a friend](friendship.html)
-- a volunteer is a type of [hero](hero.html)
+- [being a friend](friendship.md)
+- a volunteer is a type of [hero](hero.md)
 
 ## Definitions
 

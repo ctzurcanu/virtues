@@ -11,12 +11,12 @@ layout: default
 
 The linking concepts are:
 
-1. [Provable Order / Hierarchy](order.html)
-1. [Economy](economy.html)
-1. [Provable Goodness](goodness.html)
-1. [Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility](harmony.html)
-1. [Forgiveness/Repentance](forgiveness.html)
-1. [Governance](governance.html)
+1. [Provable Order / Hierarchy](order.md)
+1. [Economy](economy.md)
+1. [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+1. [Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility](harmony.md)
+1. [Forgiveness/Repentance](forgiveness.md)
+1. [Governance](governance.md)
 1. Fairness
 1. Competition
 1. Market
@@ -24,28 +24,28 @@ The linking concepts are:
 
 ### Virtues Order
 
-1. [Provable Order/Hierarchy](order.html)
-1. [Faith, Reason](faith.html)
-1. [Economy](economy.html)
-1. [Charity](charity.html)
-1. [Provable Goodness](goodness.html)
-1. [Hope](hope.html)
-1. [Harmony, Generosity](harmony.html)
-1. [Prudence](prudence.html)
-1. [Forgiveness](forgiveness.html)
-1. [Justice](justice.html)
-1. [Governance](governance.html)
-1. [Temperance](temperance.html)
-1. [Fairness](fairness.html)
-1. [Fortitude](fortitude.html)
-1. [Competition](competition.html)
-1. [Measurability](measurability.html)
-1. [Market](market.html)
-1. [Abundance](abundance.html)
-1. [Industriousness](industriousness.html)
-1. [Survival](survival.html)
+1. [Provable Order/Hierarchy](order.md)
+1. [Faith, Reason](faith.md)
+1. [Economy](economy.md)
+1. [Charity](charity.md)
+1. [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+1. [Hope](hope.md)
+1. [Harmony, Generosity](harmony.md)
+1. [Prudence](prudence.md)
+1. [Forgiveness](forgiveness.md)
+1. [Justice](justice.md)
+1. [Governance](governance.md)
+1. [Temperance](temperance.md)
+1. [Fairness](fairness.md)
+1. [Fortitude](fortitude.md)
+1. [Competition](competition.md)
+1. [Measurability](measurability.md)
+1. [Market](market.md)
+1. [Abundance](abundance.md)
+1. [Industriousness](industriousness.md)
+1. [Survival](survival.md)
 
-The evolution can be [narrated](narratives.html).
+The evolution can be [narrated](narratives.md).
 
 ## Types of Resources
 
@@ -55,7 +55,7 @@ The evolution can be [narrated](narratives.html).
 1. Faith, Reason
 1. Economy
 1. Charity
-1. Provable Goodness
+1. Goodness, Sacrifice, Courage, Civilization
 1. Hope
 1. Harmony, Generosity
 
@@ -160,10 +160,10 @@ The evolution can be [narrated](narratives.html).
 
 1. Omni Law
     - Provable Order/Hierarchy
-    - Faith
+    - Faith, Reason
     - Economy
     - Charity
-    - Provable Goodness
+    - Goodness, Sacrifice, Courage, Civilization
 
     the individual is the whole life
 1. Contractual Law (not business contract law)
@@ -205,7 +205,7 @@ The evolution can be [narrated](narratives.html).
     - Economy
 1. [Vishuddha](https://en.wikipedia.org/wiki/Vishuddha)
     - Charity
-    - Provable Goodness
+    - Goodness, Sacrifice, Courage, Civilization
     - Hope
     - Harmony, Generosity
     - Prudence

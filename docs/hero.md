@@ -7,7 +7,7 @@ layout: default
 
 ## Requirements
 
-- (usually) [being a friend](friendship.html)
+- (usually) [being a friend](friendship.md)
 
 ## Definitions
 
@@ -48,7 +48,7 @@ layout: default
 ## Quality of Concept
 
 A hero is a defender of an idea. The idea may be more virtuous or more generally moral than other ideas. Some heroes perform their heroic deeds for mutually exclusive ideas. For example, they may be volunteers who fight for two countries who compete over ownership of a piece of land.
-For establishing the hierarchy of concepts, we use the [hierarchy of virtues](hierarchies.html).
+For establishing the hierarchy of concepts, we use the [hierarchy of virtues](hierarchies.md).
 
 
 ## Quantity of Sacrifice
@@ -57,7 +57,7 @@ For establishing the hierarchy of concepts, we use the [hierarchy of virtues](hi
 1. Martyrs: those who sacrificed their lives in heroic action
 1. Heroes: those who have sacrificed some of their own non-renewable resources (great sums of money, one or more organs or functional parts of the body, important positions of dignity) to help others
 1. Provable Volunteers: those who are leaving themselves and their efforts to be denigrated by the public while able to prove their deeds
-1. [Volunteers](volunteer.html): those who are helpful (donate their time and effort) but unpaid for their effort
+1. [Volunteers](volunteer.md): those who are helpful (donate their time and effort) but unpaid for their effort
 1. The Charitable: those who donate their hard-earned financial or renewable resources
 
 ## The Anti-Heroes
