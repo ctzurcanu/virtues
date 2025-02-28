@@ -36,4 +36,5 @@ layout: default
 1. [Friendship](friendship.md)
 1. [Volunteer](volunteer.md)
 1. [Hero](hero.md)
+1. [Other Systems. Mapping](other.md)
 1. Making Virtues Computable
