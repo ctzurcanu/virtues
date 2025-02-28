@@ -1,5 +1,5 @@
 ---
-[back](../../)
+[back](../)
 
 # Values in Action Inventory (VIA)
 
@@ -214,53 +214,43 @@ As is true for many of the character strengths in the VIA Classification, the st
 
 ## Mapping
 
+
 ### Wisdom
 
 #### Creativity
-"I am creative, conceptualizing something useful, coming up with ideas that result in something worthwhile."
 
 
 #### Curiosity
-“I seek out situations where I gain new experiences without getting in my own or other people’s way.”
 
 
 #### Judgment
-"I weigh all aspects objectively in making decisions, including arguments that are in conflict with my convictions."
 
 
 #### Love of Learning
-"I am motivated to acquire new levels of knowledge, or deepen my existing knowledge or skills in a significant way."
 
 
 #### Perspective
-"I give advice to others by considering different (and relevant) perspectives and using my own experiences and knowledge to clarify the big picture."
+
 
 
 ### Courage
 #### Bravery
-"I act on my convictions, and I face threats, challenges, difficulties, and pains, despite my doubts and fears."
 
 - Physical bravery (e.g., firefighters, police officers, soldiers)
 - Psychological bravery (e.g., facing painful aspects of oneself)
 - Moral bravery (e.g., speaking up for what's right, even if it's an unfavorable opinion to a group)
 
 #### Honesty
-“I am honest to myself and to others, I try to present myself and my reactions accurately to each person, and I take responsibility for my actions.”
-
 
 #### Perseverance
-"I persist toward my goals despite obstacles, discouragements, or disappointments."
-
 
 #### Zest
-"I feel vital and full of energy, I approach life feeling activated and enthusiastic."
+
 
 
 ### Humanity
 
 #### Kindness
-"I am helpful and empathic and regularly do nice favors for others without expecting anything in return."
-
 
 - Empathy/sympathy
 - Moral reasoning
@@ -268,7 +258,6 @@ As is true for many of the character strengths in the VIA Classification, the st
 
 
 #### Love
-"I experience close, loving relationships that are characterized by giving and receiving love, warmth, and caring."
 
 
 - Attachment love: parent for child; child for parent
@@ -277,16 +266,15 @@ As is true for many of the character strengths in the VIA Classification, the st
 - Romantic love: spouse/partner/boyfriend/girlfriend
 
 #### Social Intelligence
-"I am aware of and understand my feelings and thoughts, as well as the feelings of those around me."
-
 
 - Social awareness: what we sense about others
 - Social facility: what we do with our awareness
 
+
+
 ### Justice
 
 #### Fairness
-“I treat everyone equally and fairly, and give everyone the same chance applying the same rules to everyone.”
 
 
 - Fairness is a cognitive judgment capacity that involves reasoning and making judgments. It involves 2 types of reasoning:
@@ -294,8 +282,6 @@ As is true for many of the character strengths in the VIA Classification, the st
 - Care reasoning which includes empathy and compassion; the ability to put yourself in somebody else's shoes.
 
 #### Leadership
-"I take charge and guide groups to meaningful goals, and ensure good relations among group members."
-
 
 - Practice- defining, establishing, identifying or translating direction
 - Personal quality- the motivation and capacity to seek out, attain and carry out leader roles There are two types of leaders:
@@ -303,19 +289,16 @@ As is true for many of the character strengths in the VIA Classification, the st
 - Transformational leaders- this leader motivates their followers to perform at an extremely high level, fostering a climate of trust and commitment to the organization and its goals
 
 #### Teamwork
-"I am a helpful and contributing group and team member, and feel responsible for helping the team reach its goals."
-
 
 - Citizenship: responsibility toward one's community
 - Loyalty: unwavering trust for a group
 - Patriotism: loyalty toward one's homeland/nation without hostility toward other nations
 
+
+
 ### Temperance
 
 #### Forgiveness
-“I forgive others when they upset me and/or when they behave badly towards me, and I use that information in my future relations with them.”
-
-Forgiveness means to extend understanding towards those who have wronged or hurt us. It means to let go. In many cases this is the letting go of some or all of the frustration, disappointment, resentment, or other painful feelings associated with an offense. Forgiveness, and the related quality of mercy, involve accepting the shortcomings, flaws, and imperfections of others and giving them a second (or third) chance. As the expression goes, it is letting bygones be bygones, rather than being vengeful. It is a process of humanizing those who have led us to feel dehumanized.
 
 It is important to distinguish forgiveness from:
 - condoning (removes the offense)
@@ -323,26 +306,19 @@ It is important to distinguish forgiveness from:
 - reconciliation (restores the relationship)
 
 #### Humility
-"I see my strengths and talents but I am humble, not seeking to be the center of attention or to receive recognition."
 
 
 #### Prudence
-"I act carefully and cautiously, looking to avoid unnecessary risks and planning with the future in mind.”
-
 
 
 #### Self-Regulation
-"I manage my feelings and actions and am disciplined and self-controlled."
+
+
 
 
 ### Transcendence
 
 #### Appreciation of Beauty & Excellence
-"I recognize, emotionally experience, and appreciate the beauty around me and the skill of others."
-
-Those who express an appreciation of beauty & excellence notice and appreciate beauty, excellence and/or skilled performance in all domains of life, from nature to art to mathematics to science to everyday experience.
-
-People high in Appreciation of Beauty and Excellence are responsive to these three types of goodness:
 
 - Physical Beauty.
 This may include auditory, tactile or abstract. This type of goodness produces awe and wonder in the person experiencing it.
@@ -354,8 +330,6 @@ This is often energizing, and compels a person to pursue their own goals. It ins
 Virtuous goodness makes someone want to be better, more loving and creates feelings of elevation.
 
 #### Gratitude
-“I am grateful for many things and I express that thankfulness to others.”
-
 
 There are two types of gratitude:
 
@@ -367,16 +341,10 @@ There are two types of gratitude:
 - Recognizing the source of this goodness is outside yourself.
 
 #### Hope
-“I am realistic and also full of optimism about the future, believing in my actions and feeling confident things will turn out well.”
-
 
 #### Humor
-"I approach life playfully, making others laugh, and finding humor in difficult and stressful times."
-
-
 
 #### Spirituality
-"I feel spiritual and believe in a sense of purpose or meaning in my life; and I see my place in the grand scheme of the universe and find meaning in everyday life."
 
 
-[back](../../)
+[back](../)
