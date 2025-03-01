@@ -24,7 +24,7 @@ The linking concepts are:
 
 ### Virtues Order
 
-1. [Miracle](mircale.md)
+1. [Miracle](miracle.md)
 1. [Provable Order/Hierarchy](order.md)
 1. [Faith, Reason](faith.md)
 1. [Economy](economy.md)
