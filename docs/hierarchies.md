@@ -24,6 +24,7 @@ The linking concepts are:
 
 ### Virtues Order
 
+1. [Miracle](mircale.md)
 1. [Provable Order/Hierarchy](order.md)
 1. [Faith, Reason](faith.md)
 1. [Economy](economy.md)
@@ -49,8 +50,9 @@ The evolution can be [narrated](narratives.md).
 
 ## Types of Resources
 
-### Proof
+### Proof - Universality, Beyond Species
 
+1. Miracle
 1. Provable Order/Hierarchy
 1. Faith, Reason
 1. Economy
@@ -60,9 +62,9 @@ The evolution can be [narrated](narratives.md).
 1. Harmony, Generosity
 
 
-### Effort and Intent
+### Effort and Intent - Community, Tribe
 
-7. Harmony, Generosity
+8. Harmony, Generosity
 1. Prudence
 1. Forgiveness
 1. Justice
@@ -71,9 +73,9 @@ The evolution can be [narrated](narratives.md).
 1. Fairness
 1. Fortitude
 
-### Material/Money
+### Material/Money - Individual, Family
 
-14. Fortitude
+15. Fortitude
 1. Competition
 1. Measurability
 1. Market
@@ -84,6 +86,7 @@ The evolution can be [narrated](narratives.md).
 
 ## Links with Knowledge Domains
 
+1. Miracle
 1. Provable Order/Hierarchy
 1. Faith, Reason
     - Mathematics
