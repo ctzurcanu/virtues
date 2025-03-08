@@ -412,6 +412,8 @@ It is important to distinguish forgiveness from:
 
 - [Hope](hope.md)
 
+The concept of Forgiveness as defined by the dictionary is not a virtue. It has essential conflicts with Justice and Goodness.
+
 #### Humility
 
 - [Harmony, Generosity](harmony.md)
