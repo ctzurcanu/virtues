@@ -9,18 +9,6 @@ layout: default
 
 ![Hierarchy](images/virtues-hier.png)
 
-The linking concepts are:
-
-1. [Provable Order / Hierarchy](order.md)
-1. [Economy](economy.md)
-1. [Goodness, Sacrifice, Courage, Civilization](goodness.md)
-1. [Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility](harmony.md)
-1. [Forgiveness/Repentance](forgiveness.md)
-1. [Governance](governance.md)
-1. Fairness
-1. Competition
-1. Market
-1. Industriousness
 
 ### Virtues Order
 

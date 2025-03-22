@@ -11,37 +11,53 @@ Virtues are not only qualitative concepts, they are quantitative. Because a perf
 
 We will name the lacking or the excess in each quality as Vices, and the mean as Virtues.
 
+Qualitatively, a virtue has to be considered using the following criteria:
+1. Has to be as atomic as possible.
+1. To be as independent of the other virtues as possible.
+    1. To not diminish other virtues.
+    1. To compose positively with other virtues.
+1. To have a dimension of measure where it occupies a mid range. And the extremes are less moral.
+1. On the dimension of measure: lack or be in excess in most cases.
+1. To exist at some point instantated by some human.
+1. To not exist for some human.
+1. To exist in a group of humans, institution.
+1. To exist as name, concept, signifier, ritualistic act, artistic depiction.
+
+
 Quantitatively, we accept these definitions of virtue:
 1. A range of values that are more beneficial than ranges smaller or greater.
-1. A point in that range that maximizes the benefit according to the dimension of that virtue
-1. A point in that range that maximizes the benefit according to all virtues
+1. A point in that range that maximizes the benefit according to the dimension of that virtue.
+1. A point in that range that maximizes the benefit according to all virtues.
 
 
 
-| Dimensions\Ranges | Lacking | Mean | Excess |
-|------------------|---------|------|--------|
-| Truth Acceptance |Cinicism| Faith, Clarity of Implication | Credulity |
-| Effort Making | Beggar | Charity | Extravagance of Generosity |
-| Will to Evolve| Pessimism | Hope | Ungrounded Idealism |
-| Self-Governance | Hedonism | Temperance | Unsustainable Asceticism |
-| Strategy | Unpreparedness | Prudence | Rigidity, Inability to take risks |
-| Righteousness | Relativism | Justice | Sadism |
-| Willpower, Courage | Spineless | Fortitude | Imposition, Rashness |
-| Reality Perception | Blind or unwilling to know or compete | Measurability, Competition | Detailed knowledge without reason, Pointless competition|
-| Wealth, Vitality | Poverty/Lazyness | Abundance | Abundance without reason |
-| Life | Non-existence | Survival | Canibalism/Stealing |
+## The Ranges
 
-The ordered list:
-1. Faith
-1. Charity
-1. Hope
-1. Prudence
-1. Justice
-1. Temperance
-1. Fortitude
-1. Measurability
-1. Abundance
-1. Survival
+| No | Dimensions\Ranges | Lacking | Mean | Excess |
+|----|-------------------|---------|------|--------|
+|  1 | Proof beyound reason | Trick |[Miracle](miracle.md) | Magic |
+|  2 | Orderliness | Inability to Rank | [Provable Order/Hierarchy](order.md)| Rigidity |
+|  3 | Truth Acceptance |Cinicism| [Faith, Reason](faith.md) | Credulity |
+|  4 | Management of Goodness | No Management | [Economy](economy.md) | Accounting too strictly |
+|  5 | Investing in Others | Begging | [Charity](charity.md) | Extravagance of Generosity |
+|  6 | Investing Virtue | nothing to invest or attachement | [Goodness, Sacrifice, Courage, Civilization](goodness.md) | invest more than can be received |
+|  7 | Will to Evolve| Pessimism | [Hope](hope.md) | Ungrounded Idealism |
+|  8 | Harmony | lack of Harmony | [Harmony, Generosity](harmony.md) | Ritualistic Generosity |
+|  9 | Strategy | Unpreparedness | [Prudence](prudence.md) | Rigidity, Inability to take risks |
+| 10 | Act when wrong | not forgive | [Forgiveness](forgiveness.md) | Forgive more than should / be Unjust |
+| 11 | Righteousness | Relativism | [Justice](justice.md) | Sadism |
+| 12 | Governance of others | Anarchy | [Governance](governance.md) | Tyrany |
+| 13 | Self-Governance | Hedonism | [Temperance](temperance.md) | Unsustainable Asceticism |
+| 14 | Conditions of contest | Abuse | [Fairness](fairness.md) | being Unjust |
+| 15 | Willpower | Spineless | [Fortitude](fortitude.md) | Imposition, Rashness |
+| 16 | Contest | lack of Competition | [Competition](competition.md) | Violence, Pointless competition |
+| 17 | Reality Perception | Blind or unwilling to know or compete | [Measurability](measurability.md) | Detailed knowledge without reason|
+| 18 | Transparence | under the counter | [Market](market.md) | All is tradeable |
+| 19 | Wealth, Vitality | Poverty/Lazyness | [Abundance](abundance.md) | Abundance without reason |
+| 20 | Thrive | lack of effort | [Industriousness](industriousness.md) | Reflex, one size fits all |
+| 21 | Life | Extinction | [Survival](survival.md) | Canibalism/Stealing |
+
+
 
 ## Dependencies
 
