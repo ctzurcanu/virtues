@@ -13,15 +13,16 @@ We will name the lacking or the excess in each quality as Vices, and the mean as
 
 Qualitatively, a virtue has to be considered using the following criteria:
 1. Has to be as atomic as possible.
-1. To be as independent of the other virtues as possible.
+1. To have a constructive dependence:
     1. To not diminish other virtues.
-    1. To compose positively with other virtues.
-1. To have a dimension of measure where it occupies a mid range. And the extremes are less moral.
+    1. To compose positively with other virtues (addition).
+    1. To have synergy with other virtues (composition that values more than simple addition).
+1. To have a dimension of measure where it occupies a mid-range. And the extremes are less moral.
 1. On the dimension of measure: lack or be in excess in most cases.
 1. To exist at some point instantated by some human.
 1. To not exist for some human.
 1. To exist in a group of humans, institution.
-1. To exist as name, concept, signifier, ritualistic act, artistic depiction.
+1. To have a name, concept, signifier, ritualistic act, or artistic depiction.
 
 
 Quantitatively, we accept these definitions of virtue:

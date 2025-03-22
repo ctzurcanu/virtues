@@ -5,7 +5,7 @@ layout: default
 
 # Concepts
 
-- Goodness: the apparition of (or facilitation of) the necessary conditions to advance from your position on the virtue dimension to a better position/state (in quality and/or quantity). Goodness is always considered in respect to all Life. We consider the goodness applied to ourselves only because of the lack of required information about the others and all other Life outside of us.
+- Good: Goodness
 - Legitimacy: right to execute governance derived from Faith (clarity of implication, representation), Prudence (optimization), and Justice
 - Duty: will and actions derived from Charity and Prudence that enable the existence of cardinal and supreme virtues. Pure Duty is not a necessity.
 - Freedom: the outcome of a virtuecracy. A virtuecracy is built on the efforts of Duty.
@@ -59,6 +59,6 @@ layout: default
     - Lack of Reason
     - Lack of Fortitude
 - Purity:
-    - Loyalty to ideals, Idealism, Fortitude
-    - Mental Hygiene, Prudence
-    - Mental Plasticity
+    - of Action: good reflexes: Survival, Fortitude
+    - of Intent: Sincerity, Honesty: Temperance, Harmony
+    - of Thought: Provable Order
