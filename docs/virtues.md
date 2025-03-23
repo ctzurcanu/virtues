@@ -17,12 +17,24 @@ Qualitatively, a virtue has to be considered using the following criteria:
     1. To not diminish other virtues.
     1. To compose positively with other virtues (addition).
     1. To have synergy with other virtues (composition that values more than simple addition).
+1. To have a long-lasting outcome:
+    1. To have an immediate outcome
+    1. To have a long-term outcome
+    1. To have an effect even on the past
+1. Has beneficial effects at every scope:
+    1. at individual scope
+    1. at group scope
+    1. at the Universe in general and to all life in particular
 1. To have a dimension of measure where it occupies a mid-range. And the extremes are less moral.
 1. On the dimension of measure: lack or be in excess in most cases.
-1. To exist at some point instantated by some human.
-1. To not exist for some human.
-1. To exist in a group of humans, institution.
-1. To have a name, concept, signifier, ritualistic act, or artistic depiction.
+1. Existence of instantiation:
+    1. To exist at some point instantated in some scope (individual, group, life).
+    1. To not exist in some (other) scope.
+1. Indirection, definition:
+    1. To have a name, concept
+    1. To have a signifier, flag, symbol
+    1. To be explained by ritualistic act
+    1. To be explained by artistic depiction
 
 
 Quantitatively, we accept these definitions of virtue:
