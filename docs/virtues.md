@@ -11,7 +11,8 @@ Virtues are not only qualitative concepts, they are quantitative. Because a perf
 
 We will name the lacking or the excess in each quality as Vices, and the mean as Virtues.
 
-Qualitatively, a virtue has to be considered using the following criteria:
+### Qualitatively
+A virtue has to be considered using the following criteria:
 1. Has to be as atomic as possible.
 1. To have a constructive dependence:
     1. To not diminish other virtues.
@@ -37,7 +38,8 @@ Qualitatively, a virtue has to be considered using the following criteria:
     1. To be explained by artistic depiction
 
 
-Quantitatively, we accept these definitions of virtue:
+### Quantitatively
+We accept these definitions of virtue:
 1. A range of values that are more beneficial than ranges smaller or greater.
 1. A point in that range that maximizes the benefit according to the dimension of that virtue.
 1. A point in that range that maximizes the benefit according to all virtues.
