@@ -86,6 +86,36 @@ We accept these definitions of virtue:
 
 ![Virtue Needs Graph](images/worlds2.png)
 
+## Min Number Actors
+
+- Individuals: 0-nI -- all individuals: aI
+- Family : 0-nF all families: aF
+- Individuals across time: 0-nIT
+
+| No. |                       Virtue              \ Level         |    1    |     2   |    3    |
+|-----|-----------------------------------------------------------|---------|---------|---------|
+|   1 | [Miracle](miracle.md)                                     | 1I Assurance | 2I Insurance | aIT Religion |
+|   2 | [Provable Order/Hierarchy](order.md)                      | 1I Rectitude | 2I Friendship | aIT Ethics |
+|   3 | [Faith, Reason](faith.md)                                 | 2I |  |  |
+|   4 | [Economy](economy.md)                                     | 3I |  |  |
+|   5 | [Charity](charity.md)                                     | 2I |  |  |
+|   6 | [Goodness, Sacrifice, Courage, Civilization](goodness.md) | 1I |  |  |
+|   7 | [Hope](hope.md)                                           | 1I |  |  |
+|   8 | [Harmony, Generosity](harmony.md)                         | 2I |  |  |
+|   9 | [Prudence](prudence.md)                                   | 1I |  |  |
+|  10 | [Forgiveness](forgiveness.md)                             | 2I |  |  |
+|  11 | [Justice](justice.md)                                     | 2I |  |  |
+|  12 | [Governance](governance.md)                               | 3I |  |  |
+|  13 | [Temperance](temperance.md)                               | 1I |  |  |
+|  14 | [Fairness](fairness.md)                                   | 2I |  |  |
+|  15 | [Fortitude](fortitude.md)                                 | 1I |  |  |
+|  16 | [Competition](competition.md)                             | 1I |  |  |
+|  17 | [Measurability](measurability.md)                         | 2I |  |  |
+|  18 | [Market](market.md)                                       | 3I |  |  |
+|  19 | [Abundance](abundance.md)                                 | 1I |  |  |
+|  20 | [Industriousness](industriousness.md)                     | 1I |  |  |
+|  21 | [Survival](survival.md)                                   | 1I            | 1F | aIT Immortality |
+
 
 ## Islam
 
