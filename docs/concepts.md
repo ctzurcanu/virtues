@@ -32,10 +32,7 @@ layout: default
 - Curiosity: the virtuous part of curiosity is Wonder
 - Wonder: θαυμάζω (thaumazó: to marvel, wonder) part of Faith, Reason. It is the vitality of mentaly exploring and linking concepts.
 - Creativity: sharing Wonder
-- Beauty:
-    1. Wonder, Hope
-    1. Temperance
-    1. Sexual Fitness, Fortitude
+- Beauty: virtues and [beauty](beauty.md)
 - Intelligence:
     1. Nous, Faith/Reason (energy of intellect)
     1. Logic Fallacy

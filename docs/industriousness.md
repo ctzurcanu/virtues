@@ -10,3 +10,5 @@ layout: default
 - specialization
 - standardization of production methods
 - optimization of production
+- economy of scale
+- assembly line
