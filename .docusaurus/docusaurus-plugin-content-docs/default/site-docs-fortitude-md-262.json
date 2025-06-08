@@ -1,0 +1,26 @@
+{
+  "id": "fortitude",
+  "title": "fortitude",
+  "description": "back",
+  "source": "@site/docs/fortitude.md",
+  "sourceDirName": ".",
+  "slug": "/fortitude",
+  "permalink": "/docs/fortitude",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/fortitude.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "forgiveness",
+    "permalink": "/docs/forgiveness"
+  },
+  "next": {
+    "title": "friendship",
+    "permalink": "/docs/friendship"
+  }
+}

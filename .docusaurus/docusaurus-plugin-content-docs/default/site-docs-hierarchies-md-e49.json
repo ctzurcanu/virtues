@@ -1,0 +1,26 @@
+{
+  "id": "hierarchies",
+  "title": "hierarchies",
+  "description": "back",
+  "source": "@site/docs/hierarchies.md",
+  "sourceDirName": ".",
+  "slug": "/hierarchies",
+  "permalink": "/docs/hierarchies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/hierarchies.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hero",
+    "permalink": "/docs/hero"
+  },
+  "next": {
+    "title": "hope",
+    "permalink": "/docs/hope"
+  }
+}

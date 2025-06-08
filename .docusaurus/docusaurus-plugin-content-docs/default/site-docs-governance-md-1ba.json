@@ -1,0 +1,26 @@
+{
+  "id": "governance",
+  "title": "governance",
+  "description": "back",
+  "source": "@site/docs/governance.md",
+  "sourceDirName": ".",
+  "slug": "/governance",
+  "permalink": "/docs/governance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/governance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "goodness",
+    "permalink": "/docs/goodness"
+  },
+  "next": {
+    "title": "harmony",
+    "permalink": "/docs/harmony"
+  }
+}

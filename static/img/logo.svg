@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1024 1024"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg198"
+   sodipodi:docname="logo.svg"
+   width="1024"
+   height="1024"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview200"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.78320312"
+     inkscape:cx="489.01746"
+     inkscape:cy="512"
+     inkscape:current-layer="g192" />
+  <defs
+     id="defs184">
+    <style
+       id="style182">.cls-1{fill:#000000;}</style>
+  </defs>
+  <title
+     id="title186">Fichier 1029</title>
+  <g
+     data-name="Calque 2"
+     id="g192">
+    <path
+       d="m 512.00084,159.82413 c -29.28699,0 -55.64529,14.6435 -70.28879,39.53791 L 113.69772,738.24273 c -16.108325,26.3583 -16.108325,57.11011 -1.46435,83.46747 14.64396,26.35735 41.0018,42.46567 71.75267,42.46567 h 656.02863 c 30.75095,0 57.11018,-16.10832 71.75274,-42.46567 14.64249,-26.35736 14.64342,-57.1101 -1.46436,-83.46747 L 582.28869,199.36204 C 567.64519,174.46856 541.2869,159.82413 511.9999,159.82413 Z"
+       id="path308"
+       style="stroke-width:9.37186;fill:#808080" />
+  </g>
+  <metadata
+     id="metadata427">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Fichier 1029</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

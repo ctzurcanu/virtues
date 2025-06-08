@@ -1,0 +1,26 @@
+{
+  "id": "systems/resilience",
+  "title": "resilience",
+  "description": "back",
+  "source": "@site/docs/systems/resilience.md",
+  "sourceDirName": "systems",
+  "slug": "/systems/resilience",
+  "permalink": "/docs/systems/resilience",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/systems/resilience.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "maslow",
+    "permalink": "/docs/systems/maslow"
+  },
+  "next": {
+    "title": "via",
+    "permalink": "/docs/systems/via"
+  }
+}

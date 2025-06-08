@@ -11,7 +11,7 @@ layout: default
 
 ## Definitions
 
-![Real Hero](images/real_hero.png)
+![Real Hero](/images/real_hero.png)
 
 ### Hero
 

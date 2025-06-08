@@ -5,7 +5,7 @@ layout: default
 
 # Relationship
 
-![relationship](images/relationship.png)
+![relationship](/images/relationship.png)
 
 A relationship is a double transaction between One, Another, and All Else.
 
@@ -132,7 +132,7 @@ Concerning virtues and vices, we can construct a hierarchy of relationships:
 
 ## Proposed Relationship
 
-![relationship](images/relationship2.png)
+![relationship](/images/relationship2.png)
 
 Inst A is Institution A or Social Contract A. Inst AB is the Contract that can operate transactions between Institution A and Institution B: their higher contractual authority.
 

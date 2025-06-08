@@ -1,0 +1,22 @@
+{
+  "id": "volunteer",
+  "title": "volunteer",
+  "description": "back",
+  "source": "@site/docs/volunteer.md",
+  "sourceDirName": ".",
+  "slug": "/volunteer",
+  "permalink": "/docs/volunteer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/volunteer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "virtues",
+    "permalink": "/docs/virtues"
+  }
+}

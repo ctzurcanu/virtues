@@ -137,11 +137,11 @@ Relations:
 
 ## Dependencies of Virtues
 
-![Virtue - 3 Concepts Graph](images/3virtues2.png)
+![Virtue - 3 Concepts Graph](/images/3virtues2.png)
 
 ## Relations between Concepts
 
-![3 Concepts Dependency Graph](images/3concepts.png)
+![3 Concepts Dependency Graph](/images/3concepts.png)
 
 
 ## Relations between The 3 Concepts and Blockchain

@@ -1,0 +1,26 @@
+{
+  "id": "1concept",
+  "title": "1concept",
+  "description": "back",
+  "source": "@site/docs/1concept.md",
+  "sourceDirName": ".",
+  "slug": "/1concept",
+  "permalink": "/docs/1concept",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/1concept.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "On Virtues",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "3concepts",
+    "permalink": "/docs/3concepts"
+  }
+}

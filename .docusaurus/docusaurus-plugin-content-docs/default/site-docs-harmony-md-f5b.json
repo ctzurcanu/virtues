@@ -1,0 +1,26 @@
+{
+  "id": "harmony",
+  "title": "harmony",
+  "description": "back",
+  "source": "@site/docs/harmony.md",
+  "sourceDirName": ".",
+  "slug": "/harmony",
+  "permalink": "/docs/harmony",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/harmony.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "governance",
+    "permalink": "/docs/governance"
+  },
+  "next": {
+    "title": "hero",
+    "permalink": "/docs/hero"
+  }
+}

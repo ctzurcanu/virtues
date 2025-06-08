@@ -1,0 +1,26 @@
+{
+  "id": "principles",
+  "title": "principles",
+  "description": "back",
+  "source": "@site/docs/principles.md",
+  "sourceDirName": ".",
+  "slug": "/principles",
+  "permalink": "/docs/principles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/principles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "other",
+    "permalink": "/docs/other"
+  },
+  "next": {
+    "title": "prudence",
+    "permalink": "/docs/prudence"
+  }
+}

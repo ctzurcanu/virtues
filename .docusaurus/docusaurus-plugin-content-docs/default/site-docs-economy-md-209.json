@@ -1,0 +1,26 @@
+{
+  "id": "economy",
+  "title": "economy",
+  "description": "back",
+  "source": "@site/docs/economy.md",
+  "sourceDirName": ".",
+  "slug": "/economy",
+  "permalink": "/docs/economy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/economy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "concepts",
+    "permalink": "/docs/concepts"
+  },
+  "next": {
+    "title": "fairness",
+    "permalink": "/docs/fairness"
+  }
+}

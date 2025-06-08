@@ -12,7 +12,7 @@ layout: default
 
 ## Definitions
 
-![Provable Volunteer](images/provable_volunteer.png)
+![Provable Volunteer](/images/provable_volunteer.png)
 
 ### Volunteer
 

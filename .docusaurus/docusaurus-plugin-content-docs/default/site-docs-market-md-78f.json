@@ -1,0 +1,26 @@
+{
+  "id": "market",
+  "title": "market",
+  "description": "back",
+  "source": "@site/docs/market.md",
+  "sourceDirName": ".",
+  "slug": "/market",
+  "permalink": "/docs/market",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/market.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "logos",
+    "permalink": "/docs/logos"
+  },
+  "next": {
+    "title": "measurability",
+    "permalink": "/docs/measurability"
+  }
+}

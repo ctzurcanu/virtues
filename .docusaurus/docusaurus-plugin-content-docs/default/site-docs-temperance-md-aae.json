@@ -1,0 +1,26 @@
+{
+  "id": "temperance",
+  "title": "temperance",
+  "description": "back",
+  "source": "@site/docs/temperance.md",
+  "sourceDirName": ".",
+  "slug": "/temperance",
+  "permalink": "/docs/temperance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/temperance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "via",
+    "permalink": "/docs/systems/via"
+  },
+  "next": {
+    "title": "undefined",
+    "permalink": "/docs/undefined"
+  }
+}

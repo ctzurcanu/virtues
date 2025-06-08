@@ -1,0 +1,26 @@
+{
+  "id": "measurability",
+  "title": "measurability",
+  "description": "back",
+  "source": "@site/docs/measurability.md",
+  "sourceDirName": ".",
+  "slug": "/measurability",
+  "permalink": "/docs/measurability",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/measurability.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "market",
+    "permalink": "/docs/market"
+  },
+  "next": {
+    "title": "miracle",
+    "permalink": "/docs/miracle"
+  }
+}

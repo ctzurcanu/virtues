@@ -1,0 +1,26 @@
+{
+  "id": "undefined",
+  "title": "undefined",
+  "description": "back",
+  "source": "@site/docs/undefined.md",
+  "sourceDirName": ".",
+  "slug": "/undefined",
+  "permalink": "/docs/undefined",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/undefined.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "temperance",
+    "permalink": "/docs/temperance"
+  },
+  "next": {
+    "title": "virtues",
+    "permalink": "/docs/virtues"
+  }
+}

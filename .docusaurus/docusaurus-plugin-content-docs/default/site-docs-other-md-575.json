@@ -1,0 +1,26 @@
+{
+  "id": "other",
+  "title": "other",
+  "description": "back",
+  "source": "@site/docs/other.md",
+  "sourceDirName": ".",
+  "slug": "/other",
+  "permalink": "/docs/other",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/other.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "order",
+    "permalink": "/docs/order"
+  },
+  "next": {
+    "title": "principles",
+    "permalink": "/docs/principles"
+  }
+}

@@ -76,15 +76,15 @@ We accept these definitions of virtue:
 
 ## Dependencies
 
-![Virtue Dependency Graph](images/Virtues2.png)
+![Virtue Dependency Graph](/images/Virtues2.png)
 
 ## Relation to Needs
 
-![Virtue Needs Graph](images/maslow-virtues2.png)
+![Virtue Needs Graph](/images/maslow-virtues2.png)
 
 ## The Worlds Governed
 
-![Virtue Needs Graph](images/worlds2.png)
+![Virtue Needs Graph](/images/worlds2.png)
 
 ## Min Number Actors
 

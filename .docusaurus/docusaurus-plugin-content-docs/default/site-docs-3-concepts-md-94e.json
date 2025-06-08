@@ -1,0 +1,26 @@
+{
+  "id": "3concepts",
+  "title": "3concepts",
+  "description": "back",
+  "source": "@site/docs/3concepts.md",
+  "sourceDirName": ".",
+  "slug": "/3concepts",
+  "permalink": "/docs/3concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/3concepts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1concept",
+    "permalink": "/docs/1concept"
+  },
+  "next": {
+    "title": "abundance",
+    "permalink": "/docs/abundance"
+  }
+}

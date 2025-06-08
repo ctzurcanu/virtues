@@ -1,5 +1,5 @@
 ---
-layout: default
+sidebar_position: 1
 ---
 
 # On Virtues

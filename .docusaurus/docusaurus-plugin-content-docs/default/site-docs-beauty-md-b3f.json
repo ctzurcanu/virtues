@@ -1,0 +1,26 @@
+{
+  "id": "beauty",
+  "title": "beauty",
+  "description": "back",
+  "source": "@site/docs/beauty.md",
+  "sourceDirName": ".",
+  "slug": "/beauty",
+  "permalink": "/docs/beauty",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/beauty.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arete",
+    "permalink": "/docs/arete"
+  },
+  "next": {
+    "title": "charity",
+    "permalink": "/docs/charity"
+  }
+}

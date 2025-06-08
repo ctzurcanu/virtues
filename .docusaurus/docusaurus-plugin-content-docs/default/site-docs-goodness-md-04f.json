@@ -1,0 +1,26 @@
+{
+  "id": "goodness",
+  "title": "goodness",
+  "description": "back",
+  "source": "@site/docs/goodness.md",
+  "sourceDirName": ".",
+  "slug": "/goodness",
+  "permalink": "/docs/goodness",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/goodness.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "friendship",
+    "permalink": "/docs/friendship"
+  },
+  "next": {
+    "title": "governance",
+    "permalink": "/docs/governance"
+  }
+}

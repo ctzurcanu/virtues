@@ -9,7 +9,7 @@ layout: default
 
 Ability to contain the natural tendency towards dispersal of energy together with the ability to redirect, postpone, or change the quality of the contained energy.
 
-![Virtue - 1 Concept Graph](images/entropy.png)
+![Virtue - 1 Concept Graph](/images/entropy.png)
 
 ## The Influences
 

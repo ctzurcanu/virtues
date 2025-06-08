@@ -1,0 +1,26 @@
+{
+  "id": "hero",
+  "title": "hero",
+  "description": "back",
+  "source": "@site/docs/hero.md",
+  "sourceDirName": ".",
+  "slug": "/hero",
+  "permalink": "/docs/hero",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/hero.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "harmony",
+    "permalink": "/docs/harmony"
+  },
+  "next": {
+    "title": "hierarchies",
+    "permalink": "/docs/hierarchies"
+  }
+}

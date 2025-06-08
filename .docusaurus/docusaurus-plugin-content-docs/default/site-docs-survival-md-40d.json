@@ -1,0 +1,26 @@
+{
+  "id": "survival",
+  "title": "survival",
+  "description": "back",
+  "source": "@site/docs/survival.md",
+  "sourceDirName": ".",
+  "slug": "/survival",
+  "permalink": "/docs/survival",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/survival.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "narratives",
+    "permalink": "/docs/scenarios/narratives"
+  },
+  "next": {
+    "title": "development",
+    "permalink": "/docs/systems/development"
+  }
+}

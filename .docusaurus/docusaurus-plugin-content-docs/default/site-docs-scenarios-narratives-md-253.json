@@ -1,0 +1,26 @@
+{
+  "id": "scenarios/narratives",
+  "title": "narratives",
+  "description": "back",
+  "source": "@site/docs/scenarios/narratives.md",
+  "sourceDirName": "scenarios",
+  "slug": "/scenarios/narratives",
+  "permalink": "/docs/scenarios/narratives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/scenarios/narratives.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "miracle",
+    "permalink": "/docs/scenarios/miracle"
+  },
+  "next": {
+    "title": "survival",
+    "permalink": "/docs/survival"
+  }
+}

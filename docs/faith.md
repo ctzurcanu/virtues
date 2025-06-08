@@ -5,7 +5,7 @@ layout: default
 
 # Faith, Clarity of Implication, Reason
 
-![Faith](images/faith.png)
+![Faith](/images/faith.png)
 
 - Top: True, Truth, Virtuous, ⊤
 - Bottom: False, untrue, Non-Factual, Vicious, ⊥
@@ -63,7 +63,7 @@ Technical path of enriching the Logos:
 
 ## Consensus
 
-![Consensus](images/consensus.png)
+![Consensus](/images/consensus.png)
 
 Enriching the Logos by Consensus:
 - Consensus about the definition of Consensus (Meta-Consensus)
@@ -76,7 +76,7 @@ subtypes:
 - consensus by Faith: when your opinion is rejected by the general consensus or when you do not know with clarity the reasons for your vote
 - consensus by Reason: when your opinion is adopted as general consensus
 
-![Ethics](images/ethics.png)
+![Ethics](/images/ethics.png)
 
 ## Ethics
 

@@ -1,0 +1,26 @@
+{
+  "id": "charity",
+  "title": "charity",
+  "description": "back",
+  "source": "@site/docs/charity.md",
+  "sourceDirName": ".",
+  "slug": "/charity",
+  "permalink": "/docs/charity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/charity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "beauty",
+    "permalink": "/docs/beauty"
+  },
+  "next": {
+    "title": "citizen",
+    "permalink": "/docs/citizen"
+  }
+}

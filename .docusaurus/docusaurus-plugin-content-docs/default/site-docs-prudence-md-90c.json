@@ -1,0 +1,26 @@
+{
+  "id": "prudence",
+  "title": "prudence",
+  "description": "back",
+  "source": "@site/docs/prudence.md",
+  "sourceDirName": ".",
+  "slug": "/prudence",
+  "permalink": "/docs/prudence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/prudence.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "principles",
+    "permalink": "/docs/principles"
+  },
+  "next": {
+    "title": "relationship",
+    "permalink": "/docs/relationship"
+  }
+}

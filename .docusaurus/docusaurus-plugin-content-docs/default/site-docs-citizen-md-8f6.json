@@ -1,0 +1,26 @@
+{
+  "id": "citizen",
+  "title": "citizen",
+  "description": "back",
+  "source": "@site/docs/citizen.md",
+  "sourceDirName": ".",
+  "slug": "/citizen",
+  "permalink": "/docs/citizen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/citizen.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "charity",
+    "permalink": "/docs/charity"
+  },
+  "next": {
+    "title": "competition",
+    "permalink": "/docs/competition"
+  }
+}

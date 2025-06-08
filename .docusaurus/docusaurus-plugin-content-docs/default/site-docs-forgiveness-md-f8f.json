@@ -1,0 +1,26 @@
+{
+  "id": "forgiveness",
+  "title": "forgiveness",
+  "description": "back",
+  "source": "@site/docs/forgiveness.md",
+  "sourceDirName": ".",
+  "slug": "/forgiveness",
+  "permalink": "/docs/forgiveness",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/forgiveness.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "faith",
+    "permalink": "/docs/faith"
+  },
+  "next": {
+    "title": "fortitude",
+    "permalink": "/docs/fortitude"
+  }
+}

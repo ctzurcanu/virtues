@@ -7,7 +7,7 @@ layout: default
 
 ## The Default Hierarchy
 
-![Hierarchy](images/virtues-hier.png)
+![Hierarchy](/images/virtues-hier.png)
 
 
 ### Virtues Order
@@ -147,7 +147,7 @@ The evolution can be [narrated](narratives.md).
 
 ## Concerning Law
 
-![Law Hierarchy](images/law.png)
+![Law Hierarchy](/images/law.png)
 
 1. Omni Law
     - Provable Order/Hierarchy
@@ -186,7 +186,7 @@ The evolution can be [narrated](narratives.md).
 
 ## Chakras
 
-![Chakras](images/chakras.png)
+![Chakras](/images/chakras.png)
 
 1. [Sahasrara](https://en.wikipedia.org/wiki/Sahasrara)
     - (beyond concepts)

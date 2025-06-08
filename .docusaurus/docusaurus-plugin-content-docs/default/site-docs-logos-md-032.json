@@ -1,0 +1,26 @@
+{
+  "id": "logos",
+  "title": "logos",
+  "description": "back",
+  "source": "@site/docs/logos.md",
+  "sourceDirName": ".",
+  "slug": "/logos",
+  "permalink": "/docs/logos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/logos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "knowledge",
+    "permalink": "/docs/knowledge"
+  },
+  "next": {
+    "title": "market",
+    "permalink": "/docs/market"
+  }
+}

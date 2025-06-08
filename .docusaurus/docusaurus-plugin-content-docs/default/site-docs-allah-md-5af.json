@@ -1,0 +1,26 @@
+{
+  "id": "allah",
+  "title": "allah",
+  "description": "back",
+  "source": "@site/docs/allah.md",
+  "sourceDirName": ".",
+  "slug": "/allah",
+  "permalink": "/docs/allah",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/allah.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "abundance",
+    "permalink": "/docs/abundance"
+  },
+  "next": {
+    "title": "arete",
+    "permalink": "/docs/arete"
+  }
+}

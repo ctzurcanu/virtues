@@ -1,0 +1,26 @@
+{
+  "id": "institution",
+  "title": "institution",
+  "description": "back",
+  "source": "@site/docs/institution.md",
+  "sourceDirName": ".",
+  "slug": "/institution",
+  "permalink": "/docs/institution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/institution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "industriousness",
+    "permalink": "/docs/industriousness"
+  },
+  "next": {
+    "title": "justice",
+    "permalink": "/docs/justice"
+  }
+}
