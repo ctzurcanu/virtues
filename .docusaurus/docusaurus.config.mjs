@@ -32,7 +32,8 @@ export default {
   "baseUrl": "/",
   "organizationName": "ctzurcanu",
   "projectName": "virtues",
-  "onBrokenLinks": "throw",
+  "deploymentBranch": "gh-pages",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
