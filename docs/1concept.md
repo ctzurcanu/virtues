@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Reduction to 1 Concept
 ---
 [back](./)
 

@@ -1,6 +1,6 @@
 {
   "id": "allah",
-  "title": "allah",
+  "title": "The 99 Names of Allah",
   "description": "back",
   "source": "@site/docs/allah.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "The 99 Names of Allah"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "abundance",
+    "title": "Abundance",
     "permalink": "/docs/abundance"
   },
   "next": {
-    "title": "arete",
+    "title": "Arete",
     "permalink": "/docs/arete"
   }
 }

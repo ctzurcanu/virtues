@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Values in Action Inventory (VIA)
 ---
 [back](../)
 

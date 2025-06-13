@@ -1,6 +1,6 @@
 {
   "id": "charity",
-  "title": "charity",
+  "title": "Charity",
   "description": "back",
   "source": "@site/docs/charity.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Charity"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "beauty",
+    "title": "Beauty",
     "permalink": "/docs/beauty"
   },
   "next": {
-    "title": "citizen",
+    "title": "Being a Citizen",
     "permalink": "/docs/citizen"
   }
 }

@@ -1,6 +1,6 @@
 {
   "id": "scenarios/miracle",
-  "title": "miracle",
+  "title": "Miracle",
   "description": "back",
   "source": "@site/docs/scenarios/miracle.md",
   "sourceDirName": "scenarios",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Miracle"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "index",
+    "title": "Scenarios",
     "permalink": "/docs/scenarios/"
   },
   "next": {
-    "title": "narratives",
+    "title": "Narratives",
     "permalink": "/docs/scenarios/narratives"
   }
 }

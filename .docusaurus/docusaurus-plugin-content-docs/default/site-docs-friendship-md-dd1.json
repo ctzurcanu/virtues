@@ -1,6 +1,6 @@
 {
   "id": "friendship",
-  "title": "friendship",
+  "title": "Friendship",
   "description": "back",
   "source": "@site/docs/friendship.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Friendship"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "fortitude",
+    "title": "Fortitude",
     "permalink": "/docs/fortitude"
   },
   "next": {
-    "title": "goodness",
+    "title": "Goodness",
     "permalink": "/docs/goodness"
   }
 }

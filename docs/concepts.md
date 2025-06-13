@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Dictionary of Concepts
 ---
 [back](./)
 

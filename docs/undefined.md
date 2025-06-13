@@ -1,5 +1,6 @@
 ---
 layout: default
+title: The "Undefined" Virtues
 ---
 [back](./)
 

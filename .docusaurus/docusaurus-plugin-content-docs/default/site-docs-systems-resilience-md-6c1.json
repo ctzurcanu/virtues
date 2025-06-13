@@ -1,6 +1,6 @@
 {
   "id": "systems/resilience",
-  "title": "resilience",
+  "title": "Internal Resilience Factors",
   "description": "back",
   "source": "@site/docs/systems/resilience.md",
   "sourceDirName": "systems",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Internal Resilience Factors"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "maslow",
+    "title": "Maslow",
     "permalink": "/docs/systems/maslow"
   },
   "next": {
-    "title": "via",
+    "title": "Values in Action Inventory (VIA)",
     "permalink": "/docs/systems/via"
   }
 }

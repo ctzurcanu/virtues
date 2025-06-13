@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Institution
 ---
 [back](./)
 

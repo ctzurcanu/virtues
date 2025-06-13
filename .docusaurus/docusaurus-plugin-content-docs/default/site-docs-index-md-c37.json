@@ -13,11 +13,12 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": "On Virtues"
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "1concept",
+    "title": "Reduction to 1 Concept",
     "permalink": "/docs/1concept"
   }
 }

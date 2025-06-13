@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Internal Resilience Factors
 ---
 [back](../)
 

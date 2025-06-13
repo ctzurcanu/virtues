@@ -1,6 +1,6 @@
 {
   "id": "fairness",
-  "title": "fairness",
+  "title": "Fairness",
   "description": "back",
   "source": "@site/docs/fairness.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Fairness"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "economy",
+    "title": "Economy",
     "permalink": "/docs/economy"
   },
   "next": {
-    "title": "faith",
+    "title": "Faith",
     "permalink": "/docs/faith"
   }
 }

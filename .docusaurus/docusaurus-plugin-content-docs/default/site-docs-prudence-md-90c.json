@@ -1,6 +1,6 @@
 {
   "id": "prudence",
-  "title": "prudence",
+  "title": "Prudence",
   "description": "back",
   "source": "@site/docs/prudence.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Prudence"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "principles",
+    "title": "Principles",
     "permalink": "/docs/principles"
   },
   "next": {
-    "title": "relationship",
+    "title": "Relationship",
     "permalink": "/docs/relationship"
   }
 }

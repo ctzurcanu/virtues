@@ -1,6 +1,6 @@
 {
   "id": "scenarios/narratives",
-  "title": "narratives",
+  "title": "Narratives",
   "description": "back",
   "source": "@site/docs/scenarios/narratives.md",
   "sourceDirName": "scenarios",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Narratives"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "miracle",
+    "title": "Miracle",
     "permalink": "/docs/scenarios/miracle"
   },
   "next": {
-    "title": "survival",
+    "title": "Survival",
     "permalink": "/docs/survival"
   }
 }

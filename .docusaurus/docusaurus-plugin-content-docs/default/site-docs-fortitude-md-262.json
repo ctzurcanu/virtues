@@ -1,6 +1,6 @@
 {
   "id": "fortitude",
-  "title": "fortitude",
+  "title": "Fortitude",
   "description": "back",
   "source": "@site/docs/fortitude.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Fortitude"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "forgiveness",
+    "title": "Forgiveness",
     "permalink": "/docs/forgiveness"
   },
   "next": {
-    "title": "friendship",
+    "title": "Friendship",
     "permalink": "/docs/friendship"
   }
 }

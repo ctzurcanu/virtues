@@ -1,6 +1,6 @@
 {
   "id": "relationship",
-  "title": "relationship",
+  "title": "Relationship",
   "description": "back",
   "source": "@site/docs/relationship.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Relationship"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "prudence",
+    "title": "Prudence",
     "permalink": "/docs/prudence"
   },
   "next": {
-    "title": "index",
+    "title": "Scenarios",
     "permalink": "/docs/scenarios/"
   }
 }

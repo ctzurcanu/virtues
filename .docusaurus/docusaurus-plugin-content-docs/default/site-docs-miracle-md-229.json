@@ -1,6 +1,6 @@
 {
   "id": "miracle",
-  "title": "miracle",
+  "title": "Miracle",
   "description": "back",
   "source": "@site/docs/miracle.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Miracle"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "measurability",
+    "title": "Measurability",
     "permalink": "/docs/measurability"
   },
   "next": {
-    "title": "order",
+    "title": "Order",
     "permalink": "/docs/order"
   }
 }

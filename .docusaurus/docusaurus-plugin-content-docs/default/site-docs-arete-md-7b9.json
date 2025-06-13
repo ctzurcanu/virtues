@@ -1,6 +1,6 @@
 {
   "id": "arete",
-  "title": "arete",
+  "title": "Arete",
   "description": "back",
   "source": "@site/docs/arete.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Arete"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "allah",
+    "title": "The 99 Names of Allah",
     "permalink": "/docs/allah"
   },
   "next": {
-    "title": "beauty",
+    "title": "Beauty",
     "permalink": "/docs/beauty"
   }
 }

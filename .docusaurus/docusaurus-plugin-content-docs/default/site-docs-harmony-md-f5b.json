@@ -1,6 +1,6 @@
 {
   "id": "harmony",
-  "title": "harmony",
+  "title": "Harmony",
   "description": "back",
   "source": "@site/docs/harmony.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Harmony"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "governance",
+    "title": "Governance",
     "permalink": "/docs/governance"
   },
   "next": {
-    "title": "hero",
+    "title": "Hero",
     "permalink": "/docs/hero"
   }
 }

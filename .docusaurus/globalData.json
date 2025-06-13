@@ -221,6 +221,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "systems/index",
+              "path": "/docs/systems/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "systems/maslow",
               "path": "/docs/systems/maslow",
               "sidebar": "tutorialSidebar"

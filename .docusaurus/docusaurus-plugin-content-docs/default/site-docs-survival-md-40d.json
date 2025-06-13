@@ -1,6 +1,6 @@
 {
   "id": "survival",
-  "title": "survival",
+  "title": "Survival",
   "description": "back",
   "source": "@site/docs/survival.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Survival"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "narratives",
+    "title": "Narratives",
     "permalink": "/docs/scenarios/narratives"
   },
   "next": {
-    "title": "development",
-    "permalink": "/docs/systems/development"
+    "title": "Other Systems",
+    "permalink": "/docs/systems/"
   }
 }

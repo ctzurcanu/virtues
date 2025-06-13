@@ -1,6 +1,6 @@
 {
   "id": "citizen",
-  "title": "citizen",
+  "title": "Being a Citizen",
   "description": "back",
   "source": "@site/docs/citizen.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Being a Citizen"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "charity",
+    "title": "Charity",
     "permalink": "/docs/charity"
   },
   "next": {
-    "title": "competition",
+    "title": "Competition",
     "permalink": "/docs/competition"
   }
 }

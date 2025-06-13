@@ -1,6 +1,6 @@
 {
   "id": "composed",
-  "title": "composed",
+  "title": "The Composed Virtues",
   "description": "back",
   "source": "@site/docs/composed.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "The Composed Virtues"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "competition",
+    "title": "Competition",
     "permalink": "/docs/competition"
   },
   "next": {
-    "title": "concepts",
+    "title": "Dictionary of Concepts",
     "permalink": "/docs/concepts"
   }
 }

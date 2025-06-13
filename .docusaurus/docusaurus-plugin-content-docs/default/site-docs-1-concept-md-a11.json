@@ -1,6 +1,6 @@
 {
   "id": "1concept",
-  "title": "1concept",
+  "title": "Reduction to 1 Concept",
   "description": "back",
   "source": "@site/docs/1concept.md",
   "sourceDirName": ".",
@@ -12,7 +12,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Reduction to 1 Concept"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -20,7 +21,7 @@
     "permalink": "/docs/"
   },
   "next": {
-    "title": "3concepts",
+    "title": "Reduction to 3 Concepts",
     "permalink": "/docs/3concepts"
   }
 }

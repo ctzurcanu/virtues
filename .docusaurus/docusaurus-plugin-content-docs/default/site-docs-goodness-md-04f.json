@@ -1,6 +1,6 @@
 {
   "id": "goodness",
-  "title": "goodness",
+  "title": "Goodness",
   "description": "back",
   "source": "@site/docs/goodness.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Goodness"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "friendship",
+    "title": "Friendship",
     "permalink": "/docs/friendship"
   },
   "next": {
-    "title": "governance",
+    "title": "Governance",
     "permalink": "/docs/governance"
   }
 }

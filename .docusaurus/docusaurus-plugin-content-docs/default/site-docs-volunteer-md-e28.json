@@ -1,6 +1,6 @@
 {
   "id": "volunteer",
-  "title": "volunteer",
+  "title": "Volunteer",
   "description": "back",
   "source": "@site/docs/volunteer.md",
   "sourceDirName": ".",
@@ -12,11 +12,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Volunteer"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "virtues",
+    "title": "Virtues",
     "permalink": "/docs/virtues"
   }
 }

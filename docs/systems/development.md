@@ -1,5 +1,6 @@
 ---
 layout: default
+title: “Internal” Developmental Assets
 ---
 [back](../)
 

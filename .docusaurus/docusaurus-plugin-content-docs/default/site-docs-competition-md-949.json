@@ -1,6 +1,6 @@
 {
   "id": "competition",
-  "title": "competition",
+  "title": "Competition",
   "description": "back",
   "source": "@site/docs/competition.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Competition"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "citizen",
+    "title": "Being a Citizen",
     "permalink": "/docs/citizen"
   },
   "next": {
-    "title": "composed",
+    "title": "The Composed Virtues",
     "permalink": "/docs/composed"
   }
 }

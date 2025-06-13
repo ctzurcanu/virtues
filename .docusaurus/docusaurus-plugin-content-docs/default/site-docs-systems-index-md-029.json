@@ -1,0 +1,27 @@
+{
+  "id": "systems/index",
+  "title": "Other Systems",
+  "description": "back",
+  "source": "@site/docs/systems/index.md",
+  "sourceDirName": "systems",
+  "slug": "/systems/",
+  "permalink": "/docs/systems/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/systems/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Other Systems"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Survival",
+    "permalink": "/docs/survival"
+  },
+  "next": {
+    "title": "“Internal” Developmental Assets",
+    "permalink": "/docs/systems/development"
+  }
+}

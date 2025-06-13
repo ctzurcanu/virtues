@@ -1,6 +1,6 @@
 {
   "id": "hope",
-  "title": "hope",
+  "title": "Hope",
   "description": "back",
   "source": "@site/docs/hope.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Hope"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hierarchies",
+    "title": "Hierarchies",
     "permalink": "/docs/hierarchies"
   },
   "next": {
-    "title": "industriousness",
+    "title": "Industriousness",
     "permalink": "/docs/industriousness"
   }
 }

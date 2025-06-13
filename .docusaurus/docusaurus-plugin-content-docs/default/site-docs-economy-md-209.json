@@ -1,6 +1,6 @@
 {
   "id": "economy",
-  "title": "economy",
+  "title": "Economy",
   "description": "back",
   "source": "@site/docs/economy.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Economy"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "concepts",
+    "title": "Dictionary of Concepts",
     "permalink": "/docs/concepts"
   },
   "next": {
-    "title": "fairness",
+    "title": "Fairness",
     "permalink": "/docs/fairness"
   }
 }

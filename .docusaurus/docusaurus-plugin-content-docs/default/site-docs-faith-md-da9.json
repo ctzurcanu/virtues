@@ -1,6 +1,6 @@
 {
   "id": "faith",
-  "title": "faith",
+  "title": "Faith",
   "description": "back",
   "source": "@site/docs/faith.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Faith"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "fairness",
+    "title": "Fairness",
     "permalink": "/docs/fairness"
   },
   "next": {
-    "title": "forgiveness",
+    "title": "Forgiveness",
     "permalink": "/docs/forgiveness"
   }
 }

@@ -1,6 +1,6 @@
 {
   "id": "knowledge",
-  "title": "knowledge",
+  "title": "Domains of Knowledge",
   "description": "back",
   "source": "@site/docs/knowledge.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Domains of Knowledge"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "justice",
+    "title": "Justice",
     "permalink": "/docs/justice"
   },
   "next": {
-    "title": "logos",
+    "title": "Logos",
     "permalink": "/docs/logos"
   }
 }

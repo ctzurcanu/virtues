@@ -1,6 +1,6 @@
 {
   "id": "measurability",
-  "title": "measurability",
+  "title": "Measurability",
   "description": "back",
   "source": "@site/docs/measurability.md",
   "sourceDirName": ".",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "layout": "default"
+    "layout": "default",
+    "title": "Measurability"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "market",
+    "title": "Market",
     "permalink": "/docs/market"
   },
   "next": {
-    "title": "miracle",
+    "title": "Miracle",
     "permalink": "/docs/miracle"
   }
 }
