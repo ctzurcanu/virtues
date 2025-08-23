@@ -1,0 +1,28 @@
+{
+  "id": "methodology",
+  "title": "Methodology and Limitations",
+  "description": "Purpose",
+  "source": "@site/docs/methodology.md",
+  "sourceDirName": ".",
+  "slug": "/methodology",
+  "permalink": "/docs/methodology",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/methodology.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 99,
+  "frontMatter": {
+    "title": "Methodology and Limitations",
+    "sidebar_position": 99
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "On Virtues",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Bibliography and Sources",
+    "permalink": "/docs/bibliography"
+  }
+}

@@ -6,7 +6,7 @@ title: Beauty
 
 # Beauty
 
-Beauty is not an atomic virtue. The components are all all virtues, but mainly:
+Beauty is not an atomic virtue. The components are all virtues, but mainly:
 
 - Goodness
   - sudden Understanding
@@ -22,8 +22,8 @@ Beauty is not an atomic virtue. The components are all all virtues, but mainly:
 
 ## Types
 
-Beauty has 2 types:
-- of Time concepts: of verb, proces, transformation, transaction
+Beauty has 2 main types:
+- of Time concepts: of verb, process, transformation, transaction
 - of Space concepts: of noun, eternity, identity
 
 ## Attributes

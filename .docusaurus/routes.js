@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -79,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '66f'),
+    component: ComponentCreator('/docs', '91c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '765'),
+        component: ComponentCreator('/docs', '0d5'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd0d'),
+            component: ComponentCreator('/docs', 'd1a'),
             routes: [
               {
                 path: '/docs/',
@@ -132,6 +167,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/bibliography',
+                component: ComponentCreator('/docs/bibliography', '1f9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/charity',
                 component: ComponentCreator('/docs/charity', 'a2e'),
                 exact: true,
@@ -152,6 +193,36 @@ export default [
               {
                 path: '/docs/composed',
                 component: ComponentCreator('/docs/composed', 'c25'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/computable/',
+                component: ComponentCreator('/docs/computable/', 'c92'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/computable/governance',
+                component: ComponentCreator('/docs/computable/governance', '501'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/computable/others_coverage',
+                component: ComponentCreator('/docs/computable/others_coverage', '0d6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/computable/representation',
+                component: ComponentCreator('/docs/computable/representation', '4f3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/computable/verbs',
+                component: ComponentCreator('/docs/computable/verbs', '5e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -276,6 +347,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/methodology',
+                component: ComponentCreator('/docs/methodology', '5f3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/miracle',
                 component: ComponentCreator('/docs/miracle', '0ea'),
                 exact: true,
@@ -380,6 +457,12 @@ export default [
               {
                 path: '/docs/virtues',
                 component: ComponentCreator('/docs/virtues', '548'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/virtues_whole',
+                component: ComponentCreator('/docs/virtues_whole', '27e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

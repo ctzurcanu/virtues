@@ -35,7 +35,7 @@ title: Hierarchies
 1. [Industriousness](industriousness.md)
 1. [Survival](survival.md)
 
-The evolution can be [narrated](narratives.md).
+The evolution can be [narrated](scenarios/narratives.md).
 
 ## Types of Resources
 

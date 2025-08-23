@@ -1,0 +1,27 @@
+{
+  "id": "computable/index",
+  "title": "Making Virtues Computable",
+  "description": "back",
+  "source": "@site/docs/computable/index.md",
+  "sourceDirName": "computable",
+  "slug": "/computable/",
+  "permalink": "/docs/computable/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/computable/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Making Virtues Computable"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Composed Virtues",
+    "permalink": "/docs/composed"
+  },
+  "next": {
+    "title": "Governance of Virtue",
+    "permalink": "/docs/computable/governance"
+  }
+}

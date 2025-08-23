@@ -41,6 +41,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "bibliography",
+              "path": "/docs/bibliography",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "charity",
               "path": "/docs/charity",
               "sidebar": "tutorialSidebar"
@@ -58,6 +63,31 @@
             {
               "id": "composed",
               "path": "/docs/composed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "computable/governance",
+              "path": "/docs/computable/governance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "computable/index",
+              "path": "/docs/computable/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "computable/others_coverage",
+              "path": "/docs/computable/others_coverage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "computable/representation",
+              "path": "/docs/computable/representation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "computable/verbs",
+              "path": "/docs/computable/verbs",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -166,6 +196,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "methodology",
+              "path": "/docs/methodology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "miracle",
               "path": "/docs/miracle",
               "sidebar": "tutorialSidebar"
@@ -253,6 +288,11 @@
             {
               "id": "virtues",
               "path": "/docs/virtues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "virtues_whole",
+              "path": "/docs/virtues_whole",
               "sidebar": "tutorialSidebar"
             },
             {

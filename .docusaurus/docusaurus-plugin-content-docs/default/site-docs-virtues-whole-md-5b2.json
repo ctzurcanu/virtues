@@ -1,0 +1,26 @@
+{
+  "id": "virtues_whole",
+  "title": "On Virtues (Complete)",
+  "description": "This document is excluded from Docusaurus navigation and contains the complete compilation of all virtue documentation.",
+  "source": "@site/docs/virtues_whole.md",
+  "sourceDirName": ".",
+  "slug": "/virtues_whole",
+  "permalink": "/docs/virtues_whole",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/virtues_whole.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Virtues",
+    "permalink": "/docs/virtues"
+  },
+  "next": {
+    "title": "Volunteer",
+    "permalink": "/docs/volunteer"
+  }
+}

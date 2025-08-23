@@ -71,7 +71,7 @@ We accept these definitions of virtue:
 | 18 | Transparence | under the counter | [Market](market.md) | All is tradeable |
 | 19 | Wealth, Vitality | Poverty/Lazyness | [Abundance](abundance.md) | Abundance without reason |
 | 20 | Thrive | lack of effort | [Industriousness](industriousness.md) | Reflex, one size fits all |
-| 21 | Life | Extinction | [Survival](survival.md) | Canibalism/Stealing |
+| 21 | Life | Extinction | [Survival](survival.md) | Rapacity (Cannibalism, Stealing, Parasitism) |
 
 
 

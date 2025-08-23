@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="tao.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.78320312"
+     inkscape:cx="512"
+     inkscape:cy="512"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid182"
+       units="mm"
+       empspacing="4"
+       spacingx="11.25"
+       spacingy="11.25"
+       visible="false"
+       originx="0"
+       originy="0" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid220"
+       color="#00dc55"
+       opacity="0.33333333"
+       empcolor="#009a47"
+       empopacity="0.30196078"
+       empspacing="4"
+       spacingx="9.5000003"
+       spacingy="9.5000003"
+       originx="-4.7500001"
+       originy="-4.7500001"
+       units="mm" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3468"
+       transform="matrix(0.26973481,0,0,0.26973481,-2.6389047,-2.6375561)"
+       style="fill:#808080">
+      <path
+         class="cls-1"
+         d="M 518.37,79.93 C 516.25,79.9 514.13,79.88 512,79.88 273.34,79.88 79.88,273.35 79.88,512 c 0,238.65 193.47,432.12 432.12,432.12 2.13,0 4.25,-0.02 6.37,-0.05 C 754.09,940.67 944.13,748.53 944.13,512 944.13,275.47 754.09,83.33 518.37,79.93 Z M 512,99.24 c 2.12,0 4.24,0.02 6.35,0.06 0,0 0,0 0,0 0,0 0,0 0,0 4.36,0.07 8.69,0.21 13.02,0.41 218.96,10.12 393.38,190.84 393.38,412.3 0,221.46 -181.37,409.3 -406.39,412.71 v -0.29 c -2.56,0.09 -5.12,0.16 -7.7,0.16 -113.65,0 -205.78,-92.13 -205.78,-205.78 0,-113.65 92.13,-205.78 205.78,-205.78 2.58,0 5.14,0.06 7.7,0.16 v -2.26 c 0,0 0.05,0 0.07,0 113.65,0 205.78,-92.13 205.78,-205.78 0,-113.65 -85.22,-198.68 -192.83,-205.36 -4.32,-0.2 -8.66,-0.34 -13.02,-0.41 -0.14,0 -0.29,0 -0.43,0 v 0 c -1.97,-0.03 -3.95,-0.05 -5.93,-0.05 m 8.5,121.98 c 45.1,0.84 81.9,37.64 82.74,82.74 0.89,47.86 -38.09,86.83 -85.94,85.94 -45.1,-0.84 -81.9,-37.64 -82.74,-82.74 -0.89,-47.86 38.09,-86.83 85.94,-85.94 z"
+         id="path3337"
+         style="fill:#808080;stroke-width:0px" />
+      <circle
+         class="cls-1"
+         cx="512"
+         cy="755.52002"
+         r="84.360001"
+         id="circle3339"
+         style="fill:#808080;stroke-width:0px" />
+    </g>
+  </g>
+  <metadata
+     id="metadata184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

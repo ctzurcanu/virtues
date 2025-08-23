@@ -1,0 +1,27 @@
+{
+  "id": "computable/governance",
+  "title": "Governance of Virtue",
+  "description": "back",
+  "source": "@site/docs/computable/governance.md",
+  "sourceDirName": "computable",
+  "slug": "/computable/governance",
+  "permalink": "/docs/computable/governance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/computable/governance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Governance of Virtue"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Making Virtues Computable",
+    "permalink": "/docs/computable/"
+  },
+  "next": {
+    "title": "The coverage of other Virtue Theories",
+    "permalink": "/docs/computable/others_coverage"
+  }
+}
