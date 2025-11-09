@@ -1,6 +1,7 @@
 ---
 layout: default
 title: “Internal” Developmental Assets
+sidebar_position: 4
 ---
 [back](../)
 

@@ -1,6 +1,6 @@
 {
   "id": "arete",
-  "title": "Arete",
+  "title": "6. Arete",
   "description": "back",
   "source": "@site/docs/arete.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/arete.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 7,
   "frontMatter": {
     "layout": "default",
-    "title": "Arete"
+    "title": "6. Arete",
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The 99 Names of Allah",
-    "permalink": "/docs/allah"
+    "title": "5. Charity",
+    "permalink": "/docs/charity"
   },
   "next": {
-    "title": "Beauty",
-    "permalink": "/docs/beauty"
+    "title": "6. Goodness",
+    "permalink": "/docs/goodness"
   }
 }

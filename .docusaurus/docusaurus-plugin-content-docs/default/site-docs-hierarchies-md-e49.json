@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/hierarchies.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 33,
   "frontMatter": {
     "layout": "default",
-    "title": "Hierarchies"
+    "title": "Hierarchies",
+    "sidebar_position": 33
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Hero",
-    "permalink": "/docs/hero"
+    "title": "Principles",
+    "permalink": "/docs/principles"
   },
   "next": {
-    "title": "Hope",
-    "permalink": "/docs/hope"
+    "title": "Scenarios",
+    "permalink": "/docs/scenarios/"
   }
 }

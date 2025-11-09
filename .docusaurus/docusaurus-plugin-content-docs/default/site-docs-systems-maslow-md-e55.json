@@ -11,14 +11,16 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/systems/maslow.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 2,
   "frontMatter": {
     "layout": "default",
-    "title": "Maslow"
+    "title": "Maslow",
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "“Internal” Developmental Assets",
-    "permalink": "/docs/systems/development"
+    "title": "Other Systems",
+    "permalink": "/docs/systems/"
   },
   "next": {
     "title": "Internal Resilience Factors",

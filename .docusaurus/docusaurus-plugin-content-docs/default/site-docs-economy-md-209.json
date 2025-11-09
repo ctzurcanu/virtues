@@ -1,6 +1,6 @@
 {
   "id": "economy",
-  "title": "Economy",
+  "title": "4. Economy",
   "description": "back",
   "source": "@site/docs/economy.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/economy.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 5,
   "frontMatter": {
     "layout": "default",
-    "title": "Economy"
+    "title": "4. Economy",
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Dictionary of Concepts",
-    "permalink": "/docs/concepts"
+    "title": "Domains of Knowledge",
+    "permalink": "/docs/reason/knowledge"
   },
   "next": {
-    "title": "Fairness",
-    "permalink": "/docs/fairness"
+    "title": "5. Charity",
+    "permalink": "/docs/charity"
   }
 }

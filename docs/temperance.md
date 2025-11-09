@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Temperance
+title: 13. Temperance
+sidebar_position: 14
 ---
 [back](./)
 

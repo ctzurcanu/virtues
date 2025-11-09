@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The Composed Virtues",
-    "permalink": "/docs/composed"
+    "title": "Challenges to this Framework by AI",
+    "permalink": "/docs/challenges/by_AI"
   },
   "next": {
-    "title": "Governance of Virtue",
-    "permalink": "/docs/computable/governance"
+    "title": "The Verbal Categories",
+    "permalink": "/docs/computable/categories"
   }
 }

@@ -11,13 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/volunteer.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 51,
   "frontMatter": {
     "layout": "default",
-    "title": "Volunteer"
+    "title": "Volunteer",
+    "sidebar_position": 51
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "On Virtues (Complete)",
-    "permalink": "/docs/virtues_whole"
+    "title": "Friendship",
+    "permalink": "/docs/friendship"
+  },
+  "next": {
+    "title": "Hero",
+    "permalink": "/docs/hero"
   }
 }

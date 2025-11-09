@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Values in Action Inventory (VIA)
+sidebar_position: 5
 ---
 [back](../)
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Goodness
+title: 6. Goodness
+sidebar_position: 7
 ---
 [back](./)
 

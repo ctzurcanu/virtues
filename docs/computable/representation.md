@@ -10,7 +10,7 @@ A proposed representation in space is in correspondence with the most used embed
 
 ## Compatibility with other Encoders
 
-- a representation in 764 dimensions for compatibility with BERT-derived encoders
+- a representation in 768 dimensions for compatibility with BERT-derived encoders
 
 ## in 21D
 

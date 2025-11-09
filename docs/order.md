@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Order
+title: 2. Order
+sidebar_position: 3
 ---
 [back](./)
 

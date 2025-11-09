@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/virtues.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 1,
   "frontMatter": {
     "layout": "default",
-    "title": "Virtues"
+    "title": "Virtues",
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The \"Undefined\" Virtues",
-    "permalink": "/docs/undefined"
+    "title": "On Virtues",
+    "permalink": "/docs/"
   },
   "next": {
-    "title": "On Virtues (Complete)",
-    "permalink": "/docs/virtues_whole"
+    "title": "1. Miracle",
+    "permalink": "/docs/miracle"
   }
 }

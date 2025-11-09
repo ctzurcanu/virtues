@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Forgiveness
+title: 10. Forgiveness
+sidebar_position: 11
 ---
 [back](./)
 

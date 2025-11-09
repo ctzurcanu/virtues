@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '91c'),
+    component: ComponentCreator('/docs', '09f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '0d5'),
+        component: ComponentCreator('/docs', '156'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd1a'),
+            component: ComponentCreator('/docs', '3a7'),
             routes: [
               {
                 path: '/docs/',
@@ -161,14 +161,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beauty',
-                component: ComponentCreator('/docs/beauty', '6c2'),
+                path: '/docs/bibliography',
+                component: ComponentCreator('/docs/bibliography', '1f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/bibliography',
-                component: ComponentCreator('/docs/bibliography', '1f9'),
+                path: '/docs/challenges/by_AI',
+                component: ComponentCreator('/docs/challenges/by_AI', '355'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -179,26 +179,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/citizen',
-                component: ComponentCreator('/docs/citizen', 'f34'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/competition',
                 component: ComponentCreator('/docs/competition', '88e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/composed',
-                component: ComponentCreator('/docs/composed', 'c25'),
+                path: '/docs/composed/',
+                component: ComponentCreator('/docs/composed/', 'b67'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/composed/beauty',
+                component: ComponentCreator('/docs/composed/beauty', '876'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/computable/',
                 component: ComponentCreator('/docs/computable/', 'c92'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/computable/categories',
+                component: ComponentCreator('/docs/computable/categories', '8f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -245,12 +251,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/faith',
-                component: ComponentCreator('/docs/faith', 'db4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/forgiveness',
                 component: ComponentCreator('/docs/forgiveness', '93c'),
                 exact: true,
@@ -259,12 +259,6 @@ export default [
               {
                 path: '/docs/fortitude',
                 component: ComponentCreator('/docs/fortitude', '00e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/friendship',
-                component: ComponentCreator('/docs/friendship', 'c86'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -287,12 +281,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hero',
-                component: ComponentCreator('/docs/hero', '34b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/hierarchies',
                 component: ComponentCreator('/docs/hierarchies', '808'),
                 exact: true,
@@ -311,26 +299,56 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/institution',
-                component: ComponentCreator('/docs/institution', 'f29'),
+                path: '/docs/institutions/',
+                component: ComponentCreator('/docs/institutions/', '892'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/institutions/charities',
+                component: ComponentCreator('/docs/institutions/charities', 'd96'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/institutions/citizen',
+                component: ComponentCreator('/docs/institutions/citizen', '4f1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/institutions/friendship',
+                component: ComponentCreator('/docs/institutions/friendship', '5f6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/institutions/hero',
+                component: ComponentCreator('/docs/institutions/hero', '846'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/institutions/public',
+                component: ComponentCreator('/docs/institutions/public', 'c1b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/institutions/relationship',
+                component: ComponentCreator('/docs/institutions/relationship', '557'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/institutions/volunteer',
+                component: ComponentCreator('/docs/institutions/volunteer', '081'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/justice',
                 component: ComponentCreator('/docs/justice', '39f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/knowledge',
-                component: ComponentCreator('/docs/knowledge', '087'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/logos',
-                component: ComponentCreator('/docs/logos', '59f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -365,12 +383,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/other',
-                component: ComponentCreator('/docs/other', 'b3a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/principles',
                 component: ComponentCreator('/docs/principles', '387'),
                 exact: true,
@@ -383,8 +395,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/relationship',
-                component: ComponentCreator('/docs/relationship', '071'),
+                path: '/docs/reason/',
+                component: ComponentCreator('/docs/reason/', '536'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/reason/knowledge',
+                component: ComponentCreator('/docs/reason/knowledge', '266'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/reason/logos',
+                component: ComponentCreator('/docs/reason/logos', '740'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -463,12 +487,6 @@ export default [
               {
                 path: '/docs/virtues_whole',
                 component: ComponentCreator('/docs/virtues_whole', '27e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/volunteer',
-                component: ComponentCreator('/docs/volunteer', '6b8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

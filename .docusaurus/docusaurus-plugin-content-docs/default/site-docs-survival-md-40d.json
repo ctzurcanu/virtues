@@ -1,6 +1,6 @@
 {
   "id": "survival",
-  "title": "Survival",
+  "title": "21. Survival",
   "description": "back",
   "source": "@site/docs/survival.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/survival.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 22,
   "frontMatter": {
     "layout": "default",
-    "title": "Survival"
+    "title": "21. Survival",
+    "sidebar_position": 22
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Narratives",
-    "permalink": "/docs/scenarios/narratives"
+    "title": "20. Industriousness",
+    "permalink": "/docs/industriousness"
   },
   "next": {
-    "title": "Other Systems",
-    "permalink": "/docs/systems/"
+    "title": "The \"Undefined\" Virtues",
+    "permalink": "/docs/undefined"
   }
 }

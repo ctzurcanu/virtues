@@ -1,6 +1,6 @@
 {
   "id": "temperance",
-  "title": "Temperance",
+  "title": "13. Temperance",
   "description": "back",
   "source": "@site/docs/temperance.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/temperance.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 14,
   "frontMatter": {
     "layout": "default",
-    "title": "Temperance"
+    "title": "13. Temperance",
+    "sidebar_position": 14
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Values in Action Inventory (VIA)",
-    "permalink": "/docs/systems/via"
+    "title": "12. Governance",
+    "permalink": "/docs/governance"
   },
   "next": {
-    "title": "The \"Undefined\" Virtues",
-    "permalink": "/docs/undefined"
+    "title": "14. Fairness",
+    "permalink": "/docs/fairness"
   }
 }

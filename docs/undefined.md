@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The "Undefined" Virtues
+sidebar_position: 25
 ---
 [back](./)
 

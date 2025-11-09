@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Being a Citizen
+sidebar_position: 47
 ---
 [back](./)
 

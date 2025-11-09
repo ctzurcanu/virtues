@@ -36,13 +36,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "beauty",
-              "path": "/docs/beauty",
+              "id": "bibliography",
+              "path": "/docs/bibliography",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bibliography",
-              "path": "/docs/bibliography",
+              "id": "challenges/by_AI",
+              "path": "/docs/challenges/by_AI",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -51,18 +51,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "citizen",
-              "path": "/docs/citizen",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "competition",
               "path": "/docs/competition",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "composed",
-              "path": "/docs/composed",
+              "id": "composed/beauty",
+              "path": "/docs/composed/beauty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "composed/index",
+              "path": "/docs/composed/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "computable/categories",
+              "path": "/docs/computable/categories",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -106,11 +111,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "faith",
-              "path": "/docs/faith",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "forgiveness",
               "path": "/docs/forgiveness",
               "sidebar": "tutorialSidebar"
@@ -118,11 +118,6 @@
             {
               "id": "fortitude",
               "path": "/docs/fortitude",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "friendship",
-              "path": "/docs/friendship",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -138,11 +133,6 @@
             {
               "id": "harmony",
               "path": "/docs/harmony",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "hero",
-              "path": "/docs/hero",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -166,23 +156,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "institution",
-              "path": "/docs/institution",
+              "id": "institutions/charities",
+              "path": "/docs/institutions/charities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "institutions/citizen",
+              "path": "/docs/institutions/citizen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "institutions/friendship",
+              "path": "/docs/institutions/friendship",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "institutions/hero",
+              "path": "/docs/institutions/hero",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "institutions/index",
+              "path": "/docs/institutions/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "institutions/public",
+              "path": "/docs/institutions/public",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "institutions/relationship",
+              "path": "/docs/institutions/relationship",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "institutions/volunteer",
+              "path": "/docs/institutions/volunteer",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "justice",
               "path": "/docs/justice",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledge",
-              "path": "/docs/knowledge",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "logos",
-              "path": "/docs/logos",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -211,11 +226,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "other",
-              "path": "/docs/other",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "principles",
               "path": "/docs/principles",
               "sidebar": "tutorialSidebar"
@@ -226,8 +236,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "relationship",
-              "path": "/docs/relationship",
+              "id": "reason/index",
+              "path": "/docs/reason/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reason/knowledge",
+              "path": "/docs/reason/knowledge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reason/logos",
+              "path": "/docs/reason/logos",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -293,11 +313,6 @@
             {
               "id": "virtues_whole",
               "path": "/docs/virtues_whole",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "volunteer",
-              "path": "/docs/volunteer",
               "sidebar": "tutorialSidebar"
             }
           ],

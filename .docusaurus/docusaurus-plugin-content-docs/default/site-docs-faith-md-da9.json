@@ -1,6 +1,6 @@
 {
   "id": "faith",
-  "title": "Faith",
+  "title": "3. Faith",
   "description": "back",
   "source": "@site/docs/faith.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/faith.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 4,
   "frontMatter": {
     "layout": "default",
-    "title": "Faith"
+    "title": "3. Faith",
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Fairness",
-    "permalink": "/docs/fairness"
+    "title": "Charity",
+    "permalink": "/docs/charity"
   },
   "next": {
-    "title": "Forgiveness",
-    "permalink": "/docs/forgiveness"
+    "title": "Prudence",
+    "permalink": "/docs/prudence"
   }
 }

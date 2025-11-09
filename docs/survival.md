@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Survival
+title: 21. Survival
+sidebar_position: 22
 ---
 [back](./)
 

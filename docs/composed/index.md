@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Composed Virtues
+sidebar_position: 27
 ---
 [back](./)
 
@@ -19,6 +20,11 @@ This virtues should be precisely defined in quality and quantity in terms of bas
 
 
 ## Composed Virtues
+
+- [Beauty](beauty.md)
+
+
+## Traditional
 
 ### Ihsan (Benevolence/Excellence in Islam)
 This virtue means to do things with perfection, beauty, and excellence, and to act benevolently. It also involves being conscious of God at all times.

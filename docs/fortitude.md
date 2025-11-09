@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Fortitude
+title: 15. Fortitude
+sidebar_position: 16
 ---
 [back](./)
 

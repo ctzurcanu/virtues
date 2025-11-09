@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Justice
+title: 11. Justice
+sidebar_position: 12
 ---
 [back](./)
 

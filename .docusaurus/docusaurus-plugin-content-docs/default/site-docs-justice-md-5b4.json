@@ -1,6 +1,6 @@
 {
   "id": "justice",
-  "title": "Justice",
+  "title": "11. Justice",
   "description": "back",
   "source": "@site/docs/justice.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/justice.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 12,
   "frontMatter": {
     "layout": "default",
-    "title": "Justice"
+    "title": "11. Justice",
+    "sidebar_position": 12
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Institution",
-    "permalink": "/docs/institution"
+    "title": "10. Forgiveness",
+    "permalink": "/docs/forgiveness"
   },
   "next": {
-    "title": "Domains of Knowledge",
-    "permalink": "/docs/knowledge"
+    "title": "12. Governance",
+    "permalink": "/docs/governance"
   }
 }

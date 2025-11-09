@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/friendship.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 49,
   "frontMatter": {
     "layout": "default",
-    "title": "Friendship"
+    "title": "Friendship",
+    "sidebar_position": 49
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Fortitude",
-    "permalink": "/docs/fortitude"
+    "title": "Being a Citizen",
+    "permalink": "/docs/citizen"
   },
   "next": {
-    "title": "Goodness",
-    "permalink": "/docs/goodness"
+    "title": "Volunteer",
+    "permalink": "/docs/volunteer"
   }
 }

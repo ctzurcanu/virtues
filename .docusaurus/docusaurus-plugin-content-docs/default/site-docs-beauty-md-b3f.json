@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Arete",
-    "permalink": "/docs/arete"
+    "title": "Bibliography and Sources",
+    "permalink": "/docs/bibliography"
   },
   "next": {
-    "title": "Charity",
-    "permalink": "/docs/charity"
+    "title": "Challenges to this Framework by AI",
+    "permalink": "/docs/challenges/by_AI"
   }
 }

@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/composed.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 27,
   "frontMatter": {
     "layout": "default",
-    "title": "The Composed Virtues"
+    "title": "The Composed Virtues",
+    "sidebar_position": 27
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Competition",
-    "permalink": "/docs/competition"
+    "title": "The \"Undefined\" Virtues",
+    "permalink": "/docs/undefined"
   },
   "next": {
-    "title": "Making Virtues Computable",
-    "permalink": "/docs/computable/"
+    "title": "Principles",
+    "permalink": "/docs/principles"
   }
 }

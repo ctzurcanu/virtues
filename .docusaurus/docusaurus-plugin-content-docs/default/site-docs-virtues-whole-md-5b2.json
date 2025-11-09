@@ -16,11 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Virtues",
-    "permalink": "/docs/virtues"
-  },
-  "next": {
-    "title": "Volunteer",
-    "permalink": "/docs/volunteer"
+    "title": "The Verbs as Domain of Virtue",
+    "permalink": "/docs/computable/verbs"
   }
 }

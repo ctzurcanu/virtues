@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Hope
+title: 7. Hope
+sidebar_position: 8
 ---
 [back](./)
 

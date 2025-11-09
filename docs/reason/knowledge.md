@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Domains of Knowledge
+sidebar_position: 6
 ---
 [back](./)
 

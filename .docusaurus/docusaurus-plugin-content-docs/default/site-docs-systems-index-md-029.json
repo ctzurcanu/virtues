@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/systems/index.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 57,
   "frontMatter": {
     "layout": "default",
-    "title": "Other Systems"
+    "title": "Other Systems",
+    "sidebar_position": 57
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Survival",
-    "permalink": "/docs/survival"
+    "title": "Relationship",
+    "permalink": "/docs/institutions/relationship"
   },
   "next": {
-    "title": "“Internal” Developmental Assets",
-    "permalink": "/docs/systems/development"
+    "title": "Maslow",
+    "permalink": "/docs/systems/maslow"
   }
 }

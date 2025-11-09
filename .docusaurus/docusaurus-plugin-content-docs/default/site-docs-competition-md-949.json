@@ -1,6 +1,6 @@
 {
   "id": "competition",
-  "title": "Competition",
+  "title": "16. Competition",
   "description": "back",
   "source": "@site/docs/competition.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/competition.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 17,
   "frontMatter": {
     "layout": "default",
-    "title": "Competition"
+    "title": "16. Competition",
+    "sidebar_position": 17
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Being a Citizen",
-    "permalink": "/docs/citizen"
+    "title": "15. Fortitude",
+    "permalink": "/docs/fortitude"
   },
   "next": {
-    "title": "The Composed Virtues",
-    "permalink": "/docs/composed"
+    "title": "17. Measurability",
+    "permalink": "/docs/measurability"
   }
 }

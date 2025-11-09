@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/principles.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 31,
   "frontMatter": {
     "layout": "default",
-    "title": "Principles"
+    "title": "Principles",
+    "sidebar_position": 31
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Other Systems",
-    "permalink": "/docs/other"
+    "title": "Beauty",
+    "permalink": "/docs/composed/beauty"
   },
   "next": {
-    "title": "Prudence",
-    "permalink": "/docs/prudence"
+    "title": "Hierarchies",
+    "permalink": "/docs/hierarchies"
   }
 }

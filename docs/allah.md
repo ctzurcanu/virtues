@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The 99 Names of Allah
+sidebar_position: 45
 ---
 [back](./)
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Charity
+title: 5. Charity
+sidebar_position: 6
 ---
 [back](./)
 

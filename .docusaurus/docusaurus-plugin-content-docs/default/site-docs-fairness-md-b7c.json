@@ -1,6 +1,6 @@
 {
   "id": "fairness",
-  "title": "Fairness",
+  "title": "14. Fairness",
   "description": "back",
   "source": "@site/docs/fairness.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/fairness.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 15,
   "frontMatter": {
     "layout": "default",
-    "title": "Fairness"
+    "title": "14. Fairness",
+    "sidebar_position": 15
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Economy",
-    "permalink": "/docs/economy"
+    "title": "13. Temperance",
+    "permalink": "/docs/temperance"
   },
   "next": {
-    "title": "Faith",
-    "permalink": "/docs/faith"
+    "title": "15. Fortitude",
+    "permalink": "/docs/fortitude"
   }
 }

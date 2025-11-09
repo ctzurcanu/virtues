@@ -1,6 +1,6 @@
 {
   "id": "forgiveness",
-  "title": "Forgiveness",
+  "title": "10. Forgiveness",
   "description": "back",
   "source": "@site/docs/forgiveness.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/forgiveness.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 11,
   "frontMatter": {
     "layout": "default",
-    "title": "Forgiveness"
+    "title": "10. Forgiveness",
+    "sidebar_position": 11
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Faith",
-    "permalink": "/docs/faith"
+    "title": "9. Prudence",
+    "permalink": "/docs/prudence"
   },
   "next": {
-    "title": "Fortitude",
-    "permalink": "/docs/fortitude"
+    "title": "11. Justice",
+    "permalink": "/docs/justice"
   }
 }

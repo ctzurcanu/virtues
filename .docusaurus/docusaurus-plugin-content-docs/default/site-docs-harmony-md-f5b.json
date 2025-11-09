@@ -1,6 +1,6 @@
 {
   "id": "harmony",
-  "title": "Harmony",
+  "title": "8. Harmony, Generosity",
   "description": "back",
   "source": "@site/docs/harmony.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/harmony.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 9,
   "frontMatter": {
     "layout": "default",
-    "title": "Harmony"
+    "title": "8. Harmony, Generosity",
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Governance",
-    "permalink": "/docs/governance"
+    "title": "7. Hope",
+    "permalink": "/docs/hope"
   },
   "next": {
-    "title": "Hero",
-    "permalink": "/docs/hero"
+    "title": "9. Prudence",
+    "permalink": "/docs/prudence"
   }
 }

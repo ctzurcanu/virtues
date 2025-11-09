@@ -1,6 +1,6 @@
 {
   "id": "governance",
-  "title": "Governance",
+  "title": "12. Governance",
   "description": "back",
   "source": "@site/docs/governance.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/governance.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 13,
   "frontMatter": {
     "layout": "default",
-    "title": "Governance"
+    "title": "12. Governance",
+    "sidebar_position": 13
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Goodness",
-    "permalink": "/docs/goodness"
+    "title": "11. Justice",
+    "permalink": "/docs/justice"
   },
   "next": {
-    "title": "Harmony",
-    "permalink": "/docs/harmony"
+    "title": "13. Temperance",
+    "permalink": "/docs/temperance"
   }
 }

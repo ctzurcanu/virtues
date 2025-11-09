@@ -1,6 +1,6 @@
 {
   "id": "miracle",
-  "title": "Miracle",
+  "title": "1. Miracle",
   "description": "back",
   "source": "@site/docs/miracle.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/miracle.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 2,
   "frontMatter": {
     "layout": "default",
-    "title": "Miracle"
+    "title": "1. Miracle",
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Measurability",
-    "permalink": "/docs/measurability"
+    "title": "Virtues",
+    "permalink": "/docs/virtues"
   },
   "next": {
-    "title": "Order",
+    "title": "2. Order",
     "permalink": "/docs/order"
   }
 }

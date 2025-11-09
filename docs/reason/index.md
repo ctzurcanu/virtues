@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Faith
+title: 3. Faith, Reason
+sidebar_position: 4
 ---
-[back](./)
+[back](../)
 
 # Faith, Clarity of Implication, Reason
 
@@ -188,3 +189,5 @@ Everything that can be thought at all can be thought clearly. Everything that ca
 ### Corollary 3.1: All virtues are reasonable
 
 The provable definition of each virtue is an integral part of the virtue itself. In other words: the virtue of Faith/Reason is present in the definition of all other virtues.
+
+[back](../)

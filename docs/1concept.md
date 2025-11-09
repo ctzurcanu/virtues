@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reduction to 1 Concept
+sidebar_position: 39
 ---
 [back](./)
 

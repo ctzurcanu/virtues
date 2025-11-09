@@ -1,6 +1,6 @@
 {
   "id": "measurability",
-  "title": "Measurability",
+  "title": "17. Measurability",
   "description": "back",
   "source": "@site/docs/measurability.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/measurability.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 18,
   "frontMatter": {
     "layout": "default",
-    "title": "Measurability"
+    "title": "17. Measurability",
+    "sidebar_position": 18
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Market",
-    "permalink": "/docs/market"
+    "title": "16. Competition",
+    "permalink": "/docs/competition"
   },
   "next": {
-    "title": "Miracle",
-    "permalink": "/docs/miracle"
+    "title": "18. Market",
+    "permalink": "/docs/market"
   }
 }

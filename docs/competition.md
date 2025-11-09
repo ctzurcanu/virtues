@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Competition
+title: 16. Competition
+sidebar_position: 17
 ---
 [back](./)
 

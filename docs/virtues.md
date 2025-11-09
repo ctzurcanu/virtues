@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Virtues
+sidebar_position: 1
 ---
 [back](./)
 

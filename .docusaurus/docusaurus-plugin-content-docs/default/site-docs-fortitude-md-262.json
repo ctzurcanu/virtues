@@ -1,6 +1,6 @@
 {
   "id": "fortitude",
-  "title": "Fortitude",
+  "title": "15. Fortitude",
   "description": "back",
   "source": "@site/docs/fortitude.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/fortitude.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 16,
   "frontMatter": {
     "layout": "default",
-    "title": "Fortitude"
+    "title": "15. Fortitude",
+    "sidebar_position": 16
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Forgiveness",
-    "permalink": "/docs/forgiveness"
+    "title": "14. Fairness",
+    "permalink": "/docs/fairness"
   },
   "next": {
-    "title": "Friendship",
-    "permalink": "/docs/friendship"
+    "title": "16. Competition",
+    "permalink": "/docs/competition"
   }
 }

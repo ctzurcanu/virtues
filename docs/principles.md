@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Principles
+sidebar_position: 31
 ---
 [back](./)
 

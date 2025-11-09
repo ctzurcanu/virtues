@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/systems/via.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 5,
   "frontMatter": {
     "layout": "default",
-    "title": "Values in Action Inventory (VIA)"
+    "title": "Values in Action Inventory (VIA)",
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Internal Resilience Factors",
-    "permalink": "/docs/systems/resilience"
+    "title": "“Internal” Developmental Assets",
+    "permalink": "/docs/systems/development"
   },
   "next": {
-    "title": "Temperance",
-    "permalink": "/docs/temperance"
+    "title": "Methodology and Limitations",
+    "permalink": "/docs/methodology"
   }
 }

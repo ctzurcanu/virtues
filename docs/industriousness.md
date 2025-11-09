@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Industriousness
+title: 20. Industriousness
+sidebar_position: 21
 ---
 [back](./)
 

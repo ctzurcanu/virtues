@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Governance
+title: 12. Governance
+sidebar_position: 13
 ---
 [back](./)
 

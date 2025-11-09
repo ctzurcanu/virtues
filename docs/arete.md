@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Arete
+title: 6. Arete
+sidebar_position: 7
 ---
 [back](./)
 

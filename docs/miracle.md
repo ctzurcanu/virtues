@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Miracle
+title: 1. Miracle
+sidebar_position: 2
 ---
 [back](./)
 

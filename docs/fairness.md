@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Fairness
+title: 14. Fairness
+sidebar_position: 15
 ---
 [back](./)
 

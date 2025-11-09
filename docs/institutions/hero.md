@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hero
+sidebar_position: 53
 ---
 [back](./)
 

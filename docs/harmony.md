@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Harmony
+title: 8. Harmony, Generosity
+sidebar_position: 9
 ---
 [back](./)
 

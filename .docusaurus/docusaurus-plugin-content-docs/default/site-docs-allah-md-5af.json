@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/allah.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 45,
   "frontMatter": {
     "layout": "default",
-    "title": "The 99 Names of Allah"
+    "title": "The 99 Names of Allah",
+    "sidebar_position": 45
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Abundance",
-    "permalink": "/docs/abundance"
+    "title": "Dictionary of Concepts",
+    "permalink": "/docs/concepts"
   },
   "next": {
-    "title": "Arete",
-    "permalink": "/docs/arete"
+    "title": "Institutions",
+    "permalink": "/docs/institutions/"
   }
 }

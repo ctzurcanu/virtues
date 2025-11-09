@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/hero.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 53,
   "frontMatter": {
     "layout": "default",
-    "title": "Hero"
+    "title": "Hero",
+    "sidebar_position": 53
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Harmony",
-    "permalink": "/docs/harmony"
+    "title": "Volunteer",
+    "permalink": "/docs/volunteer"
   },
   "next": {
-    "title": "Hierarchies",
-    "permalink": "/docs/hierarchies"
+    "title": "Institutions",
+    "permalink": "/docs/institutions/"
   }
 }

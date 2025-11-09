@@ -249,17 +249,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-91c": {
+  "/docs-09f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-0d5": {
+  "/docs-156": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-d1a": {
+  "/docs-3a7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-4a8": {
@@ -286,33 +286,37 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-arete-7-b-9-041"
   },
-  "/docs/beauty-6c2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-beautyb-3-f-4c7"
-  },
   "/docs/bibliography-1f9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bibliography-739-c55"
+  },
+  "/docs/challenges/by_AI-355": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-challenges-by-a-ic-4-f-4ae"
   },
   "/docs/charity-a2e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-charityf-7-b-a75"
   },
-  "/docs/citizen-f34": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-citizen-8-f-6-65b"
-  },
   "/docs/competition-88e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-competition-949-f61"
   },
-  "/docs/composed-c25": {
+  "/docs/composed/-b67": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-composed-42-e-12e"
+    "content": "content---docs-composed-bee-308"
+  },
+  "/docs/composed/beauty-876": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-composed-beauty-5-b-1-b2a"
   },
   "/docs/computable/-c92": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-computable-690-7ed"
+  },
+  "/docs/computable/categories-8f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-computable-categoriesc-1-d-3de"
   },
   "/docs/computable/governance-501": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -342,10 +346,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-fairnessb-7-c-c19"
   },
-  "/docs/faith-db4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-faithda-9-543"
-  },
   "/docs/forgiveness-93c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-forgivenessf-8-f-fe6"
@@ -353,10 +353,6 @@
   "/docs/fortitude-00e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-fortitude-262-b0e"
-  },
-  "/docs/friendship-c86": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-friendshipdd-1-e5e"
   },
   "/docs/goodness-4bf": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -370,10 +366,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-harmonyf-5-b-67d"
   },
-  "/docs/hero-34b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hero-37-a-9a5"
-  },
   "/docs/hierarchies-808": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-hierarchiese-49-b91"
@@ -386,21 +378,41 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-industriousness-352-2dd"
   },
-  "/docs/institution-f29": {
+  "/docs/institutions/-892": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-institution-689-3f1"
+    "content": "content---docs-institutions-312-073"
+  },
+  "/docs/institutions/charities-d96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-institutions-charities-90-f-c68"
+  },
+  "/docs/institutions/citizen-4f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-institutions-citizen-9-f-1-60d"
+  },
+  "/docs/institutions/friendship-5f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-institutions-friendship-445-757"
+  },
+  "/docs/institutions/hero-846": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-institutions-heroc-02-0b9"
+  },
+  "/docs/institutions/public-c1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-institutions-publica-1-e-2a3"
+  },
+  "/docs/institutions/relationship-557": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-institutions-relationshipa-6-c-bae"
+  },
+  "/docs/institutions/volunteer-081": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-institutions-volunteerd-5-c-360"
   },
   "/docs/justice-39f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-justice-5-b-4-3dc"
-  },
-  "/docs/knowledge-087": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-262-ef6"
-  },
-  "/docs/logos-59f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-logos-032-97f"
   },
   "/docs/market-025": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -422,10 +434,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-order-447-6f8"
   },
-  "/docs/other-b3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-other-575-e92"
-  },
   "/docs/principles-387": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-principlesf-8-d-55e"
@@ -434,9 +442,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-prudence-90-c-dce"
   },
-  "/docs/relationship-071": {
+  "/docs/reason/-536": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-relationship-7-d-5-62f"
+    "content": "content---docs-reason-464-35d"
+  },
+  "/docs/reason/knowledge-266": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reason-knowledge-854-47b"
+  },
+  "/docs/reason/logos-740": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reason-logos-372-205"
   },
   "/docs/scenarios/-62a": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -489,10 +505,6 @@
   "/docs/virtues_whole-27e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-virtues-whole-5-b-2-bf9"
-  },
-  "/docs/volunteer-6b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-volunteere-28-941"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

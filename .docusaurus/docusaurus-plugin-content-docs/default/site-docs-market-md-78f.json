@@ -1,6 +1,6 @@
 {
   "id": "market",
-  "title": "Market",
+  "title": "18. Market",
   "description": "back",
   "source": "@site/docs/market.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/market.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 19,
   "frontMatter": {
     "layout": "default",
-    "title": "Market"
+    "title": "18. Market",
+    "sidebar_position": 19
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Logos",
-    "permalink": "/docs/logos"
+    "title": "17. Measurability",
+    "permalink": "/docs/measurability"
   },
   "next": {
-    "title": "Measurability",
-    "permalink": "/docs/measurability"
+    "title": "19. Abundance",
+    "permalink": "/docs/abundance"
   }
 }

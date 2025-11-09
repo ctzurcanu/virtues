@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/undefined.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 25,
   "frontMatter": {
     "layout": "default",
-    "title": "The \"Undefined\" Virtues"
+    "title": "The \"Undefined\" Virtues",
+    "sidebar_position": 25
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Temperance",
-    "permalink": "/docs/temperance"
+    "title": "21. Survival",
+    "permalink": "/docs/survival"
   },
   "next": {
-    "title": "Virtues",
-    "permalink": "/docs/virtues"
+    "title": "The Composed Virtues",
+    "permalink": "/docs/composed/"
   }
 }

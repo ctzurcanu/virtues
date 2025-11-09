@@ -1,6 +1,6 @@
 {
   "id": "abundance",
-  "title": "Abundance",
+  "title": "19. Abundance",
   "description": "back",
   "source": "@site/docs/abundance.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/abundance.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 20,
   "frontMatter": {
     "layout": "default",
-    "title": "Abundance"
+    "title": "19. Abundance",
+    "sidebar_position": 20
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Reduction to 3 Concepts",
-    "permalink": "/docs/3concepts"
+    "title": "18. Market",
+    "permalink": "/docs/market"
   },
   "next": {
-    "title": "The 99 Names of Allah",
-    "permalink": "/docs/allah"
+    "title": "20. Industriousness",
+    "permalink": "/docs/industriousness"
   }
 }

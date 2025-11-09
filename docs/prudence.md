@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Prudence
+title: 9. Prudence
+sidebar_position: 10
 ---
 [back](./)
 

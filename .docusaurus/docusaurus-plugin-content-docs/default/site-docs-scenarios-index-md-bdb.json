@@ -11,14 +11,16 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/scenarios/index.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 35,
   "frontMatter": {
     "layout": "default",
-    "title": "Scenarios"
+    "title": "Scenarios",
+    "sidebar_position": 35
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Relationship",
-    "permalink": "/docs/relationship"
+    "title": "Hierarchies",
+    "permalink": "/docs/hierarchies"
   },
   "next": {
     "title": "Miracle",

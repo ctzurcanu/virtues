@@ -11,9 +11,11 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/systems/resilience.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 3,
   "frontMatter": {
     "layout": "default",
-    "title": "Internal Resilience Factors"
+    "title": "Internal Resilience Factors",
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +23,7 @@
     "permalink": "/docs/systems/maslow"
   },
   "next": {
-    "title": "Values in Action Inventory (VIA)",
-    "permalink": "/docs/systems/via"
+    "title": "“Internal” Developmental Assets",
+    "permalink": "/docs/systems/development"
   }
 }

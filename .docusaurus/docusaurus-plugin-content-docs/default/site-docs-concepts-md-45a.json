@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/concepts.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 41,
   "frontMatter": {
     "layout": "default",
-    "title": "Dictionary of Concepts"
+    "title": "Dictionary of Concepts",
+    "sidebar_position": 41
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The Verbs as Domain of Virtue",
-    "permalink": "/docs/computable/verbs"
+    "title": "Reduction to 1 Concept",
+    "permalink": "/docs/1concept"
   },
   "next": {
-    "title": "Economy",
-    "permalink": "/docs/economy"
+    "title": "The 99 Names of Allah",
+    "permalink": "/docs/allah"
   }
 }

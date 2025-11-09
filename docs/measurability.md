@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Measurability
+title: 17. Measurability
+sidebar_position: 18
 ---
 [back](./)
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hierarchies
+sidebar_position: 33
 ---
 [back](./)
 

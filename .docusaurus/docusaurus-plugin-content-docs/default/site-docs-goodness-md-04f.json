@@ -1,6 +1,6 @@
 {
   "id": "goodness",
-  "title": "Goodness",
+  "title": "6. Goodness",
   "description": "back",
   "source": "@site/docs/goodness.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/goodness.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 7,
   "frontMatter": {
     "layout": "default",
-    "title": "Goodness"
+    "title": "6. Goodness",
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Friendship",
-    "permalink": "/docs/friendship"
+    "title": "6. Arete",
+    "permalink": "/docs/arete"
   },
   "next": {
-    "title": "Governance",
-    "permalink": "/docs/governance"
+    "title": "7. Hope",
+    "permalink": "/docs/hope"
   }
 }

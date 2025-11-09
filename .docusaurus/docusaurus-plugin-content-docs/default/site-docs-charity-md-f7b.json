@@ -1,6 +1,6 @@
 {
   "id": "charity",
-  "title": "Charity",
+  "title": "5. Charity",
   "description": "back",
   "source": "@site/docs/charity.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/charity.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 6,
   "frontMatter": {
     "layout": "default",
-    "title": "Charity"
+    "title": "5. Charity",
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Beauty",
-    "permalink": "/docs/beauty"
+    "title": "4. Economy",
+    "permalink": "/docs/economy"
   },
   "next": {
-    "title": "Being a Citizen",
-    "permalink": "/docs/citizen"
+    "title": "6. Arete",
+    "permalink": "/docs/arete"
   }
 }

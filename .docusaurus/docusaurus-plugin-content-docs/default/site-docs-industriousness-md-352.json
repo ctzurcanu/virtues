@@ -1,6 +1,6 @@
 {
   "id": "industriousness",
-  "title": "Industriousness",
+  "title": "20. Industriousness",
   "description": "back",
   "source": "@site/docs/industriousness.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/industriousness.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 21,
   "frontMatter": {
     "layout": "default",
-    "title": "Industriousness"
+    "title": "20. Industriousness",
+    "sidebar_position": 21
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Hope",
-    "permalink": "/docs/hope"
+    "title": "19. Abundance",
+    "permalink": "/docs/abundance"
   },
   "next": {
-    "title": "Institution",
-    "permalink": "/docs/institution"
+    "title": "21. Survival",
+    "permalink": "/docs/survival"
   }
 }

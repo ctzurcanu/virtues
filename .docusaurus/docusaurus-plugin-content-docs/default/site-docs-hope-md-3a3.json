@@ -1,6 +1,6 @@
 {
   "id": "hope",
-  "title": "Hope",
+  "title": "7. Hope",
   "description": "back",
   "source": "@site/docs/hope.md",
   "sourceDirName": ".",
@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/hope.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 8,
   "frontMatter": {
     "layout": "default",
-    "title": "Hope"
+    "title": "7. Hope",
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Hierarchies",
-    "permalink": "/docs/hierarchies"
+    "title": "6. Goodness",
+    "permalink": "/docs/goodness"
   },
   "next": {
-    "title": "Industriousness",
-    "permalink": "/docs/industriousness"
+    "title": "8. Harmony, Generosity",
+    "permalink": "/docs/harmony"
   }
 }

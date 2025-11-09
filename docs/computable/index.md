@@ -14,6 +14,7 @@ A proposed implementation of this theory of virtues.
 1. The Domain
     1. [The Verbs as domain of virtue computation](verbs.md)
     1. [The coverage of other Virtue Theories](others_coverage.md)
+    1. [The Verbal Categories](categories.md)
 1. The Codomain
     1. Representation of Virtues in Space
 1. The Virtue Encoder

@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/3concepts.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 37,
   "frontMatter": {
     "layout": "default",
-    "title": "Reduction to 3 Concepts"
+    "title": "Reduction to 3 Concepts",
+    "sidebar_position": 37
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Reduction to 1 Concept",
-    "permalink": "/docs/1concept"
+    "title": "Narratives",
+    "permalink": "/docs/scenarios/narratives"
   },
   "next": {
-    "title": "Abundance",
-    "permalink": "/docs/abundance"
+    "title": "Reduction to 1 Concept",
+    "permalink": "/docs/1concept"
   }
 }

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Logos
+sidebar_position: 2
 ---
 [back](./)
 

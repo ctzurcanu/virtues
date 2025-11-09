@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Internal Resilience Factors
+sidebar_position: 3
 ---
 [back](../)
 

@@ -11,17 +11,19 @@
   "editUrl": "https://github.com/ctzurcanu/virtues/tree/main/docs/1concept.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 39,
   "frontMatter": {
     "layout": "default",
-    "title": "Reduction to 1 Concept"
+    "title": "Reduction to 1 Concept",
+    "sidebar_position": 39
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Bibliography and Sources",
-    "permalink": "/docs/bibliography"
-  },
-  "next": {
     "title": "Reduction to 3 Concepts",
     "permalink": "/docs/3concepts"
+  },
+  "next": {
+    "title": "Dictionary of Concepts",
+    "permalink": "/docs/concepts"
   }
 }
