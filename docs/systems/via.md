@@ -325,13 +325,13 @@ As is true for many of the character strengths in the VIA Classification, the st
 
 #### Judgment
 
-- [Faith, Reason](faith.md)
-- [Justice](justice.md)
+- [Faith, Reason](../reason/index.md)
+- [Justice](../justice.md)
 
 
 #### Love of Learning
 
-- [Faith, Reason](faith.md)
+- [Faith, Reason](../reason/index.md)
 
 #### Perspective
 
@@ -370,9 +370,9 @@ As is true for many of the character strengths in the VIA Classification, the st
 
 #### Kindness
 
-- Empathy/sympathy - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
-- Moral reasoning - [Faith, Reason](faith.md)
-- Social responsibility - [Harmony, Generosity](harmony.md)
+- Empathy/sympathy - [Goodness, Sacrifice, Courage, Civilization](../goodness.md)
+- Moral reasoning - [Faith, Reason](../reason/index.md)
+- Social responsibility - [Harmony, Generosity](../harmony.md)
 
 #### Social Intelligence
 

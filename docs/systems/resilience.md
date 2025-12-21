@@ -41,22 +41,22 @@ sidebar_position: 3
 ### Cognitive competencies
 
 #### Intelligence
-- [Faith, Reason](faith.md)
+- [Faith, Reason](../reason/index.md)
 
-#### Academic achievement and homework skills 
-- [Measurability](measurability.md)
+#### Academic achievement and homework skills
+- [Measurability](../measurability.md)
 
-#### Ability to delay gratification 
-- [Temperance](temperance.md)
+#### Ability to delay gratification
+- [Temperance](../temperance.md)
 
 #### Reading skills
-- [Faith, Reason](faith.md)
+- [Faith, Reason](../reason/index.md)
 
 #### Moral reasoning
-- [Fairness](fairness.md)
+- [Fairness](../fairness.md)
 
 #### Insight
-- [Faith, Reason](faith.md)
+- [Faith, Reason](../reason/index.md)
 
 #### Interpersonal awareness
 - [Harmony, Generosity](harmony.md)
@@ -76,9 +76,9 @@ sidebar_position: 3
 #### Social skills and street smarts 
 - [Fortitude](fortitude.md)
 
-#### Problem-solving skills 
-- [Fortitude](fortitude.md)
-- [Faith, Reason](faith.md)
+#### Problem-solving skills
+- [Fortitude](../fortitude.md)
+- [Faith, Reason](../reason/index.md)
 
 #### Multicultural and bi-gender competencies 
 - [Fortitude](fortitude.md)

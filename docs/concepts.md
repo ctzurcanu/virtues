@@ -8,7 +8,7 @@ sidebar_position: 41
 # Concepts
 
 - Altruism: [Empathy](3concepts.md)
-- Beauty: virtues and [beauty](beauty.md)
+- Beauty: virtues and [beauty](composed/beauty.md)
 - Consistency:
   1. Justice (across roles)
   1. Prudence (across time while across roles)

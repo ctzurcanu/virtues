@@ -27,7 +27,7 @@ A virtue has to be considered using the following criteria:
 |-------------------------------------|----------|----------|----------|
 |[Miracle](miracle.md)                |    [x]   |    [x]   |    [x]   |
 |[Provable Order](order.md)           |    [x]   |    [x]   |    [x]   |
-|[Faith, Reason](faith.md)            |    [x]   |    [x]   |    [x]   |
+|[Faith, Reason](reason/index.md)            |    [x]   |    [x]   |    [x]   |
 |[Economy](economy.md)                |    [x]   |    [x]   |    [x]   |
 |[Charity](charity.md)                |    [x]   |    [x]   |    [x]   |
 |[Goodness, Sacrifice](goodness.md)   |    [x]   |    [x]   |    [x]   |

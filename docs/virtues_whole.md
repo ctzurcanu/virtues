@@ -15,7 +15,7 @@ This document contains the complete compilation of all virtue documentation in t
 
 1. [Virtues](virtues.md)
     1. Supreme Virtues
-        1. [Faith, Clarity of Implication](faith.md)
+        1. [Faith, Clarity of Implication](reason/index.md)
         1. [Charity, Volunteering](charity.md)
         1. [Hope, Potential, Invention, Integration](hope.md)
     1. Cardinal
@@ -29,7 +29,7 @@ This document contains the complete compilation of all virtue documentation in t
         1. [Survival, Life, Existence](survival.md)
     1. Maybe
         1. [The "Undefined Yet" Virtue](undefined.md)
-        1. [The Composed Virtues](composed.md)
+        1. [The Composed Virtues](composed/index.md)
         1. The Errors of Identification of Virtues
 1. The Relations between [Principles and Virtues](principles.md)
 1. [Hierarchies](hierarchies.md)
@@ -39,12 +39,12 @@ This document contains the complete compilation of all virtue documentation in t
 1. [Other Concepts](concepts.md)
 1. Names/Attributes of God
     - [The 99 Names of Allah](allah.md)
-1. [Being a Citizen](citizen.md)
-1. [Friendship](friendship.md)
-1. [Volunteer](volunteer.md)
-1. [Hero](hero.md)
-1. [Institution](institution.md)
-1. [Other Systems. Mapping](other.md)
+1. [Being a Citizen](institutions/citizen.md)
+1. [Friendship](institutions/friendship.md)
+1. [Volunteer](institutions/volunteer.md)
+1. [Hero](institutions/hero.md)
+1. [Institution](institutions/index.md)
+1. [Other Systems. Mapping](systems/index.md)
 1. Making Virtues Computable
 
 
@@ -98,7 +98,7 @@ We accept these definitions of virtue:
 |----|-------------------|---------|------|--------|
 |  1 | Proof beyound reason | Trick |[Miracle](miracle.md) | Magic |
 |  2 | Orderliness | Inability to Rank | [Provable Order/Hierarchy](order.md)| Rigidity |
-|  3 | Truth Acceptance |Cinicism| [Faith, Reason](faith.md) | Credulity |
+|  3 | Truth Acceptance |Cinicism| [Faith, Reason](reason/index.md) | Credulity |
 |  4 | Management of Goodness | No Management | [Economy](economy.md) | Accounting too strictly |
 |  5 | Investing in Others | Begging | [Charity](charity.md) | Extravagance of Generosity |
 |  6 | Investing Virtue | nothing to invest or attachement | [Goodness, Sacrifice, Courage, Civilization](goodness.md) | invest more than can be received |
@@ -140,7 +140,7 @@ We accept these definitions of virtue:
 |-----|-----------------------------------------------------------|---------|---------|---------|
 |   1 | [Miracle](miracle.md)                                     | 1I Assurance | 2I Insurance | aIT Religion |
 |   2 | [Provable Order/Hierarchy](order.md)                      | 1I Rectitude | 2I Friendship | aIT Ethics |
-|   3 | [Faith, Reason](faith.md)                                 | 2I |  |  |
+|   3 | [Faith, Reason](reason/index.md)                                 | 2I |  |  |
 |   4 | [Economy](economy.md)                                     | 3I |  |  |
 |   5 | [Charity](charity.md)                                     | 2I |  |  |
 |   6 | [Goodness, Sacrifice, Courage, Civilization](goodness.md) | 1I |  |  |
@@ -419,7 +419,7 @@ A virtue has to be considered using the following criteria:
 |-------------------------------------|----------|----------|----------|
 |[Miracle](miracle.md)                |    [x]   |    [x]   |    [x]   |
 |[Provable Order](order.md)           |    [x]   |    [x]   |    [x]   |
-|[Faith, Reason](faith.md)            |    [x]   |    [x]   |    [x]   |
+|[Faith, Reason](reason/index.md)            |    [x]   |    [x]   |    [x]   |
 |[Economy](economy.md)                |    [x]   |    [x]   |    [x]   |
 |[Charity](charity.md)                |    [x]   |    [x]   |    [x]   |
 |[Goodness, Sacrifice](goodness.md)   |    [x]   |    [x]   |    [x]   |
@@ -1325,7 +1325,7 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 1. [Miracle](miracle.md)
 1. [Provable Order/Hierarchy](order.md)
-1. [Faith, Reason](faith.md)
+1. [Faith, Reason](reason/index.md)
 1. [Economy](economy.md)
 1. [Charity](charity.md)
 1. [Goodness, Sacrifice, Courage, Civilization](goodness.md)
@@ -1742,7 +1742,7 @@ Ability to contain the natural tendency towards dispersal of energy together wit
 # Concepts
 
 - Altruism: [Empathy](3concepts.md)
-- Beauty: virtues and [beauty](beauty.md)
+- Beauty: virtues and [beauty](composed/beauty.md)
 - Consistency:
   1. Justice (across roles)
   1. Prudence (across time while across roles)
@@ -2303,9 +2303,9 @@ A proposed implementation of this theory of virtues.
 ## Summary
 
 1. The Domain
-    1. [The Verbs as domain of virtue computation](verbs.md)
-    1. [The coverage of other Virtue Theories](others_coverage.md)
-    1. [The Verbal Categories](categories.md)
+    1. [The Verbs as domain of virtue computation](computable/verbs.md)
+    1. [The coverage of other Virtue Theories](computable/others_coverage.md)
+    1. [The Verbal Categories](computable/categories.md)
 1. The Codomain
     1. Representation of Virtues in Space
 1. The Virtue Encoder
@@ -2627,13 +2627,13 @@ The link between Virtue and Action is almost self-explanatory.
 
 ## Definition
 
-A charity is a public institution that has as its main reason for its existence the enactment of the [virtue of charity](../charity.md).
+A charity is a public institution that has as its main reason for its existence the enactment of the [virtue of charity](charity.md).
 
 ## Rules and Principles
 
-1. It is a [public institution](public.md). (bound by the definition and rules of an institution)
+1. It is a [public institution](institutions/public.md). (bound by the definition and rules of an institution)
 2. The resources accounting has to be public at the most detailed level (according to 1.1.3 and the fact that the output has to be provable)
-3. It must maintain an external/independent public accounting/challenging of [goodness](../goodness.md) generated
+3. It must maintain an external/independent public accounting/challenging of [goodness](goodness.md) generated
 4. It must recognize other charities in its domain and collaborate with them (unless proven impossible) 
 
 ## Implications
@@ -3422,7 +3422,7 @@ Each one shows in one way or another a special kind of creativeness or originali
 ### Cognitive competencies
 
 #### Intelligence
-- [Faith, Reason](faith.md)
+- [Faith, Reason](reason/index.md)
 
 #### Academic achievement and homework skills 
 - [Measurability](measurability.md)
@@ -3431,13 +3431,13 @@ Each one shows in one way or another a special kind of creativeness or originali
 - [Temperance](temperance.md)
 
 #### Reading skills
-- [Faith, Reason](faith.md)
+- [Faith, Reason](reason/index.md)
 
 #### Moral reasoning
 - [Fairness](fairness.md)
 
 #### Insight
-- [Faith, Reason](faith.md)
+- [Faith, Reason](reason/index.md)
 
 #### Interpersonal awareness
 - [Harmony, Generosity](harmony.md)
@@ -3458,7 +3458,7 @@ Each one shows in one way or another a special kind of creativeness or originali
 
 #### Problem-solving skills 
 - [Fortitude](fortitude.md)
-- [Faith, Reason](faith.md)
+- [Faith, Reason](reason/index.md)
 
 #### Multicultural and bi-gender competencies 
 - [Fortitude](fortitude.md)
@@ -3901,12 +3901,12 @@ As is true for many of the character strengths in the VIA Classification, the st
 
 #### Judgment
 
-- [Faith, Reason](faith.md)
+- [Faith, Reason](reason/index.md)
 - [Justice](justice.md)
 
 #### Love of Learning
 
-- [Faith, Reason](faith.md)
+- [Faith, Reason](reason/index.md)
 
 #### Perspective
 
@@ -3946,7 +3946,7 @@ As is true for many of the character strengths in the VIA Classification, the st
 #### Kindness
 
 - Empathy/sympathy - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
-- Moral reasoning - [Faith, Reason](faith.md)
+- Moral reasoning - [Faith, Reason](reason/index.md)
 - Social responsibility - [Harmony, Generosity](harmony.md)
 
 #### Social Intelligence

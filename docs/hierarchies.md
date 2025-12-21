@@ -16,7 +16,7 @@ sidebar_position: 33
 
 1. [Miracle](miracle.md)
 1. [Provable Order/Hierarchy](order.md)
-1. [Faith, Reason](faith.md)
+1. [Faith, Reason](reason/index.md)
 1. [Economy](economy.md)
 1. [Charity](charity.md)
 1. [Goodness, Sacrifice, Courage, Civilization](goodness.md)

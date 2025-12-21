@@ -54,7 +54,7 @@ We accept these definitions of virtue:
 |----|-------------------|---------|------|--------|
 |  1 | Proof beyound reason | Trick |[Miracle](miracle.md) | Magic |
 |  2 | Orderliness | Inability to Rank | [Provable Order/Hierarchy](order.md)| Rigidity |
-|  3 | Truth Acceptance |Cinicism| [Faith, Reason](faith.md) | Credulity |
+|  3 | Truth Acceptance |Cinicism| [Faith, Reason](reason/index.md) | Credulity |
 |  4 | Management of Goodness | No Management | [Economy](economy.md) | Accounting too strictly |
 |  5 | Investing in Others | Begging | [Charity](charity.md) | Extravagance of Generosity |
 |  6 | Investing Virtue | nothing to invest or attachement | [Goodness, Sacrifice, Courage, Civilization](goodness.md) | invest more than can be received |
@@ -98,7 +98,7 @@ We accept these definitions of virtue:
 |-----|-----------------------------------------------------------|---------|---------|---------|
 |   1 | [Miracle](miracle.md)                                     | 1I Assurance | 2I Insurance | aIT Religion |
 |   2 | [Provable Order/Hierarchy](order.md)                      | 1I Rectitude | 2I Friendship | aIT Ethics |
-|   3 | [Faith, Reason](faith.md)                                 | 2I |  |  |
+|   3 | [Faith, Reason](reason/index.md)                                 | 2I |  |  |
 |   4 | [Economy](economy.md)                                     | 3I |  |  |
 |   5 | [Charity](charity.md)                                     | 2I |  |  |
 |   6 | [Goodness, Sacrifice, Courage, Civilization](goodness.md) | 1I |  |  |
