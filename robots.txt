@@ -1,0 +1,67 @@
+# robots.txt for virtues.provable.dev
+# Optimized for search engines and AI agents
+
+# Default rules for all robots
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /*.json$
+Crawl-delay: 0
+
+# OpenAI GPT (ChatGPT)
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 0
+
+# Google Extended (Bard/Gemini)
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 0
+
+# Anthropic Claude
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 0
+
+# Common Crawl (used by many AI systems)
+User-agent: CCBot
+Allow: /
+Crawl-delay: 0
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+Crawl-delay: 0
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 0
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+Crawl-delay: 0
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# Yandex
+User-agent: Yandex
+Allow: /
+Crawl-delay: 0
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 0
+
+# Sitemap location
+Sitemap: https://virtues.provable.dev/sitemap.xml
