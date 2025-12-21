@@ -53,7 +53,7 @@ const config: Config = {
           editUrl:
             'https://github.com/ctzurcanu/virtues/tree/main/',
           showLastUpdateTime: true,
-          showLastUpdateAuthor: true,
+          // showLastUpdateAuthor: true,
         },
         sitemap: {
           changefreq: 'weekly',
