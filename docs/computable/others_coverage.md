@@ -1,6 +1,9 @@
 ---
 layout: default
 title: The coverage of other Virtue Theories
+sidebar_position: 2
+description: Compare how different virtue theories handle moral actions. Analyze the coverage gaps in Aristotelian, Stoic, Christian, Buddhist, Confucian, and modern virtue ethics frameworks.
+keywords: [virtue theories, comparative ethics, Aristotelian ethics, Stoic virtues, Christian virtues, Buddhist paramitas, Confucian virtues, virtue coverage, moral philosophy, computational ethics, virtue comparison]
 ---
 [back](../)
 

@@ -2,6 +2,8 @@
 layout: default
 title: 1. Miracle
 sidebar_position: 2
+description: Understand Miracle - proof beyond reason and transcendent truth. Explore the supreme virtue of the miraculous, divine intervention, and faith beyond logic in virtue ethics and theology.
+keywords: [miracle, divine, transcendent, proof beyond reason, supreme virtues, faith, theology, virtue ethics, moral philosophy, divine intervention]
 ---
 [back](./)
 

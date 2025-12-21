@@ -2,6 +2,8 @@
 layout: default
 title: Being a Citizen
 sidebar_position: 47
+description: Learn about citizenship as a virtue-based role. Explore civic duty, public responsibility, and the virtues of active participation in community and governance.
+keywords: [citizenship, civic duty, public responsibility, community participation, civic virtue, virtue ethics, moral philosophy]
 ---
 [back](./)
 

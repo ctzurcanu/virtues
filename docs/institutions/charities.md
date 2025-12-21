@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Charities
+sidebar_position: 56
+description: Learn about charitable institutions and their virtuous purpose. Explore organized charity, philanthropy, and institutional expressions of the virtue of charity.
+keywords: [charities, charity institutions, philanthropy, altruism, organized giving, virtue ethics]
 ---
 [back](../)
 

@@ -2,6 +2,8 @@
 layout: default
 title: Domains of Knowledge
 sidebar_position: 6
+description: Explore how virtues map to different domains of knowledge including formal sciences, natural sciences, and social sciences. Learn about the ethical foundations of scientific disciplines.
+keywords: [domains of knowledge, sciences, formal science, natural science, social science, faith and reason, measurability, virtue ethics, philosophy of science, knowledge classification]
 ---
 [back](./)
 

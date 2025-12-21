@@ -2,6 +2,8 @@
 layout: default
 title: 14. Fairness
 sidebar_position: 15
+description: Learn about Fairness - creating equitable conditions for competition and interaction. Understand the virtue of impartiality, equal treatment, and just contests in virtue ethics.
+keywords: [fairness, equity, impartiality, equal treatment, just competition, cardinal virtues, virtue ethics, moral philosophy, justice, equality]
 ---
 [back](./)
 

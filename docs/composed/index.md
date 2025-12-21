@@ -2,6 +2,8 @@
 layout: default
 title: The Composed Virtues
 sidebar_position: 27
+description: Explore composed virtues that arise from combinations of fundamental virtues. Learn about beauty and other complex virtues formed through virtue synthesis.
+keywords: [composed virtues, complex virtues, virtue combinations, beauty, synthesis, virtue ethics, moral philosophy]
 ---
 [back](./)
 

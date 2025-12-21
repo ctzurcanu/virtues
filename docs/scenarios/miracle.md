@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Miracle
+sidebar_position: 1
+description: Explore scenarios and narratives illustrating the virtue of Miracle. Learn through practical examples of transcendent experiences and proof beyond reason.
+keywords: [miracle scenarios, narrative examples, transcendent experiences, virtue scenarios, practical ethics, applied virtue ethics]
 ---
 [back](./)
 

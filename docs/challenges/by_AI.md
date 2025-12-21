@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Challenges to this Framework by AI
+sidebar_position: 1
+description: Explore critical challenges to the virtue framework posed by AI. Examine moral dilemmas, strategic deception, individual liberty, transient beauty, and the limits of computational ethics.
+keywords: [AI challenges, moral dilemmas, virtue framework, ethical challenges, computational ethics, strategic deception, individual liberty, order and chaos, virtue theory critique, moral philosophy]
 ---
 
 # Challenges to this Framework

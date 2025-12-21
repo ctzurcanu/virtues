@@ -1,6 +1,9 @@
 ---
 layout: default
 title: The Verbal Categories
+sidebar_position: 3
+description: Explore verbal categories and their role in classifying virtuous actions. Learn about action verbs, mental verbs, and their ethical significance.
+keywords: [verbal categories, action verbs, categorization, virtue classification, computational ethics, linguistic ethics, virtue ethics]
 ---
 [back](../)
 

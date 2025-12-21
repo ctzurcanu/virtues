@@ -2,6 +2,8 @@
 layout: default
 title: 6. Goodness
 sidebar_position: 7
+description: Discover Goodness, Sacrifice, Courage, and Civilization - investing virtue for the benefit of others and society. Learn about altruistic virtues and their role in building civilization.
+keywords: [goodness, sacrifice, courage, civilization, altruism, supreme virtues, virtue ethics, moral philosophy, selflessness, heroism]
 ---
 [back](./)
 

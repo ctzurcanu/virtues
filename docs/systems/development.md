@@ -1,11 +1,13 @@
 ---
 layout: default
-title: “Internal” Developmental Assets
+title: '"Internal" Developmental Assets'
 sidebar_position: 4
+description: Learn about internal developmental assets and their role in character formation. Explore how positive values, social competencies, and identity shape virtue development.
+keywords: [developmental assets, character development, youth development, positive values, social competencies, virtue ethics, moral development]
 ---
 [back](../)
 
-# “Internal” Developmental Assets
+# "Internal" Developmental Assets
 
 ## Sources
 
@@ -41,13 +43,13 @@ Asset character strength(s):
 #### Equality and social justice
 - [Fairness](fairness.md)
 
-#### Integrity 
+#### Integrity
 - [Justice](justice.md)
 
 #### Responsibility
 - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
 
-#### Restraint 
+#### Restraint
 - [Temperance](temperance.md)
 
 
@@ -57,16 +59,16 @@ Asset character strength(s):
 - [Temperance](temperance.md)
 - [Governance](governance.md)
 
-#### Interpersonal competence 
+#### Interpersonal competence
 - [Harmony, Generosity](harmony.md)
 
 #### Cultural competence
 - [Harmony, Generosity](harmony.md)
 
-#### Resistance skills 
+#### Resistance skills
 - [Fortitude](fortitude.md)
 
-#### Peaceful conflict resolution 
+#### Peaceful conflict resolution
 - [Justice](justice.md)
 
 ### Positive identity
@@ -77,10 +79,10 @@ Asset character strength(s):
 #### Self-esteem
 - [Hope](hope.md)
 
-#### Sense of purpose 
+#### Sense of purpose
 - [Hope](hope.md)
 
-#### Positive view of personal future 
+#### Positive view of personal future
 [Hope](hope.md)
 
 

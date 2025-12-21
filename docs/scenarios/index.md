@@ -2,6 +2,8 @@
 layout: default
 title: Scenarios
 sidebar_position: 35
+description: Explore practical scenarios and case studies illustrating virtues in action. Learn through narratives, examples, and real-world applications of virtue ethics.
+keywords: [scenarios, case studies, examples, narratives, practical ethics, applied virtue ethics, moral philosophy, virtue in action]
 ---
 [back](../)
 

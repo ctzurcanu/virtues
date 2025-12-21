@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Beauty
+sidebar_position: 1
+description: Discover Beauty as a composed virtue. Learn how beauty emerges from the harmony of multiple virtues and its role in moral aesthetics and virtue ethics.
+keywords: [beauty, aesthetics, composed virtues, harmony, moral beauty, virtue ethics, moral philosophy, aesthetic virtue]
 ---
 [back](./)
 

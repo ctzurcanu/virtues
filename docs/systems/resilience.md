@@ -2,6 +2,8 @@
 layout: default
 title: Internal Resilience Factors
 sidebar_position: 3
+description: Discover internal resilience factors and their connection to virtues. Learn about psychological resilience, coping mechanisms, and character strengths that promote well-being.
+keywords: [resilience, resilience factors, coping, psychological strength, character development, virtue ethics, moral psychology, well-being]
 ---
 [back](../)
 

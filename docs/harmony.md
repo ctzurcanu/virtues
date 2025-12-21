@@ -2,6 +2,8 @@
 layout: default
 title: 8. Harmony, Generosity
 sidebar_position: 9
+description: Learn about Harmony, Generosity, Humility, and Gratitude - the virtues of respectful relationships and noble conduct. Explore how harmony creates social cohesion and recognition.
+keywords: [harmony, generosity, humility, gratitude, nobility, respect, honor, virtue ethics, moral philosophy, social virtues]
 ---
 [back](./)
 

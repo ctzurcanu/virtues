@@ -2,6 +2,8 @@
 layout: default
 title: Logos
 sidebar_position: 2
+description: Understand Logos, Ethos, and ethical frameworks. Learn about consistent virtue systems, ethical transactions, and moral philosophy foundations.
+keywords: [logos, ethos, ethical framework, virtue consistency, ethical transactions, moral philosophy, person, ethical economy, virtue ethics, philosophical foundations]
 ---
 [back](./)
 

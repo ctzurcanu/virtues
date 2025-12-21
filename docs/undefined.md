@@ -2,6 +2,8 @@
 layout: default
 title: The "Undefined" Virtues
 sidebar_position: 25
+description: Explore virtues that are still being defined or categorized. Learn about emerging virtues and concepts that may be incorporated into the virtue ethics framework.
+keywords: [undefined virtues, emerging virtues, virtue development, virtue ethics, moral philosophy, ethics evolution]
 ---
 [back](./)
 

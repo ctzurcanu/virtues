@@ -2,6 +2,8 @@
 layout: default
 title: Public Institutions
 sidebar_position: 55
+description: Discover public institutions and their role in promoting virtue. Learn about accountability, transparency, and public service in institutional contexts.
+keywords: [public institutions, public service, accountability, transparency, civic virtue, virtue ethics]
 ---
 [back](../)
 

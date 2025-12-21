@@ -2,6 +2,8 @@
 layout: default
 title: 10. Forgiveness
 sidebar_position: 11
+description: Explore Forgiveness and Repentance - the virtue of letting go of wrongs and enabling reconciliation. Learn about mercy, compassion, and restorative justice in virtue ethics.
+keywords: [forgiveness, repentance, mercy, compassion, reconciliation, virtue ethics, moral philosophy, restorative justice, letting go]
 ---
 [back](./)
 

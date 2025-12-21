@@ -1,6 +1,8 @@
 ---
 title: Methodology and Limitations
 sidebar_position: 99
+description: Understand the methodology used to define and categorize virtues, including limitations and constraints of the virtue ethics framework presented.
+keywords: [methodology, limitations, research methods, virtue ethics, philosophy methodology, ethical framework, systematic approach]
 ---
 
 # Methodology and Limitations

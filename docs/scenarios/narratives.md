@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Narratives
+sidebar_position: 2
+description: Discover narrative approaches to understanding virtues. Learn how stories, parables, and narratives illuminate moral principles and virtue ethics.
+keywords: [narratives, stories, parables, moral narratives, storytelling, virtue ethics, moral philosophy, teaching virtues]
 ---
 [back](./)
 

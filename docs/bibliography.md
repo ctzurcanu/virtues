@@ -1,6 +1,8 @@
 ---
 title: Bibliography and Sources
 sidebar_position: 100
+description: Complete bibliography and sources for the virtue ethics framework. Research materials, citations, and references for further study.
+keywords: [bibliography, sources, references, citations, research, virtue ethics, academic resources]
 ---
 
 # Bibliography and Academic Sources

@@ -2,6 +2,8 @@
 layout: default
 title: Friendship
 sidebar_position: 49
+description: Discover friendship as a virtuous relationship. Learn about companionship, loyalty, and the ethical dimensions of true friendship in virtue ethics.
+keywords: [friendship, companionship, loyalty, relationships, social virtues, virtue ethics, moral philosophy]
 ---
 [back](./)
 

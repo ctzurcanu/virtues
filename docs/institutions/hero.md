@@ -2,6 +2,8 @@
 layout: default
 title: Hero
 sidebar_position: 53
+description: Explore heroism and the hero archetype. Learn about exceptional virtue, courage, and the role of heroes in inspiring moral excellence.
+keywords: [hero, heroism, courage, exceptional virtue, moral excellence, virtue ethics, inspiration]
 ---
 [back](./)
 

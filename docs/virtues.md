@@ -2,6 +2,8 @@
 layout: default
 title: Virtues
 sidebar_position: 1
+description: Complete framework of virtues including supreme, cardinal, and natural virtues. Explore the hierarchy, dependencies, and relationships between different virtues in a comprehensive virtue ethics system.
+keywords: [virtues, virtue ethics, moral philosophy, supreme virtues, cardinal virtues, natural virtues, virtue theory, ethics, philosophy, moral framework]
 ---
 [back](./)
 
@@ -308,7 +310,7 @@ We accept these definitions of virtue:
 
 1. Primary:
     1. Ren (仁, Benevolence or Humaneness): Often considered the supreme virtue in Confucianism, ren is the quality of compassion, kindness, and empathy towards others. It's about caring for people and is central to Confucian ethics.
-        1. Empathy: 
+        1. Empathy:
             - Faith, Reason
             - Charity
             - Hope

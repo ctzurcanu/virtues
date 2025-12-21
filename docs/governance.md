@@ -2,6 +2,8 @@
 layout: default
 title: 12. Governance
 sidebar_position: 13
+description: Understand Governance - the virtue of leadership, management, and organizing others toward common goals. Learn about authority, stewardship, and responsible leadership in virtue ethics.
+keywords: [governance, leadership, management, authority, stewardship, cardinal virtues, virtue ethics, moral philosophy, organization, administration]
 ---
 [back](./)
 

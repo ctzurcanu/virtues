@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Making Virtues Computable
+sidebar_position: 60
+description: Explore the computational approach to virtues. Learn about encoding virtues, measuring moral behavior, and creating computable ethical frameworks.
+keywords: [computable virtues, computational ethics, moral computation, ethical AI, virtue encoding, virtue ethics, moral philosophy, quantification]
 ---
 [back](../)
 

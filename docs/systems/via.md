@@ -2,6 +2,8 @@
 layout: default
 title: Values in Action Inventory (VIA)
 sidebar_position: 5
+description: Learn about the VIA (Values in Action) Inventory of character strengths. Explore the 24 character strengths and 6 virtues framework developed by positive psychology researchers.
+keywords: [VIA, Values in Action, character strengths, positive psychology, Peterson, Seligman, virtue ethics, moral psychology]
 ---
 [back](../)
 

@@ -1,6 +1,9 @@
 ---
 layout: default
 title: The Verbs as Domain of Virtue
+sidebar_position: 1
+description: Understand verbs as the domain of virtue computation. Learn how actions and verbs relate to virtuous behavior in computational ethics.
+keywords: [verbs, actions, domain, virtue computation, computational ethics, moral actions, virtue ethics, behavioral ethics]
 ---
 [back](../)
 

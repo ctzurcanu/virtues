@@ -2,6 +2,8 @@
 layout: default
 title: Institutions
 sidebar_position: 55
+description: Explore institutions and their role in promoting virtues. Learn about different types of organizations, relationships, and social structures that embody and foster virtuous behavior.
+keywords: [institutions, organizations, social structures, relationships, virtue ethics, moral philosophy, civic virtue]
 ---
 [back](../)
 

@@ -2,6 +2,8 @@
 layout: default
 title: The 99 Names of Allah
 sidebar_position: 45
+description: Explore the 99 Names of Allah and their connection to virtues. Learn about Islamic virtue theory and divine attributes in theological ethics.
+keywords: [allah, 99 names, islam, islamic ethics, divine attributes, theology, virtue ethics, religious philosophy]
 ---
 [back](./)
 

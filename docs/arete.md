@@ -2,6 +2,8 @@
 layout: default
 title: 6. Arete
 sidebar_position: 7
+description: Discover Arete - the ancient Greek concept of excellence and virtue. Learn about the classical foundation of virtue ethics and moral excellence.
+keywords: [arete, excellence, ancient greek, classical virtues, virtue ethics, moral philosophy, greek philosophy]
 ---
 [back](./)
 

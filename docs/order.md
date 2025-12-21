@@ -2,6 +2,8 @@
 layout: default
 title: 2. Order
 sidebar_position: 3
+description: Learn about Provable Order and Hierarchy - the virtue of organizing principles and ranking. Explore how order creates structure, hierarchy, and systematic understanding in virtue ethics.
+keywords: [order, hierarchy, organization, structure, ranking, supreme virtues, virtue ethics, moral philosophy, systematic thinking, cosmos]
 ---
 [back](./)
 

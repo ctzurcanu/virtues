@@ -2,6 +2,8 @@
 layout: default
 title: 19. Abundance
 sidebar_position: 20
+description: Explore Abundance, Wealth, and Vital Energy - the virtue of productivity and prosperity. Learn about natural virtues related to wealth creation, energy, and material abundance in virtue ethics.
+keywords: [abundance, wealth, prosperity, productivity, vital energy, natural virtues, economics, virtue ethics, moral philosophy]
 ---
 [back](./)
 
