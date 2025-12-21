@@ -144,17 +144,9 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/virtues',
+              label: 'X',
+              href: 'https://x.com/ctzurcanu',
             },
-            // {
-            //   label: 'Discord',
-            //   href: 'https://discordapp.com/invite/docusaurus',
-            // },
-            // {
-            //   label: 'X',
-            //   href: 'https://x.com/docusaurus',
-            // },
           ],
         },
         {
