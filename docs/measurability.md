@@ -5,7 +5,6 @@ sidebar_position: 18
 description: Discover Measurability, Selection, and Reality Perception - the virtue of objective assessment and measurement. Learn about natural virtues related to knowledge, metrics, and evaluation.
 keywords: [measurability, measurement, selection, perception, objectivity, natural virtues, virtue ethics, moral philosophy, assessment, metrics]
 ---
-[back](./)
 
 # Measurability, Competition, Selection, Reflex
 

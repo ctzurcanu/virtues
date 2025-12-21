@@ -136,7 +136,7 @@ const config: Config = {
           items: [
             {
               label: 'Info',
-              to: '/docs/index',
+              to: '/docs/',
             },
           ],
         },

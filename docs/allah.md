@@ -5,7 +5,6 @@ sidebar_position: 45
 description: Explore the 99 Names of Allah and their connection to virtues. Learn about Islamic virtue theory and divine attributes in theological ethics.
 keywords: [allah, 99 names, islam, islamic ethics, divine attributes, theology, virtue ethics, religious philosophy]
 ---
-[back](./)
 
 # The 99 Names of Allah (Al Asma Ul Husna) as Virtues
 
@@ -550,7 +549,7 @@ Allah (سُبْحَٰنَهُۥ وَتَعَٰلَىٰ) names and attributes can
 - 31. [Al-Khabir](https://myislam.org/99-names-of-allah/al-khabir/) (The All-Aware One): The One who knows the truth of things.
 - 32. [Al-Haleem](https://myislam.org/99-names-of-allah/al-haleem/) (The Clement One): The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them.
 - 40. [Al-Haseeb](https://myislam.org/99-names-of-allah/al-hasseb/) (The Reckoning One): The Reckoner, The One who gives the satisfaction.
-- 45. [Al-Wasi]((https://myislam.org/99-names-of-allah/al-wasi/)) (The All-Pervading One): The Vast, The All-Embracing, The Knowledgeable.
+- 45. [Al-Wasi](https://myislam.org/99-names-of-allah/al-wasi/) (The All-Pervading One): The Vast, The All-Embracing, The Knowledgeable.
 - 46. [Al-Hakeem](https://myislam.org/99-names-of-allah/al-hakeem/) (The Wise One): The Wise, The Judge of Judges, The One who is correct in His doings.
 - 50. [Ash-Shaheed](https://myislam.org/99-names-of-allah/ash-shaheed/) (The All Observing Witness): The Witness, The One who nothing is absent from Him.
 - 57. [Al-Muhsi](https://myislam.org/99-names-of-allah/al-muhsi/) (The All-Enumerating One): The Counter, The Reckoner, The One who the count of things are known to him.

@@ -5,7 +5,6 @@ sidebar_position: 16
 description: Discover Fortitude - the virtue of willpower, courage, and physical/mental strength. Learn about perseverance, endurance, and the balance between weakness and rashness in virtue ethics and moral philosophy.
 keywords: [fortitude, courage, willpower, strength, perseverance, cardinal virtues, virtue ethics, moral philosophy, endurance, bravery]
 ---
-[back](./)
 
 # Fortitude
 

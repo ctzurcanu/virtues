@@ -5,7 +5,6 @@ sidebar_position: 22
 description: Explore Survival, Life, and Health - the fundamental virtue of existence and self-preservation. Learn about natural virtues related to life, health, and biological well-being.
 keywords: [survival, life, health, existence, self-preservation, natural virtues, virtue ethics, moral philosophy, vitality, well-being]
 ---
-[back](./)
 
 # Survival, Life, Existence, Health, Replicability
 

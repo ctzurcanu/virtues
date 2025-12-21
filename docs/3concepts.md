@@ -5,7 +5,6 @@ sidebar_position: 37
 description: Learn about reducing virtues to three fundamental concepts. Explore empathy, altruism, and the triadic structure of virtue ethics.
 keywords: [reduction, three concepts, empathy, altruism, triadic structure, virtue ethics, moral philosophy, simplification]
 ---
-[back](./)
 
 # Reduction of Virtues to 3 Moral Concepts
 

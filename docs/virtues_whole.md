@@ -50,7 +50,6 @@ This document contains the complete compilation of all virtue documentation in t
 
 ---
 
-[back](./)
 
 # Virtues
 
@@ -397,7 +396,6 @@ We accept these definitions of virtue:
 
 ---
 
-[back](./)
 
 # Miracle, Proof Beyond Reason
 
@@ -476,7 +474,6 @@ A virtue has to be considered using the following criteria:
 
 ---
 
-[back](./)
 
 # Provable Order, Hierarchy of Virtues
 
@@ -506,7 +503,6 @@ Proof by Reductio ad Absurdum:
 
 ---
 
-[back](./)
 
 # Economy (of Charity)
 
@@ -533,7 +529,6 @@ Proof by Reductio ad Absurdum:
 
 ---
 
-[back](./)
 
 # Charity, Volunteering
 
@@ -622,7 +617,6 @@ Proof by Reductio ad Absurdum:
 
 ---
 
-[back](./)
 
 # Arete 
 
@@ -675,7 +669,6 @@ in the service of a higher virtue (than the one in contest)
 
 ---
 
-[back](./)
 
 # Goodness, Sacrifice, Courage, Civilization
 
@@ -711,7 +704,6 @@ The lack of acceptance of some types: the failures and the lack of civilization.
 
 ---
 
-[back](./)
 
 # Hope, Idealism, Potential, Invention, Integration
 
@@ -758,7 +750,6 @@ subtypes:
 
 ---
 
-[back](./)
 
 # Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility
 
@@ -800,7 +791,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Prudence, Wisdom
 
@@ -860,7 +850,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Forgiveness, Repentance
 
@@ -883,7 +872,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Justice
 
@@ -929,7 +917,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Governance
 
@@ -956,7 +943,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Temperance
 
@@ -1028,7 +1014,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Fairness
 
@@ -1058,7 +1043,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Fortitude
 
@@ -1118,7 +1102,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Competition
 
@@ -1130,7 +1113,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Measurability, Competition, Selection, Reflex
 
@@ -1187,7 +1169,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Market
 
@@ -1199,7 +1180,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Abundance, Wealth, Energy, Vital Energy, Productivity
 
@@ -1247,7 +1227,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Industriousness
 
@@ -1261,7 +1240,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Survival, Life, Existence, Health, Replicability
 
@@ -1313,7 +1291,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 ---
 
-[back](./)
 
 # Hierarchies
 
@@ -1528,7 +1505,6 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 ---
 
-[back](./)
 
 # Reduction of Virtues to 3 Moral Concepts
 
@@ -1683,7 +1659,6 @@ Relations:
 
 ---
 
-[back](./)
 
 # Reduction of Virtues to 1 Concept
 
@@ -1737,7 +1712,6 @@ Ability to contain the natural tendency towards dispersal of energy together wit
 
 ---
 
-[back](./)
 
 # Concepts
 
@@ -1809,7 +1783,6 @@ Ability to contain the natural tendency towards dispersal of energy together wit
 
 ---
 
-[back](./)
 
 # Beauty
 
@@ -2648,7 +2621,6 @@ A charity is a public institution that has as its main reason for its existence 
 
 ---
 
-[back](./)
 
 # Relationship
 
@@ -2785,7 +2757,6 @@ If Virtues are encoded in the social contracts explicitly and the encoding is up
 
 ---
 
-[back](./)
 
 # Logos
 
@@ -3005,7 +2976,6 @@ The provable definition of each virtue is an integral part of the virtue itself.
 
 ---
 
-[back](./)
 
 # Domains of Knowledge
 

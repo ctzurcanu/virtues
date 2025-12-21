@@ -5,7 +5,6 @@ sidebar_position: 41
 description: Comprehensive dictionary of ethical concepts including altruism, beauty, creativity, duty, freedom, and their relationships to virtues. A reference guide for virtue ethics terminology.
 keywords: [concepts, dictionary, terminology, altruism, beauty, creativity, duty, freedom, virtue ethics, moral philosophy, ethics glossary]
 ---
-[back](./)
 
 # Concepts
 

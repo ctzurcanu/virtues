@@ -5,7 +5,6 @@ sidebar_position: 5
 description: Explore Economy - the virtue of managing goodness and resources wisely. Learn about stewardship, resource allocation, and the economics of virtue in moral philosophy.
 keywords: [economy, stewardship, resource management, allocation, economics, supreme virtues, virtue ethics, moral philosophy, management of goodness]
 ---
-[back](./)
 
 # Economy (of Charity)
 

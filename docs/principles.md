@@ -5,7 +5,6 @@ sidebar_position: 31
 description: Understand the fundamental principles underlying virtues and their relationships. Explore how principles guide virtuous behavior and ethical decision-making in virtue ethics.
 keywords: [principles, ethical principles, moral principles, virtue theory, foundations, virtue ethics, moral philosophy, ethics, fundamental concepts]
 ---
-[back](./)
 
 # The Relations between Principles and Virtues
 

@@ -5,7 +5,6 @@ sidebar_position: 39
 description: Explore the reduction of all virtues to a single unifying concept. Understand how complex virtue systems can be distilled to fundamental principles in philosophical analysis.
 keywords: [reduction, unity, fundamental principle, simplification, virtue ethics, moral philosophy, philosophical analysis]
 ---
-[back](./)
 
 # Reduction of Virtues to 1 Concept
 

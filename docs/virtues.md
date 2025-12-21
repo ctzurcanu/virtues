@@ -5,7 +5,6 @@ sidebar_position: 1
 description: Complete framework of virtues including supreme, cardinal, and natural virtues. Explore the hierarchy, dependencies, and relationships between different virtues in a comprehensive virtue ethics system.
 keywords: [virtues, virtue ethics, moral philosophy, supreme virtues, cardinal virtues, natural virtues, virtue theory, ethics, philosophy, moral framework]
 ---
-[back](./)
 
 # Virtues
 

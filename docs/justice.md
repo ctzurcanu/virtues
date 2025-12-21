@@ -5,7 +5,6 @@ sidebar_position: 12
 description: Explore the virtue of Justice - righteousness, fairness in judgment, and moral objectivity. Understand the philosophical foundations of justice, legal principles, and ethical decision-making in virtue ethics.
 keywords: [justice, righteousness, fairness, moral judgment, cardinal virtues, virtue ethics, moral philosophy, ethics, law, judgment]
 ---
-[back](./)
 
 # Justice
 
