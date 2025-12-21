@@ -2,6 +2,8 @@
 layout: default
 title: 7. Hope
 sidebar_position: 8
+description: Discover the virtue of Hope - the will to evolve, potential for growth, and capacity for invention and integration. Learn about optimism, wonder, and the philosophical foundations of hope in virtue ethics and moral philosophy.
+keywords: [hope, optimism, potential, evolution, invention, virtue ethics, supreme virtues, moral philosophy, wonder, future-oriented thinking]
 ---
 [back](./)
 

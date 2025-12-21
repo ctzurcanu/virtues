@@ -2,6 +2,8 @@
 layout: default
 title: 13. Temperance
 sidebar_position: 14
+description: Learn about Temperance - self-governance, moderation, and the balance between hedonism and asceticism. Explore the cardinal virtue of self-control and its role in virtue ethics and moral philosophy.
+keywords: [temperance, moderation, self-control, self-governance, cardinal virtues, virtue ethics, moral philosophy, balance, discipline]
 ---
 [back](./)
 

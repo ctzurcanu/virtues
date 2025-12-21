@@ -9,7 +9,6 @@ const config: Config = {
   tagline: 'A description of virtues proposed for consensus',
   favicon: 'img/favicon.ico',
 
-
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -48,6 +47,14 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/ctzurcanu/virtues/tree/main/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
         },
         blog: {
           showReadingTime: true,
@@ -71,9 +78,30 @@ const config: Config = {
     ],
   ],
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'canonical',
+        href: 'https://virtues.provable.dev',
+      },
+    },
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/virtues-social-card.jpg',
+    // Enhanced metadata for SEO and AI agents
+    metadata: [
+      {name: 'keywords', content: 'virtues, ethics, philosophy, faith, charity, hope, prudence, justice, temperance, fortitude, moral philosophy, virtue ethics'},
+      {name: 'description', content: 'A comprehensive guide to virtues including Faith, Charity, Hope, Prudence, Justice, Temperance, Fortitude, and their philosophical foundations. Explore virtue ethics, moral philosophy, and ethical frameworks.'},
+      {name: 'author', content: 'The Laurel Project'},
+      {name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'},
+      {property: 'og:type', content: 'website'},
+      {property: 'og:locale', content: 'en_US'},
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'theme-color', content: '#2e8555'},
+    ],
     navbar: {
       title: 'On Virtues',
       logo: {

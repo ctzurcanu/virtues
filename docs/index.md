@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 title: On Virtues
+description: Explore a comprehensive framework of virtues including supreme virtues (Faith, Charity, Hope), cardinal virtues (Prudence, Justice, Temperance, Fortitude), and natural virtues. Learn about virtue ethics, moral philosophy, and ethical frameworks for living a virtuous life.
+keywords: [virtues, virtue ethics, moral philosophy, faith, charity, hope, prudence, justice, temperance, fortitude, ethics, philosophy, supreme virtues, cardinal virtues]
 ---
 
 # On Virtues

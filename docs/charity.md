@@ -2,6 +2,8 @@
 layout: default
 title: 5. Charity
 sidebar_position: 6
+description: Learn about the virtue of Charity and Volunteering - making efforts for the benefit of others and encouraging altruism. Explore the philosophical foundations, dependencies, and applications of charitable virtue in moral philosophy and ethics.
+keywords: [charity, volunteering, altruism, generosity, virtue ethics, moral philosophy, supreme virtues, helping others]
 ---
 [back](./)
 

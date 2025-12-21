@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
+import StructuredData from '@site/src/components/StructuredData';
 
 import styles from './index.module.css';
 
@@ -31,10 +32,46 @@ function HomepageHeader() {
 
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
+
+  // Structured data for the main website (for SEO and AI agents)
+  const websiteSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    'name': 'On Virtues',
+    'url': 'https://virtues.provable.dev',
+    'description': 'A comprehensive guide to virtues including Faith, Charity, Hope, Prudence, Justice, Temperance, Fortitude, and their philosophical foundations.',
+    'publisher': {
+      '@type': 'Organization',
+      'name': 'The Laurel Project',
+      'logo': {
+        '@type': 'ImageObject',
+        'url': 'https://virtues.provable.dev/img/logo.svg'
+      }
+    },
+    'potentialAction': {
+      '@type': 'SearchAction',
+      'target': 'https://virtues.provable.dev/search?q={search_term_string}',
+      'query-input': 'required name=search_term_string'
+    }
+  };
+
+  const organizationSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    'name': 'The Laurel Project',
+    'url': 'https://virtues.provable.dev',
+    'logo': 'https://virtues.provable.dev/img/logo.svg',
+    'sameAs': [
+      'https://github.com/ctzurcanu/virtues'
+    ]
+  };
+
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="A description of virtues proposed for consensus">
+      description="A comprehensive guide to virtues including Faith, Charity, Hope, Prudence, Justice, Temperance, Fortitude, and their philosophical foundations. Explore virtue ethics, moral philosophy, and ethical frameworks.">
+      <StructuredData data={websiteSchema} />
+      <StructuredData data={organizationSchema} />
       <HomepageHeader />
       <main>
         <HomepageFeatures />

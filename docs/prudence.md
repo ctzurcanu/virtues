@@ -2,6 +2,8 @@
 layout: default
 title: 9. Prudence
 sidebar_position: 10
+description: Learn about Prudence (Wisdom) - the virtue of practical wisdom, strategic thinking, and wise decision-making. Explore how prudence balances preparation with flexibility in virtue ethics and moral philosophy.
+keywords: [prudence, wisdom, practical wisdom, strategy, decision-making, cardinal virtues, virtue ethics, moral philosophy, phronesis]
 ---
 [back](./)
 
