@@ -4,6 +4,87 @@ const path = require('path');
 const docsDir = './docs';
 const outputFile = './docs/virtues_whole.md';
 
+// Configuration: Files to include in compilation (in sidebar order)
+// Set a file to false to exclude it, or true to include it
+// This list is auto-generated based on Docusaurus sidebar ordering
+const filesToCompile = {
+    // Main documentation (root level)
+    'index.md': true,
+    'virtues.md': true,
+    'miracle.md': true,
+    'order.md': true,
+    'economy.md': true,
+    'charity.md': true,
+    'arete.md': true,
+    'goodness.md': true,
+    'hope.md': true,
+    'harmony.md': true,
+    'prudence.md': true,
+    'forgiveness.md': true,
+    'justice.md': true,
+    'governance.md': true,
+    'temperance.md': true,
+    'fairness.md': true,
+    'fortitude.md': true,
+    'competition.md': true,
+    'measurability.md': true,
+    'market.md': true,
+    'abundance.md': true,
+    'industriousness.md': true,
+    'survival.md': true,
+    'undefined.md': false,
+    'principles.md': false,
+    'hierarchies.md': true,
+    '3concepts.md': true,
+    '1concept.md': true,
+    'concepts.md': true,
+    'allah.md': false,
+    'methodology.md': false,
+    'bibliography.md': false,
+
+    // Challenges subdirectory
+    'challenges/by_AI.md': false,
+
+    // Composed subdirectory
+    'composed/index.md': false,
+    'composed/beauty.md': true,
+
+    // Computable subdirectory
+    'computable/categories.md': true,
+    'computable/governance.md': true,
+    'computable/index.md': true,
+    'computable/others_coverage.md': true,
+    'computable/representation.md': true,
+    'computable/verbs.md': true,
+
+    // Institutions subdirectory
+    'institutions/citizen.md': false,
+    'institutions/friendship.md': false,
+    'institutions/volunteer.md': false,
+    'institutions/hero.md': false,
+    'institutions/index.md': false,
+    'institutions/public.md': false,
+    'institutions/charities.md': true,
+    'institutions/relationship.md': true,
+
+    // Reason subdirectory
+    'reason/logos.md': true,
+    'reason/index.md': true,
+    'reason/knowledge.md': true,
+
+    // Scenarios subdirectory
+    'scenarios/index.md': false,
+    'scenarios/miracle.md': false,
+    'scenarios/narratives.md': false,
+
+    // Systems subdirectory
+    'systems/maslow.md': true,
+    'systems/resilience.md': true,
+    'systems/development.md': true,
+    'systems/via.md': true,
+    'systems/index.md': true,
+};
+
 function readMarkdownFile(filePath) {
     try {
         const content = fs.readFileSync(filePath, 'utf8');
@@ -20,39 +101,80 @@ function readMarkdownFile(filePath) {
     }
 }
 
+function getSidebarPosition(filePath) {
+    try {
+        const content = fs.readFileSync(filePath, 'utf8');
+        const match = content.match(/^sidebar_position:\s*(\d+)/m);
+        return match ? parseInt(match[1]) : null;
+    } catch (error) {
+        return null;
+    }
+}
+
+function getAllMarkdownFiles(dir, baseDir = dir) {
+    let results = [];
+    const files = fs.readdirSync(dir);
+
+    for (const file of files) {
+        const fullPath = path.join(dir, file);
+        const stat = fs.statSync(fullPath);
+
+        if (stat.isDirectory()) {
+            results = results.concat(getAllMarkdownFiles(fullPath, baseDir));
+        } else if (file.endsWith('.md') && file !== 'virtues_whole.md') {
+            const relativePath = path.relative(baseDir, fullPath);
+            const position = getSidebarPosition(fullPath);
+            results.push({
+                path: relativePath,
+                fullPath: fullPath,
+                position: position,
+                dir: path.relative(baseDir, dir),
+                filename: file
+            });
+        }
+    }
+
+    return results;
+}
+
 function buildVirtues() {
-    const sections = [
-        { title: 'Virtues', files: ['virtues.md'] },
-        { title: 'Supreme Virtues', files: ['faith.md', 'charity.md', 'hope.md'] },
-        { title: 'Cardinal Virtues', files: ['prudence.md', 'justice.md', 'temperance.md', 'fortitude.md'] },
-        { title: 'Natural Virtues', files: ['measurability.md', 'abundance.md', 'survival.md'] },
-        { title: 'Maybe Virtues', files: ['undefined.md', 'composed.md'] },
-        { title: 'Principles and Relations', files: ['principles.md', 'hierarchies.md'] },
-        { title: 'Scenarios', files: ['scenarios/index.md'] },
-        { title: 'Concepts', files: ['3concepts.md', '1concept.md', 'concepts.md'] },
-        { title: 'Names of God', files: ['allah.md'] },
-        { title: 'Social Virtues', files: ['citizen.md', 'friendship.md', 'volunteer.md', 'hero.md', 'institution.md'] },
-        { title: 'Other Systems', files: ['other.md'] }
-    ];
-
     let output = '---\nunlisted: true\n---\n\n# On Virtues (Complete)\n\n';
-    output += 'This document is excluded from Docusaurus navigation and contains the complete compilation of all virtue documentation.\n\n';
+    output += 'This document contains the complete compilation of all virtue documentation in the order they appear in the Docusaurus sidebar.\n\n';
+    output += '---\n\n';
 
-    sections.forEach(section => {
-        output += `## ${section.title}\n\n`;
-        
-        section.files.forEach(file => {
-            const filePath = path.join(docsDir, file);
-            const content = readMarkdownFile(filePath);
-            
-            if (content.trim()) {
-                output += content + '\n\n';
-            }
-        });
-    });
+    let compiledCount = 0;
+    let skippedCount = 0;
+
+    // Iterate through the files in the order defined in filesToCompile
+    for (const [relativePath, shouldInclude] of Object.entries(filesToCompile)) {
+        if (!shouldInclude) {
+            skippedCount++;
+            console.log(`Skipping: ${relativePath}`);
+            continue;
+        }
+
+        const filePath = path.join(docsDir, relativePath);
+
+        // Check if file exists
+        if (!fs.existsSync(filePath)) {
+            console.warn(`Warning: File not found: ${relativePath}`);
+            continue;
+        }
+
+        const content = readMarkdownFile(filePath);
+
+        if (content.trim()) {
+            output += content + '\n\n';
+            output += '---\n\n';
+            compiledCount++;
+        }
+    }
 
     fs.writeFileSync(outputFile, output);
-    console.log(`Built ${outputFile} successfully`);
+    console.log(`\nBuilt ${outputFile} successfully`);
+    console.log(`Compiled: ${compiledCount} files`);
+    console.log(`Skipped: ${skippedCount} files`);
+    console.log(`Total in config: ${Object.keys(filesToCompile).length} files`);
 }
 
 buildVirtues();

@@ -4,9 +4,51 @@ unlisted: true
 
 # On Virtues (Complete)
 
-This document is excluded from Docusaurus navigation and contains the complete compilation of all virtue documentation.
+This document contains the complete compilation of all virtue documentation in the order they appear in the Docusaurus sidebar.
 
-## Virtues
+---
+
+
+# On Virtues
+
+## Summary
+
+1. [Virtues](virtues.md)
+    1. Supreme Virtues
+        1. [Faith, Clarity of Implication](faith.md)
+        1. [Charity, Volunteering](charity.md)
+        1. [Hope, Potential, Invention, Integration](hope.md)
+    1. Cardinal
+        1. [Prudence, Wisdom](prudence.md)
+        1. [Justice](justice.md)
+        1. [Temperance](temperance.md)
+        1. [Fortitude](fortitude.md)
+    1. Natural
+        1. [Measurability, Competition, Selection](measurability.md)
+        1. [Abundance, Wealth, Welfare](abundance.md)
+        1. [Survival, Life, Existence](survival.md)
+    1. Maybe
+        1. [The "Undefined Yet" Virtue](undefined.md)
+        1. [The Composed Virtues](composed.md)
+        1. The Errors of Identification of Virtues
+1. The Relations between [Principles and Virtues](principles.md)
+1. [Hierarchies](hierarchies.md)
+1. [Scenarios](scenarios/index.md)
+1. [Reduction to 3 Concepts](3concepts.md)
+1. [Reduction to 1 Concept](1concept.md)
+1. [Other Concepts](concepts.md)
+1. Names/Attributes of God
+    - [The 99 Names of Allah](allah.md)
+1. [Being a Citizen](citizen.md)
+1. [Friendship](friendship.md)
+1. [Volunteer](volunteer.md)
+1. [Hero](hero.md)
+1. [Institution](institution.md)
+1. [Other Systems. Mapping](other.md)
+1. Making Virtues Computable
+
+
+---
 
 [back](./)
 
@@ -74,7 +116,7 @@ We accept these definitions of virtue:
 | 18 | Transparence | under the counter | [Market](market.md) | All is tradeable |
 | 19 | Wealth, Vitality | Poverty/Lazyness | [Abundance](abundance.md) | Abundance without reason |
 | 20 | Thrive | lack of effort | [Industriousness](industriousness.md) | Reflex, one size fits all |
-| 21 | Life | Extinction | [Survival](survival.md) | Canibalism/Stealing |
+| 21 | Life | Extinction | [Survival](survival.md) | Rapacity (Cannibalism, Stealing, Parasitism) |
 
 ## Dependencies
 
@@ -353,185 +395,143 @@ We accept these definitions of virtue:
     1. modesty (让; ràng)
         1. Prudence
 
-## Supreme Virtues
+---
 
 [back](./)
 
-# Faith, Clarity of Implication, Reason
-
-![Faith](/images/faith.png)
-
-- Top: True, Truth, Virtuous, ⊤
-- Bottom: False, untrue, Non-Factual, Vicious, ⊥
-- Intersection of:
-    - Faith and Reason: Logos
-    - Top and Bottom: Contradiction, Paradox, the Axis of Numbers
-    - Top and Faith: Axioms
-    - Top and Reason: Implication ⊢, Logic
-    - Bottom and Faith: unfound Superstition
-    - Bottom and Reason: Fallacy
-- Other sets:
-    - Reason \ Faith ⋂ Top = technē: know how (the laws of logic are in this set)
-    - Reason ⋂ Faith ⋂ Top = epistēmē: knowledge
-
-## Art
-
-Artistic path of enriching the Logos:
-- Nous (energy of intellect, intelligence)
-- Guiding Wonder, Hope towards a leap of Faith
-- Finding a solid ground in Faith, Axiom
-- Mapping the new teritory in Logos
-- links:
-    - Art in Science: Empiric Discovery
-    - Science of Art: Esthetics (αἰσθητικός aisthētikós)
-    - Art in Production: Artisaning
-    - Production of Art: Art Performing
-
-## Science
-
-Scientific path of enriching the Logos:
-- Nous (energy of intellect, intelligence)
-- Axioms or Logos elements: materia prima
-- Logic: tools of implication
-- (optional) other Logos elements
-- (optional) Logic
-- epistēmē: scientific knowledge, logically deducted Logos
-- links:
-    - Art in Science: Empiric Discovery
-    - Science of Art: Esthetics (αἰσθητικός aisthētikós)
-    - Production of Science: Academia
-    - Science of Production: Applied Science
-
-## Production
-
-Technical path of enriching the Logos:
-- Nous (energy of intellect, intelligence)
-- Choosing the mapping and set from the Logos
-- Using Technique (τέχνη tékhnē) to instantiate the knowledge or to perform an art
-- Acquire knowledge of doing/implementing
-- links:
-    - Art in Production: Artisaning
-    - Production of Art: Art Performing
-    - Production of Science: Academia
-    - Science of Production: Applied Science
-
-## Consensus
-
-![Consensus](/images/consensus.png)
-
-Enriching the Logos by Consensus:
-- Consensus about the definition of Consensus (Meta-Consensus)
-- Provable mechanism of voting
-- Timeless/Continous consensus contract
-- Public availability of the results
-- Ability to continuously challenge the results by verification and/or by re-voting
-
-subtypes:
-- consensus by Faith: when your opinion is rejected by the general consensus or when you do not know with clarity the reasons for your vote
-- consensus by Reason: when your opinion is adopted as general consensus
-
-![Ethics](/images/ethics.png)
-
-## Ethics
-
-Virtues implemented in Art, Science, and Production
+# Miracle, Proof Beyond Reason
 
 ## Definition
 
-- belief in the existence of concepts (things that cannot be perceived by physical senses). Example: the belief that circles exist as mental objects.
-- belief in the existence of identity, relation, equivalence, and reference functions
-- belief in the existence of perfections, and the unicity of the "perfection of all perfections" that we may refer to as God.
-- belief in the existence of rational demonstrations (proofs)
-- belief in the truth of axioms that are most implication-productive.
-- belief in the existence of intelligent consensus. Intelligent consensus is eternal and is the substance of any perfection (is equivalent to God, in substance).
-- the inter-dependence between Faith and Reason
-        - Reason uses Faith as a foundation
-        - Faith uses Reason to gain importance
-        - Faith can exist without Reason. Reason cannot exist without Faith (in the axioms)
-- subtypes
-    - Contemplation: contemplation, theōría, θεωρία: sensing Truth (by direct experience)
-    - Discrimination: ability to establish the mental boundary for each Concept (Logoi)
-        - Refinement: ability to navigate the Logos with very fine resolution
-    - Rational Demonstration: ability to chain and join a set of previous Demonstrations using Logic
+- an reordering of virtues, based on inconvertible proof
+- shaktipat
+- it always comes with a clear explanation of what was proven
+- it has to prove it's own goodness
+- spiritual transmission of a tradition beyond words
+- unexplainable beauty
+- the discovery of an universal theory that changes the foundations of what was known before, without much priors
 
-## Dependencies
+### Qualitatively
+A virtue has to be considered using the following criteria:
+1. [x] Is as atomic as possible.
 
-- Major
-    - Charity: when one receives charity in the form of service or goods, it develops one's Faith.
-    - Hope: Faith develops Hope (as Faith about the future)
-- Minor
-    - Fortitude: Physical exercise develops clarity of thought
+| \                                   | Diminish | Addition | Synergy  |
+|-------------------------------------|----------|----------|----------|
+|[Miracle](miracle.md)                |    [x]   |    [x]   |    [x]   |
+|[Provable Order](order.md)           |    [x]   |    [x]   |    [x]   |
+|[Faith, Reason](faith.md)            |    [x]   |    [x]   |    [x]   |
+|[Economy](economy.md)                |    [x]   |    [x]   |    [x]   |
+|[Charity](charity.md)                |    [x]   |    [x]   |    [x]   |
+|[Goodness, Sacrifice](goodness.md)   |    [x]   |    [x]   |    [x]   |
+|[Hope](hope.md)                      |    [x]   |    [x]   |    [x]   |
+|[Harmony, Generosity](harmony.md)    |    [x]   |    [x]   |    [x]   |
+|[Prudence](prudence.md)              |    [x]   |    [x]   |    [x]   |
+|[Forgiveness](forgiveness.md)        |    [x]   |    [x]   |    [x]   |
+|[Justice](justice.md)                |    [x]   |    [x]   |    [x]   |
+|[Governance](governance.md)          |    [x]   |    [x]   |    [x]   |
+|[Temperance](temperance.md)          |    [x]   |    [x]   |    [x]   |
+|[Fairness](fairness.md)              |    [x]   |    [x]   |    [x]   |
+|[Fortitude](fortitude.md)            |    [x]   |    [x]   |    [x]   |
+|[Competition](competition.md)        |    [x]   |    [x]   |    [x]   |
+|[Measurability](measurability.md)    |    [x]   |    [x]   |    [x]   |
+|[Market](market.md)                  |    [x]   |    [x]   |    [x]   |
+|[Abundance](abundance.md)            |    [x]   |    [x]   |    [x]   |
+|[Industriousness](industriousness.md)|    [x]   |    [x]   |    [x]   |
+|[Survival](survival.md)              |    [x]   |    [x]   |    [x]   |
+
+|     \     | Individual | Group | Universe |
+| ----------|------------|-------|----------|
+| Immediate |    [x]     |  [x]  |   [x]    |
+| Long-Term |    [x]     |  [x]  |   [x]    |
+| Past      |    [x]     |  [x]  |   [x]    |
+
+- [x] On the dimension of measure: lack or be in excess in most cases.
+1. [x] Existence of instantiation:
+    1. [x] The miracles of Jesus, Moses
+    1. [x] Most people cannot perform miracles
+1. Indirection, definition:
+    1. [x] To have a name, concept: Miracle
+    1. [ ] To have a signifier, flag, symbol
+    1. To be explained by ritualistic act
+    1. To be explained by artistic depiction
+
+### Quantitatively
+
+|           |                     |
+|-----------|---------------------|
+| Dimension | Proof beyond reason |
+| Lacking   | Trick               |
+| Mean      | Miracle             |
+| Excess    | Magic               |
 
 ## Correspondences
 
-- Classical Greek
-    - Sophia (Wisdom)
-- Hinduism
-    - Satya (सत्य): Truthfulness (Not lying)
-    - Ishvarapranidhana (ईश्वरप्रणिधान): contemplation of the Ishvara
-- Islam
-    - Tawheed (Belief in the Oneness of God)
-- Christianity
-    - Faith
-    - Humility
-    - Prudence (Wisdom)
-- Judaism
-    - Ahavat Torah (Love of the Law/Torah)
-    - Emet (Truthfulness)
-- Buddhism
-    - Sacca: truthfulness, honesty
-    - Upekkhā: equanimity, serenity
+- Christianity: the miracles of Jesus' Resurection and his apostles' Great Commission
+- Islam: the reception of The Quran by Muhammad
+- Judaism: reception of The Decalogue by Moses
+- Hinduism: Shaktipata
+- Science: the discoveries that fundamentaly change the whole understanding. Such as those by Albert Einstein.
 
-## Application
 
-### Theorem 1: Proving the definitions of Virtues is of the highest Virtue
 
-1. Proving the definitions of Virtues is the same as constructing a provable definition of Virtues.
-1. Proving is part of the virtue of Faith, Reason, Clarity of Implication.
-1. Discovering tentative definitions / new definitions are part of the virtue of Hope.
-1. The process of constructing a provable definition consists of iterations of discovering and proving until the resulting proposition is both a definition and a provable construction.
-1. A definition is the shortest description of the essence of an object. 
-1. The objects that we are defining are abstractions. (Virtues are abstractions.)
-1. The definition of an abstraction is an integral part of that abstraction.
-1. The definition of a virtue is part of that virtue.
-1. Given virtues A and B, The combined virtue C of A and B (when by constructive interference) is more virtuous than both A and B.
-1. Proving the definition of a virtue is the constructive interference of: Faith, Reason, Hope, and the defined virtue.
-1. The action of constructing a provable definition is atomic.
-1. This action is of the highest Virtue.
+---
 
-### Lemma 1.1: Constructive Interference of Virtues
+[back](./)
 
-Two virtues interfere constructively in a situation when:
-- the virtues arise independently
-- when one is artificially increased the other one does not decrease
+# Provable Order, Hierarchy of Virtues
 
-### Lemma 1.2: Atomic Action
+## Definition
 
-An atomic action is the shortest description of the process for a result that is not attained by any other atomic action.
+- an ordering of virtues that is provable by reason and/or by provable consensus
+- is a type of [Arete](arete.md)
 
-### Lemma 1.3: The Virtue of a Thing contains at least a part of the definition of that Thing
+## Proof of Existence
 
-### Theorem 2: The complete definition of a Thing has to mention the Virtues of that Thing
+Proof by Inhabitation:
+- if an order does not exist in reality but the human civilization votes and respects the voted ordering: the ordering becomes real and with measurable effects
+- an ordering of some virtues has been voted into existence already by the UN: the universal [declaration of human rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) in article 29.2 states that the personal virtues are less important than the virtues of the humanity as a whole
 
-### Corollary 2.1: By including the Virtues in the definition of any Thing, the definition itself becomes more virtuous.
+Proof by Reductio ad Absurdum:
+- if such an ordering does not exist and:
+  - an ordering is achieved by consensus: then the voters behave as if the ordering exists in reality, but a rational paradox is created
+  - voting establishes that the order does not exist: all is in rational harmony
+- if such an ordering exists and:
+  - voting establishes that it does not exist: those who consider that the ordering exists maintain a rational basis for behaving according to the consensus
+  - an ordering is achieved by consensus: all is in rational harmony
+- since the presumption that an ordering does not exist leads to a possible situation that does not conform to the [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative), the ordering of virtues must already exist
 
-### Theorem 3: Virtues and their instantiations can be proven
+## Correspondences
 
-1. From Lemma 3.1: Everything that can be thought, can be thought clearly.
-1. Virtues and their instantiations in reality can be thought, therefore defined (can be thought clearly)
-1. Proving instantiations can be done by timestamped video/audio capture
-1. The existence of virtues is proven by the existence of the words/concepts in the spoken languages and the definitions that identify the same concept
-1. The proof for a concept being virtuous (or being a virtue) is by timeless consensus: we find it included (and applicable) in a set of spiritual traditions
 
-### Lemma 3.1: Everything that can be thought, can be thought clearly.
 
-From Wittgenstein's Tractatus [4.116](https://www.wittgensteinproject.org/w/index.php?title=Tractatus_Logico-Philosophicus_(English)#4.116): 
-```
-Everything that can be thought at all can be thought clearly. Everything that can be said can be said clearly.
-```
-### Corollary 3.1: All virtues are reasonable
+---
 
-The provable definition of each virtue is an integral part of the virtue itself. In other words: the virtue of Faith/Reason is present in the definition of all other virtues.
+[back](./)
+
+# Economy (of Charity)
+
+## Etimology
+
+οἰκονομία oikonomíā
+
+## Definition
+
+- management of charity
+- measurement of efficency
+- management of proof of goodness
+
+## Mechanisms
+
+- uses Faith and Reason to make Charity efficient
+- uses Charity to produce Techne and Reason
+- accounting in isolation:
+  - for outcomes of charity
+  - for identities of the receivers
+- ability to forget the identity of the charity receiver
+
+
+
+---
 
 [back](./)
 
@@ -620,6 +620,97 @@ The provable definition of each virtue is an integral part of the virtue itself.
 
 
 
+---
+
+[back](./)
+
+# Arete 
+
+## Definition
+
+- the virtue of virtues
+- the virtue of helping a higher virtue win against a lower one
+- courage
+- subtypes:
+  - andreia, fortitudo, a type of Fortitude
+  - whistleblowing, a type of Hope
+  - discovering a new hierarchy of virtues
+
+### Limitations
+
+- the contest is between 2 different virtues. not between quantities of the same virtue
+- Arete is a composed virtue with 3 different places in the hierarchy of virtues
+
+## Andreia, Fides, Fortitude
+
+Courage, and Perseverence, Patience with respect to courage.
+
+Endagering the natural virtues of:
+  - Survival/Health
+  - Abundance
+  - Measurability
+  - Fortitude
+
+in the service (or gain) of a higher virtue (than the one in contest)
+
+## Whistleblowing, Virtus, Hope
+
+Endagering the cardinal virtues of:
+  - Fortitude
+  - Temperance
+  - Justice
+  - Prudence
+  - Hope
+
+in the service of a higher virtue (than the one in contest)
+
+## Redefining Virtues, Order
+
+Endagering the supreme virtues of:
+  - Hope
+  - Charity
+  - Faith, Reason
+
+in the service of a higher virtue (than the one in contest)
+
+---
+
+[back](./)
+
+# Goodness, Sacrifice, Courage, Civilization
+
+## Definition
+
+### Goodness (Agathós αγαθός)
+
+The apparition of the necessary conditions to advance from your position on the virtue dimension to a better position/state (in quality and/or quantity)
+
+Goodness is always considered with respect to all Life. We consider the goodness applied to ourselves only because of the lack of required information about others and all other Life outside of us.
+
+### Sacrifice, Courage (Arete)
+
+The investment of one virtue in order to obtain more of that virtue or a higher virtue.
+
+The one that makes uncommonly great sacrifices is called a hero.
+
+#### Common sacrifices
+
+- working for hire: you invest Survival, Health, Vital energy and gain Money, Abundance
+- rasing a child: invest Abundance and gain Governance, Temperance, Charity
+- making justice: invest any lower virtues to gain chance for Repentance and Forgiveness
+- entrepreneurship: invest Abundance and gain much more Abundance
+
+### Civilization
+
+The totality of types of sacrifice that are encouraged in a society. 
+
+The most accepted and appreciated type gives the level of a civilization. For the capitalist societies: entrepreneurship.
+The variety: the breadth of the civilization.
+The lack of acceptance of some types: the failures and the lack of civilization.
+
+
+---
+
 [back](./)
 
 # Hope, Idealism, Potential, Invention, Integration
@@ -665,7 +756,49 @@ subtypes:
 
 
 
-## Cardinal Virtues
+---
+
+[back](./)
+
+# Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility
+
+Respect, honor (timē τιμή): the respectability an honorable man accrues with accomplishment (cultural, political, martial), per his station in life.
+
+## Definition
+
+- humility means recognition of the virtue of others
+- humility means: upon public recognition of one's virtues, accepting the minimum that is merited
+- greatness is virtue, recognized by others
+- "noblesse oblige" means the duty to recognize the virtue of others when your virtues are recognized
+- evocatio: bringing foreign gods for worship
+- false humility is of 3 types:
+    - rejection of others' recognition of one's virtues (when the virtues are factual)
+    - signaling humility about a virtue without being recognized for that virtue first
+    - assigning a different value to the concept of "humility" in the hierarchy of virtues than its earned value
+
+## Correspondences
+
+- Christianity
+  - Humility: Often considered the greatest virtue in Orthodoxy, humility is the foundation of a true Christian life.
+- Judaism
+  - Anavah (Humility): Humility is seen as recognizing one's place in the world relative to God and others.
+- Islam
+  - Haya (Modesty and Humility): It involves modesty not just in dress and behavior but also in attitude, promoting humility and decency.
+- Buddhism
+  - Dāna (pāramī): generosity, giving of oneself
+- Hinduism
+  - Santosha (सन्तोष): contentment, acceptance of others and of one's circumstances as they are, optimism for self
+- Taoism
+  - Humility (謙, Qian): Recognizing one's small place in the vastness of the universe and approaching life with modesty and humility.
+- Confucianism
+  - Wēn (文, Cultural Refinement): Wen refers to the appreciation and cultivation of arts, literature, and culture, which are seen as important for personal development and social refinement.
+  - modesty (让; ràng)
+
+## Applications
+
+- Gratitude has the rare characteristic of building upon itself: you can be grateful for the fact that you are grateful. That makes gratitude a good subject of meditation. Oroboros is a symbol of gratitude.
+
+---
 
 [back](./)
 
@@ -725,6 +858,31 @@ subtypes:
     - modesty (让; ràng)
 
 
+---
+
+[back](./)
+
+# Forgiveness, Repentance
+
+## Definition
+
+- takes place only after Justice has been imparted
+- Forgiveness is dependent upon signs of Repentance from the guilty party
+- this action is the essence of Orthodox Christianity: one cannot spiritually digest the Eucharist without Repentance for all wrongdoings and/or solving all injustices one is aware of
+
+## Correspondences
+
+- Christianity
+  - Repentance
+  - Forgiveness
+- Judaism
+  - Teshuvah (Repentance): This is a process of acknowledging one's sins before God, seeking forgiveness, and committing to change one's behavior.
+- Islam
+  - Tawbah (Repentance): Continually seeking forgiveness from Allah and turning away from sin are fundamental aspects of Islamic virtue.
+  - Rahmah (Mercy and Compassion): Mercy, as exemplified by the Prophet Muhammad, is a central virtue. Muslims are encouraged to show compassion and kindness to all of God's creations.
+
+---
+
 [back](./)
 
 # Justice
@@ -768,6 +926,35 @@ subtypes:
     - Yi (義, Righteousness or Justice): Yi is the moral disposition to do good, and the ability to recognize what is right and just. It involves putting moral principles into practice.
     - sense of right and wrong (耻; chǐ)
 
+
+---
+
+[back](./)
+
+# Governance
+
+## Definition
+
+- imitatio civitate: as a leader:
+  - imitate (in the extreme) in your household the policies of the city you lead
+  - communicate with all who do the same: they are the governance counselors
+- Independency/Sovereignty
+- Manipulation/Propaganda
+- Voting/Polling
+- Mass Media, Secret Services
+- Police
+- Censorship/Canceling
+- Encryption
+- Security
+- Immune system
+
+## Correspondences
+
+- Republic
+  - Representatives
+  - Governors
+
+---
 
 [back](./)
 
@@ -839,6 +1026,38 @@ subtypes:
     - frugality (俭; jiǎn)
 
 
+---
+
+[back](./)
+
+# Fairness
+
+## Definition
+
+- allowing your competition to have the same conditions
+- fairness is not a virtue if the contest is not optional or is a matter of survival
+- the rights and obligations deriving from being member of a defined identity: for example being an olimpic athlete gives you the right to demand that others do not interfere with your performance
+
+### Differences between Justice and Fairness
+
+| Dimension | Justice | Fairness |
+|-----------|---------|----------|
+| Integrity: that all that can be considered is considered| Guaranteed | Guaranteed only for one quality/facet |
+| Identity: inherited or assumed | Almost Independent | Dependent |
+| 1 Quality/Facet | Insufficient | Sufficient |
+| Time | Independent | Mostly Dependent |
+| Space | Independent | Mostly Dependent |
+| Application | Applied as a whole | Applied for each Quality/Facet |
+
+### Other Connections
+
+- Fairness is to Justice what Admiration is to Love:
+  - Admiration is concerned with only one quality/facet, Love is about all
+
+
+
+---
+
 [back](./)
 
 # Fortitude
@@ -897,7 +1116,19 @@ subtypes:
     - frugality (俭; jiǎn)
 
 
-## Natural Virtues
+---
+
+[back](./)
+
+# Competition
+
+## Definition
+
+- struggle 
+- selection of a winner
+- availability for challenges
+
+---
 
 [back](./)
 
@@ -954,6 +1185,20 @@ subtypes:
     - Justice: natural selection is Natural Justice
 
 
+---
+
+[back](./)
+
+# Market
+
+## Definition
+
+- availability for comparison
+- searchability
+- leveled playing field
+
+---
+
 [back](./)
 
 # Abundance, Wealth, Energy, Vital Energy, Productivity
@@ -999,6 +1244,22 @@ subtypes:
     - Measurability, Competition: is the effect of Abundance and the limitation of resources
     - Temperance: if we have an Abundance of resources or vital energy, Temperance will guide them towards Charity and Prudence
 
+
+---
+
+[back](./)
+
+# Industriousness
+
+## Definition
+
+- specialization
+- standardization of production methods
+- optimization of production
+- economy of scale
+- assembly line
+
+---
 
 [back](./)
 
@@ -1050,221 +1311,7 @@ subtypes:
     - Fortitude: one of the facets of Fortitude is the will to Survive
 
 
-## Maybe Virtues
-
-[back](./)
-
-# The "Undefined" Virtues
-
-## Definition
-
-- it is of type Virtue (by definition)
-- it may be used as a placeholder for either:
-    - unknown virtues that are not able to be categorised along the vectors of the already-defined virtues
-    - virtues that are orthogonal on the already-accepted set
-    - virtues that are still not covered by the English language
-
-## Motivation
-
-This virtue type is preparing a space for discussion and discovery.
-
-## Dendencies
-
-- Unknown
-
-## Correspondences
-
-- Unknown
-
-
-
-[back](./)
-
-# The Composed Virtues
-
-## Definition
-
-- it is of type Virtue (by definition)
-- virtues that are not orthogonal on the already-accepted set (are vector-compositions of two or more basic virtues)
-
-## Motivation
-
-This virtues should be precisely defined in quality and quantity in terms of basic virtues.
-
-## Composed Virtues
-
-### Ihsan (Benevolence/Excellence in Islam)
-This virtue means to do things with perfection, beauty, and excellence, and to act benevolently. It also involves being conscious of God at all times.
-  1. Charity: 55%
-  1. Hope: 45%
-
-### Christian Repentance
-A continuous process of self-examination and turning towards God.
-1. Justice: 55%
-1. Fortitude: 45%
-
-### Asceticism
-Practicing self-denial to focus more fully on the spiritual life, often expressed through fasting, prayer, and almsgiving.
-1. Fortitude: 55%
-1. Hope: 45%
-
-### Tzedakah (Righteousness/Charity in Judaism)
-Often translated as charity, tzedakah is more broadly the concept of justice and righteousness achieved through acts of kindness and giving.
-    1. Charity: 55%
-    1. Justice: 45%
-
-### Nekkhamma (in Buddhism)
-renunciation
-1. Fortitude: 55%
-1. Prudence: 45%
-
-### Khanti (in Buddhism)
-patience, tolerance, forbearance, acceptance, endurance
-1. Temperance: 55%
-1. Fortitude: 45%
-
-### Upekkhā (in Buddhism)
-equanimity, serenity
-1. Faith, Clarity: 55%
-1. Temperance: 45%
-
-### Asteya (अस्तेय in Hinduism)
-Not stealing
-1. Temperance: 55%
-1. Abundance: 45%
-
-### Brahmacharya (ब्रह्मचर्य in Hinduism)
-Chastity, marital fidelity, sexual restraint
-1. Hope: 55%
-1. Temperance: 45%
-
-### Aparigraha (अपरिग्रहः in Hinduism)
-Non-avarice, non-possessiveness
-1. Charity: 55%
-1. Prudence: 45%
-
-### Arete (Excellence, Virtue in Classical Greece)
-It signifies the fulfillment of purpose or function: the act of living up to one's full potential.
-1. Fortitude: 55%
-1. Hope (fulfilled): 45%
-
-### Sophia (Wisdomin Classical Greece)
-Valued highly by philosophers like Socrates, Plato, and Aristotle, wisdom is the ability to think and act using knowledge, experience, understanding, common sense, and insight.
-1. Justice: 55%
-2. Prudence: 45%
-
-### Xiao (孝, Filial Piety in Confucianism)
-This virtue represents respect, obedience, and care for one's parents and ancestors. It's a key aspect of family values in Confucianism.
-1. Composed: 100%
-
-### Zhong (忠, Loyalty in Confucianism)
-Loyalty in Confucianism involves being faithful to one’s superiors, friends, and the principles of ren and yi.
-1. Composed: 100%
-
-### Shù (恕, Reciprocity or Empathy in Confucianism)
-Often described as the "Golden Rule" of Confucianism, shu involves treating others as one would wish to be treated.
-1. Composed: 100%
-
-### frugality (俭; jiǎn in Confucianism)
-1. Temperance: 55%
-1. Fortitude: 45%
-
-## Principles and Relations
-
-[back](./)
-
-# The Relations between Principles and Virtues
-
-## Ethical and Moral Principles
-
-1. The Golden Rule (Positive): Treat others as you would like to be treated yourself.
-    1. Temperance
-    1. Justice
-    1. Prudence
-1. The Golden Rule (Negative): Do not do onto others what you would not like done to yourself.
-    1. Temperance
-    1. Justice
-1. The Principle of Utility (Utilitarianism): Act in a way that maximizes overall happiness and reduces suffering.
-    1. Justice
-    1. Measurability
-1. Kantian Ethics (Duty-Based Ethics): Act according to maxims that can be universally applied and respect individuals as ends in themselves.
-    1. Prudence
-    1. Justice
-    1. Charity
-1. The Social Contract Theory: Moral and political obligations are dependent upon a contract to form a society.
-    1. Measurability
-    1. Faith
-    1. Hope
-1. Virtue Ethics: Focus on the development of moral character and virtues as the basis for ethical living.
-    1. All Virtues
-1. Divine Command Theory: Ethical standards are based on religious beliefs or decrees.
-    1. Faith
-    1. Charity
-    1. Hope
-1. Natural Law Theory: Moral standards are derived from human nature and the natural order.
-    1. Survival
-    1. Abundance
-    1. Measurability
-1. The Principle of Rights: Respect and protect the rights of individuals.
-(This is incomplete. The duties have to be also stated with at least the same clarity and all inconsistencies resolved to the advantage of duties, while a duty-based theory is complete by itself)
-    1. Abundance
-    1. Justice
-    1. Temperance
-1. The Principle of Justice (Fairness): Treat people fairly and ensure justice is upheld.
-    1. Justice
-    1. Temperance
-1. The Veil of Ignorance (Rawlsian Theory): Designing a just society by considering decisions from an original position of equality.
-    1. Justice
-    1. Hope
-1. The Care Ethic (Ethic of Care): Emphasize the importance of relationships and empathy in moral reasoning.
-    1. Charity
-    1. Hope
-1. Consequentialism: Judge actions by their outcomes or consequences.
-    1. Measurability
-    1. Prudence
-1. Deontological Ethics: Focus on the adherence to rules or duties.
-    1. Justice
-    1. Temperance
-1. The Principle of Non-Maleficence: Avoid causing harm to others. (Same as negative Golden Rule)
-    1. Temperance
-    1. Justice
-1. The Principle of Beneficence: Actively do good for others. (Same as positive Golden Rule)
-    1. Temperance
-    1. Justice
-    1. Prudence
-1. The Principle of Autonomy: Respect the autonomy and freedom of choice of individuals.
-    1. Temperance
-    1. Prudence
-1. The Principle of Fidelity: Be faithful and keep promises and commitments.
-    1. Temperance
-    1. Charity
-    1. Faith
-1. The Principle of Veracity: Tell the truth and avoid deceiving others.
-    1. Faith
-    1. Justice
-    1. Temperance
-1. The Principle of Confidentiality: Respect privacy and confidentiality.
-    1. Temperance
-    1. Charity
-1. The Principle of Respect for Persons: Treat individuals with dignity and respect.
-    1. Temperance
-    1. Charity
-1. The Principle of Paternalism: Intervene in the freedom of others for their own good under specific circumstances. (This is not a complete principle: It needs to specify the intelligence threshold for graduating from each limitation)
-    1. Charity
-    1. Justice
-1. The Principle of Environmental Ethics: Consider the moral relationship between humans and the natural world.
-    1. Charity
-    1. Hope
-    1. Justice
-1. The Principle of Distributive Justice: Ensure fair distribution of benefits and burdens in society.
-    1. Justice
-    1. Measurability
-1. The Principle of Transparency: Ensure access to provable data and information. (This is incomplete: it needs Searchability)
-    1. Measurability
-1. The Principle of Equality of Oportunity: This is the same as equality of Searchability: Ensure equal access to the pertinent information.
-    1. Measurability
-    1. Justice
-    1. Charity
+---
 
 [back](./)
 
@@ -1479,80 +1526,7 @@ The evolution can be [narrated](scenarios/narratives.md).
     - Survival
 
 
-## Scenarios
-
-[back](../)
-
-# Scenarios
-
-## Actors
-
-A list of unisex names: one for each alphabet letter:
-
-- A: Alex
-- B: Bailey
-- C: Casey
-- D: Dakota
-- E: Elliot
-- F: Finley
-- G: Grayson
-- H: Harper
-- I: Indigo
-- J: Jordan
-- K: Kai
-- L: Logan
-- M: Morgan
-- N: Noah
-- O: Oakley
-- P: Parker
-- Q: Quinn
-- R: Riley
-- S: Skyler
-- T: Taylor
-- U: Unique
-- V: Val
-- W: Wren
-- X: Xan
-- Y: Yael
-- Z: Zephyr
-
-We choose T: Taylor as the main actor and R: Riley as the main antagonist. A: Alex as the main ally.
-
-## Contents
-
-1. Narrative
-1. Particular cases in history
-1. Cases in Mythology, tradition
-1. Arguments: Challenges and Answers
-1. Variations, Virtuprudence
-
-## Virtues
-
-1. [Miracle](miracle.md)
-1. [Provable Order/Hierarchy](order.md)
-1. [Faith, Reason](faith.md)
-1. [Economy](economy.md)
-1. [Charity](charity.md)
-1. [Goodness, Sacrifice, Courage, Civilization](goodness.md)
-1. [Hope](hope.md)
-1. [Harmony, Generosity](harmony.md)
-1. [Prudence](prudence.md)
-1. [Forgiveness](forgiveness.md)
-1. [Justice](justice.md)
-1. [Governance](governance.md)
-1. [Temperance](temperance.md)
-1. [Fairness](fairness.md)
-1. [Fortitude](fortitude.md)
-1. [Competition](competition.md)
-1. [Measurability](measurability.md)
-1. [Market](market.md)
-1. [Abundance](abundance.md)
-1. [Industriousness](industriousness.md)
-1. [Survival](survival.md)
-
-[back](../)
-
-## Concepts
+---
 
 [back](./)
 
@@ -1707,6 +1681,8 @@ Relations:
     1. Continuity of Eternities
 
 
+---
+
 [back](./)
 
 # Reduction of Virtues to 1 Concept
@@ -1758,6 +1734,8 @@ Ability to contain the natural tendency towards dispersal of energy together wit
 #### Industriousness
 
 ### Survival
+
+---
 
 [back](./)
 
@@ -1829,969 +1807,2262 @@ Ability to contain the natural tendency towards dispersal of energy together wit
 
 
 
-## Names of God
+---
 
 [back](./)
 
-# The 99 Names of Allah (Al Asma Ul Husna) as Virtues
+# Beauty
 
-Allah (سُبْحَٰنَهُۥ وَتَعَٰلَىٰ) names and attributes can be understood as the perfect implementation of Virtues.
+Beauty is not an atomic virtue. The components are all virtues, but mainly:
 
-## Virtues -> Names, Attributes
+- Goodness
+  - sudden Understanding
+- Harmony
+  - of proportion: in painting, architecture
+  - of frequence: in music
+- Temperance
+  - control of animal reflexes
+- Fortitude
+  - Fitness, Performance in Sport
+- Abundance
+  - sexual Beauty
 
-### 1. God, The Destroyer
-- 61. Al-Mumeet (ٱلْمُمِيتُ) The Bringer of Death, the Destroyer
-- 15. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
-- 10. Al-Mutakabbir (ٱلْمُتَكَبِّرُ) The Supreme, The Majestic
-- 9. Al-Jabbar (ٱلْجَبَّارُ) The Compeller, The Restorer
-- 81. Al-Muntaqim (ٱلْمُنْتَقِمُ) The Avenger
-- 91. Ad-Dharr (ٱلْضَّارُ) The Distresser
+## Types
 
-### 2. Faith, Reason
-- 6. Al-Mu’Min (ٱلْمُؤْمِنُ) The One Who gives Emaan and Security
-- 19. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
-- 46. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
-- 49. Al-Ba’Ith (ٱلْبَاعِثُ) The Resurrector, The Raiser of the Dead
-- 44. Al-Mujeeb (ٱلْمُجِيبُ) The Responsive One
-- 43. Ar-Raqeeb (ٱلْرَّقِيبُ) The Watchful
-- 50. Ash-Shaheed (ٱلْشَّهِيدُ) The All- and Ever Witnessing
+Beauty has 2 main types:
+- of Time concepts: of verb, process, transformation, transaction
+- of Space concepts: of noun, eternity, identity
 
-### 3. Provable Hierarchy
-- 3. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
-- 8. Al-Azeez (ٱلْعَزِيزُ) The All Mighty
-- 41. Al-Jaleel (ٱلْجَلِيلُ) The Majestic
-- 48. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
-- 84. Maalik-Ul-Mulk (مَالِكُ ٱلْمُلْكُ) Master of the Kingdom, Owner of the Dominion
-- 10. Al-Mutakabbir (ٱلْمُتَكَبِّرُ) The Supreme, The Majestic
-- 39. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
-- 69. Al-Qadir (ٱلْقَادِرُ) The Capable, The Powerful
-- 70. Al-Muqtadir (ٱلْمُقْتَدِرُ) The Omnipotent
+## Attributes
 
-### 4. Charity
-- 16. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
-- 17. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
-- 42. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
-- 83. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
-- 79. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
-- 88. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
-- 89. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
+- it accepts separation from its greater context
+- surprizing, marvelous
 
-### 5. Provable Goodness
-- 79. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
-- 51. Al-Haqq (ٱلْحَقُّ) The Absolute Truth
-- 30. Al-Lateef (ٱلْلَّطِيفُ) The Subtle One, The Most Gentle
-- 47. Al-Wadood (ٱلْوَدُودُ) The Most Loving
-- 45. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
-- 86. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
+### Time-like
+- independent of space (does not have a space)
+- independent of past nor future (it can be separated from the time context)
 
-### 6. Hope
-- 14. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
-- 34. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
-- 80. At-Tawwab (ٱلْتَّوَّابُ) The Ever-Pardoning, The Relenting
-- 32. Al-Haleem (ٱلْحَلِيمُ) The Most Forbearing
-- 39. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
-- 52. Al-Wakeel (ٱلْوَكِيلُ) The Trustee, The Disposer of Affairs
-- 39. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
+### Space-like
+- independent of time (does not have a time) when about eternity or identity
+- it does not depend on its location (it can be separated from the spatial context)
 
-### 7. Harmony, Generosity
-- 7. Al-Muhaymin (ٱلْمُهَيْمِنُ) The Guardian, The Witness, The Overseer
-- 5. As-Salam (ٱلْسَّلَامُ) The Perfection and Giver of Peace
-- 42. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
-- 56. Al-Hameed (ٱلْحَمِيدُ) The Praiseworthy
-- 83. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
-- 48. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
 
-### 8. Prudence
-- 46. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
-- 31. Al-Khabeer (ٱلْخَبِيرُ) The Acquainted, the All-Aware
-- 19. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
-- 40. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
-- 57. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
 
-### 9. Forgiveness
-- 14. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
-- 34. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
-- 82. Al-‘Afuww (ٱلْعَفُوُّ) The Pardoner
+---
 
-### 10. Justice
-- 28. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
-- 29. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
-- 86. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
+[back](../)
 
-### 11. Governance
-- 3. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
-- 77. Al-Waali (ٱلْوَالِي) The Governor, The Patron
-- 55. Al-Waliyy (ٱلْوَلِيُّ) The Protecting Associate
+# The Verbal Categories
 
-### 12. Temperance
-- 92. An-Nafi’ (ٱلْنَّافِعُ) The Propitious, the Benefactor
-- 22. Al-Khaafidh (ٱلْخَافِضُ) The Reducer, The Abaser
-- 71. Al-Muqaddim (ٱلْمُقَدِّمُ) The Expediter, The Promoter
-- 72. Al-Mu’Akhkhir (ٱلْمُؤَخِّرُ) The Delayer, the Retarder
+1. Action Verbs
+Subcategories of verbs expressing physical or mental activities.
 
-### 13. Fairness
-- 86. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
-- 29. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
-- 28. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
+    1. Physical:
+Verbs denoting tangible, observable actions.
 
-### 14. Fortitude
-- 54. Al-Mateen (ٱلْمَتِينُ) The Firm, The Steadfast
-- 15. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
-- 53. Al-Qawiyy (ٱلْقَوِيُّ) The All-Strong
+        1. Manipulative: Actions involving handling objects.
+    kick: "She kicks the ball."
+    throw: "He throws a stone."
 
-### 15. Competition
-- 25. Al-Muzil (ٱلْمُذِلُّ) The Dishonourer, The Humiliator
-- 24. Al-Mu’Izz (ٱلْمُعِزُّ) The Honourer, The Bestower
-- 23. Ar-Raafi’ (ٱلْرَّافِعُ) The Exalter, The Elevator
+        1. Performative: Actions involving bodily movement or gestures.
+    dance: "They dance gracefully."
+    wave: "She waves goodbye."
+        1. Creative: Actions producing something tangible.
 
-### 16. Measurability
-- 57. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
-- 40. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
-- 87. Al-Jaami’ (ٱلْجَامِعُ) The Gatherer, the Uniter
+        1. build: "He builds a house."
+    paint: "She paints a portrait."
+    1. Mental
+Verbs describing cognitive or emotional processes.
 
-### 17. Market
-- 88. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
-- 89. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
-- 17. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
+        1. Cognitive: Thinking or reasoning processes.
+    think: "I think about the problem."
+    analyze: "She analyzes the data."
 
-### 18. Abundance
-- 45. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
-- 16. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
-- 17. Ar-Razzaaq (ٱlْرَّزَّاقُ) The Provider
+        1. Emotive: Emotional states or reactions.
+    love: "He loves his dog."
+    fear: "They fear the storm."
 
-### 19. Industriousness
-- 58. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
-- 12. Al-Baari’ (ٱلْبَارِئُ) The Originator
-- 11. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
+        1. Perceptive: Mental actions involving perception.
+    notice: "I notice a change."
+    imagine: "She imagines a story."
 
-### 20. Survival
-- 60. Al-Muhyee (ٱلْمُحْيِى) The Giver of Life
-- 96. Al-Baaqi (ٱلْبَاقِي) The Ever-Surviving, The Everlasting
-- 97. Al-Waarith (ٱلْوَارِثُ) The Inheritor, The Heir
+    1. Speech
+    Verbs indicating verbal expression or communication.
 
-### 21. God, The Creator
-- 11. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
-- 12. Al-Baari’ (ٱلْبَارِئُ) The Originator
-- 13. Al-Musawwir (ٱلْمُصَوِّرُ) The Fashioner
-- 58. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
+        1. Declarative: Stating or asserting.
+    say: "He says hello."
+    declare: "She declares her decision."
 
-### 22. God, The Transcendent
-- 74. Al-Aakhir (ٱلْآخِرُ) The Last
-- 73. Al-Awwal (ٱلأَوَّلُ) The First
-- 75. Az-Dhaahir (ٱلْظَّاهِرُ) The Manifest
-- 76. Al-Baatin (ٱلْبَاطِنُ) The Hidden One, Knower of the Hidden
-- 66. Al-Waahid (ٱلْوَاحِدُ) The One
-- 67. Al-Ahad (ٱلْأَحَد) The Unique, The Only One
-- 68. As-Samad (ٱلْصَّمَدُ) The Eternal, Satisfier of Needs
+        1. Interrogative: Asking or questioning.
+    ask: "They ask a question."
+    inquire: "He inquires about the plan."
 
-## Names, Attributes -> Virtues
+        1. Expressive: Conveying emotion or emphasis.
+    shout: "She shouts in excitement."
+    whisper: "He whispers a secret."
 
-### 1. Al-Mumeet (ٱلْمُمِيتُ) The Bringer of Death, the Destroyer
-- 1. God, The Destroyer
+    1. Motion
+Verbs expressing movement or change in position.
 
-### 2. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
-- 1. God, The Destroyer
-- 14. Fortitude
+        1. Directed: Movement toward a specific destination.
+    go: "She goes to school."
+    travel: "They travel to Paris."
+        1. Manner: Movement with specific style or method.
+    run: "He runs quickly."
+    crawl: "The baby crawls slowly."
 
-### 3. Al-Mutakabbir (ٱلْمُتَكَبِّرُ) The Supreme, The Majestic
-- 1. God, The Destroyer
-- 3. Provable Hierarchy
-
-### 4. Al-Jabbar (ٱلْجَبَّارُ) The Compeller, The Restorer
-- 1. God, The Destroyer
-
-### 5. Al-Muntaqim (ٱلْمُنْتَقِمُ) The Avenger
-- 1. God, The Destroyer
-
-### 6. Ad-Dharr (ٱلْضَّارُ) The Distresser
-- 1. God, The Destroyer
-
-### 7. Al-Mu’Min (ٱلْمُؤْمِنُ) The One Who gives Emaan and Security
-- 2. Faith, Reason
-
-### 8. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
-- 2. Faith, Reason
-- 8. Prudence
-
-### 9. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
-- 2. Faith, Reason
-- 8. Prudence
-
-### 10. Al-Ba’Ith (ٱلْبَاعِثُ) The Resurrector, The Raiser of the Dead
-- 2. Faith, Reason
-
-### 11. Al-Mujeeb (ٱلْمُجِيبُ) The Responsive One
-- 2. Faith, Reason
-
-### 12. Ar-Raqeeb (ٱلْرَّقِيبُ) The Watchful
-- 2. Faith, Reason
-
-### 13. Ash-Shaheed (ٱلْشَّهِيدُ) The All- and Ever Witnessing
-- 2. Faith, Reason
-
-### 14. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
-- 3. Provable Hierarchy
-- 11. Governance
-
-### 15. Al-Azeez (ٱلْعَزِيزُ) The All Mighty
-- 3. Provable Hierarchy
-
-### 16. Al-Jaleel (ٱلْجَلِيلُ) The Majestic
-- 3. Provable Hierarchy
-
-### 17. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
-- 3. Provable Hierarchy
-- 7. Harmony, Generosity
-
-### 18. Maalik-Ul-Mulk (مَالِكُ ٱلْمُلْكُ) Master of the Kingdom, Owner of the Dominion
-- 3. Provable Hierarchy
-
-### 19. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
-- 3. Provable Hierarchy
-- 6. Hope
-- 7. Harmony, Generosity
-
-### 20. Al-Qadir (ٱلْقَادِرُ) The Capable, The Powerful
-- 3. Provable Hierarchy
-
-### 21. Al-Muqtadir (ٱلْمُقْتَدِرُ) The Omnipotent
-- 3. Provable Hierarchy
-
-### 22. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
-- 4. Charity
-- 18. Abundance
-
-### 23. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
-- 4. Charity
-- 17. Market
-- 18. Abundance
-
-### 24. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
-- 4. Charity
-- 7. Harmony, Generosity
-
-### 25. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
-- 4. Charity
-- 7. Harmony, Generosity
-
-### 26. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
-- 4. Charity
-- 5. Provable Goodness
-
-### 27. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
-- 4. Charity
-- 17. Market
-
-### 28. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
-- 4. Charity
-- 17. Market
-
-### 29. Al-Barr (ٱلْبَرُّ) The Source of Goodness, the Kind Benefactor
-- 5. Provable Goodness
-- 4. Charity
-
-### 30. Al-Haqq (ٱلْحَقُّ) The Absolute Truth
-- 5. Provable Goodness
-
-### 31. Al-Lateef (ٱلْلَّطِيفُ) The Subtle One, The Most Gentle
-- 5. Provable Goodness
-
-### 32. Al-Wadood (ٱلْوَدُودُ) The Most Loving
-- 5. Provable Goodness
-
-### 33. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
-- 5. Provable Goodness
-- 18. Abundance
-
-### 34. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
-- 5. Provable Goodness
-- 10. Justice
-- 13. Fairness
-
-### 35. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
-- 6. Hope
-- 9. Forgiveness
-
-### 36. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
-- 6. Hope
-- 9. Forgiveness
-
-### 37. At-Tawwab (ٱلْتَّوَّابُ) The Ever-Pardoning, The Relenting
-- 6. Hope
-
-### 38. Al-Haleem (ٱلْحَلِيمُ) The Most Forbearing
-- 6. Hope
-
-### 39. Al-Muqeet (ٱلْمُقِيتُ) The Sustainer
-- 6. Hope
-- 3. Provable Hierarchy
-- 7. Harmony, Generosity
-
-### 40. Al-Wakeel (ٱلْوَكِيلُ) The Trustee, The Disposer of Affairs
-- 6. Hope
-
-### 41. Al-Muhaymin (ٱلْمُهَيْمِنُ) The Guardian, The Witness, The Overseer
-- 7. Harmony, Generosity
-
-### 42. As-Salam (ٱلْسَّلَامُ) The Perfection and Giver of Peace
-- 7. Harmony, Generosity
-
-### 43. Al-Kareem (ٱلْكَرِيمُ) The Most Generous, The Most Esteemed
-- 7. Harmony, Generosity
-- 4. Charity
-
-### 44. Al-Hameed (ٱلْحَمِيدُ) The Praiseworthy
-- 7. Harmony, Generosity
-
-### 45. Ar-Ra’Oof (ٱلْرَّؤُفُ) The Most Kind
-- 7. Harmony, Generosity
-- 4. Charity
-
-### 46. Al-Majeed (ٱلْمَجِيدُ) The Glorious, The Most Honorable
-- 7. Harmony, Generosity
-- 3. Provable Hierarchy
-
-### 47. Al-Hakeem (ٱلْحَكِيمُ) The All-Wise
-- 8. Prudence
-- 2. Faith, Reason
-
-### 48. Al-Khabeer (ٱلْخَبِيرُ) The Acquainted, the All-Aware
-- 8. Prudence
-
-### 49. Al-‘Aleem (ٱلْعَلِيمُ) The All-Knowing, The Omniscient
-- 8. Prudence
-- 2. Faith, Reason
-
-### 50. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
-- 8. Prudence
-- 16. Measurability
-
-### 51. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
-- 8. Prudence
-- 16. Measurability
-
-### 52. Al-Ghaffar (ٱلْغَفَّارُ) The All- and Oft-Forgiving
-- 9. Forgiveness
-- 6. Hope
-
-### 53. Al-Ghafoor (ٱلْغَفُورُ) The Forgiving, The Exceedingly Forgiving
-- 9. Forgiveness
-- 6. Hope
-
-### 54. Al-‘Afuww (ٱلْعَفُوُّ) The Pardoner
-- 9. Forgiveness
-
-### 55. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
-- 10. Justice
-- 13. Fairness
-
-### 56. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
-- 10. Justice
-- 13. Fairness
-
-### 57. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
-- 10. Justice
-- 13. Fairness
-- 5. Provable Goodness
-
-### 58. Al-Malik (ٱلْمَلِكُ) The King and Owner of Dominion
-- 11. Governance
-- 3. Provable Hierarchy
-
-### 59. Al-Waali (ٱلْوَالِي) The Governor, The Patron
-- 11. Governance
-
-### 60. Al-Waliyy (ٱلْوَلِيُّ) The Protecting Associate
-- 11. Governance
-
-### 61. An-Nafi’ (ٱلْنَّافِعُ) The Propitious, the Benefactor
-- 12. Temperance
-
-### 62. Al-Khaafidh (ٱلْخَافِضُ) The Reducer, The Abaser
-- 12. Temperance
-
-### 63. Al-Muqaddim (ٱلْمُقَدِّمُ) The Expediter, The Promoter
-- 12. Temperance
-
-### 64. Al-Mu’Akhkhir (ٱلْمُؤَخِّرُ) The Delayer, the Retarder
-- 12. Temperance
-
-### 65. Al-Muqsit (ٱلْمُقْسِطُ) The Equitable, the Requiter
-- 13. Fairness
-- 10. Justice
-- 5. Provable Goodness
-
-### 66. Al-‘Adl (ٱلْعَدْلُ) The Utterly Just
-- 13. Fairness
-- 10. Justice
-
-### 67. Al-Hakam (ٱلْحَكَمُ) The Judge, The Giver of Justice
-- 13. Fairness
-- 10. Justice
-
-### 68. Al-Mateen (ٱلْمَتِينُ) The Firm, The Steadfast
-- 14. Fortitude
-
-### 69. Al-Qahhar (ٱلْقَهَّارُ) The Subduer, The Ever-Dominating
-- 14. Fortitude
-- 1. God, The Destroyer
-
-### 70. Al-Qawiyy (ٱلْقَوِيُّ) The All-Strong
-- 14. Fortitude
-
-### 71. Al-Muzil (ٱلْمُذِلُّ) The Dishonourer, The Humiliator
-- 15. Competition
-
-### 72. Al-Mu’Izz (ٱلْمُعِزُّ) The Honourer, The Bestower
-- 15. Competition
-
-### 73. Ar-Raafi’ (ٱلْرَّافِعُ) The Exalter, The Elevator
-- 15. Competition
-
-### 74. Al-Muhsee (ٱلْمُحْصِيُ) The All-Enumerating, The Counter
-- 16. Measurability
-- 8. Prudence
-
-### 75. Al-Haseeb (ٱلْحَسِيبُ) The Reckoner, The Sufficient
-- 16. Measurability
-- 8. Prudence
-
-### 76. Al-Jaami’ (ٱلْجَامِعُ) The Gatherer, the Uniter
-- 16. Measurability
-
-### 77. Al-Ghaniyy (ٱلْغَنيُّ) The Self-Sufficient, The Wealthy
-- 17. Market
-- 4. Charity
-
-### 78. Al-Mughni (ٱلْمُغْنِيُّ) The Enricher
-- 17. Market
-- 4. Charity
-
-### 79. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
-- 17. Market
-- 4. Charity
-- 18. Abundance
-
-### 80. Al-Waasi’ (ٱلْوَاسِعُ) The All-Encompassing, the Boundless
-- 18. Abundance
-- 5. Provable Goodness
-
-### 81. Al-Wahhaab (ٱلْوَهَّابُ) The Giver of Gifts
-- 18. Abundance
-- 4. Charity
-
-### 82. Ar-Razzaaq (ٱلْرَّزَّاقُ) The Provider
-- 18. Abundance
-- 4. Charity
-- 17. Market
-
-### 83. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
-- 19. Industriousness
-
-### 84. Al-Baari’ (ٱلْبَارِئُ) The Originator
-- 19. Industriousness
-- 21. God, The Creator
-
-### 85. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
-- 19. Industriousness
-- 21. God, The Creator
-
-### 86. Al-Muhyee (ٱلْمُحْيِى) The Giver of Life
-- 20. Survival
-
-### 87. Al-Baaqi (ٱلْبَاقِي) The Ever-Surviving, The Everlasting
-- 20. Survival
-
-### 88. Al-Waarith (ٱلْوَارِثُ) The Inheritor, The Heir
-- 20. Survival
-
-### 89. Al-Khaaliq (ٱلْخَالِقُ) The Creator, The Maker
-- 21. God, The Creator
-- 19. Industriousness
-
-### 90. Al-Baari’ (ٱلْبَارِئُ) The Originator
-- 21. God, The Creator
-- 19. Industriousness
-
-### 91. Al-Musawwir (ٱلْمُصَوِّرُ) The Fashioner
-- 21. God, The Creator
-
-### 92. Al-Mubdi (ٱلْمُبْدِئُ) The Originator, The Initiator
-- 21. God, The Creator
-- 19. Industriousness
-
-### 93. Al-Aakhir (ٱلْآخِرُ) The Last
-- 22. God, The Transcendent
-
-### 94. Al-Awwal (ٱلأَوَّلُ) The First
-- 22. God, The Transcendent
-
-### 95. Az-Dhaahir (ٱلْظَّاهِرُ) The Manifest
-- 22. God, The Transcendent
-
-### 96. Al-Baatin (ٱلْبَاطِنُ) The Hidden One, Knower of the Hidden
-- 22. God, The Transcendent
-
-### 97. Al-Waahid (ٱلْوَاحِدُ) The One
-- 22. God, The Transcendent
-
-### 98. Al-Ahad (ٱلْأَحَد) The Unique, The Only One
-- 22. God, The Transcendent
-
-### 99. As-Samad (ٱلْصَّمَدُ) The Eternal, Satisfier of Needs
-- 22. God, The Transcendent
-
-## Classical Categories
-
-1. [8 Mercy, Compassion](#8-mercy-compassion)
-1. [11 Knowledge, Wisdom](#11-knowledge-wisdom)
-1. [13 Power, Might](#13-power-might)
-1. [9 Perfection](#9-perfection)
-1. [13 Nobility, Majesty, Glory](#13-nobility-majesty-glory)
-1. [17 Sublimity, Benevolence](#17-sublimity-benevolence)
-1. [7 Guardianship, Support](#7-guardianship-support)
-1. [6 Creation](#6-creation)
-1. [3 Oneness, Uniqueness](#3-oneness-uniqueness)
-1. [6 Existence](#6-existence)
-1. [6 Dominion](#6-dominion)
-1. [14 Allah's Will](#14-allahs-will)
-1. [7 Accountability, Reprimand](#7-accountability-reprimand)
-
-### 8 Mercy, Compassion
-
-- 1. [Ar-Rahman](https://myislam.org/99-names-of-allah/ar-rahman/) (The Beneficent): He who wills goodness and mercy for all His creatures
-- 2. [Ar-Raheem](https://myislam.org/99-names-of-allah/ar-raheem/) (The Merciful): He who acts with extreme kindness
-- 14. [Al-Ghaffar](https://myislam.org/99-names-of-allah/al-ghaffar/) (The Great Forgiver): The Forgiver, The One who forgives the sins of His slaves time and time again.
-- 18. [Al-Fattah](https://myislam.org/99-names-of-allah/al-fattah/) (The Opener): The Solver, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters.
-- 34. [Al-Ghafoor](https://myislam.org/99-names-of-allah/al-ghafoor/) (The All-Forgiving): The All-Forgiving, The Forgiving, The One who forgives a lot.
-- 79. [Al-Barr](https://myislam.org/99-names-of-allah/al-barr/) (The Fountain-Head of Truth): The Source of All Goodness, The Righteous, The One who is kind to His creatures
-- 80. [At-Tawwab](https://myislam.org/99-names-of-allah/al-tawwab/) (The Ever-Acceptor of Repentance): The Acceptor of Repentance, The Oft-Forgiving, The Acceptor of our Return
-- 82. [Al-Afuw](https://myislam.org/99-names-of-allah/al-afuw/) (The Supreme Pardoner): The Pardoner, The Forgiver and The Eliminator of Sins.
-
-### 11 Knowledge, Wisdom
-
-- 19. [Al-Alim](https://myislam.org/99-names-of-allah/al-alim/) (The All-Knowing One): The Knowledgeable; The One nothing is absent from His knowledge
-- 26. [As-Sami](https://myislam.org/99-names-of-allah/as-sami/) (The All-Hearer): The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ.
-- 27. [Al-Baseer](https://myislam.org/99-names-of-allah/al-baseer/) (The All-Seeing): The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument.
-- 31. [Al-Khabir](https://myislam.org/99-names-of-allah/al-khabir/) (The All-Aware One): The One who knows the truth of things.
-- 32. [Al-Haleem](https://myislam.org/99-names-of-allah/al-haleem/) (The Clement One): The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them.
-- 40. [Al-Haseeb](https://myislam.org/99-names-of-allah/al-hasseb/) (The Reckoning One): The Reckoner, The One who gives the satisfaction.
-- 45. [Al-Wasi]((https://myislam.org/99-names-of-allah/al-wasi/)) (The All-Pervading One): The Vast, The All-Embracing, The Knowledgeable.
-- 46. [Al-Hakeem](https://myislam.org/99-names-of-allah/al-hakeem/) (The Wise One): The Wise, The Judge of Judges, The One who is correct in His doings.
-- 50. [Ash-Shaheed](https://myislam.org/99-names-of-allah/ash-shaheed/) (The All Observing Witness): The Witness, The One who nothing is absent from Him.
-- 57. [Al-Muhsi](https://myislam.org/99-names-of-allah/al-muhsi/) (The All-Enumerating One): The Counter, The Reckoner, The One who the count of things are known to him.
-- 64. [Al-Wajid](https://myislam.org/99-names-of-allah/al-wajid/) (The Pointing One): The Perceiver, The Finder, The Rich who is never poor. Al-Wajid is Richness.
-
-### 13 Power, Might
-
-- 8. [Al-Aziz](https://myislam.org/99-names-of-allah/al-aziz/) (The Mighty One): The Strong, The Defeater who is not defeated
-- 9. [Al-Jabbar](https://myislam.org/99-names-of-allah/al-jabbar/) (The All Compelling): The One that nothing happens in His Dominion except that which He willed
-- 15. [Al-Qahhar](https://myislam.org/99-names-of-allah/al-qahhar/) (The All-Prevailing One): The Dominant, The One who has the perfect Power and is not unable over anything.
-- 33. [Al-Azeem](https://myislam.org/99-names-of-allah/al-azeem/) (The Magnificent One): The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection.
-- 37. [Al-Kabeer](https://myislam.org/99-names-of-allah/al-kabeer/) (The Great One): The Most Great, The Great, The One who is greater than everything in status.
-- 53. [Al-Qawiyy](https://myislam.org/99-names-of-allah/al-qawiyy/) (The Strong One): The Most Strong, The Strong, The One with the complete Power.
-- 54. [Al-Matin](https://myislam.org/99-names-of-allah/al-matin/) (The Firm One): The One with extreme Power which is un-interrupted and He does not get tired.
-- 55. [Al-Waliy](https://myislam.org/99-names-of-allah/al-waliy/) (The Protecting Associate): The Protecting Friend, The Supporter.
-- 61. [Al-Mumeet](https://myislam.org/99-names-of-allah/al-mumeet/) (The Inflictor of Death): The Creator of Death, The Destroyer, The One who renders the living dead.
-- 69. [Al-Qadir](https://myislam.org/99-names-of-allah/al-qadir/) (The All-Powerful): The Able, The Capable, The One attributed with Power.
-- 70. [Al-Muqtadir](https://myislam.org/99-names-of-allah/al-muqtadir/) (The All Authoritative One): The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him.
-- 71. [Al-Muqaddim](https://myislam.org/99-names-of-allah/al-muqaddim/) (The Expediting One): The Expediter, The Promoter, The One who puts things in their right places.
-- 77. [Al-Wali](https://myislam.org/99-names-of-allah/al-wali/) (The Holder of Supreme Authority): The Governor, The One who owns things and manages them.
-
-### 9 Perfection
-
-- 3. [Al-Malik](https://myislam.org/99-names-of-allah/al-malik/) (The King): The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection
-- 4. [Al-Quddus](https://myislam.org/99-names-of-allah/al-quddus/) (The Most Sacred / The Most Holy): The one who is pure, so far removed of any imperfection. He has no shortcomings, evil is not attributed to Him.
-- 5. [As-Salam](https://myislam.org/99-names-of-allah/as-salam/) (The Giver of Peace): The One who is free from every imperfection. It is because He is free of any defect that one who is with Him experiences tranquility.
-- 64. [Al-Wajid](https://myislam.org/99-names-of-allah/al-mwajid/) (The Pointing One): The Perceiver, The Finder, The Rich who is never poor. Al-Wajid is Richness.
-- 68. [As-Samad](https://myislam.org/99-names-of-allah/as-samad/) (The Supreme Provider): The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs. He is the only one a person should turn to when feeling helpless.
-- 84. [Malikul-Mulk](https://myislam.org/99-names-of-allah/malikul-mulk/) (The Eternal Possessor of Sovereignty): The One who controls the Dominion and gives dominion to whoever He willed.
-- 88. [Al-Ghaniy](https://myislam.org/99-names-of-allah/al-ghaniy/) (The Self-Sufficient One): The One who does not need the creation.
-- 89. [Al-Mughni](https://myislam.org/99-names-of-allah/al-mughni/) (The Enricher): The Emancipator, The Fulfiller of Needs, The Bestower of Wealth.
-- 93. [An-Noor](https://myislam.org/99-names-of-allah/an-noor/) (The Prime Light): The Light, The One who guides.
-
-### 13 Nobility, Majesty, Glory
-
-- 4. [Al-Quddus](https://myislam.org/99-names-of-allah/al-quddus/) (The Most Sacred / The Most Holy): The one who is pure, so far removed of any imperfection. He has no shortcomings, evil is not attributed to Him.
-- 10. [Al-Mutakabbir](https://myislam.org/99-names-of-allah/al-mutakabbir/) (The Dominant One): The One who is clear from the attributes of the creatures and from resembling them.
-- 33. [Al-Azeem](https://myislam.org/99-names-of-allah/al-azeem/) (The Magnificent One): The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection.
-- 36. [Al-Aliyy](https://myislam.org/99-names-of-allah/al-aliyy/) (The Sublime One): The Most High, The One who is clear from the attributes of the creatures.
-- 37. [Al-Kabeer](https://myislam.org/99-names-of-allah/al-kabeer/) (The Great One): The Most Great, The Great, The One who is greater than everything in status.
-- 41. [Al-Jaleel](https://myislam.org/99-names-of-allah/al-jaleel/) (The Majestic One): The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status.
-- 48. [Al-Majeed](https://myislam.org/99-names-of-allah/al-majeed/) (The Glorious One): The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness.
-- 56. [Al-Hameed](https://myislam.org/99-names-of-allah/al-hameed/) (The Sole-Laudable One): The Praiseworthy, The praised One who deserves to be praised.
-- 65. [Al-Maajid](https://myislam.org/99-names-of-allah/al-maajid/) (The All-Noble One): The Glorious, He who is Most Glorious.
-- 75. [Az-Zaahir](https://myislam.org/99-names-of-allah/az-zaahir/) (The Perceptible): The Manifest, The Conspicuous, The Evident
-- 76. [Al-Baatin](https://myislam.org/99-names-of-allah/al-baatin/) (The Imperceptible): The Hidden, The Secret One, The Inner One, The Knower of Hidden Things
-- 78. [Al-Mutaali](https://myislam.org/99-names-of-allah/al-mutaali/) (The Extremely Exalted One): The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation.
-- 85. [Dhul-Jalaali-Wal-Ikram](https://myislam.org/99-names-of-allah/zul-jalaali-wal-ikram/) (The Possessor of Majesty and Honour): The Lord of Majesty and Bounty.
-
-### 17 Sublimity, Benevolence
-
-- 6. [Al-Mumin](https://myislam.org/99-names-of-allah/al-mumin/) (The Infuser of Faith): The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him
-- 16. [Al-Wahhab](https://myislam.org/99-names-of-allah/al-wahhab/) (The Supreme Bestower): The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram.
-- 17. [Ar-Razzaq](https://myislam.org/99-names-of-allah/ar-razzak/) (The Total Provider): The Sustainer, The Provider.
-- 18. [Al-Fattah](https://myislam.org/99-names-of-allah/al-fattah/) (The Opener): The Solver, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters.
-- 30. [Al-Lateef](https://myislam.org/99-names-of-allah/al-lateef/) (The Knower of Subtleties): The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them.
-- 32. [Al-Haleem](https://myislam.org/99-names-of-allah/al-haleem/) (The Clement One): The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them.
-- 35. [Ash-Shakur](https://myislam.org/99-names-of-allah/ash-shakur/) (The Acknowledging One): The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience.
-- 39. [Al-Muqeet](https://myislam.org/99-names-of-allah/al-muskeet/) (The Sustaining One): The Maintainer, The Guardian, The Feeder, The One who has the Power.
-- 42. [Al-Karim](https://myislam.org/99-names-of-allah/al-karim/) (The Bountiful One): The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status.
-- 44. [Al-Mujeeb](https://myislam.org/99-names-of-allah/al-mujeeb/) (The Responding One): The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearned if he calls upon Him.
-- 47. [Al-Wadud](https://myislam.org/99-names-of-allah/al-wadud/) (The Loving One): The Most Loving, The Most Affectionate, The Beloved
-- 83. [Ar-Rauf](https://myislam.org/99-names-of-allah/ar-rauf/) (The Benign One): The Most Kind, The Tenderly Merciful, The Clement and Compassionate
-- 86. [Al-Muqsit](https://myislam.org/99-names-of-allah/al-muqsit/) (The Just One): The Equitable, The One who is Just in His judgment.
-- 87. [Al-Jami](https://myislam.org/99-names-of-allah/al-jami/) (The Assembler of Scattered Creations): The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment.
-- 94. [Al-Hadi](https://myislam.org/99-names-of-allah/al-hadi/) (The Provider of Guidance): The Guide, The Leader, The Guide of the Right Path
-- 98. [Ar-Rasheed](https://myislam.org/99-names-of-allah/ar-rashid/) (The Guide to Path of Rectitude): The Guide to the Right Path, The One who guides.
-- 99. [As-Sabur](https://myislam.org/99-names-of-allah/as-Sabur/) (The Extensively Enduring One): The Patient, The One who does not quickly punish the sinners.
-
-### 7 Guardianship, Support
-
-- 6. [Al-Mumin](https://myislam.org/99-names-of-allah/al-mumin/) (The Infuser of Faith): The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him
-- 7. [Al-Muhaymin](https://myislam.org/99-names-of-allah/al-muhaymin/) (The Guardian): The One who witnesses the saying and deeds of His creatures.
-- 38. [Al-Hafiz](https://myislam.org/99-names-of-allah/al-hafiz/) (The Guarding One): The Preserver, The Protector, The One who protects whatever and whoever He willed to protect.
-- 43. [Ar-Raqib](https://myislam.org/99-names-of-allah/ar-raqib/) (The Watchful One): The Watcher, The One that nothing is absent from Him. Hence, it’s meaning is related to attribute of Knowledge.
-- 52. [Al-Wakeel](https://myislam.org/99-names-of-allah/al-wakeel/) (The Universal Trustee): The Trustee, The One who gives the satisfaction and is relied upon.
-- 55. [Al-Waliy](https://myislam.org/99-names-of-allah/al-waliy/) (The Protecting Associate): The Protecting Friend, The Supporter.
-- 68. [As-Samad](https://myislam.org/99-names-of-allah/as-samad/) (The Supreme Provider): The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs. He is the only one a person should turn to when feeling helpless.
-
-### 6 Creation
-
-- 11. [Al-Khaliq](https://myislam.org/99-names-of-allah/al-khaliq/) (The Creator): The One who brings everything from non-existence to existence
-- 12. [Al-Bari](https://myislam.org/99-names-of-allah/al-bari/) (The Evolver / The Maker): The Maker, The Creator who has the Power to turn the entities.
-- 13. [Al-Musawwir](https://myislam.org/99-names-of-allah/al-musawwir/) (The Flawless Shaper): The One who forms His creatures in different pictures.
-- 58. [Al-Mubdi](https://myislam.org/99-names-of-allah/al-mubdi/) (The Originator): The One who started the human being. That is, He created him.
-- 59. [Al-Muid](https://myislam.org/99-names-of-allah/al-muid/) (The Restorer): The Reproducer, The One who brings back the creatures after death.
-- 95. [Al-Badi](https://myislam.org/99-names-of-allah/al-badi/) (The Unique One): The Wonderful Originator, The Unprecedented and Incomparable Inventor
-
-### 3 Oneness, Uniqueness
-
-- 66. [Al-Wahid](https://myislam.org/99-names-of-allah/al-wahid/) (The Only One): The Unique, The One, The One without a partner.
-- 67. [Al-Ahad](https://myislam.org/99-names-of-allah/al-ahad/) (The Sole One): The One.
-- 97. [Al-Warith](https://myislam.org/99-names-of-allah/al-warith/) (The Eternal Inheritor): The Heir, The One whose Existence remains.
-
-### 6 Existence
-
-- 51. [Al-Haqq](https://myislam.org/99-names-of-allah/al-haqq/) (The Embodiment of Truth): The Truth, The True, The One who truly exists.
-- 62. [Al-Hayy](https://myislam.org/99-names-of-allah/al-hayy/) (The Eternally Living One): The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood.
-- 63. [Al-Qayyum](https://myislam.org/99-names-of-allah/al-qayyum/) (The Self-Subsisting One): The Self-Subsisting, The Self-Existing One upon Whom all others depend
-- 73. [Al-Awwal](https://myislam.org/99-names-of-allah/awwal/) (The Very First): The First, The One whose Existence is without a beginning.
-- 74. [Al-Akhir](https://myislam.org/99-names-of-allah/al-akhir/) (The Infinite Last One): The Last, The One whose Existence is without an end.
-- 96. [Al-Baaqi](https://myislam.org/99-names-of-allah/al-baaqi/) (The Ever Surviving One): The Everlasting, The Ever-Enduring, The Ever-Present
-
-### 6 Dominion
-
-- 3. [Al-Malik](https://myislam.org/99-names-of-allah/al-malik/) (The King): The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection
-- 15. [Al-Qahhar](https://myislam.org/99-names-of-allah/al-qahhar/) (The All-Prevailing One): The Dominant, The One who has the perfect Power and is not unable over anything.
-- 28. [Al-Hakam](https://myislam.org/99-names-of-allah/al-hakam/) (The Impartial Judge): The Judge, He is the Ruler andThe Judge, He is the Ruler and His judgment is His Word. His judgment is His Word.
-- 29. [Al-Adl](https://myislam.org/99-names-of-allah/al-adl/) (The Embodiment of Justice): The Just, The One who is entitled to do what He does.
-- 84. [Malikul-Mulk](https://myislam.org/99-names-of-allah/malikul-mulk/) (The Eternal Possessor of Sovereignty): The One who controls the Dominion and gives dominion to whoever He willed.
-- 85. [Dhul-Jalaali-Wal-Ikram](https://myislam.org/99-names-of-allah/zul-jalaali-wal-ikram/) (The Possessor of Majesty and Honour): The Lord of Majesty and Bounty.
-
-### 14 Allah's Will
-
-- 20. [Al-Qabid](https://myislam.org/99-names-of-allah/al-qabid/) (The Restricting One): The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy.
-- 21. [Al-Basit](https://myislam.org/99-names-of-allah/al-basit/) (The Extender): The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy.
-- 22. [Al-Khafid](https://myislam.org/99-names-of-allah/al-khafid/) (The Reducer): The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment.
-- 23. [Ar-Rafi](https://myislam.org/99-names-of-allah/ar-rafi/) (The Elevating One): The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment.
-- 24. [Al-Mu'izz](https://myislam.org/99-names-of-allah/al-muizz/) (The Honourer-Bestower): He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem.
-- 25. [Al-Muzil](https://myislam.org/99-names-of-allah/al-muzil/) (The Abaser): The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem.
-- 49. [Al-Ba'ith](https://myislam.org/99-names-of-allah/al-baith/) (The Infuser of New Life ): The Awakener, The Resurrector, The Arouser
-- 60. [Al-Muhyi](https://myislam.org/99-names-of-allah/al-muhyi/) (The Maintainer of life): The Restorer, The Giver of Life.
-- 61. [Al-Mumeet](https://myislam.org/99-names-of-allah/al-mumeet/) (The Inflictor of Death): The Creator of Death, The Destroyer, The One who renders the living dead.
-- 71. [Al-Muqaddim](https://myislam.org/99-names-of-allah/al-muqaddim/) (The Expediting One): The Expediter, The Promoter, The One who puts things in their right places.
-- 72. [Al-Muakhkhir](https://myislam.org/99-names-of-allah/al-muakhkhir/) (The Delayer): The Postponer, He Who Puts Far Away. He makes ahead what He wills and delays what He wills.
-- 90. [Al-Mani](https://myislam.org/99-names-of-allah/al-mani/) (The Preventer): The Withholder.
-- 91. [Ad-Darr](https://myislam.org/99-names-of-allah/ad-Darr/) (The Distressor): The Correcter, The Balancer, The Distresser, The Afflicter, The Punisher.
-- 92. [An-Naafi](https://myislam.org/99-names-of-allah/an-naafi/) (The Bestower of Benefits): The Creator of Good, The Benefiter, The Propitious, The Auspicious
-
-### 7 Accountability, Reprimand
-
-- 22. [Al-Khafid](https://myislam.org/99-names-of-allah/al-khafid/) (The Reducer): The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment.
-- 40. [Al-Haseeb](https://myislam.org/99-names-of-allah/al-haseeb/) (The Reckoning One): The Reckoner, The One who gives the satisfaction.
-- 49. [Al-Ba'ith](https://myislam.org/99-names-of-allah/al-baith/) (The Infuser of New Life ): The Awakener, The Resurrector, The Arouser
-- 57. [Al-Muhsi](https://myislam.org/99-names-of-allah/al-muhsi/) (The All-Enumerating One): The Counter, The Reckoner, The One who the count of things are known to him.
-- 81. [Al-Muntaqim](https://myislam.org/99-names-of-allah/al-muntaqim/) (The Retaliator): The Avenger, The Disapprover, The Inflictor of Retribution
-- 90. [Al-Mani](https://myislam.org/99-names-of-allah/al-mani/) (The Preventer): The Withholder.
-- 91. [Ad-Darr](https://myislam.org/99-names-of-allah/ad-darr/) (The Distressor): The Correcter, The Balancer, The Distresser, The Afflicter, The Punisher.
-
-
-
-## Social Virtues
-
-[back](./)
-
-# Being a Citizen
-
-## Requirements
-
-- living in the city
-
-## Definitions
-
-- the act of accepting (and using) the common definitions of words and concepts
-- the act of:
-    - knowing
-    - verifying the legitimacy
-    - accepting (even ecouraging the enforcement of) the local laws or consensus of the others
+        1. Translocative: Movement involving relocation.
+    move: "They move to a new city."
+    migrate: "Birds migrate south."
     
-- the act of establishing legitimate consensus if not extant
-    - consensus has to pass the filter of categorical imperative
+    1. Transitive
+    Verbs requiring a direct object.
 
-- striving to enact at least equal or more (in quality and quantiy) moral duties than the local average
+        1. Monotransitive: Taking one direct object.
+    eat: "She eats an apple."
+    write: "He writes a letter."
 
-## Virtues
+        1. Ditransitive: Taking two objects (direct and indirect).
+    give: "She gives him a gift."
+    tell: "He tells her a story."
 
-- [Harmony, Humility](harmony.md)
-- [Loyaly, Fortitude](fortitude.md) to the ideals of Civilization
+    1. Intransitive
+    Verbs not requiring a direct object.
 
-### To be a Leader
+        1. Pure Intransitive: Complete without an object.
+    sleep: "He sleeps peacefully."
+    laugh: "She laughs loudly."
 
-- Hope:
-    - Sacrifice to Timelessness
-    - Share Wonder
-- Governance:
-    - Imitatio Civitate
+        1. Resultative: Implying a resulting state.
+    fall: "The tree falls."
+    rise: "The sun rises."
 
+2. Linking Verbs
+Subcategories of verbs connecting the subject to a complement.
+    1. State of Being
+Verbs describing existence or identity.
 
+        1. Existential: Indicating existence.
+    be: "She is a teacher."
+    exist: "Ghosts exist in stories."
+
+        1. Identificational: Equating subject with identity.
+    become: "He becomes president."
+    remain: "She remains a student."
+
+    1. Sensory
+Verbs related to perception or sensation.
+
+        1. Appearance: Describing how something seems.
+    seem: "He seems tired."
+    appear: "She appears confident."
+
+        1. Sensation: Relating to sensory experience.
+    feel: "I feel cold."
+    look: "You look happy."
+
+    1. Change/Transformation
+Verbs indicating a shift in state.
+
+        1. Transitional: Showing change over time.
+    grow: "She grows taller."
+    turn: "The leaves turn red."
+
+        1. Resultative: Indicating a final state.
+    get: "He gets angry."
+    become: "They become friends."
+
+    1. Equation
+Verbs equating subject with a complement.
+
+        1. Descriptive: Describing qualities.
+    seem: "It seems fair."
+    sound: "That sounds good."
+
+        1. Classificational: Assigning a category.
+    be: "She is a doctor."
+    constitute: "This constitutes a violation."
+
+3. Auxiliary Verbs
+Subcategories of verbs supporting the main verb.
+
+    1. Tense
+Verbs marking time.
+
+        1. Present: Indicating current action.
+    am/is/are: "She is running."
+    do/does: "He does his homework."
+
+        1. Past: Indicating completed action.
+    was/were: "They were singing."
+    did: "She did her best."
+
+        1. Future: Indicating future action.
+    will: "I will go."
+    shall: "We shall overcome."
+
+    1. Aspect
+Verbs indicating completion or progression.
+
+        1. Perfect: Completed actions.
+    have/has: "She has finished."
+    had: "He had left."
+
+        1. Progressive: Ongoing actions.
+    am/is/are: "They are dancing."
+    was/were: "She was reading."
+
+        1. Perfect-Progressive: Ongoing with completion.
+    have been: "I have been studying."
+    had been: "They had been working."
+
+    1. Voice
+Verbs marking active or passive voice.
+
+        1. Active: Subject performs action.
+    am/is/are: "She is writing a book."
+    was/were: "He was painting the house."
+
+        1. Passive: Subject receives action.
+    am/is/are: "The book is written."
+    was/were: "The house was painted."
+
+    1. Emphasis
+Verbs used for stress or negation.
+
+        1. Affirmative: Emphasizing truth.
+    do/does: "I do care."
+    did: "She did finish."
+
+        1. Negative: Forming negation.
+    do not/does not: "He doesn’t know."
+    did not: "They didn’t come."
+
+4. Modal Verbs
+Subcategories expressing modality.
+
+    1. Possibility/Probability
+Verbs expressing likelihood or chance.
+
+        1. Weak Possibility: Low likelihood.
+    might: "It might rain."
+    could: "She could arrive late."
+
+        1. Strong Possibility: High likelihood.
+    will: "It will happen."
+    should: "He should win."
+
+    1. Ability
+Verbs indicating capability or skill.
+
+        1. General Ability: Current or inherent ability.
+    can: "She can swim."
+    could: "He could read early."
+
+        1. Specific Ability: Context-specific ability.
+    be able to: "I am able to help."
+    could: "She could fix it yesterday."
+
+    1. Permission
+Verbs allowing or prohibiting actions.
+
+        1. Granting: Allowing action.
+    can: "You can leave."
+    may: "She may enter."
+
+        1. Prohibiting: Denying permission.
+    must not: "You must not smoke."
+    cannot: "He cannot park here."
+
+    1. Obligation/Necessity
+Verbs denoting duty or requirement.
+
+        1. Strong Obligation: Mandatory action.
+    must: "You must obey."
+    have to: "She has to finish."
+
+        1. Weak Obligation: Suggested action.
+    should: "You should study."
+    ought to: "He ought to apologize."
+
+    1. Volition
+Verbs expressing desire or intention.
+
+        1. Intention: Planned action.
+    will: "I will try."
+    shall: "We shall succeed."
+
+        1. Desire: Wishing or wanting.
+    would: "She would love to join."
+    want to: "He wants to learn."
+
+    1. Conditionality
+Verbs used in hypothetical or conditional contexts.
+
+        1. Hypothetical: Imagined scenarios.
+    would: "I would go if invited."
+    could: "She could win if she tries."
+
+        1. Counterfactual: Unreal conditions.
+    would have: "He would have won."
+    might have: "They might have left."
+
+5. Incomplete Verbs
+Subcategories requiring complements.
+
+    1. Copulative
+Verbs needing a subject complement.
+
+        1. Descriptive: Describing qualities.
+    seem: "She seems happy."
+    appear: "He appears confident."
+
+        1. Identificational: Naming or classifying.
+    be: "She is a lawyer."
+    become: "He became a chef."
+
+    1. Transitive Incomplete
+Verbs needing a direct object.
+
+        1. Monotransitive: One object.
+    want: "She wants a book."
+    need: "He needs help."
+
+        1. Ditransitive: Two objects.
+    give: "She gives him a gift."
+    show: "He shows her a picture."
+
+    1. Complex Transitive
+Verbs requiring an object and complement.
+
+        1. Descriptive: Object with adjective.
+    call: "They call him brave."
+    consider: "She considers it fair."
+
+        1. Naming: Object with noun.
+    name: "They named her leader."
+    appoint: "He appointed her manager."
+
+6. Finite Verbs
+Subcategories forming complete predicates.
+
+    1. Indicative
+Verbs expressing facts or questions.
+
+        1. Declarative: Stating facts.
+    walk: "She walks daily."
+    is: "He is here."
+
+        1. Interrogative: Asking questions.
+    do: "Do you know?"
+    is: "Is she coming?"
+
+    1. Imperative
+Verbs conveying commands or requests.
+
+        1. Direct: Explicit commands.
+    go: "Go now!"
+    sit: "Sit down!"
+
+        1. Polite: Softened requests.
+    please come: "Please come inside."
+    do help: "Do help me."
+
+    1. Subjunctive
+Verbs indicating hypothetical or wished situations.
+
+        1. Present Subjunctive: Current hypotheticals.
+    be: "I suggest he be ready."
+    have: "She demands we have it."
+
+        1. Past Subjunctive: Unreal conditions.
+    were: "If I were rich."
+    had: "If she had known."
+
+    1. Tensed
+Verbs marked for specific tense.
+
+        1. Present: Current actions.
+    run: "She runs fast."
+    is: "He is happy."
+
+        1. Past: Completed actions.
+    ran: "She ran yesterday."
+    was: "He was tired."
+
+        1. Future: Future actions.
+    will run: "She will run tomorrow."
+    will be: "He will be there."
+
+7. Infinite Verbs
+Subcategories of verbs not bound by tense (often synonymous with non-finite, but here focused on infinitives).
+
+    1. Bare Infinitive
+Base verb form without "to."
+
+        1. Modal Complement: Following modals.
+    go: "She can go."
+    help: "He must help."
+
+        1. Causative/Perceptive: After causative/perception verbs.
+    make: "She makes him sing."
+    see: "I saw her run."
+
+    1. Full Infinitive
+Verb form with "to" expressing purpose or concept.
+
+        1. Purpose: Indicating intention.
+    to learn: "She studies to learn."
+    to win: "He plays to win."
+
+        1. Nominal: Acting as a noun.
+    to sing: "To sing is fun."
+    to dream: "To dream is free."
+
+8. Non-Finite Verbs
+Subcategories not tied to subject or tense.
+
+    1. Infinitive
+Verbs acting as nouns, adjectives, or adverbs.
+
+        1. Nominal: Functioning as a noun.
+    to dance: "To dance is her passion."
+    to study: "To study requires focus."
+
+        1. Adverbial: Indicating purpose or reason.
+    to help: "She came to help."
+    to learn: "He reads to learn."
+
+        1. Adjectival: Modifying a noun.
+    to read: "A book to read."
+    to solve: "A problem to solve."
+
+    1. Gerund
+Verbs functioning as nouns.
+
+        1. Subject: Acting as sentence subject.
+    swimming: "Swimming is healthy."
+    reading: "Reading takes time."
+
+        1. Object: Acting as verb object.
+    enjoy swimming: "She enjoys swimming."
+    love dancing: "He loves dancing."
+
+        1. Complement: Following prepositions.
+    fond of running: "She’s fond of running."
+    good at singing: "He’s good at singing."
+
+    1. Present Participle
+Verbs functioning as adjectives or in progressive aspects.
+
+        1. Adjectival: Describing a noun.
+    running: "A running stream."
+    shining: "A shining star."
+
+        1. Progressive: Forming continuous tenses.
+    is running: "She is running now."
+    was singing: "He was singing loudly."
+
+        1. Past Participle
+    Verbs functioning as adjectives or in perfect/passive constructions.
+
+        1. Adjectival: Describing a noun.
+    broken: "A broken window."
+    written: "A written note."
+
+        1. Perfect: Forming perfect tenses.
+    have written: "She has written a book."
+    had gone: "He had gone home."
+
+        1. Passive: Forming passive voice.
+    is written: "The book is written."
+    was seen: "She was seen there."
+
+[back](../)
+
+---
+
+[back](../)
+
+# Governance of Virtue
+
+The training of such encoder for grading virtue has to be transparent and guided by all interested parties. Either by voting or by a mathematical proof.
+
+We propose a continuous voting mechanism that guarantees a unique human identity for all voters.
+
+[back](../)
+
+---
+
+[back](../)
+
+# Making Virtues Computable
+
+A proposed implementation of this theory of virtues.
+
+## Summary
+
+1. The Domain
+    1. [The Verbs as domain of virtue computation](verbs.md)
+    1. [The coverage of other Virtue Theories](others_coverage.md)
+    1. [The Verbal Categories](categories.md)
+1. The Codomain
+    1. Representation of Virtues in Space
+1. The Virtue Encoder
+1. [Governance of Virtue](governance.md)
+
+[back](../)
+
+---
+
+[back](../)
+
+# The coverage of other Virtue Theories
+
+Here are some examples of Verbs Not Spanned by Other Virtue Theories
+
+---
+
+## 1. Aristotelian (Nicomachean Ethics)
+Canon: Prudence, Justice, Temperance, Courage (+ minor virtues).  
+
+1.1 **Verb**: *to measure*  
+- Aristotle: no clear category; does not map to Courage, Justice, Temperance, Prudence.  
+- 21‑axis: **Measurability** + **Truth**.  
+
+1.2 **Verb**: *to compete*  
+- Aristotle: only indirectly under Courage.  
+- 21‑axis: **Competition** (+ Market if exchange context).
+
+---
+
+## 2. Stoic Virtues
+Canon: Wisdom, Justice, Courage, Temperance (cardinals). 
+
+2.1 **Verb**: *to forgive*  
+- Stoics: fits nowhere directly; maybe Temperance (self‑control) or Justice (fair dealing).  
+- 21‑axis: **Forgiveness** (atomic).  
+
+2.2 **Verb**: *to govern*  
+- Stoics: at best “Wisdom.”  
+- 21‑axis: **Governance** (atomic).  
+
+---
+
+## 3. Christian Virtues
+Canon: Faith, Hope, Charity; Prudence, Justice, Temperance, Fortitude. 
+
+3.1 **Verb**: *to trade*  
+- Christian canon: no explicit virtue for trade.  
+- 21‑axis: **Market** (atomic).  
+
+3.2 **Verb**: *to innovate*  
+- Canon: could be Hope, but forced.  
+- 21‑axis: **Creativity/Constructiveness** + **Industriousness**.  
+
+---
+
+## 4. Buddhist Pāramitās
+
+4.1 **Verb**: *to forgive*  
+- Pāramitās: patience (Khanti) is endurance, not forgiveness.  
+- 21‑axis: **Mercy/Forgiveness** (atomic).  
+
+4.2 **Verb**: *to govern*  
+- Pāramitās: no explicit governance category.  
+- 21‑axis: **Governance**.  
+
+---
+
+## 5. Confucian Five Constants
+Anchors: **Ren, Yi, Li, Zhi, Xin**; harmony through ritual and education. 
+
+5.1 **Verb**: *to forgive*  
+- Constants: Ren, Yi, Li, Zhi, Xin do not explicitly cover forgiveness.  
+- 21‑axis: **Mercy/Forgiveness**.  
+
+5.2 **Verb**: *to invent*  
+- Constants: no explicit Creativity.  
+- 21‑axis: **Creativity/Constructiveness** + **Industriousness**.  
+
+---
+
+## 6. Taoist Virtues
+
+6.1 **Verb**: *to measure*  
+- Taoist categories: Ziran, Wu‑wei, Compassion, Simplicity → none are cover measurability.  
+- 21‑axis: **Measurability**.  
+
+6.2 **Verb**: *to compete*  
+- Taoism: harmony discourages overt contest.  
+- 21‑axis: **Competition**.  
+
+---
+
+## 7. Hindu (Dharma) and Yoga (Yamas/Niyamas)
+Anchors: Dharma (order/justice), Artha (prosperity), Kāma (desire), Mokṣa (liberation).
+Anchors: Non‑harm, truthfulness, non‑stealing, chastity, non‑grasping; purity, contentment, austerity, study, surrender. 
+
+7.1 **Verb**: *to govern*  
+- Yamas/Niyamas: emphasize restraint, purity, self‑discipline → not governance.  
+- 21‑axis: **Governance**.  
+
+7.2 **Verb**: *to measure*  
+- Yamas/Niyamas: no explicit measurability.  
+- 21‑axis: **Measurability**.  
+
+---
+
+## 8. Judaism
+Anchors: Truth (Emet), Justice (Tzedek), Loving‑kindness (Chesed), Pikuach Nefesh (Life), Law/practice. 
+
+8.1 **Verb**: *to compete*  
+- Competition is not seen as a virtue.
+- 21‑axis: **Competition**.  
+
+8.2 **Verb**: *to innovate*  
+- Torah study fosters renewal but not as a virtue category.  
+- 21‑axis: **Creativity/Constructiveness**.  
+
+---
+
+## 9. Islam (Maqāṣid + Virtues)
+Anchors: Justice (‘Adl), Mercy (Raḥma), Truth (Sidq/Haqq), Maqāṣid (preservation of religion/life/intellect/lineage/wealth). 
+
+9.1 **Verb**: *to compete*  
+- Maqāṣid: life, intellect, lineage, wealth, religion → no Competition.  
+- 21‑axis: **Competition**.  
+
+9.2 **Verb**: *to measure*  
+- Islamic virtues: Truth (Sidq), Justice (‘Adl), Mercy → no measurability.  
+- 21‑axis: **Measurability**.  
+
+---
+
+## 10. Modern VIA (Peterson & Seligman)
+
+10.1 **Verb**: *to govern*  
+- VIA: fairness, leadership, perspective → but no systemic governance.  
+- 21‑axis: **Governance**.  
+
+10.2 **Verb**: *to trade*  
+- VIA: honesty, kindness, fairness → no Market.  
+- 21‑axis: **Market**.  
+
+---
+
+## 11. Utilitarianism
+Canon: Maximize utility.
+
+11.1 **Verb**: *to forgive*  
+- Utilitarianism: forgiveness justified only by outcomes → not atomic.  
+- 21‑axis: **Forgiveness**.  
+
+11.2 **Verb**: *to worship*  
+- Utilitarianism: irrelevant.  
+- 21‑axis: **Faith/Reason** + **Miracle**.  
+
+---
+
+## 12. Kantian Deontology
+Canon: Categorical imperative; duty.
+
+12.1 **Verb**: *to compete*  
+- Kant: universalizable? Competition is morally neutral.  
+- 21‑axis: **Competition**.  
+
+12.2 **Verb**: *to innovate*  
+- Kant: creativity is aesthetic, not moral.  
+- 21‑axis: **Creativity/Constructiveness**.  
+
+---
+
+## 13. Rawlsian Contractarianism
+Canon: Original position; fairness. 
+
+13.1 **Verb**: *to measure*  
+- Rawls: veil of ignorance test = fairness, not measurement.  
+- 21‑axis: **Measurability**.  
+
+13.2 **Verb**: *to compete*  
+- Rawls: competition tolerated only if fair → but not a virtue.  
+- 21‑axis: **Competition**.  
+
+---
+
+## 14. Care Ethics
+Canon: Relational responsibility, responsiveness. 
+
+14.1 **Verb**: *to govern*  
+- Care ethics: relational care, but not governance.  
+- 21‑axis: **Governance**.  
+
+14.2 **Verb**: *to compete*  
+- Care ethics: no space for Competition.  
+- 21‑axis: **Competition**.  
+
+---
+
+## 15. Capability Approach (Sen/Nussbaum)
+Canon: Substantive freedoms/capabilities set.
+
+15.1 **Verb**: *to innovate*  
+- Capabilities: creativity subsumed under “play” or “control over environment.”  
+- 21‑axis: **Creativity/Constructiveness**.  
+
+15.2 **Verb**: *to compete*  
+- Capabilities: no Competition virtue.  
+- 21‑axis: **Competition**.  
+
+---
+
+## 16. Summary
+
+16.1 Across all traditions and ethical systems examined, **at least two verbs remain undecomposed** in each.  
+16.2 These verbs decompose cleanly under the **21‑axis system**, showing its **spanning advantage**.  
+16.3 Commonly missing axes: **Competition, Market, Governance, Measurability, Creativity, Forgiveness**.  
+16.4 This suggests these are the **indispensable axes** that make the 21‑system uniquely complete.
+
+## 17. Chalengeability
+
+This document is available on [Github](https://github.com/ctzurcanu/virtues) for continuous challenge.
+
+[back](../)
+
+---
+
+[back](../)
+
+# Representation of Virtues in Space
+
+A proposed representation in space is in correspondence with the most used embedding spaces in the present:
+
+## Compatibility with other Encoders
+
+- a representation in 768 dimensions for compatibility with BERT-derived encoders
+
+## in 21D
+
+- by using a special encoder of virtue, using BERT-derived data
+
+## In 3D
+
+- a dimensionality reduction from the above
+
+## in 2D
+
+- by the reduction of virtues to 3 concepts
+
+## in 1D
+
+- by the reduction of virtues to 1 concept
+
+[back](../)
+
+---
+
+[back](../)
+
+# The Verbs as Domain of Virtue Computation
+
+The link between Virtue and Action is almost self-explanatory. 
+
+## 1. Statement of Principle
+
+1.1 Virtues are not abstract ideals floating independently.  
+1.2 They originate in **actions** — and linguistically, actions are represented by **verbs/predicates**.  
+1.3 Therefore, verbs are the **root soil** from which virtues grow, and the **site of analysis** where virtues can be identified and extracted.
+
+## 2. Why Verbs? (Ontological and Linguistic Grounding)
+
+2.1 Every verb describes a **doing, undergoing, or becoming**.  
+2.2 Ethics concerns **what we do** — hence, verbs encode the morally relevant material.  
+2.3 Without verbs, there is no movement, no relation, no choice → no morality.  
+2.4 Nouns (states, objects) may describe contexts, but verbs describe **decisions/events**, which are the proper domain of virtue.
+
+## 3. Verbs → Virtue Extraction
+
+3.1 Step 1: Identify an atomic action (verb instance).  
+3.2 Step 2: Analyse the **valence** of that verb against the N axes (e.g., *to measure*, *to forgive*).  
+3.3 Step 3: Extract the **virtue core** (e.g., *measuring honestly* → Truth/Measurability).  
+3.4 Step 4: Record the mapping (colored coin issuance, proof capture, etc.).
+
+## 4. Why Verbs are the Root of Virtues
+
+4.1 **Universality**: Every culture has verbs; verbs encode what humans recognize as morally salient.  
+4.2 **Granularity**: Verbs can be minimal (“to smile,” “to measure”) — enabling atomic moral analysis.  
+4.3 **Compositionality**: Complex actions (wars, institutions) are composites of simpler verbs — thus decomposable into virtue vectors.  
+4.4 **Proof‑friendliness**: Verbs denote observable acts, which can be recorded and proven (timestamp, evidence).  
+4.5 **Cross‑tradition comparability**: Mapping virtues across religions and philosophies works only if we trace them to **common actions** (verbs).  
+4.6 **Dynamic nature**: Virtues live in choices and habits → these are sequences of verbs, not static nouns.
+
+## 5. Examples
+
+5.1 *To forgive* → root verb; from it emerges the virtue **Mercy/Forgiveness**.  
+5.2 *To trade* → root verb; from it emerges the virtue **Market (voluntary exchange)**.  
+5.3 *To measure* → root verb; from it emerges the virtue **Truth/Measurability**.  
+5.4 *To govern* → root verb; from it emerges the virtue **Governance**.  
+5.5 *To compete* → root verb; from it emerges the virtue **Competition**.  
+5.6 *To plant* → root verb; from it emerges the virtue **Continuity/Sustainability**.
+
+## 6. Implications
+
+6.1 Any system that ignores verbs risks **losing the root of virtue**; it becomes abstract, detached, or merely aspirational.  
+6.2 By contrast, a verb‑rooted system ensures virtues remain **grounded in action**.  
+6.3 This makes the 21‑axis framework both **spanning** (covers all verbs) and **provable** (every action can be assessed).
+
+## 7. Conclusion
+
+7.1 Verbs are the **source of virtues**.  
+7.2 They are where virtues are **rooted, analysed, and extracted**.  
+7.3 Therefore, the study of virtue must always begin with verbs — the primal seeds of moral reality.
+
+[back](../)
+
+---
+
+[back](../)
+
+# Charities
+
+## Definition
+
+A charity is a public institution that has as its main reason for its existence the enactment of the [virtue of charity](../charity.md).
+
+## Rules and Principles
+
+1. It is a [public institution](public.md). (bound by the definition and rules of an institution)
+2. The resources accounting has to be public at the most detailed level (according to 1.1.3 and the fact that the output has to be provable)
+3. It must maintain an external/independent public accounting/challenging of [goodness](../goodness.md) generated
+4. It must recognize other charities in its domain and collaborate with them (unless proven impossible) 
+
+## Implications
+
+4. Collaboration means all (but not limited to)
+  - making "competitor" charities known before accepting donations
+  - following and amplifying their messages
+
+## Classes of Charities
+
+[back](../)
+
+---
 
 [back](./)
 
-# Friendship
+# Relationship
 
-## Requirements
+![relationship](/images/relationship.png)
 
-- [defining your ethos](https://github.com/ctzurcanu/ethos)
+A relationship is a double transaction between One, Another, and All Else.
 
-## Evolution of Relationship
+If a double transaction is between One and Another and it exchanges one higher virtue (higher than Idealism/Fortitude) for another, we may call this ideal friendship.
 
-### Not Identified
+Now let us explore the virtuous relationships from the point of view of One:
 
-When one of the parties cannot identify another.
+- One gives (some quantity of virtue) to Another:
+    - receives (same) from Another: Friendship, Trade Relation and, low to high:
+        - all paid professions
+        - (Fair) Competitor
+        - Romantic relation
+        - Marriage
+        - Parenting
+        - Extended family relations
+        - Being a student and teacher on a lineage
+        - Using the internet/AI: accepting to consume ads, having your content be used by the AI
+        - Ideal Friendship
+    - receives from All Else: Benefactor (to Another) volunteer:
+        - Medic
+        - Militiaman
+        - Witness/Whistleblower
+        - Parent
+        - Teacher
+        - Artist
+        - Journalist
+        - Mentor
+        - Researcher/Developer
+        - Priest
+        - Hero
+        - [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva)
 
-### Stranger
+- One gives to All Else:
+    - receives from Another: [Mendicant](https://en.wikipedia.org/wiki/Mendicant)
+    - receives from All Else: [Hermit](https://en.wikipedia.org/wiki/Hermit)
 
-When all parties do identify each other, but one does not know the ethos of another.
+- Another gives to and receives from All Else: no relationship
 
-### Acquintance
+## Hope and Loyalty are the Differentiators
 
-When all parties know the ethos of each other.
+Between virtues:
 
-### Debate Partner
+### Timeless Virtues
 
-When each party is welcoming being judged according to their own ethos.
+1. Faith, Reason
+1. Provable Hierarchy
+1. Charity
+1. Provable Goodness
+1. Hope
+    1. Sacrifice to Timelessness
 
-### Friendship
+### Human Virtues
 
-When each party is allowing others to sustainably judge the party conform to the other's ethos
+1. Hope
+    1. Sacrifice for Civility
+    1. Education (unpaid)
+1. Harmony, Generosity
+1. Prudence
+1. Forgiveness
+1. Justice
+1. Governance
+1. Temperance
+1. Fairness
+1. Fortitude (Loyalty: Fortitude for the sake of)
+    1. Loyalty to ideals/Idealism (for the sake of Human or Timeless Virtues)
+    2. Loyalty to out-group
+    3. Loyalty to Another
 
-## Definitions
+### Animal Virtues
 
-- the act of doing virtuous evaluation and communication of the results to somebody else
-- the act of creating the best conditions for receiving such evaluation
-    - making your main output known in detail
-    - evaluating virtuous criticism with Temperance
-- the act of improving yourself concerning Virtues as a result of virtuous criticism (from without as well as from within)
-- the act of discovery and maintenance of a vituous (transactional) cycle between the involved parties
-- attributes
-    - clarity: a friendship has to be declared at start and finish. If it is not conscious, it is not friendship
+1. Fortitude (Loyalty: Fortitude for the sake of)
+    1. Loyalty to in-group
+    1. Fortitude for the sake of personal Survival, Abundance, Recognition (Animal Virtues)
+1. Competition
+4. Measurability
+5. Market
+6. Abundance
+7. Industriousness
+8. Survival
 
-## Types
+## Vicious Relationships
 
-- self-friendship: you are your own friend while you observe, evaluate, and act to improve yourself concerning Virtues. If done often: it is the most powerful friendship.
-- active friendship: offering to act as a friend. A provable volunteer makes such an offering to the whole world every time an output is published
-- passive friendship: acting as a friend when the other party is in an obvious need
-- "maybe friendship": it is a friendship that exists only in the imagination of one or both parties. It may become friendship if tested. Its existence is not beneficial to the concept of true friendship.
+- that do not implement the double transaction rule (thus being unsustainable or unfair)
+- those that use vices as a transactional currency
+- those that decrease the clarity and awareness of the relationship mechanics
 
-### Ideal Friendship
+## Hierarchy
 
-- is not personal: is mediated by Virtues
-- is unforgiving to transgressions of Virtues 
-- is not dependent on time or space
-- is a verb, not a noun
-- is known to exist (or not) for each relationship
-- is not dependent on reciprocation
-- is dependent on output
-- exists towards institutions too
-- cannot be created or sustained by those who are unable to have ideal friendships with institutions or concepts that are defined without (not an inner/subjective definition)
-- The institution above does not have to be common between friends, but each (of the 2) has to be known mutually
+Concerning virtues and vices, we can construct a hierarchy of relationships:
 
-### Evolution of Friendship
+1. Ideal Friendship
+2. Being a student and teacher in a spiritual lineage
+3. Benefactor (see the types above)
+4. Friendship (see the types above)
+5. Marriage
+6. Trade relation (see the types above)
+7. Fair competitor
+8. Mendicant
+9. Hermit
+10. No relationship
+11. Pretended relationship / lack of clarity about the nature of the relationship
+12. Peer pressure conformer
+13. Peer pressure initiator
+15. Beggar
+14. Unfair competitor, enemy
+15. Thief
+15. Emotional manipulator/abuser
+16. Initiator into vices
+17. Robber
+18. Traitor to One's resources
+19. Physical torturer
+20. Inflicting to One's body irreversible functional damage
+21. Traitor to One's ideals
+22. Assasin
+23. Manipulator of proofs and history (about killing Another)
+24. Manipulator of virtues (definitions, hierarchy)
+25. Anti-Friendship: "friendship" that uses vices as a transaction currency
 
-#### 0: Common Characteristics
+## Virtue -> Relation
 
-Some characteristics common to all stages of friendship between 2 parties (Alice and Bob):
-- friendship has to be stated (known by both parties)
-- it has to be mutual: if it is not mutual, it may be called admiration or "maybe friendship"
-- it is more virtuous if it is made public (not a secret between parties)
-- friendship is offered and withdrawn voluntarily
-- the relationship of friendship is not a direct or personal relationship: it is with the virtues and having your friend as an intermediary
-- the attachments that are developed are attachments to the virtues to the detriment of attachments to the person
-- the friendship has to be sustainable. To cultivate at least one cycle of transactions in such a way that imbalances are resolved
-- the most important part of the person of the friend is the ethos and it is the fundament for any friendship
-- the ethos includes:
-    - the personal God
-    - [the hierarchy](https://ctzurcanu.github.io/virtues/hierarchies.md) of virtues/values
-    - political reasoning and preferences
-    - other components defined at [the ethos repo](https://github.com/ctzurcanu/ethos)
+## Relation -> Virtue
 
-##### 0.1 Measurement
+## Proposed Relationship
 
-A friendship is measured only by distant members of the public (not known by any of the friend in that friendship). Ideally, by other friends (of other friendships).
+![relationship](/images/relationship2.png)
 
-The qualities measured are the virtues that are produced by the relationship/collaboration (not by the individual friends) for the benetit of all others (the public).
+Inst A is Institution A or Social Contract A. Inst AB is the Contract that can operate transactions between Institution A and Institution B: their higher contractual authority.
 
-Therefore, an ideal friendship has to be:
-- public
-- with public (visible) output
-- for public's benefit
-- measurable
+If Virtues are encoded in the social contracts explicitly and the encoding is upgradeable, the civilization has improved chances for evolution as a whole.
 
-#### 1: Superficial
-
-In this type of friendship, the 2 friends Alice and Bob allow each other the freedom to judge each other's actions according to the ethos of each: Alice is welcomed (even invited) by Bob to judge him according to Bob's own ethos.
-
-#### 2: Moderate
-
-Alice and Bob judge each other's actions according to both ethoses: Alice is welcome to judge Bob according to his own ethos (same as for the previous stage) as well as according to her ethos.
-Another ethos is created: the ethos of the relationship. Judging according to the ethos of the relationship is always preferred.
-
-#### 3: Deep
-
-By the time the friendship becomes deep the friends will have changed each other's ethos so much that it will become one and their individual ethos will disappear into the ethos of the relationship.
+---
 
 [back](./)
 
-# Volunteer
+# Logos
 
-## Requirements
+## Definition
 
-- [being a friend](friendship.md)
-- a volunteer is a type of [hero](hero.md)
+A set of clearly defined concepts together with their links with the following characteristics:
+  - there is no internal inconsistency
+  - all virtues exist in the set and are linked with each other
 
-## Definitions
+## Ethos
 
-![Provable Volunteer](/images/provable_volunteer.png)
+A Logos that is specific to a person or a group. It contains in whole or in its main part definitions about what ought to be rather than what is.
+An ethos of a person has to contain:
+- all virtues that the person is aware of
+- a full ranking of the virtues according to the person's point of view
+- means for other persons to know and challenge or adhere to the ethos
 
-### Volunteer
+## Person
 
-- a hero who sacrifices abundance for higher virtues
-- the act of willingly offering one's time and effort to help others
-- contribute to a cause without the expectation of financial compensation
-- performing tasks or providing services for individuals, communities, organizations, or the environment out of one's own free will
+An intelligent being who is ruled by only one Ethos. A human body can host more than one person and it usually does. That is the consequence of not having an internal continuous proof of the preeminence of only one Ethos (akin to polytheism or having maintaining multiple digital profiles with conflicting information).
 
-### Provable Volunteer
+## Ethical Transactions
 
-- a volunteer who can provide evidence or verification of the quality and quantity of their volunteering effort
+A person can make ethical transactions only with another person with compatible ethos. The compatibility of ethos has to remain available to any challenge.
 
-### Types
+## Ethical Challenge
+
+A claim about the ethos. The claimant will have to pay an ethical fine if the claim is proven to be false.
+
+## Ethical Economy
+
+The sum of transactions that are ethical. A person is a player in the Ethical Economy if has incoming and outgoing Ethical Transactions.
 
 
+
+---
+
+[back](../)
+
+# Faith, Clarity of Implication, Reason
+
+![Faith](/images/faith.png)
+
+- Top: True, Truth, Virtuous, ⊤
+- Bottom: False, untrue, Non-Factual, Vicious, ⊥
+- Intersection of:
+    - Faith and Reason: Logos
+    - Top and Bottom: Contradiction, Paradox, the Axis of Numbers
+    - Top and Faith: Axioms
+    - Top and Reason: Implication ⊢, Logic
+    - Bottom and Faith: unfound Superstition
+    - Bottom and Reason: Fallacy
+- Other sets:
+    - Reason \ Faith ⋂ Top = technē: know how (the laws of logic are in this set)
+    - Reason ⋂ Faith ⋂ Top = epistēmē: knowledge
+
+## Art
+
+Artistic path of enriching the Logos:
+- Nous (energy of intellect, intelligence)
+- Guiding Wonder, Hope towards a leap of Faith
+- Finding a solid ground in Faith, Axiom
+- Mapping the new teritory in Logos
+- links:
+    - Art in Science: Empiric Discovery
+    - Science of Art: Esthetics (αἰσθητικός aisthētikós)
+    - Art in Production: Artisaning
+    - Production of Art: Art Performing
+
+## Science
+
+Scientific path of enriching the Logos:
+- Nous (energy of intellect, intelligence)
+- Axioms or Logos elements: materia prima
+- Logic: tools of implication
+- (optional) other Logos elements
+- (optional) Logic
+- epistēmē: scientific knowledge, logically deducted Logos
+- links:
+    - Art in Science: Empiric Discovery
+    - Science of Art: Esthetics (αἰσθητικός aisthētikós)
+    - Production of Science: Academia
+    - Science of Production: Applied Science
+
+## Production
+
+Technical path of enriching the Logos:
+- Nous (energy of intellect, intelligence)
+- Choosing the mapping and set from the Logos
+- Using Technique (τέχνη tékhnē) to instantiate the knowledge or to perform an art
+- Acquire knowledge of doing/implementing
+- links:
+    - Art in Production: Artisaning
+    - Production of Art: Art Performing
+    - Production of Science: Academia
+    - Science of Production: Applied Science
+
+## Consensus
+
+![Consensus](/images/consensus.png)
+
+Enriching the Logos by Consensus:
+- Consensus about the definition of Consensus (Meta-Consensus)
+- Provable mechanism of voting
+- Timeless/Continous consensus contract
+- Public availability of the results
+- Ability to continuously challenge the results by verification and/or by re-voting
+
+subtypes:
+- consensus by Faith: when your opinion is rejected by the general consensus or when you do not know with clarity the reasons for your vote
+- consensus by Reason: when your opinion is adopted as general consensus
+
+![Ethics](/images/ethics.png)
+
+## Ethics
+
+Virtues implemented in Art, Science, and Production
+
+## Definition
+
+- belief in the existence of concepts (things that cannot be perceived by physical senses). Example: the belief that circles exist as mental objects.
+- belief in the existence of identity, relation, equivalence, and reference functions
+- belief in the existence of perfections, and the unicity of the "perfection of all perfections" that we may refer to as God.
+- belief in the existence of rational demonstrations (proofs)
+- belief in the truth of axioms that are most implication-productive.
+- belief in the existence of intelligent consensus. Intelligent consensus is eternal and is the substance of any perfection (is equivalent to God, in substance).
+- the inter-dependence between Faith and Reason
+        - Reason uses Faith as a foundation
+        - Faith uses Reason to gain importance
+        - Faith can exist without Reason. Reason cannot exist without Faith (in the axioms)
+- subtypes
+    - Contemplation: contemplation, theōría, θεωρία: sensing Truth (by direct experience)
+    - Discrimination: ability to establish the mental boundary for each Concept (Logoi)
+        - Refinement: ability to navigate the Logos with very fine resolution
+    - Rational Demonstration: ability to chain and join a set of previous Demonstrations using Logic
+
+## Dependencies
+
+- Major
+    - Charity: when one receives charity in the form of service or goods, it develops one's Faith.
+    - Hope: Faith develops Hope (as Faith about the future)
+- Minor
+    - Fortitude: Physical exercise develops clarity of thought
+
+## Correspondences
+
+- Classical Greek
+    - Sophia (Wisdom)
+- Hinduism
+    - Satya (सत्य): Truthfulness (Not lying)
+    - Ishvarapranidhana (ईश्वरप्रणिधान): contemplation of the Ishvara
+- Islam
+    - Tawheed (Belief in the Oneness of God)
+- Christianity
+    - Faith
+    - Humility
+    - Prudence (Wisdom)
+- Judaism
+    - Ahavat Torah (Love of the Law/Torah)
+    - Emet (Truthfulness)
+- Buddhism
+    - Sacca: truthfulness, honesty
+    - Upekkhā: equanimity, serenity
+
+## Application
+
+### Theorem 1: Proving the definitions of Virtues is of the highest Virtue
+
+1. Proving the definitions of Virtues is the same as constructing a provable definition of Virtues.
+1. Proving is part of the virtue of Faith, Reason, Clarity of Implication.
+1. Discovering tentative definitions / new definitions are part of the virtue of Hope.
+1. The process of constructing a provable definition consists of iterations of discovering and proving until the resulting proposition is both a definition and a provable construction.
+1. A definition is the shortest description of the essence of an object. 
+1. The objects that we are defining are abstractions. (Virtues are abstractions.)
+1. The definition of an abstraction is an integral part of that abstraction.
+1. The definition of a virtue is part of that virtue.
+1. Given virtues A and B, The combined virtue C of A and B (when by constructive interference) is more virtuous than both A and B.
+1. Proving the definition of a virtue is the constructive interference of: Faith, Reason, Hope, and the defined virtue.
+1. The action of constructing a provable definition is atomic.
+1. This action is of the highest Virtue.
+
+### Lemma 1.1: Constructive Interference of Virtues
+
+Two virtues interfere constructively in a situation when:
+- the virtues arise independently
+- when one is artificially increased the other one does not decrease
+
+### Lemma 1.2: Atomic Action
+
+An atomic action is the shortest description of the process for a result that is not attained by any other atomic action.
+
+### Lemma 1.3: The Virtue of a Thing contains at least a part of the definition of that Thing
+
+### Theorem 2: The complete definition of a Thing has to mention the Virtues of that Thing
+
+### Corollary 2.1: By including the Virtues in the definition of any Thing, the definition itself becomes more virtuous.
+
+### Theorem 3: Virtues and their instantiations can be proven
+
+1. From Lemma 3.1: Everything that can be thought, can be thought clearly.
+1. Virtues and their instantiations in reality can be thought, therefore defined (can be thought clearly)
+1. Proving instantiations can be done by timestamped video/audio capture
+1. The existence of virtues is proven by the existence of the words/concepts in the spoken languages and the definitions that identify the same concept
+1. The proof for a concept being virtuous (or being a virtue) is by timeless consensus: we find it included (and applicable) in a set of spiritual traditions
+
+### Lemma 3.1: Everything that can be thought, can be thought clearly.
+
+From Wittgenstein's Tractatus [4.116](https://www.wittgensteinproject.org/w/index.php?title=Tractatus_Logico-Philosophicus_(English)#4.116): 
+```
+Everything that can be thought at all can be thought clearly. Everything that can be said can be said clearly.
+```
+### Corollary 3.1: All virtues are reasonable
+
+The provable definition of each virtue is an integral part of the virtue itself. In other words: the virtue of Faith/Reason is present in the definition of all other virtues.
+
+[back](../)
+
+---
 
 [back](./)
 
-# Hero
+# Domains of Knowledge
 
-## Requirements
+- Science, in general: Faith, Reason
+    - Formal Science: Faith, Reason
+        - Logic
+        - Mathematics
+        - Cryptography
+        - Computer science
+        - Statistics
+        - Information theory
+        - Game theory
+        - Systems science
+    - Natural Science: Measurability
+        - Life Science: Survival, Abundance
+            - Botany
+            - Zoology
+            - Medicine: Survival, Fortitude, Prudence
+        - Genomics
+        - Physical Science: Measurability
+            - Physics: Faith, Reason; Measurability
+            - Chemistry: Abundance
+            - Earth science
+                - Atmospheric sciences
+                - Oceanography
+                - Geology
+            - Astronomy
+            - Materials science
+    - Social Sciences: Charity; Measurability
+        - Anthropology - the study of humans, past and present, that draws and builds upon knowledge from the social sciences and biological sciences, as well as the humanities and the natural sciences.
+            - Anthropology of religion – the study of religious institutions about other social institutions, and the comparison of religious beliefs and practices across cultures
+            - Applied anthropology – application of the method and theory of anthropology to the analysis and solution of practical problems.
+            - Archaeology – the study of cultures via material remains and environmental data (Outline of archaeology)
+            - Cultural anthropology – a branch of anthropology focused on the study of cultural variation among humans, collecting data about the effect of global economic and political processes on local cultural realities.
+            - Ethnobiology – the scientific study of dynamic relationships between peoples, biota, and environments, from the distant past to the immediate present.
+            - Ethnobotany – is the study of a region's plants and their practical uses through the traditional knowledge of local culture and people.
+            - Ethnography – the systematic study of people and cultures.
+            - Ethnology – a branch of anthropology that compares and analyzes the origins, distribution, technology, religion, language, and social structure of the ethnic, racial, and/or national divisions of humanity.
+            - Ethnopoetics – method of recording text versions of oral poetry or narrative performances (i.e., verbal lore) that uses poetic lines, verses, and stanzas (instead of prose paragraphs) to capture the formal, poetic performance elements that would otherwise be lost in the written texts.
+            - Evolutionary anthropology – an interdisciplinary study of the evolution of human physiology and human behavior and the relation between hominids and non-hominid primates.
+            - Experimental archaeology – Experimental archaeology employs several different methods, techniques, analyses, and approaches to generate and test hypotheses, based upon the archaeological source material, like ancient structures or artifacts.
+            - Historical archaeology – a form of archaeology dealing with topics that are already attested in written records.
+            - Linguistic anthropology – is the interdisciplinary study of how language influences social life.
+            - Medical anthropology – an interdisciplinary field that studies "human health and disease, health care systems, and biocultural adaptation".
+            - Physical anthropology – the study of the physical development of the human species.
+            - Psychological anthropology – an interdisciplinary subfield of anthropology that studies the interaction of cultural and mental processes.
+            - Zooarchaeology – study of faunal remains.
+            - Anthrozoology – a study of human-animal interaction.
+        - Business studies – an academic area that consists of many sub-areas about the social relationships that compose the human economic systems.
+            - Accountancy – the measurement, processing, and communication of financial information about economic entities.
+            - Finance – a field dealing with the study of investments.
+            - Commerce
+            - Management – the administration of an organization, whether it be a business, a not-for-profit organization, or a government body.
+            - Human resource management – a function in organizations designed to maximize employee performance in service of an employer's strategic objectives.
+            - Marketing – the study and management of exchange relationships.
+            - Organizational studies – the examination of how individuals construct organizational structures, processes, and practices and how these, in turn, shape social relations and create institutions that ultimately influence people.
+        - Economics – analyzes the production, distribution, and consumption of goods and services. It aims to explain how economies work and how economic agents interact.
+            - Macroeconomics – a branch of economics dealing with the performance, structure, behavior, and decision-making of the whole economy
+            - Microeconomics – a branch of economics that studies the behavior of individual households and firms in making decisions on the allocation of limited resources
+            - Behavioural economics – Behavioral economics and the related field, behavioral finance, study the effects of social, cognitive, and emotional factors on the economic decisions of individuals and institutions and the consequences for market prices, returns, and resource allocation.
+            - Bioeconomics – applies the laws of thermodynamics to economic theory
+            - Comparative economics – a comparative study of different systems of economic organization, such as capitalism, socialism, feudalism, and the mixed economy.
+            - Anarchist economics - economic theories encompassing historical and existing economic systems under anarchist societies.
+            - Socialist economics – economic theories and practices of hypothetical and existing socialist economic systems.
+            - Development economics – a branch of economics that deals with economic aspects of the development process in low-income countries.
+            - Ecological economics – an interdisciplinary and transdisciplinary field that aims to address the interdependence and coevolution of human economies and natural ecosystems.
+            - Economic geography – the study of the location, distribution, and spatial organization of economic activities across the world.
+            - Economic history – study of economies or economic phenomena in the past.
+            - Economic sociology – studies both the social effects and the social causes of various economic phenomena.
+            - Energy economics – a broad scientific subject area that includes topics related to the supply and use of energy in societies
+            - Entrepreneurial Economics – the study of the entrepreneur and entrepreneurship within the economy.
+            - Environmental economics – subfield of economics concerned with environmental issues.
+            - Evolutionary economics – part of mainstream economics as well as a heterodox school of economic thought that is inspired by evolutionary biology.
+            - Financial economics – a branch of economics concerned with "the allocation and deployment of economic resources, both spatially and across time, in an uncertain environment".
+            - Heterodox economics – approaches to schools of economic thought that are considered outside of "mainstream economics" and sometimes contrasted by expositors with neoclassical economics.
+            - Green economics – one that results in improved human well-being and social equity, while significantly reducing environmental risks
+            - Feminist economics – a diverse area of economic inquiry that highlights the androcentric biases of traditional economics through critical examinations of economic methodology, epistemology, history, and empirical study.
+            - Islamic economics – a body of Islamic studies literature that "identifies and promotes an economic order that conforms to Islamic scripture and traditions," and in the economic world an interest-free Islamic banking system, grounded in Sharia's condemnation of interest (riba).
+            - Industrial organization – field of economics that builds on the theory of the firm in examining the structure of, and boundaries between, firms and markets.
+            - International economics – study of the effects upon economic activity of international differences in productive resources and consumer preferences and the institutions that affect them.
+            - Institutional economics – the study of the role of the evolutionary process and the role of institutions in shaping economic behavior.
+            - Labor economics – seeks to understand the functioning and dynamics of the labor markets.
+            - Law and Economics – application of economic methods to the analysis of law.
+            - Managerial economics – "application of economic concepts and economic analysis to the problems of formulating rational managerial decisions"
+            - Monetary economics – a branch of economics that historically prefigured and remains integrally linked to macroeconomics.
+            - Neoclassical economics – focuses on goods, outputs, and income distributions in markets through supply and demand.
+            - Public finance – the study of the role of the government in the economy.
+            - Public economics – the study of a government policy through the lens of economic efficiency and equity.
+            - Real estate economics – application of economic techniques to real estate markets.
+            - Resource economics – the study of supply, demand, and allocation of the Earth's natural resources.
+            - Welfare economics – a branch of economics that uses microeconomic techniques to evaluate economic well-being, especially relative to competitive general equilibrium within an economy as to economic efficiency and the resulting income distribution associated with it.
+            - Political economy – the study of the production, buying, and selling, and their relations with law, custom, and government, as well as with the distribution of national income and wealth, including through the budget process.
+            - Socioeconomics – considers behavioral interactions of individuals and groups through social capital and social "markets" (not excluding, for example, sorting by marriage) and the formation of social norms.
+            - Transport economics – a branch of economics that deals with the allocation of resources within the transport sector and has strong linkages with civil engineering.
+            - Economic methodology – the study of methods, especially the scientific method, about economics, including principles underlying economic reasoning.
+            - Computational economics – research discipline at the interface between computer science, economics, and management science.
+            - Econometrics – application of mathematics and statistical methods to economic data
+            - Mathematical economics – application of mathematical methods to represent economic theories and analyze problems posed in economics.
+            - Economic statistics – a topic in applied statistics that concerns the collection, processing, compilation, dissemination, and analysis of economic data.
+            - Time series – sequence of data points, measured typically at successive time instants spaced at uniform time intervals.
+            - Experimental economics – application of experimental methods to study economic questions.
+        - Cognitive science – the interdisciplinary scientific study of the mind and its processes. It examines what cognition is, what it does, and how it works.
+        - Cultural studies – academic field grounded in critical theory and literary criticism.
+        - Development studies – a multidisciplinary branch of social science that addresses issues of concern to developing countries.
+        - Education – in the general sense is any act or experience that has a formative effect on the mind, character, or physical ability of an individual. In its technical sense, education is the process by which society deliberately transmits its accumulated knowledge, skills, and values from one generation to another.
+        - Environmental studies – the interdisciplinary academic field that systematically studies human interaction with the environment.
+        - Gender and sexuality studies – field of interdisciplinary study and academic field devoted to gender identity and gendered representation as central categories of analysis.
+        - Geography – the study of the lands, features, inhabitants, and phenomena of Earth.
+            - Physical geography – a branch of the science that studies physical features on the Earth's surface, water, the atmosphere, and biodiversity on the Earth (is also listed in Earth Science).
+                - Geomorphology – a branch of physical geography that studies the Earth and its landforms.
+                - Hydrology – study of water on the Earth's surface and in its atmosphere.
+                - Glaciology – study of ice sheets and glaciers on the Earth's surface.
+                - Biogeography – a study of the distribution of living organisms on the Earth.
+                - Climatology – the study of climate.
+                - Meteorology – the study of weather.
+                - Soil geography – the study of soil.
+                - Oceanography – the study of oceans.
+                - Coastal geography – study of coasts.
+                - Landscape ecology – the study of effects of the ecological process on the Earth.
+                - Palaeogeography – studies the distribution of continents and oceans over time.
+                - Environmental geography – studies the interaction between humans and the physical environment.
+            - Cartography – study and practice of making maps or globes.
+            - Human geography – the branch of the social sciences that studies the world, its people, communities, and cultures with an emphasis on relations of and across space and place.
+                - Critical geography – takes a critical theory (Frankfurt School) approach to the study and analysis of geography.
+                - Cultural geography – the study of cultural products and norms and their variations across and relations to spaces and places.
+                - Feminist geography – an approach in human geography that applies the theories, methods, and critiques of feminism to the study of the human environment, society, and geographical space.
+                - Economic geography – study of the location, distribution, and spatial organization of economic activities across the world.
+                - Development geography – a branch of geography concerning the standard of living and quality of life of its human inhabitants.
+                - Historical geography – study of the human, physical, fictional, theoretical, and "real" geographies of the past.
+                - Time geography –
+                - Political geography & geopolitics – field of human geography that is concerned with the study of both the spatially uneven outcomes of political processes and how political processes are themselves affected by spatial structures.
+                - Marxist geography – a strand of critical geography that uses the theories and philosophy of Marxism to examine the spatial relations of human geography.
+                - Military geography – a sub-field of geography that is used by, not only the military but also academics and politicians to understand the geopolitical sphere through the militaristic lens.
+                - Strategic geography – concerned with the control of, or access to, spatial areas that affect the security and prosperity of nations.
+                - Population geography – the study of how spatial variations in the distribution, composition, migration, and growth of populations are related to the nature of places.
+                - Social geography – a branch of human geography that is most closely related to social theory in general and sociology in particular, dealing with the relation of social phenomena and their spatial components.
+                - Behavioral geography – approach to human geography that examines human behavior using a disaggregated approach.
+                - Children's geographies – an area of study within human geography and Childhood Studies which involves researching the places and spaces of children's lives.
+                - Health geography – application of geographical information, perspectives, and methods to the study of health, disease, and health care.
+                - Tourism geography – a study of travel and tourism, as an industry and as a social and cultural activity.
+                - Urban geography – the study of areas that have a high concentration of buildings and infrastructure.
+            - Environmental geography – a branch of geography that describes the spatial aspects of interactions between humans and the natural world.
+            - Regional geography – the study of world regions.
+        - History – discovery, collection, organization, and presentation of information about past events. History can also mean the period after writing was invented. This category includes many sub-domains of history such as art history, diplomatic history, history of science, economic history, environmental history, military history, political history, urban history, women's history, and many others.
+        - Industrial relations – the multidisciplinary field that studies the employment relationship.
+        - Information science – an interdisciplinary field primarily concerned with the analysis, collection, classification, manipulation, storage, retrieval, and dissemination of information.
+        - International studies – the study of the major political, economic, social, cultural, and sacral issues that dominate the international agenda
+        - Law – set of rules and principles (laws) by which a society is governed, through enforcement by governmental authorities.
+        - Legal management – social sciences discipline that is designed for students interested in the study of the State and its elements, Law, Law Practice, Legal Research and Jurisprudence, legal Philosophy, Criminal Justice, Governance, Government structure, Political history and theories, Business Organization and Management, Entrepreneurship, Public Administration and Human Resource Development.
+            - Paralegal studies – social sciences discipline that is designed for students interested in the study of the State and its elements, Law, Law Practice, Legal Research and Jurisprudence, legal Philosophy, Criminal Justice, Governance, Government structure, Political history and theories, Business Organization and Management, Entrepreneurship, Public Administration and Human Resource Development.
+        - Library science – the study of issues related to libraries and the information fields.
+        - Linguistics – the scientific study of natural language.
+            - Anthropological linguistics – the study of the relations between language and culture and the relations between human biology, cognition, and language.
+            - Applied linguistics – an interdisciplinary field of study that identifies, investigates, and offers solutions to language-related real-life problems.
+            - Biolinguistics – study of the biology and evolution of language.
+            - Clinical linguistics and speech and language pathology – a sub-discipline of linguistics that involves the application of linguistic theory to the field of Speech-Language Pathology.
+            - Cognitive linguistics – a branch of linguistics that interprets language in terms of the concepts, sometimes universal, sometimes specific to a particular tongue, which underlies its forms.
+            - Comparative linguistics – the branch of historical linguistics that is concerned with comparing languages to establish their historical relatedness.
+            - Computational linguistics – interdisciplinary field dealing with the statistical or rule-based modeling of natural language from a computational perspective.
+            - Developmental linguistics – the study of the development of linguistic ability in an individual, particularly the acquisition of language in childhood.
+            - language acquisition – the process by which humans acquire the capacity to perceive and comprehend language, as well as to produce and use words to communicate.
+            - Dialectology – the scientific study of linguistic dialect, a sub-field of sociolinguistics.
+            - dialectometry – the study of high levels of structure in geographical dialect networks.
+            - Discourse analysis – a general term for several approaches to analyzing the use of written, oral, or sign language or any significant semiotic event.
+            - Etymology – the study of the history of words, their origins, and how their form and meaning have changed over time.
+            - Evolutionary linguistics – the scientific study of both the origins and development of language as well as the cultural evolution of languages.
+            - Forensic linguistics – application of linguistic knowledge, methods, and insights to the forensic context of law, language, crime investigation, trial, and judicial procedure.
+            - Geolinguistics – a branch of human geography that studies the geographic distribution of language or its constituent elements.
+            - Historical linguistics – the study of language change.
+            - Language – is a structured means of communication
+            - Lexis – total vocabulary or lexicon having items of lexical, rather than grammatical, meaning.
+            - Linguistic typology – subfield of linguistics that studies and classifies languages according to their structural features.
+            - Literature – refers to writing considered to be an art form or any single writing deemed to have artistic or intellectual value, often due to deploying language in ways that differ from ordinary usage.
+            - Mathematics linguistics – Mathematics has been applied in linguistics for analysis, grammar logic, and other theoretical aspects in linguistics.
+            - Morphology – identification, analysis, and description of the structure of a given language's morphemes and other linguistic units, such as words, affixes, parts of speech, intonation/stress, or implied context (words in a lexicon are the subject matter of lexicology).
+            - Neurolinguistics – the study of the neural mechanisms in the human brain that control the comprehension, production, and acquisition of language.
+            - Philology – the study of language in written historical sources; it is a combination of literary studies, history, and linguistics.
+            - Phonetics – a branch of linguistics that consists of the study of the sounds of human speech, or the equivalent aspects of sign.
+            - Phonology – the branch of linguistics concerned with the systematic organization of sounds in languages.
+            - Phraseology – the study of the set or fixed expressions, such as idioms, phrasal verbs, and other types of multi-word lexical units (often collectively referred to as phrasemes), in which the parts of the expression take on a meaning more specific than or otherwise not predictable from the sum of their meanings when used independently.
+            - Pragmatics – subfield of linguistics that studies how context contributes to meaning.
+            - Psycholinguistics – the study of the psychological and neurobiological factors that enable humans to acquire, use, comprehend, and produce language.
+            - Sociolinguistics – a descriptive study of the effect of any aspects of society, including cultural norms, expectations, and context, on the way language, is used, and the effects of language use on society.
+            - Speech science – Speech science refers to the study of the production, transmission, and perception of speech. Speech science involves anatomy, in particular the anatomy of the oro-facial region and neuroanatomy, physiology, and acoustics.
+            - Stylistics – study and interpretation of texts from a linguistic perspective.
+            - Syntax – "the study of the principles and processes by which sentences are constructed in particular languages."
+            - Semantics – the study of meaning.
+            - Writing systems and orthography – representation of language in a textual medium through the use of a set of signs or symbols (known as a writing system).
+        - Management– in addition to the administration of an organization, it is the act of getting people together to accomplish desired goals and objectives using available resources efficiently and effectively.
+        - Media studies – academic discipline and field of study that deals with the content, history, and effects of various media; in particular, the 'mass media.
+            - Communication studies – an academic field that deals with processes of human communication, commonly defined as the sharing of symbols to create meaning.
+        - Political science – a social science discipline concerned with the study of the state, government, and politics.
+            - Civics – the study of the theoretical and practical aspects of citizenship, its rights and duties; the duties of citizens to each other as members of a political body and to the government.
+            - Comparative politics – field and a method used in political science, characterized by an empirical approach based on the comparative method.
+            - Game theory – the study of strategic decision-making.
+            - Geopolitics – a theory that describes the relationship between politics and territory whether on a local or international scale.
+            - political geography – a field of human geography that is concerned with the study of both the spatially uneven outcomes of political processes and how political processes are themselves affected by spatial structures.
+            - Ideology – a set of ideas that constitute one's goals, expectations, and actions.
+            - Political economy – Political economy originally was the term for studying production, buying, and selling, and their relations with law, custom, and government, as well as with the distribution of national income and wealth, including through the budget process. Political economy originated in moral philosophy. It developed in the 18th century as the study of the economies of states, polities, and hence political economy.
+            - Political psychology – bureaucratic, administrative, and judicial behavior
+            - Psephology – the branch of political science which deals with the study and scientific analysis of elections.
+            - Voting systems – methods by which voters choose between options, often in an election or on a policy referendum.
+            - Public administration – houses the implementation of government policy and an academic discipline that studies this implementation and that prepares civil servants for this work.
+            - Public policy – generally the principled guide to action taken by the administrative or executive branches of the state about a class of issues in a manner consistent with law and institutional customs.
+            - Public health – the science and art of preventing disease, prolonging life, and promoting human health through organized efforts and informed choices of society, organizations, public and private, communities, and individuals
+            - Local government studies – a form of public administration which in a majority of contexts, exists as the lowest tier of administration within the given state.
+            - International politics – the study of relationships between countries, including the roles of states, inter-governmental organizations (IGOs), international nongovernmental organizations (INGOs), non-governmental organizations (NGOs), and multinational corporations (MNCs).
+            - International relations theory – the study of international relations from a theoretical perspective; it attempts to provide a conceptual framework upon which international relations can be analyzed.
+            - Science diplomacy
+        - Psychology – the science of behavior and mental processes
+            - Abnormal psychology - the study of unusual behavior, emotion, and thought in an individual, likely of that as a mental disorder.
+            - Applied psychology – use of psychological principles and theories to overcome problems in other areas, such as mental health, business management, education, health, product design, ergonomics, and law.
+                - Psychological testing – a field characterized by the use of samples of behavior to assess psychological construct(s), such as cognitive and emotional functioning, about a given individual.
+                - Clinical psychology – integration of science, theory, and clinical knowledge for understanding, preventing, and relieving psychologically-based distress or dysfunction and to promote subjective well-being and personal development.
+                - Community psychology – Sense of community Social capital
+                - Consumer behavior – study of when, why, how, and where people do or do not buy a product.
+                - Counseling psychology – a psychological specialty that encompasses research and applied for work in several broad domains: counseling process and outcome; supervision and training; career development and counseling; and prevention and health.
+                - Educational psychology – the study of how humans learn in educational settings, the effectiveness of educational interventions, the psychology of teaching, and the social psychology of schools as organizations.
+                - Forensic psychology – the intersection between psychology and the courtroom—criminal, civil, family, and Federal.
+                - Health psychology – is concerned with understanding how biological, psychological, environmental, and cultural factors are involved in physical health and illness.
+                - Industrial and organizational psychology – the scientific study of employees, workplaces, and organizations.
+                - Legal psychology – involves empirical, psychological research of the law, legal institutions, and people who come into contact with the law.
+                - Media psychology – seeks an understanding of how people perceive, interpret, use, and respond to a media-rich world.
+                - Military psychology – research, design, and application of psychological theories and experimentation data towards understanding, predicting, and countering behaviors either in friendly or enemy forces or civilian populations that may be undesirable, threatening, or potentially dangerous to the conduct of military operations.
+                - Occupational health psychology – concerned with the psychosocial characteristics of workplaces that contribute to the development of health-related problems in people who work.
+                - Political psychology – an interdisciplinary academic field dedicated to understanding political science, politicians, and political behavior through the use of psychological theories.
+                - Psychology of religion – application of psychological methods and interpretive frameworks to religious traditions, as well as to both religious and irreligious individuals.
+                - Psychometrics – a field of study concerned with the theory and technique of psychological measurement, which includes the measurement of knowledge, abilities, attitudes, personality traits, and educational measurement.
+                - School psychology – the field that applies principles of clinical psychology and educational psychology to the diagnosis and treatment of children's and adolescents' behavioral and learning problems.
+                - Sport psychology – interdisciplinary science that draws on knowledge from the fields of Kinesiology and Psychology.
+                - Systems psychology – the branch of applied psychology that studies human behavior and experience in complex systems.
+                - Traffic psychology – the study of the behavior of road users and the psychological processes underlying that behavior (Rothengatter, 1997, 223) as well as the relationship between behavior and accidents
+            - Behavior analysis – philosophy of psychology based on the proposition that all things that organisms do can and should be regarded as behaviors, and that psychological disorders are best treated by altering behavior patterns or modifying the environment.
+            - Biopsychology – application of the principles of biology (in particular neurobiology), to the study of physiological, genetic, and developmental mechanisms of behavior in human and non-human animals.
+            - Clinical psychology – integration of science, theory, and clinical knowledge for understanding, preventing, and relieving psychologically-based distress or dysfunction and to promote subjective well-being and personal development.
+            - Cognitive psychology – subdiscipline of psychology exploring internal mental processes.
+            - Cultural psychology – a field of psychology that assumes the idea that culture and mind are inseparable and that psychological theories grounded in one culture are likely to be limited in applicability when applied to a different culture.
+            - Developmental psychology – the scientific study of systematic psychological changes, emotional changes, and perception changes that occur in human beings throughout their life span.
+            - Educational psychology – the study of how humans learn in educational settings, the effectiveness of educational interventions, the psychology of teaching, and the social psychology of schools as organizations.
+            - Evolutionary psychology – an approach in the social and natural sciences that examines psychological traits such as memory, perception, and language from a modern evolutionary perspective.
+            - Experimental psychology – application of experimental methods to the study of behavior and the processes that underlie it.
+            - Forensic psychology – the intersection between psychology and the courtroom—criminal, civil, family, and Federal.
+            - Health psychology – is concerned with understanding how biological, psychological, environmental, and cultural factors are involved in physical health and illness.
+            - Humanistic psychology – a psychological perspective that rose to prominence in the mid-20th century in the context of the tertiary sector beginning to produce in the most developed countries in the world more than the secondary sector was producing, for the first time in human history demanding creativity and a new understanding of human capital.
+            - Industrial and organizational psychology – the scientific study of employees, workplaces, and organizations.
+            - Mathematical psychology – understanding of human nature and mind, all through applications of mathematics theories and concepts along with other methods.
+            - Music therapy – allied health profession and one of the expressive therapies, consisting of an interpersonal process in which a trained music therapist uses music to help clients improve or maintain their health.
+            - Neuropsychology – studies the structure and function of the brain as they relate to specific psychological processes and behaviors.
+            - Personality psychology – the branch of psychology that studies personality and individual differences.
+            - Psychometrics – a field of study concerned with the theory and technique of psychological measurement, which includes the measurement of knowledge, abilities, attitudes, personality traits, and educational measurement.
+            - Psychology of religion – application of psychological methods and interpretive frameworks to religious traditions, as well as to both religious and irreligious individuals.
+            - Psychophysics – quantitatively investigates the relationship between physical stimuli and the sensations and perceptions they affect.
+            - Sensation and perception psychology
+        - Religious studies – is an academic field devoted to research into religious beliefs, behaviors, and institutions.
+        - Science and technology studies – the study of how society, politics, and culture affect scientific research and technological innovation, and how these, in turn, affect society, politics, and culture.
+        - Social work – a professional and academic discipline that seeks to improve the quality of life and well-being of an individual, group, or community by intervening through research, policy, community organizing, direct practice, and teaching on behalf of those afflicted with poverty or any real or perceived social injustices and violations of their human rights.
+        - Sociology – studies society using various methods of empirical investigation and critical analysis to understand human social activity, from the micro-level of individual agency and interaction to the macro level of systems and social structure.
+            - Criminology – the study of the nature, extent, causes, and control of criminal behavior in both the individual and in society.
+                - Crime science
+                - Penology
+            - Demography – statistical study of human populations and sub-populations.
+            - Urban and rural sociology - the analysis of social life in metropolitan and non-metropolitan areas.
+        - Sustainable development – the process of meeting human development goals while sustaining the ability of natural systems to continue to provide the natural resources and natural system services upon which the economy of human society depends.
+            - Sustainable agriculture – farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment.
+        - Sustainability studies – focuses on the interdisciplinary perspective of the sustainability concept. Programs include instruction in sustainable development, geography, environmental policies, ethics, ecology, landscape architecture, city and regional planning, economics, natural resources, sociology, and anthropology, many of which are considered social sciences in their own right.
 
-- (usually) [being a friend](friendship.md)
+---
 
-## Definitions
+[back](../)
 
-![Real Hero](/images/real_hero.png)
+# Maslow
 
-### Hero
+## Sources
 
-- a person who sacrifices (or gives up) a vice or a lower type of virtue for the attainment of a higher type of virtue.
-- it does not apply to gaining of additional quantity of the same type of virtue, but of another type
-- heroes cannot be imagined: heroism depends upon a real sacrifice
+- Maslow, A.H. (1943).“A Theory of Human Motivation”
+- Motivation and Personality. Maslow, A. H. (1970). Motivation and personality.
 
-### Provable Hero
+## Mapping
 
-- a hero who can provide evidence or verification of the quality and quantity of their heroism
+### Needs
 
-## Types
+#### 1. Physiological Needs
+These are the biological needs that are required for survival. If these foundational needs are not met, the human body cannot function at its optimal level. Maslow considered physiological needs as the most potent of all, because they separate life from death, and have the ability to make the other needs appear as non-existent.
 
-1. **Military Heroes**: Military volunteers who display valor and bravery in armed conflicts, risking their lives to protect their country and fellow soldiers.
+- Hunger
+- Thirst
+- Sexual Desire
+- Maternal Responses
+- Homeostasis
 
-1. **Civil Rights Heroes**: Volunteer activists who fight for social justice, equality, and human rights, facing opposition and danger to bring about change in society.
+#### 2. Safety Needs
+If physiological needs are relatively well satisfied, a new set of needs emerges, which Maslow classifies as Safety Needs. These needs include:
 
-1. **Humanitarian Heroes**: People who dedicate their volunteering to helping others, such as aid workers, volunteers, and philanthropists, working in challenging and life-threatening conditions.
+- Insulation from Threats
+- Seeking Stability (Predictability)
 
-1. **Medical Heroes**: Healthcare volunteers, such as doctors, nurses, and researchers, who save lives and advance medical knowledge, working under extreme pressure or in crises.
+#### 3. Love Needs
+If the previous two needs (physiological and safety) are well gratified, the next set of needs that would arise are love based needs:
 
-1. **Emergency Responder Heroes**: Volunteer firefighters, police officers, paramedics, and other emergency responders who risk their lives to protect and rescue people in dangerous situations.
+- Love & Affection
+- Belongingness
+- Friendship
+- Mate
+- Children
 
-1. **Provable Volunteers**: Those who can prove their effort and leave themselves open to public criticism and attacks.
+#### 4. Esteem Needs
+Maslow says that all people (except for a few pathological exceptions) in our society have a need or desire for a stable and high evaluation of themselves. This evaluation of self would be based on real capacity, achievement and respect from others, it is comprised of the following:
 
-1. **Environmental Heroes**: Individuals who advocate for and take action to protect the environment, combat climate change, and preserve natural resources and wildlife.
+- Self-Respect
+- Self-Esteem
+- Esteem from Others
+- Strength
+- Achievement
+- Independence
+- Freedom
+- Prestige
 
-1. **Political Leaders**: Statespersons and leaders who make significant contributions to peace, democracy, and the welfare of their people, in the face of adversity or opposition.
+#### 5. Self-Actualization
+A desire to be all one can be. Self-actualization needs can come in the forms of:
 
-1. **Cultural and Artistic Heroes**: Artists, writers, musicians, and cultural figures who inspire others, challenge norms, and contribute to societal change through their unpaid work and influence.
+- A Search for Knowledge
+- Desire for Truth and Wisdom
+- An Urge to Solve Cosmic Mysteries
 
-1. **Innovators and Pioneers**: Scientists, inventors, and entrepreneurs who volunteer groundbreaking discoveries, develop new technologies, and drive progress in various fields.
+### Characteristics of Self-Actualized Individuals
 
-## Quality of Concept
+#### 1. Accurate perception of reality
+Self-actualizing people have an unusual ability to detect the spurious, the fake, and the dishonest in personality, and in general to judge people correctly and efficiently.
 
-A hero is a defender of an idea. The idea may be more virtuous or more generally moral than other ideas. Some heroes perform their heroic deeds for mutually exclusive ideas. For example, they may be volunteers who fight for two countries who compete over ownership of a piece of land.
-For establishing the hierarchy of concepts, we use the [hierarchy of virtues](hierarchies.md).
+#### 2. Acceptance of Self, Others and Nature
+They can accept their own human nature, with all its shortcomings, with all its discrepancies from the ideal image without feeling real concern.
 
-## Quantity of Sacrifice
+#### 3. Spontaneity; Simplicity; Naturalness 
+Their behavior is marked by simplicity and naturalness, and by lack of artificiality or straining for effect. His unconventionality is not superficial but essential or internal… and he is perhaps more human, more revealing of the original nature of the species.
 
-1. Repeated Martyrs/[Bodhisattvas](https://en.wikipedia.org/wiki/Bodhisattva): those who, after being martyred once, return again and again to help others with their message
-1. Martyrs: those who sacrificed their lives in heroic action
-1. Heroes: those who have sacrificed some of their own non-renewable resources (great sums of money, one or more organs or functional parts of the body, important positions of dignity) to help others
-1. Provable Volunteers: those who are leaving themselves and their efforts to be denigrated by the public while able to prove their deeds
-1. [Volunteers](volunteer.md): those who are helpful (donate their time and effort) but unpaid for their effort
-1. The Charitable: those who donate their hard-earned financial or renewable resources
+#### 4. Problem Centering
+Self-actualizing people are in general strongly focused on problems outside themselves… they are not generally much concerned about themselves… These individuals customarily have some mission in life, some task to fulfill, some problem outside themselves which enlists much of their energies.
 
-## The Anti-Heroes
-- The Imaginary Super-Hero: those heroes that do not exist in reality. They intoxicate the minds with the wrong definition of heroism
-- Mercenaries: those who are paid to act like a hero does and they perform the job: military, medical, civil servants, political representants
-- The Money Launderers: those who donate to charities but have not earned the resources justly. Moral charities must research the money provenance and refuse immoral sources.
-- Anti-Heroes: those who are paid to help others but do not perform their job or prevent heroes from performing their acts
-- Denigators of Heroes
-- Impersonators of Heroes: those who pretend to be the authors of a heroic act without the act existing
-- Thieves of Heroic Acts: those who pretend to be the authors of an extant heroic act while robbing the true heroes of their due recognition
+#### 5. The Quality of Detachment; The Need for Privacy
+For all my subjects it is true that they can be solitary without harm to themselves and without discomfort… it is true for almost all that they positively like solitude and privacy to a definite greater degree than the average person.
 
+#### 6. Autonomy (Independence of Culture and Environment) 
+Self-actualized people are not dependent for their main satisfactions on the real world, or other people or culture or means to ends or, in general, on extrinsic satisfactions. Rather they are dependent for their own development and continued growth of their own potentialities.
 
-[back](./)
+#### 7. Continued Freshness of Appreciation
+Self-actualizing people have the wonderful capacity to appreciate again and again, freshly and naively, the basic goods of life, with awe, pleasure, wonder and even ecstasy, however stale these experiences may have become to others… for such a person, any sunset may be as beautiful as the first one.
 
-# Institution
+#### 8. Mystic Experiences (Peak Experiences)
+Feelings of limitless horizons opening up to the vision, the feeling of being simultaneously more powerful and also more helpless than one ever was before, the feeling of great ecstasy and wonder and awe, the loss of placing in time and space with, finally, the conviction that something extremely important and valuable had happened.
+Peaking self-actualized people tend to live in a realm of being; of poetry, esthetics; symbols; transcendence, “religion” of the mystical, personal, non-institutional sort; and of end-experiences.
 
-- Moral entity: an entity that has moral status.
+#### 9. Human kinship / Gemeinschaftsgegühl 
+Self-actualizing people have for human beings in general a deep feeling of identification, sympathy, and affection in spite of the occasional anger, impatience, or disgust… because of this they have a genuine desire to help the human race as if they were all members of a single family.
 
-- Institution: a moral entity that is composed of more than one other moral entities.
+#### 10. Humility and respect for others
 
-## Principles
+#### 11. Deep interpersonal relationships with a select few people 10. Interpersonal Relations
+Self actualizing people have deeper and more profound interpersonal relations than any other adults (although not necessarily deeper than those of children.) They are capable of more fusion, greater love, more perfect identification, more obliteration of the ego boundaries than other people would consider possible.
 
-- Changing the nature of an institution requires a proven unanimity of votes of the members or the decision of the founding institution
+#### 11. The Democratic Character Structure 
+All my subjects may be said to be democratic people in the deepest possible sense… they can be and are friendly with anyone of a suitable character regardless of class, education, political belief, race or color… it is as if they are not even aware of these differences.” (Maslow, 1970). These individuals often select friends of an elite nature, thought not elite in birthright, race or color; but rather eliteness of character, capacity and talent.
 
-## Institution Founding/Dissolution
+#### 12. Strong but not necessarily conventional ethical standards 12. Discrimination Between Good and Evil
+These individuals are strongly ethical, they have definite moral standards, they do right and do not do wrong. Needless to say, their notions of right and wrong and good and evil are often not the conventional ones.
 
-- by contract by all founding members
-- by decision of a founding institution
+#### 13. Focuses on ends rather than means
 
-## Private Institution
+#### 14. Nonhostile sense of humor 13. Philosophical, Un-Hostile Sense of Humor
+“Their sense of humor is not of the ordinary type. They do not consider funny what the average man considers to be funny. They do not laugh at hostile humor or superiority humor… characteristically what they consider humor is more closely allied to philosophy than anything else… more akin to parables or fables.
 
-Examples: a chat thread that does not change the composition of the members or the subject.
+#### 14. Creativeness 
+Each one shows in one way or another a special kind of creativeness or originality or inventiveness that has certain peculiar characteristics… which is akin to the universal creativeness of unspoiled children.
 
-## Public Institution
+#### 15. The Transcendence of Culture; Resistance to Enculturation
+“Self-actualizing people are not well adjusted (in the naive sense of approval of and identification with the culture). They get along with the culture in various ways, but of all of them it may be said that in a certain profound and meaningful sense they resist enculturation and maintain inner detachment from the culture in which they are immersed.
 
-## Ethical Institution
+[back](../)
 
+---
 
+[back](../)
 
-## Other Systems
+# Internal Resilience Factors
 
-[back](./)
+## Sources
 
-# Other Systems. Mapping
+- Kumpfer, 1999
 
-- [Values in Action Inventory](systems/via.md) (VIA)
-- [Maslow's Systems](systems/maslow.md)
-- [“Internal” Developmental Assets](systems/development.md)
+## Mapping
 
+### Spiritual/motivational factors
+
+#### Dreams and goals
+- [Hope](hope.md)
+
+#### Purpose/meaning in life
+- [Hope](hope.md)
+
+#### Spirituality
+- [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+
+#### Belief in uniqueness of oneself 
+- [Competition](competition.md)
+
+#### Independence (autonomy)
+- [Fortitude](fortitude.md)
+
+#### Hope and optimism
+- [Hope](hope.md)
+
+#### Determination and perseverance
+- [Fortitude](fortitude.md)
+
+### Cognitive competencies
+
+#### Intelligence
+- [Faith, Reason](faith.md)
+
+#### Academic achievement and homework skills 
+- [Measurability](measurability.md)
+
+#### Ability to delay gratification 
+- [Temperance](temperance.md)
+
+#### Reading skills
+- [Faith, Reason](faith.md)
+
+#### Moral reasoning
+- [Fairness](fairness.md)
+
+#### Insight
+- [Faith, Reason](faith.md)
+
+#### Interpersonal awareness
+- [Harmony, Generosity](harmony.md)
+
+#### Self-esteem
+- [Abundance](abundance.md)
+
+#### Planning ability
+- [Governance](governance.md)
+
+#### Creativity Creativity
+- [Hope](hope.md)
+
+### Behavioral/social competencies
+
+#### Social skills and street smarts 
+- [Fortitude](fortitude.md)
+
+#### Problem-solving skills 
+- [Fortitude](fortitude.md)
+- [Faith, Reason](faith.md)
+
+#### Multicultural and bi-gender competencies 
+- [Fortitude](fortitude.md)
+
+#### Empathy 
+- [Harmony, Generosity](harmony.md)
+
+#### Emotional stability and emotional management
+- [Temperance](temperance.md)
+
+#### Happiness
+- [Abundance](abundance.md)
+
+#### Recognition of feelings 
+- [Fortitude](fortitude.md)
+
+#### Emotional management skills
+- [Harmony, Generosity](harmony.md)
+
+#### Ability to restore self-esteem
+- [Harmony, Generosity](harmony.md)
+
+#### Humor 
+- [Abundance](abundance.md)
+
+### Physical well-being and physical competencies
+
+#### Good health
+- [Survival](survival.md)
+
+#### Health maintenance skills
+- [Survival](survival.md)
+
+#### Physical talent development
+- [Fortitude](fortitude.md)
+
+#### Physical attractiveness
+- [Abundance](abundance.md)
+
+[back](../)
+
+---
+
+[back](../)
+
+# “Internal” Developmental Assets
+
+## Sources
+
+- Leffert et al., 1998
+
+## Mapping
+
+Asset character strength(s):
+
+### Commitment to learning
+
+#### Achievement motivation
+- [Competition](competition.md)
+
+#### School engagement
+- [Market](market.md)
+
+#### Homework
+- [Fortitude](fortitude.md)
+
+#### Bonding to school
+- [Governance](governance.md)
+
+#### Reading for pleasure
+- [Hope](hope.md)
+
+### Positive values
+
+#### Caring
+- [Harmony, Generosity](harmony.md)
+
+#### Equality and social justice
+- [Fairness](fairness.md)
+
+#### Integrity 
+- [Justice](justice.md)
+
+#### Responsibility
+- [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+
+#### Restraint 
+- [Temperance](temperance.md)
+
+### Social competencies
+
+#### Planning and decision making
+- [Temperance](temperance.md)
+- [Governance](governance.md)
+
+#### Interpersonal competence 
+- [Harmony, Generosity](harmony.md)
+
+#### Cultural competence
+- [Harmony, Generosity](harmony.md)
+
+#### Resistance skills 
+- [Fortitude](fortitude.md)
+
+#### Peaceful conflict resolution 
+- [Justice](justice.md)
+
+### Positive identity
+
+#### Personal power
+- [Abundance](abundance.md)
+
+#### Self-esteem
+- [Hope](hope.md)
+
+#### Sense of purpose 
+- [Hope](hope.md)
+
+#### Positive view of personal future 
+[Hope](hope.md)
+
+[back](../)
+
+---
+
+[back](../)
+
+# Values in Action Inventory (VIA)
+
+## Sources
+
+- the landmark book: [Character Strengths and Virtues: A Handbook and Classification](https://www.viacharacter.org/character-strengths-and-virtues) by Christopher Peterson and Martin Seligman.
+
+## Classification, Definitions
+
+### Wisdom
+
+#### Creativity
+
+"I am creative, conceptualizing something useful, coming up with ideas that result in something worthwhile."
+
+- Original & Adaptive
+- Clever
+- A problem solver
+- Sees and does things in different ways
+
+Creativity is thinking of new ways to do things. It involves producing ideas or behaviors that are original. However, originality is not enough: whatever is created, whether an idea or a product, must also be useful or adaptable. For example, you might write a blog post that is unique because it is entirely gibberish. That’s not going to be useful, so it would not be considered creative.
+
+There are two essential components to Creativity- originality and adaptiveness. A creative individual generates ideas or behaviors that are novel or unusual and these make a positive contribution to the individual's life or the lives of others group.
+
+#### Curiosity
+“I seek out situations where I gain new experiences without getting in my own or other people’s way.”
+
+- Interested
+- Explores new things
+- Open to new ideas
+
+To be curious is to explore and discover, to take an interest in ongoing experience for its own sake. Curiosity is often described as novelty-seeking and being open to experience, and it’s associated with the natural desire to build knowledge. It is fulfilling to journey toward an answer, to engage in a new experience, or to learn a new fact. To go to a new restaurant, visit a new city, meet a new person in your class, or to conduct an online search for a question can each fulfill your quest for new experiences and new information.
+
+There are two key components to curious individuals: They are interested in exploring new ideas, activities and experiences, and they also have a strong desire to increase their own personal knowledge.
+
+#### Judgment
+"I weigh all aspects objectively in making decisions, including arguments that are in conflict with my convictions."
+
+- A critical thinker
+- Thinks things through
+- Open minded
+
+Judgment involves making rational and logical choices, and analytically evaluating ideas, opinions, and facts. To use a term that originally came from outside the character field: it is critical thinking, weighing the evidence fairly, thinking things through, and examining the evidence from all sides rather than jumping to conclusions. Judgment also involves being open-minded and able to change one’s mind in the light of evidence, remaining open to other arguments and perspectives. It should be clear at this point that judgment is a core “strength of the head” — it’s a very thinking-oriented character strength.
+
+The strength of judgment is a corrective strength in that it counteracts faulty thinking, such as favoring your current views or favoring ideas that are considered the dominant view, and therefore giving less attention to the less-dominant view. It is the willingness to search actively for evidence against your favored beliefs, plans or goals and to weigh all of the evidence fairly when it is available.
+
+#### Love of Learning
+"I am motivated to acquire new levels of knowledge, or deepen my existing knowledge or skills in a significant way."
+
+- Masters new skills & topics
+- Systematically adds to knowledge
+
+Love of learning means a passion for learning, a desire to learn just for learning’s sake. In fact, curiosity and love of learning are among the most closely related strengths in the VIA Classification. They can still be distinguished though. While curiosity is the motivating force that leads you to seek out new information, love of learning refers to the desire to hold on to and deepen that information. The curious person is motivated by the pursuit of knowledge; the person who loves learning is motivated by the expansion of their fund of knowledge. Where curiosity is often associated with a great deal of energy and a drive to gather information, the lover of learning is often more contemplative. Love of learning describes the way in which a person engages new information and skills. Love of learning is a strength that teachers would like to see in their students, parents want to encourage in their children, therapists support in their clients, and employers try to foster in their employees. It has important motivational consequences because it helps people persist through challenges, setbacks and negative feedback.
+
+#### Perspective
+"I give advice to others by considering different (and relevant) perspectives and using my own experiences and knowledge to clarify the big picture."
+
+- Wise
+- Provides wise counsel
+- Takes the big picture view
+
+Perspective means the ability to see the bigger picture in life. Perspective is about being able to see the forest as well as the trees, to avoid getting wrapped up in the small details when there are bigger issues to consider. While listening to others, perspective helps you to simultaneously think about life lessons, proper conduct, and what’s best for the situation being discussed. This ability to look at systems as a whole, or to think in big terms, helps you to offer good advice. Perspective is distinct from intelligence but represents a high level of knowledge, the capacity to give advice and to recognize and weight multiple sides before making decisions. It allows the individual to address important questions about the conduct and meaning of life.
+
+### Courage
+#### Bravery
+"I act on my convictions, and I face threats, challenges, difficulties, and pains, despite my doubts and fears."
+
+- Shows valor
+- Doesn’t shrink from fear
+- Speaks up for what’s right
+
+To be brave is to face your challenges, threats, or difficulties. It involves valuing a goal or conviction and acting upon it, whether popular or not. A central element involves facing – rather than avoiding – fears.
+
+There are three types of bravery (an individual may possess one of these or a combination):
+
+- Physical bravery (e.g., firefighters, police officers, soldiers)
+- Psychological bravery (e.g., facing painful aspects of oneself)
+- Moral bravery (e.g., speaking up for what's right, even if it's an unfavorable opinion to a group)
+
+#### Honesty
+“I am honest to myself and to others, I try to present myself and my reactions accurately to each person, and I take responsibility for my actions.”
+
+- Authentic
+- Trustworthy
+- Sincere
+
+When you are honest, you speak the truth. More broadly, you present yourself in a genuine and sincere way, without pretense, and taking responsibility for your feelings and actions. You are a person of integrity — you are who you say you are — and you act consistently across the domains of your life rather than being one way in the community and a completely different way in your family. As a result, you believe you are being consistently true to yourself.
+
+This strength involves accurately representing your internal states, intentions, and commitments, both publicly and privately. The strength of honesty is often linked to self-concordance- the extent to which your goals accurately represent your implicit interests and values. Honesty allows people to take responsibility for their feelings and behaviors, owning them, and reaping benefits by doing so.
+
+#### Perseverance
+"I persist toward my goals despite obstacles, discouragements, or disappointments."
+
+- Persistent
+- Industrious
+- Finishes what one starts
+
+Perseverance is sticking with things. It means being hardworking and finishing what is started, despite barriers and obstacles that arise. The pleasure received from completing tasks and projects is very important to those who are high in perseverance. Sometimes he or she must dig deep and muster the will to overcome thoughts of giving up. Perseverance involves organizing oneself to support activities (e.g., scheduling breaks and sticking to them, rewarding in small ways along the way), but when all else fails, this strength helps the person to barrel through until the project is done. This helps build further confidence for future successes and goal accomplishment. Perseverance involves the voluntary continuation of a goal-directed action despite the presence of challenges, difficulties, and discouragement. There are two vectors of perseverance. It requires both effort for a task and duration to keep the task up.
+
+#### Zest
+"I feel vital and full of energy, I approach life feeling activated and enthusiastic."
+
+- Enthusiastic
+- Energetic
+- Doesn’t do things half-heartedly
+
+Zest means approaching a situation, or life in general, with excitement and energy, not approaching tasks or activities halfway or halfheartedly. People who are high in zest are excited to get up in the morning, and they live their lives like an adventure. Zest is a dynamic strength that is directly related to physical and psychological wellness. This strength has the strongest ties to overall life satisfaction and a life of engagement.
+
+### Humanity
+
+#### Kindness
+"I am helpful and empathic and regularly do nice favors for others without expecting anything in return."
+
+- Generous
+- Nurturing
+- Caring
+- Compassionate
+- Altruistic
+
+Simply put, kindness is being nice to others. As you examine kindness further, a number of important dimensions begin to unfold. Kindness is being generous with others, giving your time, money, and talent to support those who are in need. Kindness is being compassionate, which means to really be there for someone, listening intently to their suffering or just sitting with them and silently supporting them. Such compassion involves a deep concern for the welfare of others. Kindness is also being nurturing and caring to others — to enjoy doing favors for them, to take care of them, and to perform good deeds.
+
+Kind individuals believe that others are worthy of attention and affirmation for their own sake as human beings, not out of a sense of duty or principle. There are three traits of altruistic personalities:
+
+- Empathy/sympathy
+- Moral reasoning
+- Social responsibility
+
+#### Love
+"I experience close, loving relationships that are characterized by giving and receiving love, warmth, and caring."
+
+- Warm and genuine,
+- Values close relationships
+
+After millions of songs and greeting cards, love needs no introduction. That said, we want to be clear about how the term is used in the VIA Classification. Love as a character strength, rather than as an emotion, refers to the degree to which you value close relationships with people, and contribute to that closeness in a warm and genuine way. Where kindness can be a behavioral pattern applied in any relationship, love as a character strength really refers to the way you approach your closest and warmest relationships. Love is reciprocal, referring to both loving others and the willingness to accept love from others. There are four types of love, each with a biological and evolutionary base:
+
+- Attachment love: parent for child; child for parent
+- Compassionate/altruistic love: kindness
+- Companionate love: friendship
+- Romantic love: spouse/partner/boyfriend/girlfriend
+
+#### Social Intelligence
+"I am aware of and understand my feelings and thoughts, as well as the feelings of those around me."
+
+- Aware of the motives and feelings of others
+- Knows what makes others tick
+
+When a person knows what makes other people tick, he or she is displaying social intelligence. They’re aware of the motives and feelings of themselves and others, and how to fit into different social situations. They can feel comfortable and say the right thing whether they’re in the boardroom or the janitorial room, in a school setting or at a construction site. Social intelligence involves two general components:
+
+- Social awareness: what we sense about others
+- Social facility: what we do with our awareness
+
+### Justice
+
+#### Fairness
+“I treat everyone equally and fairly, and give everyone the same chance applying the same rules to everyone.”
+
+- Just
+- Doesn’t let feelings bias decisions about others
+
+Fairness is treating people justly, not letting your personal feelings bias your decisions about others. You want to give everyone a fair chance, and believe there should be equal opportunity for all, though you also realize that what is fair for one person might not be fair for another.
+
+- Fairness is a cognitive judgment capacity that involves reasoning and making judgments. It involves 2 types of reasoning:
+- Justice reasoning which emphasizes logic and weighing principles to determine moral rights and responsibilities.
+- Care reasoning which includes empathy and compassion; the ability to put yourself in somebody else's shoes.
+
+#### Leadership
+"I take charge and guide groups to meaningful goals, and ensure good relations among group members."
+
+- Organizes group activities
+- Encourages a group to get things done
+
+Leadership can take on many forms. As a character strength, leadership refers to the tendency to organize and encourage a group to get things done, while maintaining good relations within the group. Like teamwork, leadership involves being committed to the goals of the group, but how that commitment manifests itself is very different. Leadership involves setting goals and accomplishing them, enlisting effective help, building coalitions, and smoothing ruffled feathers. Effective leaders are able to provide a positive vision or message that inspires dedicated followers who feel empowered and perhaps even inspired. Leadership is a social phenomenon that can be distinguished into two areas:
+
+- Practice- defining, establishing, identifying or translating direction
+- Personal quality- the motivation and capacity to seek out, attain and carry out leader roles There are two types of leaders:
+- Transactional leaders- this type of leader clarifies responsibilities, expectations, and the tasks to be accomplished
+- Transformational leaders- this leader motivates their followers to perform at an extremely high level, fostering a climate of trust and commitment to the organization and its goals
+
+#### Teamwork
+"I am a helpful and contributing group and team member, and feel responsible for helping the team reach its goals."
+
+- Team player
+- Socially responsible
+- Loyal
+
+Teamwork means that in team situations you are committed to contributing to the team’s success. The team could be a work group or a sports team, but it could also refer to your family, marriage, or even a group of friends working on a project together. Teamwork extends to being a good citizen of your community or country, and more broadly to a sense of social responsibility for particular groups of people or even all of humanity. In other words, the person high in teamwork applies a certain way of acting in whatever context they consider themselves committed to the good of the group as a whole. Most commonly, however, this strength refers to your being a dedicated, reliable, and contributing member to your small group or team. Teamwork is closely related to 3 other concepts:
+
+- Citizenship: responsibility toward one's community
+- Loyalty: unwavering trust for a group
+- Patriotism: loyalty toward one's homeland/nation without hostility toward other nations
+
+### Temperance
+
+#### Forgiveness
+“I forgive others when they upset me and/or when they behave badly towards me, and I use that information in my future relations with them.”
+
+- Merciful
+- Accepts others’ shortcomings
+- Gives people a second chance
+
+Forgiveness means to extend understanding towards those who have wronged or hurt us. It means to let go. In many cases this is the letting go of some or all of the frustration, disappointment, resentment, or other painful feelings associated with an offense. Forgiveness, and the related quality of mercy, involve accepting the shortcomings, flaws, and imperfections of others and giving them a second (or third) chance. As the expression goes, it is letting bygones be bygones, rather than being vengeful. It is a process of humanizing those who have led us to feel dehumanized.
+
+It is important to distinguish forgiveness from:
+- condoning (removes the offense)
+- forgetting (removes the awareness)
+- reconciliation (restores the relationship)
+
+#### Humility
+"I see my strengths and talents but I am humble, not seeking to be the center of attention or to receive recognition."
+
+- Modest
+- Lets one’s accomplishments speak for themselves
+
+Humility means accurately evaluating your accomplishments. It’s easy to describe what humility is not — it is not bragging, not doing things in excess, not seeking the spotlight, not drawing attention to yourself, not viewing yourself as more special or important than others. On the other hand, it is not bowing to every wish or demand of another person and it is not being highly self-critical. Truly humble people think well of themselves and have a good sense of who they are, but they also are aware of their mistakes, gaps in their knowledge, and imperfections. Most importantly, they are content without being a center of attention or getting praised for their accomplishments.
+
+A common misconception is that humility involves having a low self-esteem, a sense of unworthiness, and/or a lack of self-focus. However, true humility involves an accurate self-assessment, recognition of limitations, keeping accomplishments in perspective, and forgetting of the self. Humble people do not distort information to defend or verify their own image, and they do not need to see-or present- themselves as being better than they actually are.
+
+#### Prudence
+"I act carefully and cautiously, looking to avoid unnecessary risks and planning with the future in mind.”
+
+- Careful
+- Cautious
+- Doesn’t take undue risk
+
+Prudence means being careful about your choices, stopping and thinking before acting. It is a strength of restraint. When you are prudent, you are not taking unnecessary risks, and not saying or doing things that you might later regret. If you are high in prudence, you are able to consider the long-term consequences of your actions. Prudence is a form of practical reasoning, the ability to examine the potential consequences of your actions objectively, and to control yourself based on that examination. Prudence involves far-sighted planning as well as short-term, goal-directed planning. It is often referred to as cautious wisdom, practical wisdom, and practical reason.
+
+#### Self-Regulation
+"I manage my feelings and actions and am disciplined and self-controlled."
+
+- Self-controlled
+- Manages impulses and emotions
+
+Self-Regulation is a complex character strength. It has to do with controlling your appetites and emotions and regulating what you do. Those high in self-regulation have a good level of confidence in their belief that they can be effective in what they pursue and are likely to achieve their goals. They are admired for their ability to control their reactions to disappointment and insecurities. Self-regulation helps keep a sense of balance, order, and progress in life. Self-Regulation can be viewed as a resource that can be depleted and fatigued. A useful metaphor can be that self-regulation acts like a muscle, which can be exhausted through over-exertion or strengthened through regular practice.
+
+### Transcendence
+
+#### Appreciation of Beauty & Excellence
+"I recognize, emotionally experience, and appreciate the beauty around me and the skill of others."
+
+- Feels awe & wonder in beauty
+- Inspired by goodness of others
+
+Those who express an appreciation of beauty & excellence notice and appreciate beauty, excellence and/or skilled performance in all domains of life, from nature to art to mathematics to science to everyday experience.
+
+People high in Appreciation of Beauty and Excellence are responsive to these three types of goodness:
+
+- Physical Beauty.
+This may include auditory, tactile or abstract. This type of goodness produces awe and wonder in the person experiencing it.
+
+- Skill or Talent (Excellence).
+This is often energizing, and compels a person to pursue their own goals. It inspires admiration.
+
+- Virtue or moral goodness (moral beauty).
+Virtuous goodness makes someone want to be better, more loving and creates feelings of elevation.
+
+#### Gratitude
+“I am grateful for many things and I express that thankfulness to others.”
+
+- Thankful for the good
+- Expresses thanks
+- Feels blessed
+
+The character strength of gratitude involves feeling and expressing a deep sense of thankfulness in life, and more specifically, taking the time to genuinely express thankfulness to others. This thankfulness can be for specific gifts or thoughtful acts. It could also more generally reflect recognition of what that person contributes to your life. We can be grateful for deliberate acts by others, such as a piece of art from a child, or for spontaneous treasures, such as a cool breeze on your face on a hot day. What marks gratitude is the psychological response: the transcendent feeling of thankfulness, the sense of having been given a gift by that person or event. Grateful people experience a variety of positive emotions, and those emotions inspire them to act in more virtuous ways – humbler, more persistent, or kinder. Gratitude tends to foster the character strengths of kindness and love, and therefore is closely associated with empathy and with connection to others.
+
+There are two types of gratitude:
+
+- Benefit-triggered gratitude= the state that follows when a desired benefit is received from a benefactor.
+- Generalized gratitude= the state resulting from awareness and appreciation of what is valuable and meaningful to yourself. There are two stages of gratitude:
+
+- Acknowledging the goodness in your life.
+
+- Recognizing the source of this goodness is outside yourself.
+
+#### Hope
+“I am realistic and also full of optimism about the future, believing in my actions and feeling confident things will turn out well.”
+
+- Optimistic
+- Future-minded
+
+The character strength of hope has to do with positive expectations about the future. It involves optimistic thinking and focusing on good things to come. Hope is more than a feel-good emotion. It is an action-oriented strength involving agency, the motivation and confidence that goals can be reached, and also that many effective pathways can be devised in order to get to that desired future. Optimism is closely linked with having a particular explanatory style (how we explain the causes of bad events). People using an optimistic explanatory style interpret events as internal, stable and global. Those using a pessimistic explanatory style interpret events as external, unstable and specific.
+
+#### Humor
+"I approach life playfully, making others laugh, and finding humor in difficult and stressful times."
+
+- Playful
+- Brings smiles to others
+- Lighthearted
+
+Humor means to recognize what is amusing in situations, and to offer the lighter side to others. Humor is an important lubricant to social interactions, and can contribute to team building or moving toward group goals. Where other strengths are more or less essential for achieving certain types of goals or dealing with certain types of problems, humor is rarely an essential component to positive social interactions, but it is often a desirable one. It is also a valuable method of coping with distressing situations.
+
+Humor involves the ability to make other people smile or laugh. It also means having a composed and cheerful view on adversity that allows an individual to see its light side and thereby sustain a good mood.
+
+#### Spirituality
+"I feel spiritual and believe in a sense of purpose or meaning in my life; and I see my place in the grand scheme of the universe and find meaning in everyday life."
+
+- Searches for meaning,
+- Feels a sense of purpose
+- Senses a relationship with the sacred
+
+As is true for many of the character strengths in the VIA Classification, the strength of spirituality has many dimensions. Some of these include meaning, purpose, life calling, beliefs about the universe, the expression of virtue/goodness, and practices that connect with the transcendent. Spirituality has been defined consistently by scientists as the search for or connection with “the sacred”. The sacred might be that which is blessed, holy, revered, or particularly special. This can be secular or non-secular: sacredness might be pursued as the search for a purpose in life or as a close relationship with something greater; the sacred might be experienced in the forgiveness offered by a child, a humble moment between a leader and a subordinate, an awe-inspiring sunset, a profound experience during meditation or a religious service, or the self-sacrificing kindness of a stranger. As a character strength, spirituality involves the belief that there is a dimension to life that is beyond human understanding. Some people don’t connect this belief with the concept of a divinity and prefer to think of it in terms of a sense of meaning rather than spirituality, but in the VIA Classification the terms are considered closely related. Spirituality is believed to describe both the private, intimate relationship between humans and the divine, and the range of virtues that result from the relationships. Spirituality is universal. Although the specific content of spiritual beliefs varies, all cultures have a concept of an ultimate, transcendent, sacred force.
+
+## Mapping
+
+### 1. Wisdom
+
+#### Creativity
+
+- [Hope](hope.md)
+- [Abundance](abundance.md)
+
+#### Curiosity
+
+- [Hope](hope.md)
+
+#### Judgment
+
+- [Faith, Reason](faith.md)
+- [Justice](justice.md)
+
+#### Love of Learning
+
+- [Faith, Reason](faith.md)
+
+#### Perspective
+
+- [Prudence](prudence.md)
+
+### 2. Courage
+
+#### Bravery
+
+- Physical bravery (e.g., firefighters, police officers, soldiers) - [Fortitude](fortitude.md)
+- Psychological bravery (e.g., facing painful aspects of oneself) - [Temperance](temperance.md)
+- Moral bravery (e.g., speaking up for what's right, even if it's an unfavorable opinion to a group) - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+
+#### Perseverance
+
+- [Fortitude](fortitude.md)
+
+#### Honesty
+
+- [Temperance](temperance.md)
+
+#### Zest
+
+- [Abundance](abundance.md)
+
+### 3. Humanity
+
+- [Harmony, Generosity](harmony.md)
+
+#### Love
+
+- Attachment love: parent for child; child for parent - [Survival](survival.md)
+- Compassionate/altruistic love: kindness - [Charity](charity.md)
+- Companionate love: friendship - [Provable Order/Hierarchy](order.md)
+- Romantic love: spouse/partner/boyfriend/girlfriend - [Abundance](abundance.md)
+
+#### Kindness
+
+- Empathy/sympathy - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+- Moral reasoning - [Faith, Reason](faith.md)
+- Social responsibility - [Harmony, Generosity](harmony.md)
+
+#### Social Intelligence
+
+- Social awareness: what we sense about others - [Fortitude](fortitude.md)
+- Social facility: what we do with our awareness - [Temperance](temperance.md)
+
+### 4. Justice
+
+#### Teamwork
+
+- Citizenship: responsibility toward one's community - [Governance](governance.md)
+- Loyalty: unwavering trust for a group - [Fortitude](fortitude.md)
+- Patriotism: loyalty toward one's homeland/nation without hostility toward other nations - [Fortitude](fortitude.md)
+
+#### Fairness
+
+Fairness is a cognitive judgment capacity that involves reasoning and making judgments. It involves 2 types of reasoning:
+- Justice reasoning which emphasizes logic weighing principles to determine moral rights and responsibilities. - [Justice](justice.md)
+- Care reasoning which includes empathy and compassion; the ability to put yourself in somebody else's shoes. - [Fairness](fairness.md)
+
+#### Leadership
+
+- Practice- defining, establishing, identifying or translating direction - [Provable Order/Hierarchy](order.md)
+- Personal quality- the motivation and capacity to seek out, attain and carry out leader roles There are two types of leaders:
+  - Transactional leaders- this type of leader clarifies responsibilities, expectations, and the tasks to be accomplished - [Measurability](measurability.md)
+  - Transformational leaders- this leader motivates their followers to perform at an extremely high level, fostering a climate of trust and commitment to the organization and its goals - [Harmony, Generosity](harmony.md)
+
+### 5. Temperance
+
+#### Forgiveness
+
+It is important to distinguish forgiveness from:
+- condoning (removes the offense)
+- forgetting (removes the awareness)
+- reconciliation (restores the relationship)
+
+- [Hope](hope.md)
+
+The concept of Forgiveness as defined by the dictionary is not a virtue. It has essential conflicts with Justice and Goodness.
+
+#### Humility
+
+- [Harmony, Generosity](harmony.md)
+
+#### Prudence
+
+- [Prudence](prudence.md)
+
+#### Self-Regulation
+
+- [Temperance](temperance.md)
+
+### 6. Transcendence
+
+#### Appreciation of Beauty & Excellence
+
+- Physical Beauty.
+This may include auditory, tactile or abstract. This type of goodness produces awe and wonder in the person experiencing it. - [Harmony, Generosity](harmony.md)
+
+- Skill or Talent (Excellence).
+This is often energizing, and compels a person to pursue their own goals. It inspires admiration. - [Harmony, Generosity](harmony.md)
+
+- Virtue or moral goodness (moral beauty).
+Virtuous goodness makes someone want to be better, more loving and creates feelings of elevation. - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+
+#### Gratitude
+
+There are two types of gratitude:
+
+- Benefit-triggered gratitude= the state that follows when a desired benefit is received from a benefactor.
+- Generalized gratitude= the state resulting from awareness and appreciation of what is valuable and meaningful to yourself. There are two stages of gratitude:
+
+- Acknowledging the goodness in your life.
+- Recognizing the source of this goodness is outside yourself.
+
+#### Hope
+
+- [Hope](hope.md)
+
+#### Humor
+
+- not a virtue. maybe - [Abundance](abundance.md)
+
+#### Spirituality
+
+- [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+
+## Not Covered
+
+### From VIA
+
+1. Humor
+
+### To VIA: 
+
+1. [Miracle](miracle.md)
+1. [Economy](economy.md)
+1. [Charity](charity.md)
+1. [Forgiveness](forgiveness.md)
+1. [Competition](competition.md)
+1. [Market](market.md)
+1. [Industriousness](industriousness.md)
+1. [Survival](survival.md)
+
+[back](../)
+
+---
+
+[back](../)
+
+# Systems
+
+Other systems and Theories of Virtue.
+
+[back](../)
+
+---
 
