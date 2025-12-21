@@ -7,6 +7,8 @@ Proposals for ways to understand Virtue.
 ```bash
 npm install
 npm run start
+
 npm run build
+npm run serve
 USE_SSH=true GIT_USER=<Your GitHub username> npm run deploy
 ```

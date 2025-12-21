@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'On Virtues',
-  tagline: 'A description proposed for consensus',
+  tagline: 'A description of virtues proposed for consensus',
   favicon: 'img/favicon.ico',
 
 
