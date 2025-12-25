@@ -11,7 +11,7 @@ keywords: [love, empathy, composed virtues, empathy, moral beauty, virtue ethics
 
 ## Definition
 
-Many virtues may have their root in Empathy: see [Reduction to 3 Concepts](../3concepts.md):
+Many virtues may have their root in Empathy: see [Second Trinity](index.md):
 
 1. Faith, Reason
 1. Charity

@@ -8,8 +8,8 @@ keywords: [concepts, dictionary, terminology, altruism, beauty, creativity, duty
 
 # Concepts
 
-- Altruism: [Empathy](3concepts.md)
-- Beauty: virtues and [beauty](composed/beauty.md)
+- Altruism: [Empathy](2trinity/love.md)
+- Beauty: virtues and [beauty](1trinity/beauty.md)
 - Consistency:
   1. Justice (across roles)
   1. Prudence (across time while across roles)
@@ -64,7 +64,7 @@ keywords: [concepts, dictionary, terminology, altruism, beauty, creativity, duty
   1. Temperance
   1. Fortitude
 
-- Sympathetic Joy ([Mudita](https://en.wikipedia.org/wiki/Mudita)): [Empathy](3concepts.md)
+- Sympathetic Joy ([Mudita](https://en.wikipedia.org/wiki/Mudita)): [Empathy](2trinity/love.md)
 
 
 - Tolerance:

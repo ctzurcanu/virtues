@@ -30,8 +30,9 @@ keywords: [virtues, virtue ethics, moral philosophy, faith, charity, hope, prude
 1. The Relations between [Principles and Virtues](principles.md)
 1. [Hierarchies](hierarchies.md)
 1. [Scenarios](scenarios/index.md)
-1. [Reduction to 3 Concepts](3concepts.md)
 1. [Reduction to 1 Concept](1concept.md)
+1. [The First Trinity](1trinity/index.md)
+1. [The Second Trinity](2trinity/index.md)
 1. [Other Concepts](concepts.md)
 1. Names/Attributes of God
     - [The 99 Names of Allah](allah.md)

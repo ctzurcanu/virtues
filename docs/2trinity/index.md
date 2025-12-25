@@ -1,14 +1,20 @@
 ---
 layout: default
-title: Reduction to 3 Concepts
-sidebar_position: 37
-description: Learn about reducing virtues to three fundamental concepts. Explore empathy, altruism, and the triadic structure of virtue ethics.
-keywords: [reduction, three concepts, empathy, altruism, triadic structure, virtue ethics, moral philosophy, simplification]
+title: Second Trinity
+sidebar_position: 2
+description: Second Trinity = Continuity, Governance, Empathy
+keywords: [continuity, governance, empathy, Trinity, relationships, virtue ethics, moral philosophy, civic virtue]
 ---
+[back](../)
 
-# Reduction of Virtues to 3 Moral Concepts
+# Second Trinity: Continuity, Governance, Empathy
 
-## The 3 Moral Concepts
+- Continuity (of eternities)
+- [Empathy](love.md)
+- [Governance](../governance.md)
+- Continuity
+
+## Dependencies
 
 - Empathy influences:
     - Faith, Reason
@@ -158,3 +164,8 @@ Relations:
     1. Empathy
 1. Meta-Governance: Governance about the rules of Governance (available only on Mythos)
     1. Continuity of Eternities
+
+
+
+
+[back](../)

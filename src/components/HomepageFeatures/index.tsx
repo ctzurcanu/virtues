@@ -57,7 +57,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Reduction of Virtues to 3 Moral Concepts',
-    link: "./docs/3concepts",
+    link: "./docs/2trinity",
     Svg: require('@site/static/images/3concepts.svg').default,
     description: (
       <>

@@ -13,7 +13,7 @@ keywords: [order, hierarchy, organization, structure, ranking, supreme virtues, 
 
 
 - an ordering of virtues that is provable by reason and/or by provable consensus
-- is a type of [Arete](arete.md)
+- is a type of [Arete](goodness.md)
 
 ## Proof of Existence
 

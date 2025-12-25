@@ -23,7 +23,8 @@ This virtues should be precisely defined in quality and quantity in terms of bas
 
 ## Composed Virtues
 
-- [Beauty](beauty.md)
+- [Beauty](../1trinity/beauty.md)
+- [Love, Empathy](../2trinity/love.md)
 
 
 ## Traditional
