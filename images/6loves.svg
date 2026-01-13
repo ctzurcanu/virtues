@@ -30,7 +30,7 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.77246094"
-     inkscape:cx="512"
+     inkscape:cx="507.46903"
      inkscape:cy="512"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -64,7 +64,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.8;fill:#ececec;stroke:#808080;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       style="opacity:0.2;fill:#ececec;stroke:#808080;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="rect1336-4"
        width="105.51692"
        height="160.66264"
@@ -73,7 +73,7 @@
        rx="5.2354879"
        ry="4.6397147" />
     <rect
-       style="opacity:0.8;fill:#ececec;stroke:#808080;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       style="opacity:0.2;fill:#ececec;stroke:#808080;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="rect1336"
        width="105.51692"
        height="160.66264"
