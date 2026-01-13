@@ -372,9 +372,9 @@ As is true for many of the character strengths in the VIA Classification, the st
 
 #### Kindness
 
-- Empathy/sympathy - [Goodness, Sacrifice, Courage, Civilization](../goodness.md)
-- Moral reasoning - [Faith, Reason](../reason/index.md)
-- Social responsibility - [Harmony, Generosity](../harmony.md)
+- Empathy/sympathy - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+- Moral reasoning - [Faith, Reason](reason/index.md)
+- Social responsibility - [Harmony, Generosity](harmony.md)
 
 #### Social Intelligence
 

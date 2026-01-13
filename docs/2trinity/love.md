@@ -68,7 +68,7 @@ Love is Empathy and is a composed virtue. Many believe that it cannot be defined
 In the practice of Raja and Kundalini Yoga, the discrimination of Empathy is deeper: Each of the 6 types is further isolated into the receiving and the emitting modes.
 Here are the mantras for each as depicted on the Anahata Chakra:
 
-![Anahata](/images/Anahata.png)
+![Anahata](/images/anahata.png)
 
 - य yaṁ: Love in general
 
