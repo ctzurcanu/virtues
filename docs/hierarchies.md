@@ -41,7 +41,7 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 ## Types of Resources
 
-### Proof - Universality, Beyond Species
+### Ethos - Universality, Beyond Species
 
 1. Miracle
 1. Provable Order/Hierarchy
