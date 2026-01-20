@@ -106,8 +106,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/virtues-social-card.jpg',
+    image: 'img/social-card.png',
     // Enhanced metadata for SEO and AI agents
     metadata: [
       {name: 'keywords', content: 'virtues, ethics, philosophy, faith, charity, hope, prudence, justice, temperance, fortitude, moral philosophy, virtue ethics'},

@@ -4,6 +4,7 @@ title: Maslow
 sidebar_position: 2
 description: Explore Maslow's Hierarchy of Needs and its connection to virtues. Understand how human needs relate to virtue development and moral psychology.
 keywords: [Maslow, hierarchy of needs, human needs, self-actualization, motivation, virtue ethics, moral psychology, developmental psychology]
+image: /images/maslow-virtues2.png
 ---
 [back](../)
 

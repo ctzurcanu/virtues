@@ -2,7 +2,7 @@
 layout: default
 title: Continuity
 sidebar_position: 2
-description: Discover Continuity as a composed virtue. 
+description: Discover Continuity as a composed virtue.
 keywords: [love, empathy, composed virtues, continuity, virtue ethics, moral philosophy, virtue]
 ---
 [back](./)

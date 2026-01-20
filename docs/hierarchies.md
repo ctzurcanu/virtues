@@ -4,6 +4,7 @@ title: Hierarchies
 sidebar_position: 33
 description: Explore the hierarchical organization of virtues from supreme to natural virtues. Learn about virtue dependencies, resource types, and connections to knowledge domains in virtue ethics.
 keywords: [hierarchy, virtue hierarchy, organization, structure, dependencies, virtue ethics, moral philosophy, systematic ethics, virtue order]
+image: /images/virtues-hier.png
 ---
 
 # Hierarchies

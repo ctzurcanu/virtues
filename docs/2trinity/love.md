@@ -2,8 +2,9 @@
 layout: default
 title: Love
 sidebar_position: 2
-description: Discover Love as a composed virtue. 
+description: Discover Love as a composed virtue.
 keywords: [love, empathy, composed virtues, empathy, moral beauty, virtue ethics, moral philosophy, virtue]
+image: /images/6loves.png
 ---
 [back](./)
 

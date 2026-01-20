@@ -4,6 +4,7 @@ title: Relationship
 sidebar_position: 48
 description: Explore relationships and their ethical dimensions. Learn about interpersonal connections, bonds, and the virtues that strengthen human relationships.
 keywords: [relationships, interpersonal connections, bonds, social virtues, virtue ethics, human connection]
+image: /images/relationship.png
 ---
 [back](./)
 

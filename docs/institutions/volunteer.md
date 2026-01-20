@@ -4,6 +4,7 @@ title: Volunteer
 sidebar_position: 51
 description: Understand volunteerism as virtuous action. Learn about unpaid service, altruism, and the virtue of helping others without expectation of reward.
 keywords: [volunteer, volunteerism, service, altruism, charity, helping, virtue ethics]
+image: /images/provable_volunteer.png
 ---
 [back](./)
 

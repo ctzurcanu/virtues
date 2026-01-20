@@ -4,6 +4,7 @@ title: 3. Faith, Reason
 sidebar_position: 4
 description: Explore Faith, Clarity of Implication, and Reason - belief in concepts, rational demonstration, and the intersection of faith and logos. Understand the philosophical foundations of truth, axioms, logic, and the virtue of intellectual clarity.
 keywords: [faith, reason, logos, philosophy, epistemology, truth, logic, axioms, rational thought, moral reasoning, virtue ethics]
+image: /images/faith.png
 ---
 [back](../)
 

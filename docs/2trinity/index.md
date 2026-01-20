@@ -4,6 +4,7 @@ title: Second Trinity
 sidebar_position: 2
 description: Second Trinity = Continuity, Governance, Empathy
 keywords: [continuity, governance, empathy, Trinity, relationships, virtue ethics, moral philosophy, civic virtue]
+image: /images/3virtues2.png
 ---
 [back](../)
 
