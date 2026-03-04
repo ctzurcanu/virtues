@@ -1,0 +1,13 @@
+# On Virtues
+
+> A comprehensive framework of virtues proposed for consensus, covering supreme virtues (Faith, Charity, Hope), cardinal virtues (Prudence, Justice, Temperance, Fortitude), and natural virtues. Explore virtue ethics, moral philosophy, and ethical frameworks.
+
+The Laurel Project presents a systematic framework for understanding and categorizing virtues. This resource covers the philosophical foundations, hierarchies, dependencies, and practical applications of virtues across traditions.
+
+## Documentation
+
+- [Full LLMs Context](https://virtues.provable.dev/llms-full.txt): Complete content for AI agent ingestion.
+- [Sitemap](https://virtues.provable.dev/sitemap.xml): XML sitemap of all pages.
+- [Main Site](https://virtues.provable.dev): Homepage with overview and navigation.
+- [Documentation](https://virtues.provable.dev/docs/): Full virtue ethics documentation.
+- [Blog](https://virtues.provable.dev/blog): Updates and articles.

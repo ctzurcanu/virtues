@@ -63,5 +63,9 @@ User-agent: DuckDuckBot
 Allow: /
 Crawl-delay: 0
 
+# AI Agent context files
+# See https://llmstxt.org for the llms.txt standard
+# These files help AI agents understand and index site content
+
 # Sitemap location
 Sitemap: https://virtues.provable.dev/sitemap.xml

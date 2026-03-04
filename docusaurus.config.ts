@@ -54,6 +54,7 @@ const config: Config = {
             'https://github.com/ctzurcanu/virtues/tree/main/',
           showLastUpdateTime: true,
           // showLastUpdateAuthor: true,
+          exclude: ['**/virtues_whole.md'],
         },
         sitemap: {
           changefreq: 'weekly',
@@ -96,11 +97,23 @@ const config: Config = {
   ],
 
   headTags: [
+    // AI agent discoverability - llms.txt standard
     {
       tagName: 'link',
       attributes: {
-        rel: 'canonical',
-        href: 'https://virtues.provable.dev',
+        rel: 'alternate',
+        type: 'text/plain',
+        title: 'LLM-friendly content',
+        href: 'https://virtues.provable.dev/llms.txt',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'alternate',
+        type: 'text/plain',
+        title: 'LLM-friendly full content',
+        href: 'https://virtues.provable.dev/llms-full.txt',
       },
     },
   ],
