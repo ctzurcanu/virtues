@@ -1,0 +1,55 @@
+# On Virtues
+
+> A comprehensive framework of virtues proposed for consensus, covering supreme virtues (Faith, Charity, Hope), cardinal virtues (Prudence, Justice, Temperance, Fortitude), and natural virtues. Explore virtue ethics, moral philosophy, and ethical frameworks.
+
+The Laurel Project presents a systematic framework for understanding and categorizing virtues. This resource covers the philosophical foundations, hierarchies, dependencies, and practical applications of virtues across traditions.
+
+## Core Virtues
+
+- [1. Miracle](https://virtues.provable.dev/docs/miracle): Proof beyond reason and transcendent truth — the supreme virtue of the miraculous and divine intervention.
+- [3. Faith, Reason](https://virtues.provable.dev/docs/reason/): Belief in concepts, rational demonstration, and the intersection of faith and logos.
+- [2. Order](https://virtues.provable.dev/docs/order): Provable Order and Hierarchy — organizing principles, ranking, and systematic understanding.
+- [4. Economy](https://virtues.provable.dev/docs/economy): Managing goodness and resources wisely — stewardship and resource allocation.
+- [5. Charity](https://virtues.provable.dev/docs/charity): Making efforts for the benefit of others, encouraging altruism and volunteering.
+- [6. Goodness](https://virtues.provable.dev/docs/goodness): Sacrifice, Courage, and Civilization — investing virtue for the benefit of others and society.
+- [7. Hope](https://virtues.provable.dev/docs/hope): The will to evolve, potential for growth, and capacity for invention and integration.
+- [8. Harmony](https://virtues.provable.dev/docs/harmony): Generosity, Humility, and Gratitude — respectful relationships and noble conduct.
+- [9. Prudence](https://virtues.provable.dev/docs/prudence): Practical wisdom, strategic thinking, and wise decision-making.
+- [10. Forgiveness](https://virtues.provable.dev/docs/forgiveness): Repentance, letting go of wrongs, and enabling reconciliation through mercy and compassion.
+- [11. Justice](https://virtues.provable.dev/docs/justice): Righteousness, fairness in judgment, and moral objectivity.
+- [12. Governance](https://virtues.provable.dev/docs/governance): Leadership, management, and organizing others toward common goals.
+- [13. Temperance](https://virtues.provable.dev/docs/temperance): Self-governance, moderation, and balance between hedonism and asceticism.
+- [14. Fairness](https://virtues.provable.dev/docs/fairness): Creating equitable conditions for competition, impartiality, and equal treatment.
+- [15. Fortitude](https://virtues.provable.dev/docs/fortitude): Willpower, courage, physical and mental strength, perseverance, and endurance.
+- [16. Competition](https://virtues.provable.dev/docs/competition): Healthy rivalry, striving for excellence, and meritocracy.
+- [17. Measurability](https://virtues.provable.dev/docs/measurability): Objective assessment, selection, and reality perception.
+- [18. Market](https://virtues.provable.dev/docs/market): Transparent exchange, trade, commerce, and economic interaction.
+- [19. Abundance](https://virtues.provable.dev/docs/abundance): Wealth, vital energy, productivity, and prosperity.
+- [20. Industriousness](https://virtues.provable.dev/docs/industriousness): Hard work, diligence, and productive effort.
+- [21. Survival](https://virtues.provable.dev/docs/survival): Life, health, and the fundamental virtue of existence and self-preservation.
+
+## Framework & Theory
+
+- [Virtues Overview](https://virtues.provable.dev/docs/virtues): Complete framework of supreme, cardinal, and natural virtues with hierarchy and dependencies.
+- [Principles](https://virtues.provable.dev/docs/principles): Fundamental principles underlying virtues and their relationships.
+- [Hierarchies](https://virtues.provable.dev/docs/hierarchies): Hierarchical organization from supreme to natural virtues, dependencies, and connections.
+- [Dictionary of Concepts](https://virtues.provable.dev/docs/concepts): Comprehensive dictionary of ethical concepts and their relationships to virtues.
+- [Reduction to 1 Concept](https://virtues.provable.dev/docs/1concept): How complex virtue systems can be distilled to fundamental principles.
+- [First Trinity](https://virtues.provable.dev/docs/1trinity/): Truth, Beauty, Goodness.
+- [Second Trinity](https://virtues.provable.dev/docs/2trinity/): Continuity, Governance, Empathy.
+- [Composed Virtues](https://virtues.provable.dev/docs/composed/): Virtues arising from combinations of fundamental virtues.
+- [Methodology](https://virtues.provable.dev/docs/methodology): Methodology and limitations of the virtue ethics framework.
+
+## Cross-Tradition & Applied
+
+- [The 99 Names of Allah](https://virtues.provable.dev/docs/allah): Islamic divine attributes mapped to the virtue framework.
+- [Scenarios](https://virtues.provable.dev/docs/scenarios/): Practical scenarios and case studies illustrating virtues in action.
+- [Institutions](https://virtues.provable.dev/docs/institutions/): Organizations and social structures that embody and foster virtuous behavior.
+- [Other Systems](https://virtues.provable.dev/docs/systems/): VIA Inventory, Maslow's Hierarchy, resilience factors, and developmental assets.
+- [Making Virtues Computable](https://virtues.provable.dev/docs/computable/): Computational approaches to encoding and measuring virtues.
+
+## Resources
+
+- [Bibliography](https://virtues.provable.dev/docs/bibliography): Complete bibliography and sources for the virtue ethics framework.
+- [Blog](https://virtues.provable.dev/blog): Updates and articles on virtue ethics.
+- [GitHub Repository](https://github.com/ctzurcanu/virtues): Source code and contribution guidelines.

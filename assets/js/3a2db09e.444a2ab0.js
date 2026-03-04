@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvirtues=self.webpackChunkvirtues||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"virtues","permalink":"/blog/tags/virtues","description":"about virtues","count":1}]}')}}]);

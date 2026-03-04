@@ -8,11 +8,17 @@
     <subtitle>On Virtues Blog</subtitle>
     <icon>https://virtues.provable.dev/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Coming Soon]]></title>
+        <title type="html"><![CDATA[On Virtues - Coming Soon]]></title>
         <id>https://virtues.provable.dev/blog/coming-soon</id>
         <link href="https://virtues.provable.dev/blog/coming-soon"/>
         <updated>2025-12-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Coming soon.]]></summary>
-        <content type="html"><![CDATA[<p>Coming soon.</p>]]></content>
+        <summary type="html"><![CDATA[The On Virtues project is launching a comprehensive guide to virtue ethics, covering supreme, cardinal, and natural virtues with philosophical foundations across traditions.]]></summary>
+        <content type="html"><![CDATA[<p>The On Virtues project is preparing a comprehensive guide to virtue ethics — a systematic framework covering supreme virtues (Faith, Charity, Hope), cardinal virtues (Prudence, Justice, Temperance, Fortitude), and natural virtues, with philosophical foundations spanning multiple traditions.</p>
+<p>Stay tuned for articles exploring individual virtues, their hierarchies, practical applications, and cross-tradition perspectives including Islamic, Christian, Buddhist, Hindu, Classical Greek, Taoist, and Confucian approaches to virtue.</p>]]></content>
+        <author>
+            <name>Christian Tzurcanu</name>
+            <uri>https://virtues.provable.dev</uri>
+        </author>
+        <category label="virtues" term="virtues"/>
     </entry>
 </feed>
