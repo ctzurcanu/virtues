@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.34869565"
-     inkscape:cx="-83.167084"
-     inkscape:cy="1150"
+     inkscape:zoom="0.36318182"
+     inkscape:cx="249.18648"
+     inkscape:cy="1100"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2">
@@ -231,7 +231,7 @@
     </marker>
   </defs>
   <rect
-     style="opacity:0.68;fill:#f2f2f2;fill-opacity:0.958015;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     style="opacity:0.43;fill:#f2f2f2;fill-opacity:0.958015;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
      id="rect244"
      width="132.29167"
      height="582.08331"
@@ -292,25 +292,25 @@
          id="g1960-0"
          transform="translate(-35.992037,-89.67695)">
         <rect
-           style="opacity:0.99;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.464705;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           style="opacity:0.99;fill:#808080;fill-opacity:0.717791;stroke:#808080;stroke-width:0.599168;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
            id="rect236-3"
-           width="42.161209"
-           height="18.58824"
-           x="81.057266"
-           y="46.872982"
-           ry="9.2941198"
-           rx="9.2941198" />
+           width="70.600685"
+           height="18.453777"
+           x="66.837532"
+           y="46.940212"
+           ry="9.2268887"
+           rx="8.9958334" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.99;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0.185208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;opacity:0.99;fill:#000000;fill-opacity:0.717791;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
            x="101.99197"
-           y="59.127609"
+           y="58.598442"
            id="text1003-26"><tspan
              sodipodi:role="line"
              id="tspan1001-94"
-             style="font-size:7.76111px;fill:#000000;stroke-width:0.185208;stroke-dasharray:none"
+             style="font-size:7.76111px;fill:#000000;stroke-width:0;stroke-dasharray:none"
              x="101.99197"
-             y="59.127609">Miracle</tspan></text>
+             y="58.598442">Ineffable Goodness</tspan></text>
       </g>
       <g
          id="g1955"
