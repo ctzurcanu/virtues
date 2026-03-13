@@ -96,7 +96,7 @@ We accept these definitions of virtue:
 
 | No | Dimensions\Ranges | Lacking | Mean | Excess |
 |----|-------------------|---------|------|--------|
-|  1 | Proof beyound reason | Trick |[Miracle](miracle.md) | Magic |
+|  1 | Proof beyound reason | No proof or No Goodness|[Ineffable Goodness](ineffable_goodness.md) | Transgressions |
 |  2 | Orderliness | Inability to Rank | [Provable Order/Hierarchy](order.md)| Rigidity |
 |  3 | Truth Acceptance |Cinicism| [Faith, Reason](reason/index.md) | Credulity |
 |  4 | Management of Goodness | No Management | [Economy](economy.md) | Accounting too strictly |
@@ -138,7 +138,7 @@ We accept these definitions of virtue:
 
 | No. |                       Virtue              \ Level         |    1    |     2   |    3    |
 |-----|-----------------------------------------------------------|---------|---------|---------|
-|   1 | [Miracle](miracle.md)                                     | 1I Assurance | 2I Insurance | aIT Religion |
+|   1 | [Ineffable Goodness](ineffable_goodness.md)                                     | 1I Assurance | 2I Insurance | aIT Religion |
 |   2 | [Provable Order/Hierarchy](order.md)                      | 1I Rectitude | 2I Friendship | aIT Ethics |
 |   3 | [Faith, Reason](reason/index.md)                                 | 2I |  |  |
 |   4 | [Economy](economy.md)                                     | 3I |  |  |
@@ -394,84 +394,6 @@ We accept these definitions of virtue:
         1. Fortitude
     1. modesty (让; ràng)
         1. Prudence
-
-
----
-
-
-# Miracle, Proof Beyond Reason
-
-## Definition
-
-- an reordering of virtues, based on inconvertible proof
-- shaktipat
-- it always comes with a clear explanation of what was proven
-- it has to prove it's own goodness
-- spiritual transmission of a tradition beyond words
-- unexplainable beauty
-- the discovery of an universal theory that changes the foundations of what was known before, without much priors
-
-### Qualitatively
-A virtue has to be considered using the following criteria:
-1. [x] Is as atomic as possible.
-
-| \                                   | Diminish | Addition | Synergy  |
-|-------------------------------------|----------|----------|----------|
-|[Miracle](miracle.md)                |    [x]   |    [x]   |    [x]   |
-|[Provable Order](order.md)           |    [x]   |    [x]   |    [x]   |
-|[Faith, Reason](reason/index.md)            |    [x]   |    [x]   |    [x]   |
-|[Economy](economy.md)                |    [x]   |    [x]   |    [x]   |
-|[Charity](charity.md)                |    [x]   |    [x]   |    [x]   |
-|[Goodness, Sacrifice](goodness.md)   |    [x]   |    [x]   |    [x]   |
-|[Hope](hope.md)                      |    [x]   |    [x]   |    [x]   |
-|[Harmony, Generosity](harmony.md)    |    [x]   |    [x]   |    [x]   |
-|[Prudence](prudence.md)              |    [x]   |    [x]   |    [x]   |
-|[Forgiveness](forgiveness.md)        |    [x]   |    [x]   |    [x]   |
-|[Justice](justice.md)                |    [x]   |    [x]   |    [x]   |
-|[Governance](governance.md)          |    [x]   |    [x]   |    [x]   |
-|[Temperance](temperance.md)          |    [x]   |    [x]   |    [x]   |
-|[Fairness](fairness.md)              |    [x]   |    [x]   |    [x]   |
-|[Fortitude](fortitude.md)            |    [x]   |    [x]   |    [x]   |
-|[Competition](competition.md)        |    [x]   |    [x]   |    [x]   |
-|[Measurability](measurability.md)    |    [x]   |    [x]   |    [x]   |
-|[Market](market.md)                  |    [x]   |    [x]   |    [x]   |
-|[Abundance](abundance.md)            |    [x]   |    [x]   |    [x]   |
-|[Industriousness](industriousness.md)|    [x]   |    [x]   |    [x]   |
-|[Survival](survival.md)              |    [x]   |    [x]   |    [x]   |
-
-|     \     | Individual | Group | Universe |
-| ----------|------------|-------|----------|
-| Immediate |    [x]     |  [x]  |   [x]    |
-| Long-Term |    [x]     |  [x]  |   [x]    |
-| Past      |    [x]     |  [x]  |   [x]    |
-
-- [x] On the dimension of measure: lack or be in excess in most cases.
-1. [x] Existence of instantiation:
-    1. [x] The miracles of Jesus, Moses
-    1. [x] Most people cannot perform miracles
-1. Indirection, definition:
-    1. [x] To have a name, concept: Miracle
-    1. [ ] To have a signifier, flag, symbol
-    1. To be explained by ritualistic act
-    1. To be explained by artistic depiction
-
-### Quantitatively
-
-|           |                     |
-|-----------|---------------------|
-| Dimension | Proof beyond reason |
-| Lacking   | Trick               |
-| Mean      | Miracle             |
-| Excess    | Magic               |
-
-## Correspondences
-
-- Christianity: the miracles of Jesus' Resurection and his apostles' Great Commission
-- Islam: the reception of The Quran by Muhammad
-- Judaism: reception of The Decalogue by Moses
-- Hinduism: Shaktipata
-- Science: the discoveries that fundamentaly change the whole understanding. Such as those by Albert Einstein.
-
 
 
 ---
@@ -1312,7 +1234,7 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
 
 ### Virtues Order
 
-1. [Miracle](miracle.md)
+1. [Ineffable Goodness](ineffable_goodness.md)
 1. [Provable Order/Hierarchy](order.md)
 1. [Faith, Reason](reason/index.md)
 1. [Economy](economy.md)
@@ -1338,9 +1260,9 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 ## Types of Resources
 
-### Proof - Universality, Beyond Species
+### Ethos - Universality, Beyond Species
 
-1. Miracle
+1. Ineffable Goodness
 1. Provable Order/Hierarchy
 1. Faith, Reason
 1. Economy
@@ -1372,7 +1294,7 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 ## Links with Knowledge Domains
 
-1. Miracle
+1. Ineffable Goodness
 1. Provable Order/Hierarchy
 1. Faith, Reason
     - Mathematics
@@ -1487,6 +1409,7 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 1. [Sahasrara](https://en.wikipedia.org/wiki/Sahasrara)
     - (beyond concepts)
+    - Ineffable Goodness
 1. [Ajna](https://en.wikipedia.org/wiki/Ajna)
     - Provable Hierarchy
     - Faith, Reason
@@ -3835,7 +3758,7 @@ There are two types of gratitude:
 
 ### To VIA: 
 
-1. [Miracle](miracle.md)
+1. [Ineffable Goodness](ineffable_goodness.md)
 1. [Economy](economy.md)
 1. [Charity](charity.md)
 1. [Forgiveness](forgiveness.md)
@@ -3845,6 +3768,7 @@ There are two types of gratitude:
 1. [Survival](survival.md)
 
 [back](../)
+
 
 ---
 
@@ -3857,3 +3781,4 @@ Other systems and Theories of Virtue.
 [back](../)
 
 ---
+

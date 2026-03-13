@@ -54,7 +54,7 @@ We accept these definitions of virtue:
 
 | No | Dimensions\Ranges | Lacking | Mean | Excess |
 |----|-------------------|---------|------|--------|
-|  1 | Proof beyound reason | Trick |[Miracle](miracle.md) | Magic |
+|  1 | Proof beyound reason | No proof or No Goodness|[Ineffable Goodness](ineffable_goodness.md) | Transgressions |
 |  2 | Orderliness | Inability to Rank | [Provable Order/Hierarchy](order.md)| Rigidity |
 |  3 | Truth Acceptance |Cinicism| [Faith, Reason](reason/index.md) | Credulity |
 |  4 | Management of Goodness | No Management | [Economy](economy.md) | Accounting too strictly |
@@ -98,7 +98,7 @@ We accept these definitions of virtue:
 
 | No. |                       Virtue              \ Level         |    1    |     2   |    3    |
 |-----|-----------------------------------------------------------|---------|---------|---------|
-|   1 | [Miracle](miracle.md)                                     | 1I Assurance | 2I Insurance | aIT Religion |
+|   1 | [Ineffable Goodness](ineffable_goodness.md)                                     | 1I Assurance | 2I Insurance | aIT Religion |
 |   2 | [Provable Order/Hierarchy](order.md)                      | 1I Rectitude | 2I Friendship | aIT Ethics |
 |   3 | [Faith, Reason](reason/index.md)                                 | 2I |  |  |
 |   4 | [Economy](economy.md)                                     | 3I |  |  |

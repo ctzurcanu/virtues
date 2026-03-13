@@ -475,7 +475,7 @@ There are two types of gratitude:
 
 ### To VIA: 
 
-1. [Miracle](miracle.md)
+1. [Ineffable Goodness](ineffable_goodness.md)
 1. [Economy](economy.md)
 1. [Charity](charity.md)
 1. [Forgiveness](forgiveness.md)

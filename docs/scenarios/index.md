@@ -52,7 +52,7 @@ We choose T: Taylor as the main actor and R: Riley as the main antagonist. A: Al
 
 ## Virtues
 
-1. [Miracle](../miracle.md)
+1. [Ineffable Goodness](../ineffable_goodness.md)
 1. [Provable Order/Hierarchy](../order.md)
 1. [Faith, Reason](../reason/index.md)
 1. [Economy](../economy.md)

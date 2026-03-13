@@ -16,7 +16,7 @@ image: /images/virtues-hier.png
 
 ### Virtues Order
 
-1. [Miracle](miracle.md)
+1. [Ineffable Goodness](ineffable_goodness.md)
 1. [Provable Order/Hierarchy](order.md)
 1. [Faith, Reason](reason/index.md)
 1. [Economy](economy.md)
@@ -44,7 +44,7 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 ### Ethos - Universality, Beyond Species
 
-1. Miracle
+1. Ineffable Goodness
 1. Provable Order/Hierarchy
 1. Faith, Reason
 1. Economy
@@ -78,7 +78,7 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 ## Links with Knowledge Domains
 
-1. Miracle
+1. Ineffable Goodness
 1. Provable Order/Hierarchy
 1. Faith, Reason
     - Mathematics
@@ -194,6 +194,7 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 1. [Sahasrara](https://en.wikipedia.org/wiki/Sahasrara)
     - (beyond concepts)
+    - Ineffable Goodness
 1. [Ajna](https://en.wikipedia.org/wiki/Ajna)
     - Provable Hierarchy
     - Faith, Reason

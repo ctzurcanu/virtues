@@ -1,18 +1,18 @@
 ---
 layout: default
-title: 1. Miracle
+title: 1. Ineffable Goodness
 sidebar_position: 2
-description: Understand Miracle - proof beyond reason and transcendent truth. Explore the supreme virtue of the miraculous, divine intervention, and faith beyond logic in virtue ethics and theology.
-keywords: [miracle, divine, transcendent, proof beyond reason, supreme virtues, faith, theology, virtue ethics, moral philosophy, divine intervention]
+description: Understand Ineffable Goodness - proof beyond reason and transcendent truth. Explore the supreme virtue of the miraculous, divine intervention, and faith beyond logic in virtue ethics and theology.
+keywords: [ineffable, goodness, divine, transcendent, good beyond reason, supreme virtues, faith, theology, virtue ethics, moral philosophy, divine intervention]
 ---
 
-# Miracle, Proof Beyond Reason
+# Ineffable Goodness, Good Beyond Reason
 
 
 ## Definition
 
 
-- an reordering of virtues, based on inconvertible proof
+- a reordering of virtues, based on inconvertible proof
 - shaktipat
 - it always comes with a clear explanation of what was proven
 - it has to prove it's own goodness
@@ -26,7 +26,7 @@ A virtue has to be considered using the following criteria:
 
 | \                                   | Diminish | Addition | Synergy  |
 |-------------------------------------|----------|----------|----------|
-|[Miracle](miracle.md)                |    [x]   |    [x]   |    [x]   |
+|[Ineffable Goodness](ineffable_goodness.md)                |    [x]   |    [x]   |    [x]   |
 |[Provable Order](order.md)           |    [x]   |    [x]   |    [x]   |
 |[Faith, Reason](reason/index.md)            |    [x]   |    [x]   |    [x]   |
 |[Economy](economy.md)                |    [x]   |    [x]   |    [x]   |
@@ -61,7 +61,7 @@ A virtue has to be considered using the following criteria:
     1. [x] The miracles of Jesus, Moses
     1. [x] Most people cannot perform miracles
 1. Indirection, definition:
-    1. [x] To have a name, concept: Miracle
+    1. [x] To have a name, concept: Ineffable Goodness
     1. [ ] To have a signifier, flag, symbol
     1. To be explained by ritualistic act
     1. To be explained by artistic depiction
@@ -70,10 +70,10 @@ A virtue has to be considered using the following criteria:
 
 |           |                     |
 |-----------|---------------------|
-| Dimension | Proof beyond reason |
-| Lacking   | Trick               |
-| Mean      | Miracle             |
-| Excess    | Magic               |
+| Dimension | Good beyond reason |
+| Lacking   | No Goodness / Not Provable |
+| Mean      | Ineffable Goodness  |
+| Excess    | Transgression of natural laws or economy             |
 
 ## Correspondences
 
