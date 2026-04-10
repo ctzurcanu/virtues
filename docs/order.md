@@ -8,11 +8,20 @@ keywords: [order, hierarchy, organization, structure, ranking, supreme virtues, 
 
 # Provable Order, Hierarchy of Virtues
 
+also:
+- moral discrimination
+- definition of virtues
+- inclusion/exclusion from a moral set
+- categorization of virtues
+- tests of the ordering by hypothetic experiments
+- abstractions applied to virtues and the moral domain
+- isolation of virtues from the diminishing effects of other virtues
 
 ## Definition
 
 
 - an ordering of virtues that is provable by reason and/or by provable consensus
+- a decision that is a direct consequence of such ordering
 - is a type of [Arete](goodness.md)
 
 ## Proof of Existence
@@ -29,6 +38,9 @@ Proof by Reductio ad Absurdum:
   - voting establishes that it does not exist: those who consider that the ordering exists maintain a rational basis for behaving according to the consensus
   - an ordering is achieved by consensus: all is in rational harmony
 - since the presumption that an ordering does not exist leads to a possible situation that does not conform to the [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative), the ordering of virtues must already exist
+
+
+
 
 
 ## Correspondences
