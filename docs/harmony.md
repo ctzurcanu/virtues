@@ -36,6 +36,11 @@ Modesty cannot exist if Greatness is not enacted by the same actor: it would ser
 - the Muslim women dress modestly outside their homes. They dress beautifully inside.
 - during Hindu ceremonies they dress children actors as deities. When the ceremony is over: they are treated just like any other kid.
 
+## Gratitude, Humility, Recognition, Harmony - 2 Kinds
+
+All of them have a dual nature: they can be lived as an individual or as an institution.
+In other words: one can recognize the virtues of another (person or institution) while representing his own pperson or while representing an ethos. When they are lived while representing one's own person: these virtues are part of the [middle group](https://virtues.provable.dev/docs/hierarchies#effort-and-intent---community-tribe). While they are lived from inside the ethos: they are part of the [highest group](https://virtues.provable.dev/docs/hierarchies#ethos---universality-beyond-species).
+
 
 ## Correspondences
 

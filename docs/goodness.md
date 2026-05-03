@@ -87,3 +87,7 @@ Endagering the supreme virtues of:
   - Faith, Reason
 
 in the service of a higher virtue (than the one in contest)
+
+## Sacriface from Ethos, for Ethos
+
+The highest sacrifice is performed while impersonating an Ethos, for the elevation of the Ethos itself or another ethos.
