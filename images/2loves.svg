@@ -29,8 +29,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.77246094"
-     inkscape:cx="512"
+     inkscape:zoom="0.78027344"
+     inkscape:cx="499.82478"
      inkscape:cy="512"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -63,40 +63,43 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       sodipodi:type="star"
-       style="opacity:0.8;fill:none;stroke:#808080;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       id="path234"
-       inkscape:flatsided="true"
-       sodipodi:sides="3"
-       sodipodi:cx="56.173283"
-       sodipodi:cy="56.858322"
-       sodipodi:r1="97.480499"
-       sodipodi:r2="48.74025"
-       sodipodi:arg1="0.52359878"
-       sodipodi:arg2="1.5707963"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 140.59387,105.59857 -168.841176,0 84.420589,-146.220747 z"
-       inkscape:transform-center-y="-24.370124"
-       transform="translate(79.293383,78.901105)" />
-    <path
-       sodipodi:type="star"
-       style="opacity:0.8;fill:none;stroke:#808080;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.52916699,6.08542032;stroke-dashoffset:0"
-       id="path234-8"
-       inkscape:flatsided="true"
-       sodipodi:sides="3"
-       sodipodi:cx="56.173283"
-       sodipodi:cy="56.858322"
-       sodipodi:r1="97.480499"
-       sodipodi:r2="48.74025"
-       sodipodi:arg1="0.52359878"
-       sodipodi:arg2="1.5707963"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 140.59387,105.59857 -168.841176,0 84.420589,-146.220747 z"
-       inkscape:transform-center-y="24.370121"
-       transform="matrix(1,0,0,-1,79.293383,192.03222)" />
+    <g
+       id="g524">
+      <path
+         sodipodi:type="star"
+         style="opacity:0.8;fill:none;stroke:#808080;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path234"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="56.173283"
+         sodipodi:cy="56.858322"
+         sodipodi:r1="97.480499"
+         sodipodi:r2="48.74025"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 140.59387,105.59857 -168.841176,0 84.420589,-146.220747 z"
+         inkscape:transform-center-y="-24.370124"
+         transform="translate(79.293383,78.901105)" />
+      <path
+         sodipodi:type="star"
+         style="opacity:0.8;fill:none;stroke:#808080;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.529167, 6.08542;stroke-dashoffset:0"
+         id="path234-8"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="56.173283"
+         sodipodi:cy="56.858322"
+         sodipodi:r1="97.480499"
+         sodipodi:r2="48.74025"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 140.59387,105.59857 -168.841176,0 84.420589,-146.220747 z"
+         inkscape:transform-center-y="24.370121"
+         transform="matrix(1,0,0,-1,78.508859,192.03222)" />
+    </g>
     <text
        xml:space="preserve"
        style="font-weight:300;font-size:17.6389px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Light';opacity:0.8;fill:none;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -111,14 +114,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';opacity:0.8;fill:#808080;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       x="104.66319"
-       y="251.09793"
+       x="52.043625"
+       y="253.74373"
        id="text1239"><tspan
          sodipodi:role="line"
          id="tspan1237"
          style="stroke-width:0"
-         x="104.66319"
-         y="251.09793">Oxytocin</tspan></text>
+         x="52.043625"
+         y="253.74373">Oxytocin &amp; Vasopressin</tspan></text>
   </g>
   <metadata
      id="metadata184">
