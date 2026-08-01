@@ -51,23 +51,23 @@ keywords: [concepts, dictionary, terminology, altruism, beauty, creativity, duty
 - Xenia ξενία, [Charity](charity.md)
 
 ### Intelligence:
-  1. Nous, [Faith, Reason](reason.md) (energy of intellect)
+  1. Nous, [Faith, Reason](reason/) (energy of intellect)
   1. Logic Fallacy
   1. [Governance](governance.md)
   1. diminishes [Governance](governance.md) (vicious propaganda, misused cleverness)
 
 ### Legitimacy
-- right to execute [Governance](governance.md) derived from [Faith, Reason](reason.md) (clarity of implication, representation), [Prudence](prudence.md) (optimization), and [Justice](justice.md)
+- right to execute [Governance](governance.md) derived from [Faith, Reason](reason/) (clarity of implication, representation), [Prudence](prudence.md) (optimization), and [Justice](justice.md)
 
 ### Optimism
   - [Hope](hope.md)
   - Lack of [Fortitude](fortitude.md)
-  - Lack of [Faith, Reason](reason.md)
+  - Lack of [Faith, Reason](reason/)
 
 ### Pesimism
   - Realism, [Prudence](prudence.md)
   - Lack of [Hope](hope.md)
-  - Lack of [Faith, Reason](reason.md)
+  - Lack of [Faith, Reason](reason/)
   - Lack of [Fortitude](fortitude.md)
 
 ### Privacy
@@ -93,7 +93,7 @@ keywords: [concepts, dictionary, terminology, altruism, beauty, creativity, duty
 ### Rigor
   - [Fortitude](fortitude.md): Rigor with application to the body
   - [Justice](justice.md): ~ the emotions
-  - [Faith, Reason](reason.md): ~ the mental concepts
+  - [Faith, Reason](reason/): ~ the mental concepts
 
 ### Sincerity
   1. Lack of [Temperance](temperance.md)
@@ -111,7 +111,7 @@ keywords: [concepts, dictionary, terminology, altruism, beauty, creativity, duty
 
 
 ### Wonder
-- θαυμάζω (thaumazó: to marvel, wonder) part of [Faith, Reason](reason.md). It is the vitality of mentally exploring and linking concepts.
+- θαυμάζω (thaumazó: to marvel, wonder) part of [Faith, Reason](reason/). It is the vitality of mentally exploring and linking concepts.
 - [Hope](hope.md)
 
 

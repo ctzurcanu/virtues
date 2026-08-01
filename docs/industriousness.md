@@ -145,7 +145,7 @@ The highest Industriousness is not maximum effort. Maximum effort may be wastefu
 ### Minor
 
 - [Temperance](temperance.md): Temperance prevents the fruits of work from being wasted by appetite.
-- [Faith, Reason](faith.md): Faith gives confidence in order and continuity; Reason discovers better methods.
+- [Faith, Reason](reason/): Faith gives confidence in order and continuity; Reason discovers better methods.
 - [Competition](competition.md): Fair Competition can sharpen Industriousness by rewarding better methods, endurance, skill, and reliability.
 
 Then:
@@ -165,7 +165,7 @@ Then:
 - [Prudence](prudence.md): Prudence requires time, tools, records, reserves, and stability.
 - [Charity](charity.md): Charity requires something to give: food, shelter, skill, medicine, time, tools, or wealth.
 - [Governance](governance.md): Governance depends on provisioning: food, roads, records, buildings, tools, trained workers, and maintained infrastructure.
-- [Faith, Reason](faith.md): Religions, philosophies, and schools need material continuity: copied texts, maintained temples, trained teachers, fed students, preserved languages, and repeated rites.
+- [Faith, Reason](reason/): Religions, philosophies, and schools need material continuity: copied texts, maintained temples, trained teachers, fed students, preserved languages, and repeated rites.
 
 Then:
 

@@ -10,6 +10,6 @@ image: /img/social-card.png
 
 The On Virtues project is preparing a comprehensive guide to virtue ethics — a systematic framework covering supreme virtues (Faith, Charity, Hope), cardinal virtues (Prudence, Justice, Temperance, Fortitude), and natural virtues, with philosophical foundations spanning multiple traditions.
 
-<!-- truncate -->
+{/* truncate */}
 
 Stay tuned for articles exploring individual virtues, their hierarchies, practical applications, and cross-tradition perspectives including Islamic, Christian, Buddhist, Hindu, Classical Greek, Taoist, and Confucian approaches to virtue.

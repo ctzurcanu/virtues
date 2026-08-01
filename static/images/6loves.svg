@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="6loves.svg"
-   inkscape:export-filename="6loves.png"
+   inkscape:export-filename="../../../../../../../Users/christiantzurcanu/Desktop/6loves.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,9 +29,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.77246094"
-     inkscape:cx="507.46903"
-     inkscape:cy="512"
+     inkscape:zoom="0.78027344"
+     inkscape:cx="183.26909"
+     inkscape:cy="513.2816"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -187,6 +187,17 @@
          y="203.11436">for the good</tspan></text>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0665px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.8;fill:#808080;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="118.43513"
+       y="122.71754"
+       id="text1255-9"><tspan
+         sodipodi:role="line"
+         id="tspan1253-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Italic';stroke-width:0"
+         x="118.43513"
+         y="122.71754">Filautia</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.8;fill:#ececec;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        x="49.69717"
        y="141.65062"
@@ -207,6 +218,12 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:center;text-anchor:middle;fill:#808080;stroke-width:0;stroke-dasharray:none"
          x="219.55841"
          y="141.65062">Filia</tspan></text>
+    <circle
+       style="fill:#999999;stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.895935"
+       id="path433"
+       cx="135.46666"
+       cy="135.46666"
+       r="11.25" />
   </g>
   <metadata
      id="metadata184">

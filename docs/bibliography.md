@@ -7,7 +7,7 @@ keywords: [bibliography, sources, references, citations, research, virtue ethics
 
 # Bibliography and Academic Sources
 
-<!-- WORK_IN_PROGRESS: This bibliography is being developed to provide proper academic foundation for virtue documentation -->
+{/* WORK_IN_PROGRESS: This bibliography is being developed to provide proper academic foundation for virtue documentation */}
 
 ## Purpose
 

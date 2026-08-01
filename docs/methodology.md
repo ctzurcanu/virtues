@@ -7,7 +7,7 @@ keywords: [methodology, limitations, research methods, virtue ethics, philosophy
 
 # Methodology and Limitations
 
-<!-- NEEDS_CITATIONS: Comparative methodology sources required -->
+{/* NEEDS_CITATIONS: Comparative methodology sources required */}
 
 ## Purpose
 
