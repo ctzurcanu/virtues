@@ -28,11 +28,13 @@ Love is Empathy and is a composed virtue. Many believe that it cannot be defined
 ![6 Loves](/images/6loves.png)
 
 1. Agape
+1. Philia
+   1. Philia for the Good
+   1. Philia for Pleasure
+1. Eros
+   1. Eros for the Good
+   1. Eros for Pleasure
 1. Storge
-1. Platonic Love
-1. Sexual Love
-1. Love for Peers
-1. Love for a Teacher/Student
 
 
 ## 1. Agape
@@ -41,72 +43,34 @@ Love is Empathy and is a composed virtue. Many believe that it cannot be defined
 
 It is the love for an [Ethos](https://ctzurcanu.github.io/ethos/phylogeny/) (experienced together with its members) and the love received from an Ethos.
 
+### Karma and Dharma
+
+When an Ethos acquires Karma, it is by design good karma and is transformed into Dharma. Dharma does not obey the same laws as karma.
+
+- dharma is active rather than reactive
+- it is the medium of transactions for the Positive Golden Rule: an Ethos treats others (people and Ethoses) as it would like to be treated
+
+To illustrate the difference: the first action that created the universe could not have been in the realm of karma, because karma is reactive. It was a dharma and is proof that dharma obeys different laws than karma: it does not need priors.
+
+We live in a universe created out of an original Agape.
+
 ### Examples
 
 - loving God through prayer, worship, or surrender
 - loving Truth or Justice even when defending it has a personal cost
 - reverence for the intelligible order of the Universe
+- an Ethos offering hospitality or aid before receiving any prior benefit
+- an institution treating another person or Ethos as it would itself wish to be treated
 - a congregation experiencing and sustaining its religious ethos together
 - collective devotion through dhikr/zikir/davening, communal prayer, chanting, or sacred ritual
-- receiving guidance, meaning, and belonging from a living ethos
 - awakening Kundalini together (for example during Dynamic Meditation)
+- receiving guidance, meaning, and belonging from a living ethos
 
-## 2. Storge
-[Storge](https://en.wikipedia.org/wiki/Storge) or familial love refers to natural or instinctual affection, such as the love of a parent towards offspring and vice versa.
 
-### Examples
+## 2. Philia for the Good
 
-- a parent comforting a frightened child
-- a child caring for an elderly parent
-- affection and protection between siblings
-- coworkers experienced as family
-- grandparents caring for their grandchildren
-- the bond between adoptive parents and their adopted child
-- attachment to one’s extended family, homeland, people, or species
-- protecting animals, ecosystems, or Life as one’s greater family
+[Love between a Teacher and Student](https://en.wikipedia.org/wiki/Philia) is friendship for the good. It is a friendship where both friends enjoy each other's company. As long as both friends keep similar characters and moral hierarchy, the relationship will endure since the motive behind it is the transfer of ethical knowledge and building common sense. This is the highest level of philia and might be called true friendship. The pleasure of evolving civilization (or an ethos) together.
 
-## 3. Platonic Love - Eros for the Good
-
-[Platonic love](https://en.wikipedia.org/wiki/Platonic_love) is a type of erotic/romantic love, and it concerns rising through levels of closeness to wisdom and true beauty, from carnal attraction to individual bodies to attraction to souls, and eventually, union with the truth. The sublimation of sexual love into Agape or Love for the Good.
-
-### Examples
-
-- being attracted to someone’s character, wisdom, or moral beauty
-- two people helping each other move from physical attraction toward Agape
-- loving someone without seeking sexual possession or gratification
-- supporting the beloved’s vocation even when it prevents a conventional relationship
-- contemplating physical beauty as an opening toward beauty of soul and universal Beauty
-- transforming erotic longing into shared philosophical, artistic, or spiritual creation
-
-## 4. Sexual Love - Eros for Pleasure
-
-[Sexual Love/Eros](https://en.wikipedia.org/wiki/Eros_(concept)) is sensual or passionate love, from which the term erotic is derived. Eros has also been used in philosophy and psychology in a much wider sense, almost as an equivalent to "life energy". The pleasure of giving pleasure to the other.
-
-### Examples
-
-- lovers taking pleasure in giving each other pleasure
-- consensual erotic intimacy expressing tenderness and trust
-- affectionate touch that strengthens the bond between partners
-- delighting in the beloved’s body without treating it as an object
-- partners learning and respecting one another’s desires and boundaries
-- sexual union experienced as mutual giving and receiving
-
-## 5. Love for Peers
-[Love for Peers/Philia of utility and pleasure](https://en.wikipedia.org/wiki/Philia), usually translated as "friendship" or affection, is of 3 types: the friendship of utility, the friendship of pleasure, and the friendship for the good (treated in part 6). The pleasure of being together in an ethos.
-
-### Examples
-
-- friends enjoying conversation, food, music, travel, or play together
-- teammates enjoying participation in the same sport
-- neighbors regularly helping one another
-- colleagues who trust and assist each other in shared work
-- members of a community enjoying its customs and celebrations
-- friends maintaining companionship through humor, hospitality, and shared memories
-- people exchanging skills or resources fairly while also valuing one another
-
-## 6. Love for a Teacher/Student
-
-[Love a for Teacher/Student/Philia for the good](https://en.wikipedia.org/wiki/Philia) is friendship for the good. It is a friendship where both friends enjoy each other's company. As long as both friends keep similar characters and moral hierarchy, the relationship will endure since the motive behind it is the transfer of ethical knowledge and building common sense. This is the highest level of philia and might be called true friendship. The pleasure of evolving civilization (or an ethos) together.
 It also includes virtuous friendship between equals, because the roles of teacher and student may alternate. From the point of view of love, equality exists only through transactions between the parties. Without transactions, no relational equality can be established. When the transactions are unbalanced, the parties are unequal in the particular dimensions exchanged, even if the imbalance may later be corrected through further transactions.
 
 ### Examples
@@ -116,14 +80,82 @@ It also includes virtuous friendship between equals, because the roles of teache
 - a mentor correcting a disciple for the disciple’s genuine development
 - a spiritual teacher transmitting a practice while the student preserves and develops the lineage
 - two virtuous equals examining and correcting one another’s ethos
+- friends alternating as teacher and student while balancing what each contributes and receives
 - friends collaborating on philosophy, science, art, or institutions for the public good
 - members of a school or lineage developing civilization together
 
+## 3. Philia for Pleasure
 
+[Love for Peers/Philia for Pleasure](https://en.wikipedia.org/wiki/Philia) is usually translated as "friendship" or active companionship.
+
+### Examples
+
+- friends enjoying conversation, food, music, travel, or play together
+- teammates enjoying participation in the same sport
+- neighbors enjoying regular meals, celebrations, or conversation together
+- colleagues enjoying one another’s company while doing shared work
+- members of a community enjoying its customs and celebrations
+- friends maintaining companionship through humor, hospitality, and shared memories
+- peers gathering because the shared activity and one another’s presence are pleasurable
+
+## 4. Eros for the Good
+
+[Platonic love](https://en.wikipedia.org/wiki/Platonic_love) is a type of erotic/romantic love, and it concerns rising through levels of closeness to wisdom and true beauty, from carnal attraction to individual bodies to attraction to souls, and eventually, union with the truth. The sublimation of sexual love into Agape or Philia for the Good.
+
+[Pragma](https://en.wikipedia.org/wiki/Colour_wheel_theory_of_love#Pragma) is practical love that governs Eros according to reality, continuity, and contract. It may participate in Eros for the Good but is often a composition of love, Governance, and other virtues.
+
+Sexual activity undertaken as a mutually accepted duty is Eros for the Good when it serves the good of the other, the relationship, procreation, or a shared ethos.
+
+
+### Examples
+
+- being attracted to someone’s character, wisdom, or moral beauty
+- two people helping each other move from physical attraction toward Agape
+- loving someone without seeking sexual possession or gratification
+- prospective spouses considering character, shared values, practical compatibility, and continuity
+- partners establishing a marriage contract to sustain their shared life and ethos
+- mutually accepted procreation undertaken for the good of the child, family, or shared ethos
+- supporting the beloved’s vocation even when it prevents a conventional relationship
+- contemplating physical beauty as an opening toward beauty of soul and universal Beauty
+- transforming erotic longing into shared philosophical, artistic, or spiritual creation
+
+## 5. Eros for Pleasure
+
+[Sexual Love/Eros for Pleasure](https://en.wikipedia.org/wiki/Eros_(concept)) is sensual or passionate love, from which the term erotic is derived. Eros has also been used in philosophy and psychology in a much wider sense, almost as an equivalent to "life energy". The pleasure of giving pleasure to the other.
+
+[Ludus](https://en.wikipedia.org/wiki/Colour_wheel_theory_of_love#Ludus) usually plays a part in Eros for Pleasure.
+
+### Examples
+
+- lovers taking pleasure in giving each other pleasure
+- consensual flirting, teasing, dancing, or role-playing between lovers
+- consensual erotic intimacy expressing tenderness and trust
+- affectionate touch that strengthens the bond between partners
+- delighting in the beloved’s body without treating it as an object
+- partners learning and respecting one another’s desires and boundaries
+- sexual union experienced as mutual giving and receiving
+
+
+
+## 6. Storge
+
+[Storge](https://en.wikipedia.org/wiki/Storge), or familial love, refers to natural, instinctual, or residual affection, such as the love of a parent toward offspring and vice versa.
+It can also be the remaining affection after another type of love has run its course. It colors a relationship with a loving bias that seems unlimited in time or space.
+However, this type of love is passive: it does not increase by itself and uses the other types to replenish its substance. It is passive companionship.
+
+### Examples
+
+- a parent feeling affection simply upon seeing or remembering a child
+- siblings immediately recovering their familiar warmth after a long separation
+- an adopted child and parent continuing to feel like family across time and distance
+- former lovers retaining affection after their erotic relationship has ended
+- former coworkers continuing to experience one another as family after the shared work has ended
+- an exile retaining affection for a homeland without any present transaction with it
+- enduring attachment to one’s extended family, people, species, Life, or all Creation
 
 ## The True Self - The Conceptual or Ontological Seed of Love
 
-The true Self ([Ātman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism))) is the ontological seed and knowing subject of the love concept, not an external object toward which love is directed. 
+The true Self ([Ātman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism))) is the ontological seed and knowing subject of the love concept, not an external object toward which love is directed.
 
 Philautia (φιλαυτία, philautía) is virtuous love directed toward an imagined identity—the ego, body, personality, or personal narrative—treated as another. It therefore does not constitute an additional fundamental type of love.
 
@@ -140,8 +172,8 @@ Philautia is the ground of mediation among the six types of love. It can be full
 
 ## Proposed Neurochemical Correspondences
 
-1. For Agape, Platonic Love, and Love for Teacher/Student, the closest identifying neurochemical is **Serotonin**. 
-1. For Storge, Sexual Love, and Love of Peers: it is **Oxytocin** and (only secondarily) **Vasopressin**. Their genes evolved from the same ancestral gene.
+1. For Agape, Eros for the Good, and Philia for the Good, the closest identifying neurochemical is **Serotonin**.
+1. For Storge, Eros for Pleasure, and Philia for Pleasure: it is **Oxytocin** and (only secondarily) **Vasopressin**. Their genes evolved from the same ancestral gene.
 
 ![Love Active](/images/2loves.png)
 
@@ -152,26 +184,26 @@ Here are the mantras for each as depicted on the Anahata Chakra:
 
 ![Anahata](/images/anahata.png)
 
-- य yaṁ: Love in general
+- य yaṁ: Love in general, Philautia
 
   - serotonin
     - Agape
-      - ट ṭaṁ: the love by Eternities or concepts (or gods)
-      - ठ ṭhaṁ: the love/admiration you feel for Eternities
-    - Teacher/Student
+      - ट ṭaṁ: the love received from Eternities, Ethoses, concepts, or gods
+      - ठ ṭhaṁ: the love/admiration you feel for Eternities and their other admirers
+    - Philia for the Good: Teacher/Student
       - ग gaṁ: the love you receive from your teacher or student
       - घ ghaṁ: the love you gift to your teacher or student
-    - Platonic
-      - च caṁ: love you feel from a platonic lover
-      - छ chaṁ: love you give in a platonic manner
+    - Eros for the Good: Platonic, Pragma
+      - च caṁ: Eros for the Good that you receive from a Platonic or pragmatic lover
+      - छ chaṁ: Eros for the Good that you give in a Platonic or pragmatic manner
     
   - oxytocin
-    - for Peers
+    - Philia for Pleasure: for Peers
       - क kaṁ: the love you receive from your peers
       - ख khaṁ: the love you gift to your peers/group
-    - Sexual
-      - ज jaṁ: romantic love that you feel from somebody
-      - झ jhaṁ: romantic love for somebody
-    - Storge
-      - ङ ṅaṁ: love you feel from your mother/father, extended family, tribe, nation, race, your species, Life, all Creation
-      - ञ ñaṁ: love that you give to the same
+    - Eros for Pleasure: Sexual play
+      - ज jaṁ: erotic love that you receive from somebody
+      - झ jhaṁ: erotic love that you give to somebody
+    - Storge: natural or residual love
+      - ङ ṅaṁ: Storge that you receive from family, or retain as the inertia of another type of love
+      - ञ ñaṁ: Storge that you passively express toward the same
