@@ -143,6 +143,8 @@ Sexual activity undertaken as a mutually accepted duty is Eros for the Good when
 It can also be the remaining affection after another type of love has run its course. It colors a relationship with a loving bias that seems unlimited in time or space.
 However, this type of love is passive: it does not increase by itself and uses the other types to replenish its substance. It is passive companionship.
 
+**Philia for Utility** is not a type of love because the other is valued merely as a means. Through repeated transactions, familiarity, shared history, and continuity, the relationship may leave behind or develop Storge.
+
 ### Examples
 
 - a parent feeling affection simply upon seeing or remembering a child

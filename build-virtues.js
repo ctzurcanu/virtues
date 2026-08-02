@@ -1,8 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-const docsDir = './docs';
-const outputFile = './docs/virtues_whole.md';
+const projectDir = __dirname;
+const docsDir = path.join(projectDir, 'docs');
+const outputFile = path.join(docsDir, 'virtues_whole.md');
+const dryRun = process.argv.includes('--dry-run');
 
 // Configuration: Files to include in compilation (in sidebar order)
 // Set a file to false to exclude it, or true to include it
@@ -11,11 +13,10 @@ const filesToCompile = {
     // Main documentation (root level)
     'index.md': true,
     'virtues.md': true,
-    'miracle.md': true,
+    'ineffable_goodness.md': true,
     'order.md': true,
     'economy.md': true,
     'charity.md': true,
-    'arete.md': true,
     'goodness.md': true,
     'hope.md': true,
     'harmony.md': true,
@@ -35,7 +36,14 @@ const filesToCompile = {
     'undefined.md': false,
     'principles.md': false,
     'hierarchies.md': true,
-    '3concepts.md': true,
+
+    // Trinity documents
+    '1trinity/index.md': true,
+    '1trinity/beauty.md': true,
+    '2trinity/index.md': true,
+    '2trinity/love.md': true,
+    '2trinity/continuity.md': true,
+
     '1concept.md': true,
     'concepts.md': true,
     'allah.md': false,
@@ -47,7 +55,6 @@ const filesToCompile = {
 
     // Composed subdirectory
     'composed/index.md': false,
-    'composed/beauty.md': true,
 
     // Computable subdirectory
     'computable/categories.md': true,
@@ -86,58 +93,32 @@ const filesToCompile = {
 };
 
 function readMarkdownFile(filePath) {
-    try {
-        const content = fs.readFileSync(filePath, 'utf8');
-        // Remove frontmatter (everything between --- lines at the start)
-        let cleaned = content.replace(/^---[\s\S]*?---\n/, '');
-        // Remove ./back links (lines containing only "./back" or variations)
-        cleaned = cleaned.replace(/^\s*\.\/back\s*$/gm, '');
-        // Remove empty lines that might be left after removing back links
-        cleaned = cleaned.replace(/\n\n\n+/g, '\n\n');
-        return cleaned;
-    } catch (error) {
-        console.warn(`Warning: Could not read ${filePath}`);
-        return '';
-    }
+    const content = fs.readFileSync(filePath, 'utf8');
+
+    // Remove YAML frontmatter only when it occurs at the start of the file.
+    let cleaned = content.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, '');
+    // Navigation links are useful on individual pages but not in the compilation.
+    cleaned = cleaned.replace(/^\s*\[back\]\([^)]*\)\s*$/gim, '');
+    cleaned = cleaned.replace(/\n{3,}/g, '\n\n');
+
+    return cleaned.trim();
 }
 
-function getSidebarPosition(filePath) {
-    try {
-        const content = fs.readFileSync(filePath, 'utf8');
-        const match = content.match(/^sidebar_position:\s*(\d+)/m);
-        return match ? parseInt(match[1]) : null;
-    } catch (error) {
-        return null;
+function validateConfiguration() {
+    const missingFiles = Object.entries(filesToCompile)
+        .filter(([, shouldInclude]) => shouldInclude)
+        .map(([relativePath]) => relativePath)
+        .filter((relativePath) => !fs.existsSync(path.join(docsDir, relativePath)));
+
+    if (missingFiles.length > 0) {
+        const list = missingFiles.map((file) => `  - ${file}`).join('\n');
+        throw new Error(`Configured source files are missing:\n${list}`);
     }
-}
-
-function getAllMarkdownFiles(dir, baseDir = dir) {
-    let results = [];
-    const files = fs.readdirSync(dir);
-
-    for (const file of files) {
-        const fullPath = path.join(dir, file);
-        const stat = fs.statSync(fullPath);
-
-        if (stat.isDirectory()) {
-            results = results.concat(getAllMarkdownFiles(fullPath, baseDir));
-        } else if (file.endsWith('.md') && file !== 'virtues_whole.md') {
-            const relativePath = path.relative(baseDir, fullPath);
-            const position = getSidebarPosition(fullPath);
-            results.push({
-                path: relativePath,
-                fullPath: fullPath,
-                position: position,
-                dir: path.relative(baseDir, dir),
-                filename: file
-            });
-        }
-    }
-
-    return results;
 }
 
 function buildVirtues() {
+    validateConfiguration();
+
     let output = '---\nunlisted: true\n---\n\n# On Virtues (Complete)\n\n';
     output += 'This document contains the complete compilation of all virtue documentation in the order they appear in the Docusaurus sidebar.\n\n';
     output += '---\n\n';
@@ -155,23 +136,24 @@ function buildVirtues() {
 
         const filePath = path.join(docsDir, relativePath);
 
-        // Check if file exists
-        if (!fs.existsSync(filePath)) {
-            console.warn(`Warning: File not found: ${relativePath}`);
-            continue;
-        }
-
         const content = readMarkdownFile(filePath);
 
-        if (content.trim()) {
+        if (content) {
             output += content + '\n\n';
             output += '---\n\n';
             compiledCount++;
         }
     }
 
-    fs.writeFileSync(outputFile, output);
-    console.log(`\nBuilt ${outputFile} successfully`);
+    if (dryRun) {
+        console.log('\nDry run successful; no files were written.');
+    } else if (fs.existsSync(outputFile) && fs.readFileSync(outputFile, 'utf8') === output) {
+        console.log(`\n${path.relative(projectDir, outputFile)} is already up to date.`);
+    } else {
+        fs.writeFileSync(outputFile, output);
+        console.log(`\nBuilt ${path.relative(projectDir, outputFile)} successfully.`);
+    }
+
     console.log(`Compiled: ${compiledCount} files`);
     console.log(`Skipped: ${skippedCount} files`);
     console.log(`Total in config: ${Object.keys(filesToCompile).length} files`);

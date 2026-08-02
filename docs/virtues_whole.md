@@ -8,7 +8,6 @@ This document contains the complete compilation of all virtue documentation in t
 
 ---
 
-
 # On Virtues
 
 ## Summary
@@ -48,9 +47,7 @@ This document contains the complete compilation of all virtue documentation in t
 1. [Other Systems. Mapping](systems/index.md)
 1. Making Virtues Computable
 
-
 ---
-
 
 # Virtues
 
@@ -395,15 +392,98 @@ We accept these definitions of virtue:
     1. modesty (让; ràng)
         1. Prudence
 
+---
+
+# Ineffable Goodness, Good Beyond Reason
+
+## Definition
+
+- a reordering of virtues, based on inconvertible proof
+- shaktipat
+- it always comes with a clear explanation of what was proven
+- it has to prove it's own goodness
+- spiritual transmission of a tradition beyond words
+- unexplainable beauty
+- the discovery of an universal theory that changes the foundations of what was known before, without much priors
+
+### Qualitatively
+A virtue has to be considered using the following criteria:
+1. [x] Is as atomic as possible.
+
+| \                                   | Diminish | Addition | Synergy  |
+|-------------------------------------|----------|----------|----------|
+|[Ineffable Goodness](ineffable_goodness.md)                |    [x]   |    [x]   |    [x]   |
+|[Provable Order](order.md)           |    [x]   |    [x]   |    [x]   |
+|[Faith, Reason](reason/index.md)            |    [x]   |    [x]   |    [x]   |
+|[Economy](economy.md)                |    [x]   |    [x]   |    [x]   |
+|[Charity](charity.md)                |    [x]   |    [x]   |    [x]   |
+|[Goodness, Sacrifice](goodness.md)   |    [x]   |    [x]   |    [x]   |
+|[Hope](hope.md)                      |    [x]   |    [x]   |    [x]   |
+|[Harmony, Generosity](harmony.md)    |    [x]   |    [x]   |    [x]   |
+|[Prudence](prudence.md)              |    [x]   |    [x]   |    [x]   |
+|[Forgiveness](forgiveness.md)        |    [x]   |    [x]   |    [x]   |
+|[Justice](justice.md)                |    [x]   |    [x]   |    [x]   |
+|[Governance](governance.md)          |    [x]   |    [x]   |    [x]   |
+|[Temperance](temperance.md)          |    [x]   |    [x]   |    [x]   |
+|[Fairness](fairness.md)              |    [x]   |    [x]   |    [x]   |
+|[Fortitude](fortitude.md)            |    [x]   |    [x]   |    [x]   |
+|[Competition](competition.md)        |    [x]   |    [x]   |    [x]   |
+|[Measurability](measurability.md)    |    [x]   |    [x]   |    [x]   |
+|[Market](market.md)                  |    [x]   |    [x]   |    [x]   |
+|[Abundance](abundance.md)            |    [x]   |    [x]   |    [x]   |
+|[Industriousness](industriousness.md)|    [x]   |    [x]   |    [x]   |
+|[Survival](survival.md)              |    [x]   |    [x]   |    [x]   |
+
+|     \     | Individual | Group | Universe |
+| ----------|------------|-------|----------|
+| Immediate |    [x]     |  [x]  |   [x]    |
+| Long-Term |    [x]     |  [x]  |   [x]    |
+| Past      |    [x]     |  [x]  |   [x]    |
+
+- [x] On the dimension of measure: lack or be in excess in most cases.
+1. [x] Existence of instantiation:
+    1. [x] The miracles of Jesus, Moses
+    1. [x] Most people cannot perform miracles
+1. Indirection, definition:
+    1. [x] To have a name, concept: Ineffable Goodness
+    1. [ ] To have a signifier, flag, symbol
+    1. To be explained by ritualistic act
+    1. To be explained by artistic depiction
+
+### Quantitatively
+
+|           |                     |
+|-----------|---------------------|
+| Dimension | Good beyond reason |
+| Lacking   | No Goodness / Not Provable |
+| Mean      | Ineffable Goodness  |
+| Excess    | Transgression of natural laws or economy             |
+
+## Correspondences
+
+- Christianity: the miracles of Jesus' Resurection and his apostles' Great Commission
+- Islam: the reception of The Quran by Muhammad
+- Judaism: reception of The Decalogue by Moses
+- Hinduism: Shaktipata
+- Science: the discoveries that fundamentaly change the whole understanding. Such as those by Albert Einstein.
 
 ---
 
-
 # Provable Order, Hierarchy of Virtues
+
+also:
+- moral discrimination
+- definition of virtues
+- inclusion/exclusion from a moral set
+- categorization of virtues
+- tests of the ordering by hypothetic experiments
+- abstractions applied to virtues and the moral domain
+- isolation of virtues from the diminishing effects of other virtues
 
 ## Definition
 
 - an ordering of virtues that is provable by reason and/or by provable consensus
+- a decision that is a direct consequence of such ordering
 - is a type of [Arete](goodness.md)
 
 ## Proof of Existence
@@ -423,10 +503,7 @@ Proof by Reductio ad Absurdum:
 
 ## Correspondences
 
-
-
 ---
-
 
 # Economy (of Charity)
 
@@ -449,10 +526,7 @@ Proof by Reductio ad Absurdum:
   - for identities of the receivers
 - ability to forget the identity of the charity receiver
 
-
-
 ---
-
 
 # Charity, Volunteering
 
@@ -537,10 +611,7 @@ Proof by Reductio ad Absurdum:
     - Ren (仁, Benevolence or Humaneness): Often considered the supreme virtue in Confucianism, ren is the quality of compassion, kindness, and empathy towards others. It's about caring for people and is central to Confucian ethics.
     - Xin (信, Integrity or Trustworthiness): Xin emphasizes honesty, reliability, and faithfulness. It's about being true to one's word and maintaining trust in relationships.
 
-
-
 ---
-
 
 # Goodness, Sacrifice, Courage, Civilization
 
@@ -622,9 +693,11 @@ Endagering the supreme virtues of:
 
 in the service of a higher virtue (than the one in contest)
 
+## Sacriface from Ethos, for Ethos
+
+The highest sacrifice is performed while impersonating an Ethos, for the elevation of the Ethos itself or another ethos.
 
 ---
-
 
 # Hope, Idealism, Potential, Invention, Integration
 
@@ -667,12 +740,9 @@ subtypes:
 - Buddhism
     - Mettā: goodwill, friendliness, loving-kindness
 
-
-
 ---
 
-
-# Harmony, Generosity, Humility, Recognition, Greatness, Gratitude, Nobility
+# Harmony, Generosity, Humility, Recognition, Greatness, Modesty, Gratitude, Nobility
 
 Respect, honor (timē τιμή): the respectability an honorable man accrues with accomplishment (cultural, political, martial), per his station in life.
 
@@ -680,13 +750,32 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 
 - humility means recognition of the virtue of others
 - humility means: upon public recognition of one's virtues, accepting the minimum that is merited
-- greatness is virtue, recognized by others
+- greatness is virtue recognized by others
 - "noblesse oblige" means the duty to recognize the virtue of others when your virtues are recognized
 - evocatio: bringing foreign gods for worship
 - false humility is of 3 types:
     - rejection of others' recognition of one's virtues (when the virtues are factual)
     - signaling humility about a virtue without being recognized for that virtue first
     - assigning a different value to the concept of "humility" in the hierarchy of virtues than its earned value
+
+## Greatness and Modesty
+
+Greatness is a virtue that is part of the [highest group](https://virtues.provable.dev/docs/hierarchies#ethos---universality-beyond-species) while Modesty is part of the [middle group](https://virtues.provable.dev/docs/hierarchies#effort-and-intent---community-tribe). They have synergy: Modesty is acted as contrast to emphasize Greatness.
+
+Greatness is acted always in the name or interest of an institution or ethos while Modesty is acted as an individual. Both of them have to be humble: Greatness is not enacted in the name of an undeserving ethos.
+
+Modesty cannot exist if Greatness is not enacted by the same actor: it would serve no function by itself. However: Greatness can exist without Modesty. Both virtues are external actions in relation to others (while Humility is mainly internal).
+
+### Examples of Enactment
+
+- the Christian priest dresses sumptuously while he officiates the service in the church: Greatness. While he dresses modestly outside the church.
+- the Muslim women dress modestly outside their homes. They dress beautifully inside.
+- during Hindu ceremonies they dress children actors as deities. When the ceremony is over: they are treated just like any other kid.
+
+## Gratitude, Humility, Recognition, Harmony - 2 Kinds
+
+All of them have a dual nature: they can be lived as an individual or as an institution.
+In other words: one can recognize the virtues of another (person or institution) while representing his own pperson or while representing an ethos. When they are lived while representing one's own person: these virtues are part of the [middle group](https://virtues.provable.dev/docs/hierarchies#effort-and-intent---community-tribe). While they are lived from inside the ethos: they are part of the [highest group](https://virtues.provable.dev/docs/hierarchies#ethos---universality-beyond-species).
 
 ## Correspondences
 
@@ -711,7 +800,6 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
 - Gratitude has the rare characteristic of building upon itself: you can be grateful for the fact that you are grateful. That makes gratitude a good subject of meditation. Oroboros is a symbol of gratitude.
 
 ---
-
 
 # Prudence, Wisdom
 
@@ -768,9 +856,7 @@ Respect, honor (timē τιμή): the respectability an honorable man accrues wit
     - Zhi (智, Wisdom): Zhi is the ability to judge and act wisely. It involves a deep understanding of people and situations, and the application of knowledge in a practical and ethical manner.
     - modesty (让; ràng)
 
-
 ---
-
 
 # Forgiveness, Repentance
 
@@ -805,7 +891,6 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
   - Rahmah (Mercy and Compassion): Mercy, as exemplified by the Prophet Muhammad, is a central virtue. Muslims are encouraged to show compassion and kindness to all of God's creations.
 
 ---
-
 
 # Justice
 
@@ -848,9 +933,7 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
     - Yi (義, Righteousness or Justice): Yi is the moral disposition to do good, and the ability to recognize what is right and just. It involves putting moral principles into practice.
     - sense of right and wrong (耻; chǐ)
 
-
 ---
-
 
 # Governance
 
@@ -876,7 +959,6 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
   - Governors
 
 ---
-
 
 # Temperance
 
@@ -945,9 +1027,7 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
     - Jié (节; 節, Continence): self-control, especially in the context of desires and impulses
     - frugality (俭; jiǎn)
 
-
 ---
-
 
 # Fairness
 
@@ -973,10 +1053,7 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
 - Fairness is to Justice what Admiration is to Love:
   - Admiration is concerned with only one quality/facet, Love is about all
 
-
-
 ---
-
 
 # Fortitude
 
@@ -1033,9 +1110,7 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
     - bravery (勇; yǒng)
     - frugality (俭; jiǎn)
 
-
 ---
-
 
 # Competition
 
@@ -1046,7 +1121,6 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
 - availability for challenges
 
 ---
-
 
 # Measurability, Competition, Selection, Reflex
 
@@ -1100,9 +1174,7 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
     - Survival: selection implies the survival of the fittest 
     - Justice: natural selection is Natural Justice
 
-
 ---
-
 
 # Market
 
@@ -1113,7 +1185,6 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
 - leveled playing field
 
 ---
-
 
 # Abundance, Wealth, Energy, Vital Energy, Productivity
 
@@ -1158,13 +1229,94 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
     - Measurability, Competition: is the effect of Abundance and the limitation of resources
     - Temperance: if we have an Abundance of resources or vital energy, Temperance will guide them towards Charity and Prudence
 
-
 ---
-
 
 # Industriousness
 
 ## Definition
+
+Industriousness is the virtue of sustained, skillful effort by which living necessity is transformed into stable provision.
+
+## Causal Chain
+
+[Survival](survival.md) → Industriousness → [Abundance](abundance.md)
+
+## Subtypes
+
+### By The Domain That Benefits
+
+#### 1. Cultivation
+
+The deliberate tending of living systems so that they produce more reliably.
+
+Cultivation is Industriousness applied to plants, fungi, soil, water, and seasonal cycles.
+
+Examples:
+
+- agriculture
+- gardening
+- forestry
+- orchards
+- seed selection
+- irrigation
+- soil care
+- composting
+- crop rotation
+- protection of pollinators
+
+#### 2. Husbandry
+
+The deliberate care, breeding, feeding, protection, and improvement of animals or other living stocks.
+Husbandry is a mutual survival arrangement when virtuous. It becomes vicious when it becomes cruelty, waste, or extractive exhaustion.
+
+Examples:
+
+- animal husbandry
+- beekeeping
+- aquaculture
+- shepherding
+- veterinary maintenance
+- breeding for health, endurance, fertility, or usefulness
+- protection against disease and predation
+
+#### 3. Craft
+
+The transformation of raw material into useful form through skill.
+Craft is Industriousness applied to matter.
+
+Examples:
+
+- carpentry
+- masonry
+- weaving
+- pottery
+- metalwork
+- tool-making
+- food preservation
+- repair work
+- construction
+
+#### 4. Maintenance
+
+The repeated care that prevents decay.
+Maintenance is one of the purest forms of Industriousness because it resists entropy directly. It is lesser than invention, but often more necessary.
+
+Examples:
+
+- cleaning
+- repairing
+- sharpening tools
+- maintaining roads, houses, wells, fences, machines
+- preserving food
+- keeping records
+- preventing disease
+- caring for infrastructure
+
+#### 5. Feedback and Improvement
+
+The virtuous cycle of repeating necessary actions while gradually increasing skill, efficiency, and reliability.
+
+#### 6. Strategy and Longterm
 
 - specialization
 - standardization of production methods
@@ -1172,8 +1324,88 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
 - economy of scale
 - assembly line
 
----
+## Genesis
 
+Industriousness is created when Survival becomes repeatable method.
+
+The first form is cellular: living organisms already perform maintenance. Cells repair membranes, copy information, regulate energy, and preserve internal order. Organisms seek food, shelter, reproduction, and protection.
+
+The second form is animal: nests, burrows, migration, storing food, grooming, guarding young, hunting, and social cooperation.
+
+The third form is human: tool use, fire, language, teaching, imitation, practical memory, planning, and division of labor.
+
+## Dimensions of Measure
+
+Industriousness can be measured by:
+
+- effort applied
+- regularity of effort
+- usefulness of output
+- durability of output
+- renewability of output
+- quality of craft
+- efficiency of method
+- reduction of waste
+- increase of Survival
+- increase of Abundance
+- ability to teach the method to others
+- ability to improve the method over time
+- resistance to entropy
+- restoration after damage
+- number of lives, species, households, institutions, or ethoses sustained
+
+The highest Industriousness is not maximum effort. Maximum effort may be wasteful or self-destructive. The virtue is the mean: enough effort, properly directed, repeatable, sustainable, and fruitful.
+
+## Dependencies
+
+### Major
+
+- [Survival](survival.md): Survival creates the need for Industriousness. Hunger, cold, sickness, fertility, children, and vulnerability call forth repeated work.
+- [Fortitude](fortitude.md): Fortitude gives Industriousness endurance through fatigue, repetition, discomfort, delay, and failure.
+- [Prudence](prudence.md): Prudence directs effort toward the right task, at the right time, by the right method.
+- [Measurability](measurability.md): Measurability allows Industriousness to improve by tracking yield, time, quality, durability, failure, waste, and efficiency.
+- [Hope](hope.md): Hope gives labor a future. People plant, build, train, store, teach, and repair because they expect continuity.
+
+### Minor
+
+- [Temperance](temperance.md): Temperance prevents the fruits of work from being wasted by appetite.
+- [Faith, Reason](reason/): Faith gives confidence in order and continuity; Reason discovers better methods.
+- [Competition](competition.md): Fair Competition can sharpen Industriousness by rewarding better methods, endurance, skill, and reliability.
+
+Then:
+
+## Virtues Dependent on Industriousness
+
+### Major
+
+- [Abundance](abundance.md): Abundance depends directly on Industriousness. Without production, cultivation, maintenance, and storage, there is no stable surplus.
+- [Market](market.md): A true Market requires goods and services that are actually produced. Exchange detached from production tends toward speculation, manipulation, or extraction.
+- [Measurability](measurability.md): Repeated work creates repeated processes. Repetition makes measurement possible.
+- [Competition](competition.md): Competition requires comparable outputs. Industriousness produces and improves those outputs.
+
+### Minor
+
+- [Temperance](temperance.md): Temperance becomes more sustainable when basic needs are met.
+- [Prudence](prudence.md): Prudence requires time, tools, records, reserves, and stability.
+- [Charity](charity.md): Charity requires something to give: food, shelter, skill, medicine, time, tools, or wealth.
+- [Governance](governance.md): Governance depends on provisioning: food, roads, records, buildings, tools, trained workers, and maintained infrastructure.
+- [Faith, Reason](reason/): Religions, philosophies, and schools need material continuity: copied texts, maintained temples, trained teachers, fed students, preserved languages, and repeated rites.
+
+Then:
+
+## Virtues That Tend to Diminish Industriousness
+
+These virtues do not diminish Industriousness by nature, but they may diminish it when excessive, misapplied, or detached from the hierarchy.
+
+- [Survival](survival.md), under emergency: war, famine, plague, displacement, and terror reduce long-term production to short-term reaction.
+- [Abundance](abundance.md), without reason: inherited or accidental surplus can produce idleness, decadence, and contempt for labor.
+- [Market](market.md), without production: speculation, rent-seeking, cronyism, artificial scarcity, and predatory trade can redirect effort away from useful work.
+- [Governance](governance.md), as bureaucracy: arbitrary permission, obstruction, confiscation, or status competition can punish useful labor.
+- [Charity](charity.md), without Prudence: charity can reward dependency, idleness, or destructive behavior when it gives without restoring capacity.
+- [Temperance](temperance.md), misunderstood: if restraint becomes contempt for material improvement, it can become anti-industrial, anti-creative, or sterile.
+- [Prudence](prudence.md), in excess: over-analysis can prevent necessary action.
+
+---
 
 # Survival, Life, Existence, Health, Replicability
 
@@ -1222,9 +1454,7 @@ Then Bailey decides to forgive Alex and gives Alex the money back.
 - Minor
     - Fortitude: one of the facets of Fortitude is the will to Survive
 
-
 ---
-
 
 # Hierarchies
 
@@ -1437,9 +1667,490 @@ The evolution can be [narrated](scenarios/narratives.md).
     - Industriousness
     - Survival
 
+---
+
+# First Trinity: Truth, Beauty, Goodness
+
+- [Goodness](../goodness.md)
+- [Beauty](beauty.md)
+- Truth
+
+## History
+
+### 1. Plato (4th century BCE) – the philosophical roots
+
+In The Republic:
+
+- The Good (highest principle)
+- Truth as participation in the Forms
+- Beauty as an objective, eternal reality
+
+### 2. Aristotle (4th century BCE) – metaphysical refinement
+
+Aristotle spoke of:
+
+- Truth as conformity of intellect to being
+- Good as the final cause of all things, The Unmoved Mover, pure actuality and ultimate cause
+
+### 3. Plotinus & Neoplatonism (3rd century CE)
+
+- The One is the source of Truth, Goodness, and Beauty
+- Beauty is a sign of participation in the divine
+
+All being flows from and returns to the One
+
+### 4. St. Augustine (4th–5th century CE) – Christian identification
+
+- God is Truth (not merely truthful)
+- God is the Supreme Good
+- God is Beauty itself (“Late have I loved you, O Beauty ever ancient, ever new”)
+
+The Platonic ideas become explicitly theological.
+
+### 5. St. Thomas Aquinas (13th century) – systematic formulation
+
+The transcendentals:
+
+- Being (ens)
+- One (unum)
+- True (verum)
+- Good (bonum)
+- Beauty (pulchrum)
 
 ---
 
+# Beauty
+
+Beauty is by excellence a virtue of the present. 
+
+It does not depend on:
+
+- past:
+  - the manner in which it was achieved
+- future:
+  - the end result
+
+Beauty is part of the [First Trinity](index.md) and is not an atomic virtue. The components are all virtues, but mainly:
+
+- Goodness
+  - sudden Understanding
+- Harmony
+  - of proportion: in painting, architecture
+  - of frequency: in music
+- Temperance
+  - control of animal reflexes
+- Fortitude
+  - Fitness, Performance in Sport
+- Abundance
+  - sexual Beauty
+
+## Types
+
+Beauty has 2 main types:
+- of Time concepts: of verb, process, transformation, transaction
+- of Space concepts: of noun, eternity, identity
+
+## Attributes
+
+- it accepts separation from its greater context
+- surprising, marvelous
+
+### Time-like
+- independent of space (does not have a space)
+- independent of past or future (it can be separated from the time context)
+
+### Space-like
+- independent of time (does not have a time) when about eternity or identity
+- it does not depend on its location (it can be separated from the spatial context)
+
+---
+
+# Second Trinity: Continuity, Governance, Empathy
+
+- Continuity (of eternities)
+- [Empathy](love.md)
+- [Governance](../governance.md)
+- Continuity
+
+## Dependencies
+
+- Empathy influences:
+    - Faith, Reason
+    - Charity
+    - Hope
+    - Prudence
+    - Temperance
+    - Justice
+    - Governance
+- Governance influences:
+    - Empathy
+    - Prudence
+    - Temperance
+    - Justice
+    - Fortitude
+- Continuity influences: 
+    - under Time: of life of the individual, of life of the species, of an emotion, of an idea
+        - Fortitude
+        - Measurability
+        - Abundance
+        - Survival
+    - Timeless (Continuity of Eternities, of Causal relations): of institutions, of laws, of Concepts, Gods
+        - Hope
+        - Charity
+        - Faith
+
+## Application of Rule of Law
+
+Rule of Law applied to:
+- Empathy -> (social) Duties
+- Governance -> (social) Rights
+- Continuity -> (social) Contract
+
+## Mentions
+
+### In Classical Greek
+
+"Avoid doing what you would blame others for doing." – Thales of Miletus (c. 624 – c. 546 BCE)
+
+### In Zoroastrism
+
+"That nature alone is good which refrains from doing to another whatsoever is not good for itself." Dadisten-I-dinik, 94,5
+"Whatever is disagreeable to yourself do not do unto others." Shayast-na-Shayast 13:29
+
+### In Hinduism
+
+"One should never do something to others that one would regard as an injury to one's own self. In brief, this is dharma. Anything else is succumbing to desire." — Mahābhārata 13.114.8
+
+### In Judaism
+
+'You shall not take vengeance or bear a grudge against your kinsfolk. Love your neighbor as yourself: I am the LORD.' — Leviticus 19:18
+
+‘What is hateful to thee, do not do until thy fellow man; this is the whole Law. The rest is commentary’ – Hillel the Elder, ca. 30 BCE – 10 CE
+
+- חֶסֶד Ḥeseḏ, [chesed](https://en.wikipedia.org/wiki/Chesed), Love, Compassion
+
+### In Christianity
+
+"Do to others what you want them to do to you. This is the meaning of the law of Moses and the teaching of the prophets." — Matthew 7:12
+
+"And as ye would that men should do to you, do ye also to them likewise" — Luke 6:31
+
+"For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself." — Galatians 5:14
+
+[Matthew 22:36-40](https://www.biblegateway.com/passage/?search=Matthew+22%3A36-40&version=NIV):
+
+36. “Teacher, which is the greatest commandment in the Law?”
+1. Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’
+1. This is the first and greatest commandment.
+1. And the second is like it: ‘Love your neighbor as yourself.’
+1. All the Law and the Prophets hang on these two commandments.”
+
+[1 Corinthians 13](https://www.biblegateway.com/passage/?search=1+Corinthians+13&version=NIV):
+
+1. "If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. 
+1. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. 
+1. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing.
+
+1. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. 
+1. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. 
+1. Love does not delight in evil but rejoices with the truth. 
+1. It always protects, always trusts, always hopes, always perseveres.
+
+1. Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be stilled; where there is knowledge, it will pass away. 
+1. For we know in part and we prophesy in part, 
+1. but when completeness comes, what is in part disappears. 
+1. When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me. 
+1. For now we see only a reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known.
+
+1. And now these three remain: faith, hope and love. But the greatest of these is love."
+
+- ἀγάπη agapē is translated as Love. It is possible to translate it more precisely as Empathy
+
+### In Islam
+
+"None of you [truly] believes until he wishes for his brother what he wishes for himself." — An-Nawawi's Forty Hadith 13
+
+### In Buddhism
+
+"Hurt not others in ways that you yourself would find hurtful" — Udanavarga 5:18
+- [Muditā](https://en.wikipedia.org/wiki/Mudita): Empathy
+- [Karuṇā](https://en.wikipedia.org/wiki/Karu%E1%B9%87%C4%81) for negative Golden Rule
+- [Mettā/Maitrī](https://en.wikipedia.org/wiki/Maitr%C4%AB) for positive Golden Rule
+
+### In Confucianism
+
+'Zi Gong [a disciple of Confucius] asked: "Is there any one word that could guide a person throughout life?"
+The Master replied: 
+"How about 'shu' [reciprocity]: never impose on others what you would not choose for yourself?"' —Confucius, Analects XV.24
+
+### In Taoism
+
+"Regard your neighbor's gain as your own gain, and your neighbor's loss as your own loss." — T'ai Shang Kan Ying P'ien
+
+### In Kant's Categorical Imperative
+
+"Act only according to that maxim whereby you can at the same time will that it should become a universal law" — Immanuel Kant, Groundwork of the Metaphysics of Morals
+
+### In Principle
+
+Relations:
+- doing to others: Governance
+- useful or pleasurable or virtuous to me -> therefore to others: Empathy
+- Empathy can be: 
+  - towards your future self
+  - towards Eternities (such as God)
+  - towards others
+
+## Dependencies of Virtues
+
+![Virtue - 3 Concepts Graph](/images/3virtues2.png)
+
+## Relations between Concepts
+
+![3 Concepts Dependency Graph](/images/3concepts.png)
+
+## Relations between The 3 Concepts and Blockchain
+
+1. Block Production
+    1. Continuity
+1. On-chain Governance and Voting: like Cosmos SDK governance 
+    1. Governance
+1. Block Validation, Data Availability: checking the validity of each block, sharing the data
+    1. Empathy
+1. Meta-Governance: Governance about the rules of Governance (available only on Mythos)
+    1. Continuity of Eternities
+
+---
+
+# Love, Empathy
+
+## Definition
+
+Many virtues may have their root in Empathy: see [Second Trinity](index.md):
+
+1. Faith, Reason
+1. Charity
+1. Hope
+1. Prudence
+1. Temperance
+1. Justice
+
+Its strongest influence is on Governance (as a composed virtue - one of the 3 concepts).
+
+Love is Empathy and is a composed virtue. Many believe that it cannot be defined. They are right from the point of view of being in the experience, but there are meditation practices used to define it from outside, even while in the experience. We will attempt to analyze it without forcing an exact definition. We could conclude that there are 6 types of love, and we will identify them on the Anahata chakra yantra:
+
+![6 Loves](/images/6loves.png)
+
+1. Agape
+1. Philia
+   1. Philia for the Good
+   1. Philia for Pleasure
+1. Eros
+   1. Eros for the Good
+   1. Eros for Pleasure
+1. Storge
+
+## 1. Agape
+
+[Agape](https://en.wikipedia.org/wiki/Agape) is "the love of God for man and of man for God". It is also the love you feel for universal values, the order of the Universe, and the unique hierarchy of all that exists. It is the love for Virtue.
+
+It is the love for an [Ethos](https://ctzurcanu.github.io/ethos/phylogeny/) (experienced together with its members) and the love received from an Ethos.
+
+### Karma and Dharma
+
+When an Ethos acquires Karma, it is by design good karma and is transformed into Dharma. Dharma does not obey the same laws as karma.
+
+- dharma is active rather than reactive
+- it is the medium of transactions for the Positive Golden Rule: an Ethos treats others (people and Ethoses) as it would like to be treated
+
+To illustrate the difference: the first action that created the universe could not have been in the realm of karma, because karma is reactive. It was a dharma and is proof that dharma obeys different laws than karma: it does not need priors.
+
+We live in a universe created out of an original Agape.
+
+### Examples
+
+- loving God through prayer, worship, or surrender
+- loving Truth or Justice even when defending it has a personal cost
+- reverence for the intelligible order of the Universe
+- an Ethos offering hospitality or aid before receiving any prior benefit
+- an institution treating another person or Ethos as it would itself wish to be treated
+- a congregation experiencing and sustaining its religious ethos together
+- collective devotion through dhikr/zikir/davening, communal prayer, chanting, or sacred ritual
+- awakening Kundalini together (for example during Dynamic Meditation)
+- receiving guidance, meaning, and belonging from a living ethos
+
+## 2. Philia for the Good
+
+[Love between a Teacher and Student](https://en.wikipedia.org/wiki/Philia) is friendship for the good. It is a friendship where both friends enjoy each other's company. As long as both friends keep similar characters and moral hierarchy, the relationship will endure since the motive behind it is the transfer of ethical knowledge and building common sense. This is the highest level of philia and might be called true friendship. The pleasure of evolving civilization (or an ethos) together.
+
+It also includes virtuous friendship between equals, because the roles of teacher and student may alternate. From the point of view of love, equality exists only through transactions between the parties. Without transactions, no relational equality can be established. When the transactions are unbalanced, the parties are unequal in the particular dimensions exchanged, even if the imbalance may later be corrected through further transactions.
+
+### Examples
+
+- a teacher rejoicing when a student exceeds the teacher’s accomplishments
+- a student honoring a teacher by understanding, applying, and improving the teaching
+- a mentor correcting a disciple for the disciple’s genuine development
+- a spiritual teacher transmitting a practice while the student preserves and develops the lineage
+- two virtuous equals examining and correcting one another’s ethos
+- friends alternating as teacher and student while balancing what each contributes and receives
+- friends collaborating on philosophy, science, art, or institutions for the public good
+- members of a school or lineage developing civilization together
+
+## 3. Philia for Pleasure
+
+[Love for Peers/Philia for Pleasure](https://en.wikipedia.org/wiki/Philia) is usually translated as "friendship" or active companionship.
+
+### Examples
+
+- friends enjoying conversation, food, music, travel, or play together
+- teammates enjoying participation in the same sport
+- neighbors enjoying regular meals, celebrations, or conversation together
+- colleagues enjoying one another’s company while doing shared work
+- members of a community enjoying its customs and celebrations
+- friends maintaining companionship through humor, hospitality, and shared memories
+- peers gathering because the shared activity and one another’s presence are pleasurable
+
+## 4. Eros for the Good
+
+[Platonic love](https://en.wikipedia.org/wiki/Platonic_love) is a type of erotic/romantic love, and it concerns rising through levels of closeness to wisdom and true beauty, from carnal attraction to individual bodies to attraction to souls, and eventually, union with the truth. The sublimation of sexual love into Agape or Philia for the Good.
+
+[Pragma](https://en.wikipedia.org/wiki/Colour_wheel_theory_of_love#Pragma) is practical love that governs Eros according to reality, continuity, and contract. It may participate in Eros for the Good but is often a composition of love, Governance, and other virtues.
+
+Sexual activity undertaken as a mutually accepted duty is Eros for the Good when it serves the good of the other, the relationship, procreation, or a shared ethos.
+
+### Examples
+
+- being attracted to someone’s character, wisdom, or moral beauty
+- two people helping each other move from physical attraction toward Agape
+- loving someone without seeking sexual possession or gratification
+- prospective spouses considering character, shared values, practical compatibility, and continuity
+- partners establishing a marriage contract to sustain their shared life and ethos
+- mutually accepted procreation undertaken for the good of the child, family, or shared ethos
+- supporting the beloved’s vocation even when it prevents a conventional relationship
+- contemplating physical beauty as an opening toward beauty of soul and universal Beauty
+- transforming erotic longing into shared philosophical, artistic, or spiritual creation
+
+## 5. Eros for Pleasure
+
+[Sexual Love/Eros for Pleasure](https://en.wikipedia.org/wiki/Eros_(concept)) is sensual or passionate love, from which the term erotic is derived. Eros has also been used in philosophy and psychology in a much wider sense, almost as an equivalent to "life energy". The pleasure of giving pleasure to the other.
+
+[Ludus](https://en.wikipedia.org/wiki/Colour_wheel_theory_of_love#Ludus) usually plays a part in Eros for Pleasure.
+
+### Examples
+
+- lovers taking pleasure in giving each other pleasure
+- consensual flirting, teasing, dancing, or role-playing between lovers
+- consensual erotic intimacy expressing tenderness and trust
+- affectionate touch that strengthens the bond between partners
+- delighting in the beloved’s body without treating it as an object
+- partners learning and respecting one another’s desires and boundaries
+- sexual union experienced as mutual giving and receiving
+
+## 6. Storge
+
+[Storge](https://en.wikipedia.org/wiki/Storge), or familial love, refers to natural, instinctual, or residual affection, such as the love of a parent toward offspring and vice versa.
+It can also be the remaining affection after another type of love has run its course. It colors a relationship with a loving bias that seems unlimited in time or space.
+However, this type of love is passive: it does not increase by itself and uses the other types to replenish its substance. It is passive companionship.
+
+**Philia for Utility** is not a type of love because the other is valued merely as a means. Through repeated transactions, familiarity, shared history, and continuity, the relationship may leave behind or develop Storge.
+
+### Examples
+
+- a parent feeling affection simply upon seeing or remembering a child
+- siblings immediately recovering their familiar warmth after a long separation
+- an adopted child and parent continuing to feel like family across time and distance
+- former lovers retaining affection after their erotic relationship has ended
+- former coworkers continuing to experience one another as family after the shared work has ended
+- an exile retaining affection for a homeland without any present transaction with it
+- enduring attachment to one’s extended family, people, species, Life, or all Creation
+
+## The True Self - The Conceptual or Ontological Seed of Love
+
+The true Self ([Ātman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism))) is the ontological seed and knowing subject of the love concept, not an external object toward which love is directed.
+
+Philautia (φιλαυτία, philautía) is virtuous love directed toward an imagined identity—the ego, body, personality, or personal narrative—treated as another. It therefore does not constitute an additional fundamental type of love.
+
+Philautia is the ground of mediation among the six types of love. It can be fully experienced only after all six have been experienced. Nurtured correctly, it reveals Ātman, the true Self.
+
+### Examples
+
+- in self-inquiry, recognizing that body, thoughts, emotions, and biography are witnessed but are not the witnessing Self
+- remaining as awareness without constructing a mental image of “myself”
+- experiencing the same knowing subject beneath giving and receiving love
+- recognizing that Agape, Storge, Eros, and Philia arise within a common ground
+- loving another without using that person to confirm or embellish one’s ego
+- passing freely among all six loves without identifying exclusively with any relationship or role
+
+## Proposed Neurochemical Correspondences
+
+1. For Agape, Eros for the Good, and Philia for the Good, the closest identifying neurochemical is **Serotonin**.
+1. For Storge, Eros for Pleasure, and Philia for Pleasure: it is **Oxytocin** and (only secondarily) **Vasopressin**. Their genes evolved from the same ancestral gene.
+
+![Love Active](/images/2loves.png)
+
+## 12 Loves
+
+In the practice of Raja and Kundalini Yoga, the discrimination of Empathy is deeper: Each of the 6 types is further isolated into the receiving and the emitting modes.
+Here are the mantras for each as depicted on the Anahata Chakra:
+
+![Anahata](/images/anahata.png)
+
+- य yaṁ: Love in general, Philautia
+
+  - serotonin
+    - Agape
+      - ट ṭaṁ: the love received from Eternities, Ethoses, concepts, or gods
+      - ठ ṭhaṁ: the love/admiration you feel for Eternities and their other admirers
+    - Philia for the Good: Teacher/Student
+      - ग gaṁ: the love you receive from your teacher or student
+      - घ ghaṁ: the love you gift to your teacher or student
+    - Eros for the Good: Platonic, Pragma
+      - च caṁ: Eros for the Good that you receive from a Platonic or pragmatic lover
+      - छ chaṁ: Eros for the Good that you give in a Platonic or pragmatic manner
+    
+  - oxytocin
+    - Philia for Pleasure: for Peers
+      - क kaṁ: the love you receive from your peers
+      - ख khaṁ: the love you gift to your peers/group
+    - Eros for Pleasure: Sexual play
+      - ज jaṁ: erotic love that you receive from somebody
+      - झ jhaṁ: erotic love that you give to somebody
+    - Storge: natural or residual love
+      - ङ ṅaṁ: Storge that you receive from family, or retain as the inertia of another type of love
+      - ञ ñaṁ: Storge that you passively express toward the same
+
+---
+
+# Continuity
+
+Continuity is part of the [Second Trinity](index.md). It has two natures:
+
+## Continuity of Identity
+
+This is a continuity of perception of being apart. It applies to (in this order):
+
+- personal ego
+- family
+- extended family
+- tribe
+- nation
+- allies
+- race
+- human species
+- life
+
+## Continuity of Identities
+
+This may be called the continuity of lack of identity or the thriving of multiple identities, together.
+
+- personal dissolution of ego (the experience of nirbija samādhi)
+- eternities: concepts, virtues, ethos
+
+## Mechanisms
+
+For continuity of identity:
+
+---
 
 # Reduction of Virtues to 1 Concept
 
@@ -1493,78 +2204,113 @@ Ability to contain the natural tendency towards dispersal of energy together wit
 
 ---
 
-
 # Concepts
 
-- Altruism: [Empathy](2trinity/love.md)
-- Beauty: virtues and [beauty](1trinity/beauty.md)
-- Consistency:
-  1. Justice (across roles)
-  1. Prudence (across time while across roles)
-- Common Sense: increases the fitting of the community in the environment, it is part of [Fortitude](fortitude.md)
-- Creativity: sharing [Wonder](hope.md)
-- Curiosity: 
-  - Wonder
-  - lack of Prudence
-- Duty: will and actions derived from Charity and Prudence that enable the existence of cardinal and supreme virtues. Pure Duty is not a necessity.
-- Good: [Goodness](goodness.md)
-- Fidelity: Loyalty to your agreements, Trustworthiness
-- Flexibility: 
-  1. Governance
-  1. Temperance
-  1. Fairness
-  1. Fortitude
-  1. Competition
-- Freedom: the outcome of a virtuecracy. A virtuecracy is built on the efforts of Duty.
-- Hospitality: Xenia ξενία, Charity
-- Intelligence:
-  1. Nous, Faith/Reason (energy of intellect)
+### Altruism
+- [Empathy](2trinity/love.md)
+
+### Beauty
+- virtues and [beauty](1trinity/beauty.md)
+
+### Consistency
+  1. [Justice](justice.md) (across roles)
+  1. [Prudence](prudence.md) (across time while across roles)
+
+### Common Sense
+- increases the fitting of the community in the environment, it is part of [Fortitude](fortitude.md)
+
+### Creativity
+- sharing [Wonder](hope.md)
+
+### Curiosity
+  - [Wonder](hope.md)
+  - diminishes [Prudence](prudence.md)
+
+### Duty
+- will and actions derived from [Charity](charity.md) and [Prudence](prudence.md) that enable the existence of cardinal and supreme virtues. Pure Duty is not a necessity.
+
+### Good
+- [Goodness](goodness.md)
+
+### Fidelity
+- Loyalty to your agreements, Trustworthiness
+
+### Flexibility: 
+  1. [Governance](governance.md)
+  1. [Temperance](temperance.md)
+  1. [Fairness](fairness.md)
+  1. [Fortitude](fortitude.md)
+  1. [Competition](competition.md)
+
+### Freedom
+- the outcome of a virtuecracy. A virtuecracy is built on the efforts of Duty.
+
+### Hospitality
+- Xenia ξενία, [Charity](charity.md)
+
+### Intelligence:
+  1. Nous, [Faith, Reason](reason/) (energy of intellect)
   1. Logic Fallacy
-  1. Governance
-  1. Lack of Governance (vicious propaganda, misused cleverness)
+  1. [Governance](governance.md)
+  1. diminishes [Governance](governance.md) (vicious propaganda, misused cleverness)
 
-- Legitimacy: right to execute governance derived from Faith (clarity of implication, representation), Prudence (optimization), and Justice
-- Optimism:
-  - Hope
-  - Lack of Fortitude
-  - Lack of Reason
-- Pesimism:
-  - Realism, Prudence
-  - Lack of Hope
-  - Lack of Reason
-  - Lack of Fortitude
-- Purity:
-  - of Action: good reflexes: Survival, Fortitude
-  - of Intent: Sincerity, Honesty: Temperance, Harmony
-  - of Thought: Provable Order
-- Respect for social norms and rituals: Li (禮, Proper Ritual or Etiquette): This virtue refers to a set of rituals, customs, and standards of politeness that govern proper behavior and maintain social order. It’s about showing respect through appropriate conduct. Common sense: Fitness/Fortitude
+### Legitimacy
+- right to execute [Governance](governance.md) derived from [Faith, Reason](reason/) (clarity of implication, representation), [Prudence](prudence.md) (optimization), and [Justice](justice.md)
 
-- Righteousness:
-  1. Fairness: when you are party in the situation
-  1. Justice: when you judge a situation
-  1. Wisdom: when you discover the eternal mechanisms of a situation
-- Rigurosity:
-  - Fortitude: Rigurosity with application to the body
-  - Justice: ~ the emotions
-  - Faith, Reason: ~ the mental concepts
-- Sincerity: 
-  1. Lack of Temperance
-  1. Temperance
-  1. Fortitude
+### Optimism
+  - [Hope](hope.md)
+  - Lack of [Fortitude](fortitude.md)
+  - Lack of [Faith, Reason](reason/)
 
-- Sympathetic Joy ([Mudita](https://en.wikipedia.org/wiki/Mudita)): [Empathy](2trinity/love.md)
+### Pesimism
+  - Realism, [Prudence](prudence.md)
+  - Lack of [Hope](hope.md)
+  - Lack of [Faith, Reason](reason/)
+  - Lack of [Fortitude](fortitude.md)
 
-- Tolerance:
-  - Temperance and Prudence and the recognition of the fact that maximal optimization for eternity has not been achieved and anything that does not gravely impede virtues may be helpful to discover upgrades.
-  - lack of Justice
+### Privacy
+  - it helps in isolating virtues (when a virtue tends to diminish other virtues: eg, [Governance](governance.md) impeding [Measurability](measurability.md)).
+  - it helps with ethical abstractions for establishing [Order](order.md)
+  - if eternal: impedes/diminishes [Recognition](harmony.md), therefore privacy cannot be a virtue.
 
-- Wonder: θαυμάζω (thaumazó: to marvel, wonder) part of Faith, Reason. It is the vitality of mentaly exploring and linking concepts.
+### Purity
+  - of Action: good reflexes: [Survival](survival.md), [Fortitude](fortitude.md)
+  - of Intent: Sincerity, Honesty: [Temperance](temperance.md), Harmony, [Recognition](harmony.md)
+  - of Thought: Provable [Order](order.md)
 
+### Respect for social norms and rituals
+- Li (禮, Proper Ritual or Etiquette): This virtue refers to a set of rituals, customs, and standards of politeness that govern proper behavior and maintain social order. It’s about showing respect through appropriate conduct. Politeness.
+- Common sense: Fitness/[Fortitude](fortitude.md)
+- [Recognition](harmony.md), Harmony
 
+### Righteousness
+  1. [Fairness](fairness.md): when you are a party in the situation
+  1. [Justice](justice.md): when you judge a situation
+  1. [Prudence](prudence.md): when you discover the eternal mechanisms of a situation
+
+### Rigor
+  - [Fortitude](fortitude.md): Rigor with application to the body
+  - [Justice](justice.md): ~ the emotions
+  - [Faith, Reason](reason/): ~ the mental concepts
+
+### Sincerity
+  1. Lack of [Temperance](temperance.md)
+  1. [Temperance](temperance.md)
+  1. [Fortitude](fortitude.md)
+
+### Sympathetic Joy ([Mudita](https://en.wikipedia.org/wiki/Mudita))
+- [Empathy](2trinity/love.md)
+
+### Tolerance
+  - [Temperance](temperance.md)
+  - [Prudence](prudence.md), and the recognition of the fact that maximal optimization for eternity has not been achieved, and anything that does not gravely impede virtues may be helpful to discover upgrades.
+  - lack of [Justice](justice.md)
+
+### Wonder
+- θαυμάζω (thaumazó: to marvel, wonder) part of [Faith, Reason](reason/). It is the vitality of mentally exploring and linking concepts.
+- [Hope](hope.md)
 
 ---
-
-[back](../)
 
 # The Verbal Categories
 
@@ -1992,11 +2738,7 @@ Verbs functioning as adjectives or in progressive aspects.
     is written: "The book is written."
     was seen: "She was seen there."
 
-[back](../)
-
 ---
-
-[back](../)
 
 # Governance of Virtue
 
@@ -2004,11 +2746,7 @@ The training of such encoder for grading virtue has to be transparent and guided
 
 We propose a continuous voting mechanism that guarantees a unique human identity for all voters.
 
-[back](../)
-
 ---
-
-[back](../)
 
 # Making Virtues Computable
 
@@ -2025,11 +2763,7 @@ A proposed implementation of this theory of virtues.
 1. The Virtue Encoder
 1. [Governance of Virtue](governance.md)
 
-[back](../)
-
 ---
-
-[back](../)
 
 # The coverage of other Virtue Theories
 
@@ -2241,11 +2975,7 @@ Canon: Substantive freedoms/capabilities set.
 
 This document is available on [Github](https://github.com/ctzurcanu/virtues) for continuous challenge.
 
-[back](../)
-
 ---
-
-[back](../)
 
 # Representation of Virtues in Space
 
@@ -2271,11 +3001,7 @@ A proposed representation in space is in correspondence with the most used embed
 
 - by the reduction of virtues to 1 concept
 
-[back](../)
-
 ---
-
-[back](../)
 
 # The Verbs as Domain of Virtue Computation
 
@@ -2331,11 +3057,7 @@ The link between Virtue and Action is almost self-explanatory.
 7.2 They are where virtues are **rooted, analysed, and extracted**.  
 7.3 Therefore, the study of virtue must always begin with verbs — the primal seeds of moral reality.
 
-[back](../)
-
 ---
-
-[back](../)
 
 # Charities
 
@@ -2358,11 +3080,7 @@ A charity is a public institution that has as its main reason for its existence 
 
 ## Classes of Charities
 
-[back](../)
-
 ---
-
-[back](./)
 
 # Relationship
 
@@ -2499,8 +3217,6 @@ If Virtues are encoded in the social contracts explicitly and the encoding is up
 
 ---
 
-[back](./)
-
 # Logos
 
 ## Definition
@@ -2533,11 +3249,7 @@ A claim about the ethos. The claimant will have to pay an ethical fine if the cl
 
 The sum of transactions that are ethical. A person is a player in the Ethical Economy if has incoming and outgoing Ethical Transactions.
 
-
-
 ---
-
-[back](../)
 
 # Faith, Clarity of Implication, Reason
 
@@ -2715,11 +3427,7 @@ Everything that can be thought at all can be thought clearly. Everything that ca
 
 The provable definition of each virtue is an integral part of the virtue itself. In other words: the virtue of Faith/Reason is present in the definition of all other virtues.
 
-[back](../)
-
 ---
-
-[back](./)
 
 # Domains of Knowledge
 
@@ -2988,8 +3696,6 @@ The provable definition of each virtue is an integral part of the virtue itself.
 
 ---
 
-[back](../)
-
 # Maslow
 
 ## Sources
@@ -3096,11 +3802,7 @@ Each one shows in one way or another a special kind of creativeness or originali
 #### 15. The Transcendence of Culture; Resistance to Enculturation
 “Self-actualizing people are not well adjusted (in the naive sense of approval of and identification with the culture). They get along with the culture in various ways, but of all of them it may be said that in a certain profound and meaningful sense they resist enculturation and maintain inner detachment from the culture in which they are immersed.
 
-[back](../)
-
 ---
-
-[back](../)
 
 # Internal Resilience Factors
 
@@ -3212,11 +3914,7 @@ Each one shows in one way or another a special kind of creativeness or originali
 #### Physical attractiveness
 - [Abundance](abundance.md)
 
-[back](../)
-
 ---
-
-[back](../)
 
 # "Internal" Developmental Assets
 
@@ -3294,12 +3992,7 @@ Asset character strength(s):
 #### Positive view of personal future
 [Hope](hope.md)
 
-[back](../)
-
-
 ---
-
-[back](../)
 
 # Values in Action Inventory (VIA)
 
@@ -3767,18 +4460,11 @@ There are two types of gratitude:
 1. [Industriousness](industriousness.md)
 1. [Survival](survival.md)
 
-[back](../)
-
-
 ---
-
-[back](../)
 
 # Systems
 
 Other systems and Theories of Virtue.
-
-[back](../)
 
 ---
 
