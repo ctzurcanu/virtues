@@ -2095,29 +2095,29 @@ Here are the mantras for each as depicted on the Anahata Chakra:
 
 ![Anahata](/images/anahata.png)
 
-- य yaṁ: Love in general, Philautia
+- &#2351;&#2306; yaṁ: Love in general, Philautia, Love without object
 
-  - serotonin
+  - Serotonin
     - Agape
-      - ट ṭaṁ: the love received from Eternities, Ethoses, concepts, or gods
-      - ठ ṭhaṁ: the love/admiration you feel for Eternities and their other admirers
+      - &#2329;&#2306; ṅaṁ: the love received from Eternities, Ethoses, concepts, or gods
+      - &#2334;&#2306; ñaṁ: the love/admiration you feel for Eternities and their other admirers
     - Philia for the Good: Teacher/Student
-      - ग gaṁ: the love you receive from your teacher or student
-      - घ ghaṁ: the love you gift to your teacher or student
+      - &#2327;&#2306; gaṁ: the love you receive from your teacher or student
+      - &#2328;&#2306; ghaṁ: the love you gift to your teacher or student
     - Eros for the Good: Platonic, Pragma
-      - च caṁ: Eros for the Good that you receive from a Platonic or pragmatic lover
-      - छ chaṁ: Eros for the Good that you give in a Platonic or pragmatic manner
+      - &#2330;&#2306; caṁ: Eros for the Good that you receive from a Platonic or pragmatic lover
+      - &#2331;&#2306; chaṁ: Eros for the Good that you give in a Platonic or pragmatic manner
     
-  - oxytocin
+  - Oxytocin
     - Philia for Pleasure: for Peers
-      - क kaṁ: the love you receive from your peers
-      - ख khaṁ: the love you gift to your peers/group
-    - Eros for Pleasure: Sexual play
-      - ज jaṁ: erotic love that you receive from somebody
-      - झ jhaṁ: erotic love that you give to somebody
+      - &#2325;&#2306; kaṁ: the love you receive from your peers
+      - &#2326;&#2306; khaṁ: the love you gift to your peers/group
+    - Eros for Pleasure: Sexual play, Ludus
+      - &#2332;&#2306; jaṁ: erotic love that you receive from somebody
+      - &#2333;&#2306; jhaṁ: erotic love that you give to somebody
     - Storge: natural or residual love
-      - ङ ṅaṁ: Storge that you receive from family, or retain as the inertia of another type of love
-      - ञ ñaṁ: Storge that you passively express toward the same
+      - &#2335;&#2306; ṭaṁ: Storge that you receive from family, or retain as the inertia of another type of love
+      - &#2336;&#2306; ṭhaṁ: Storge that you passively express toward the same
 
 ---
 
