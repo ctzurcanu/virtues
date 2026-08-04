@@ -191,23 +191,23 @@ Here are the mantras for each as depicted on the Anahata Chakra:
 
   - Serotonin
     - Agape
-      - &#2329;&#2306; ṅaṁ: the love received from Eternities, Ethoses, concepts, or gods
-      - &#2334;&#2306; ñaṁ: the love/admiration you feel for Eternities and their other admirers
+      - &#2329;&#2306; ṅaṁ: the love received from Eternities, Ethoses, concepts, or gods. Spiritual toxin: misplaced hope.
+      - &#2334;&#2306; ñaṁ: the love/admiration you feel for Eternities and their other admirers. ST: incompetence.
     - Philia for the Good: Teacher/Student
-      - &#2327;&#2306; gaṁ: the love you receive from your teacher or student
-      - &#2328;&#2306; ghaṁ: the love you gift to your teacher or student
+      - &#2327;&#2306; gaṁ: the love you receive from your teacher or student. ST: indecision.
+      - &#2328;&#2306; ghaṁ: the love you gift to your teacher or student. ST: repentance.
     - Eros for the Good: Platonic, Pragma
-      - &#2330;&#2306; caṁ: Eros for the Good that you receive from a Platonic or pragmatic lover
-      - &#2331;&#2306; chaṁ: Eros for the Good that you give in a Platonic or pragmatic manner
+      - &#2330;&#2306; caṁ: Eros for the Good that you receive from a Platonic or pragmatic lover. ST: anxiety.
+      - &#2331;&#2306; chaṁ: Eros for the Good that you give in a Platonic or pragmatic manner. ST: longing.
     
   - Oxytocin
     - Philia for Pleasure: for Peers
-      - &#2325;&#2306; kaṁ: the love you receive from your peers
-      - &#2326;&#2306; khaṁ: the love you gift to your peers/group
+      - &#2332;&#2306; jaṁ: the love you receive from your peers. ST: impartiality.
+      - &#2333;&#2306; jhaṁ: the love you gift to your peers/group. ST: arrogance.
     - Eros for Pleasure: Sexual play, Ludus
-      - &#2332;&#2306; jaṁ: erotic love that you receive from somebody
-      - &#2333;&#2306; jhaṁ: erotic love that you give to somebody
+      - &#2325;&#2306; kaṁ: erotic love that you receive from somebody. ST: lust, desire.
+      - &#2326;&#2306; khaṁ: erotic love that you give to somebody. ST: fraud.
     - Storge: natural or residual love
-      - &#2335;&#2306; ṭaṁ: Storge that you receive from family, or retain as the inertia of another type of love
-      - &#2336;&#2306; ṭhaṁ: Storge that you passively express toward the same
+      - &#2335;&#2306; ṭaṁ: Storge that you receive from family, or retain as the inertia of another type of love. ST: discrimination.
+      - &#2336;&#2306; ṭhaṁ: Storge that you passively express toward the same. ST: defiance.
 
